@@ -1186,7 +1186,7 @@
   },
   "47305": {
     "container": "container__6d6a1",
-    "nameplateImg": "nameplateImg__6d6a1",
+    "img": "img__6d6a1",
     "hover": "hover__6d6a1",
     "selected": "selected__6d6a1",
     "bordered": "bordered__6d6a1",
@@ -4387,10 +4387,10 @@
     "draggableInputContainer": "draggableInputContainer_f7c056",
     "inputWrapper": "inputWrapper_f7c056",
     "clearButton": "clearButton_f7c056",
-    "dragContainer": "dragContainer_f7c056",
     "rulesContainer": "rulesContainer_f7c056",
     "rulesTextAreaInput": "rulesTextAreaInput_f7c056",
     "clearIcon": "clearIcon_f7c056",
+    "dragContainer": "dragContainer_f7c056",
     "dragIcon": "dragIcon_f7c056",
     "exampleRulesTitle": "exampleRulesTitle_f7c056",
     "pill": "pill_f7c056"
@@ -4589,7 +4589,8 @@
     "close": "close_deee3a",
     "content": "content_deee3a",
     "title": "title_deee3a",
-    "captchaContainer": "captchaContainer_deee3a"
+    "captchaContainer": "captchaContainer_deee3a",
+    "gradientBorder": "gradientBorder_deee3a"
   },
   "173183": {
     "buttonsContainer": "buttonsContainer__5989f"
@@ -6653,6 +6654,10 @@
     "content": "content_b0bd32",
     "sidebar": "sidebar_b0bd32",
     "sidebarSeparator": "sidebarSeparator_b0bd32"
+  },
+  "251925": {
+    "applicationIcon": "applicationIcon__819de",
+    "applicationNameWrapper": "applicationNameWrapper__819de"
   },
   "252084": {
     "header": "header__0856d",
@@ -10757,7 +10762,8 @@
     "iconContainer": "iconContainer__4ad81",
     "shelfButtonCloseButton": "shelfButtonCloseButton__4ad81",
     "button": "button__4ad81",
-    "closeButtonIcon": "closeButtonIcon__4ad81"
+    "closeButtonIcon": "closeButtonIcon__4ad81",
+    "singleUserRoot": "singleUserRoot__4ad81"
   },
   "414414": {
     "root": "root_f555ee"
@@ -16070,10 +16076,6 @@
   "629777": {
     "manageSubscription": "manageSubscription__37c99"
   },
-  "630162": {
-    "gameIcon": "gameIcon_ba9bc7",
-    "applicationNameWrapper": "applicationNameWrapper_ba9bc7"
-  },
   "630182": {
     "radioGroup": "radioGroup__963c3",
     "radioGroupItem": "radioGroupItem__963c3"
@@ -18992,7 +18994,12 @@
     "title": "title__08bd2",
     "textArea": "textArea__08bd2",
     "error": "error__08bd2",
-    "button": "button__08bd2"
+    "button": "button__08bd2",
+    "modal": "modal__08bd2",
+    "gradientBorder": "gradientBorder__08bd2",
+    "container": "container__08bd2",
+    "cancelButton": "cancelButton__08bd2",
+    "modalFooter": "modalFooter__08bd2"
   },
   "752863": {
     "header": "header_da32a8",
