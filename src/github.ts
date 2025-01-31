@@ -1,4 +1,4 @@
-import core from "@actions/core";
+import * as core from "@actions/core";
 import { execSync } from "child_process";
 
 /**
@@ -15,6 +15,9 @@ export function pushDataToGitHub() {
         execSync('git config --global user.name "github-actions"');
         execSync('git config --global user.email "github-actions@github.com"');
 
+        execSync("git checkout main");
+        execSync("git pull --rebase origin main");
+
         // Check if there are changes in the 'data' folder
         execSync("git add data");
         const status = execSync("git status --porcelain").toString().trim();
@@ -30,6 +33,10 @@ export function pushDataToGitHub() {
 
         core.info("Changes pushed successfully to main branch.");
     } catch (error) {
-        core.setFailed(`Action failed with error: ${error}`);
+        if (error instanceof Error) {
+            core.setFailed(`Action failed with error: ${error.message}`);
+        } else {
+            core.setFailed("Action failed with an unknown error.");
+        }
     }
 }
