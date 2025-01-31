@@ -15098,6 +15098,11 @@
     "defaultValue": "defaultValue_a562c8",
     "hasMarks": "hasMarks_a562c8"
   },
+  "588245": {
+    "baseCardOutline": "baseCardOutline__1ab14",
+    "coachmarkTitle": "coachmarkTitle__1ab14",
+    "coachmarkDescription": "coachmarkDescription__1ab14"
+  },
   "588898": {
     "maxWidthWrapper": "maxWidthWrapper__7449f",
     "homeContainer": "homeContainer__7449f",
@@ -19624,8 +19629,6 @@
     "svgContainer": "svgContainer__19218",
     "svg": "svg__19218",
     "content": "content__19218",
-    "title": "title__19218",
-    "description": "description__19218",
     "closeButton": "closeButton__19218",
     "closeButtonInner": "closeButtonInner__19218",
     "closeButtonIcon": "closeButtonIcon__19218",
@@ -21491,7 +21494,7 @@
     "container": "container_b4f99f",
     "gifContainer": "gifContainer_b4f99f",
     "gif": "gif_b4f99f",
-    "sectionDivider": "sectionDivider_b4f99f",
+    "ctaButton": "ctaButton_b4f99f",
     "learnMoreLink": "learnMoreLink_b4f99f"
   },
   "842194": {
@@ -22007,6 +22010,13 @@
     "container": "container__790b6",
     "iconContainer": "iconContainer__790b6",
     "textContainer": "textContainer__790b6"
+  },
+  "865446": {
+    "container": "container__4d8b6",
+    "gif": "gif__4d8b6",
+    "contentContainer": "contentContainer__4d8b6",
+    "ctaButton": "ctaButton__4d8b6",
+    "link": "link__4d8b6"
   },
   "865552": {
     "keywordsTextArea": "keywordsTextArea__6a631",
