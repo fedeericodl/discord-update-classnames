@@ -1,7 +1,8 @@
-import path from "path";
 import fs from "fs";
+import path from "path";
 import downloadScripts from "./downloader.js";
 import extractClassNames from "./extractor.js";
+import { pushDataToGitHub } from "./github.js";
 
 const DATA_DIRECTORY = "./data";
 const SCRIPTS_DIRECTORY = path.join(DATA_DIRECTORY, "scripts");
@@ -11,11 +12,13 @@ async function main() {
 
     const isDownloaded = await downloadScripts(SCRIPTS_DIRECTORY);
     if (!isDownloaded) {
-        console.log("Version hash matches, skipping extraction.");
+        console.log("Files already downloaded, skipping download and extraction.");
         return;
     }
+    console.log("\nAll files downloaded successfully!");
 
     const classNames = extractClassNames(SCRIPTS_DIRECTORY);
+    console.log("Extracted class names from all files.");
 
     const oldPath = path.join(DATA_DIRECTORY, "chunkClassNames-old.json");
     const newPath = path.join(DATA_DIRECTORY, "chunkClassNames-new.json");
@@ -34,6 +37,8 @@ async function main() {
     }
 
     fs.rmSync(SCRIPTS_DIRECTORY, { recursive: true, force: true });
+
+    pushDataToGitHub();
 }
 
 main().catch((error) => {

@@ -250,7 +250,7 @@ export default function (directory: string) {
 
     const files = fs.readdirSync(directory);
     if (files.length === 0) {
-        console.error(`No files found in directory: ${directory}`);
+        throw new Error(`No files found in directory: ${directory}`);
     }
 
     files.forEach((file) => {

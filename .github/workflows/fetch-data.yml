@@ -21,3 +21,5 @@ jobs:
 
             - name: Run Fetch
               run: pnpm run start
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

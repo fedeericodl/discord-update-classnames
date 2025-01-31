@@ -37,7 +37,6 @@ export default async function (directory: string) {
             if (fs.existsSync(versionHashPath)) {
                 const existingHash = fs.readFileSync(versionHashPath, "utf8");
                 if (existingHash === versionHash) {
-                    console.log("Files already downloaded, skipping download.");
                     return false;
                 }
             }
@@ -72,11 +71,8 @@ export default async function (directory: string) {
             const res = await (await fetch(`${WEBSITE}/assets/${script}`)).text();
             fs.writeFileSync(path.join(directory, script), res);
         }
-
-        console.log("\nAll files downloaded successfully!");
         return true;
     } catch (error) {
-        console.error("Download failed:", error instanceof Error ? error.message : error);
-        process.exit(1);
+        throw new Error(`Download failed: ${error instanceof Error ? error.message : error}`);
     }
 }
