@@ -6659,10 +6659,6 @@
     "sidebar": "sidebar_b0bd32",
     "sidebarSeparator": "sidebarSeparator_b0bd32"
   },
-  "251925": {
-    "applicationIcon": "applicationIcon__819de",
-    "applicationNameWrapper": "applicationNameWrapper__819de"
-  },
   "252084": {
     "header": "header__0856d",
     "gridNoticeWrapper": "gridNoticeWrapper__0856d",
@@ -18786,6 +18782,10 @@
     "wrapper": "wrapper__77ba1",
     "header": "header__77ba1",
     "content": "content__77ba1"
+  },
+  "742813": {
+    "applicationIcon": "applicationIcon__2c2b3",
+    "applicationNameWrapper": "applicationNameWrapper__2c2b3"
   },
   "743013": {
     "container": "container__0bec3",
