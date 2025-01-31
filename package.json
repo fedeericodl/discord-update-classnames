@@ -1,0 +1,36 @@
+{
+    "name": "discord-update-classnames",
+    "version": "0.0.0",
+    "description": "Automatically update class names for your Discord themes",
+    "main": "dist/index.js",
+    "type": "module",
+    "scripts": {
+        "build": "tsc && ncc build src/index.ts -o dist -m",
+        "prettier:check": "prettier . --check",
+        "eslint:check": "eslint .",
+        "typescript:check": "tsc --noEmit",
+        "prettier:fix": "prettier . --write",
+        "eslint:fix": "eslint . --fix",
+        "lint": "pnpm run prettier:check && pnpm run eslint:check && pnpm run typescript:check",
+        "lint:fix": "pnpm run prettier:fix && pnpm run eslint:fix && pnpm run typescript:check"
+    },
+    "author": "FedeIlLeone",
+    "license": "MIT",
+    "dependencies": {
+        "acorn": "^8.14.0",
+        "acorn-walk": "^8.3.4",
+        "undici": "^7.3.0"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.19.0",
+        "@types/node": "^22.12.0",
+        "@types/yargs": "^17.0.33",
+        "eslint": "^9.19.0",
+        "eslint-config-prettier": "^10.0.1",
+        "globals": "^15.14.0",
+        "prettier": "^3.4.2",
+        "tsx": "^4.19.2",
+        "typescript": "^5.7.3",
+        "typescript-eslint": "^8.22.0"
+    }
+}
