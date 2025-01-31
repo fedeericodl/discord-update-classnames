@@ -15,9 +15,6 @@ export function pushDataToGitHub() {
         execSync('git config --global user.name "github-actions"');
         execSync('git config --global user.email "github-actions@github.com"');
 
-        execSync("git checkout main");
-        execSync("git pull --rebase origin main");
-
         // Check if there are changes in the 'data' folder
         execSync("git add data");
         const status = execSync("git status --porcelain").toString().trim();
