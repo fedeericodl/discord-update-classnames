@@ -7260,6 +7260,18 @@
     "guildStar": "guildStar__387d4",
     "sequencedAnimation": "sequencedAnimation__387d4"
   },
+  "280213": {
+    "gradientBackground": "gradientBackground__11664",
+    "sphere": "sphere__11664",
+    "backgroundDark": "backgroundDark__11664",
+    "backgroundLight": "backgroundLight__11664",
+    "foregroundRing": "foregroundRing__11664",
+    "foregroundBase": "foregroundBase__11664",
+    "pulseBackgroundDark": "pulseBackgroundDark__11664",
+    "pulseBackgroundLight": "pulseBackgroundLight__11664",
+    "pulseForegroundRing": "pulseForegroundRing__11664",
+    "pulseForeground": "pulseForeground__11664"
+  },
   "280322": {
     "image": "image__859a7",
     "modalRoot": "modalRoot__859a7",
@@ -18249,7 +18261,8 @@
     "tile": "tile__5aa3a",
     "participantsRow": "participantsRow__5aa3a",
     "channelName": "channelName__5aa3a",
-    "joinButton": "joinButton__5aa3a"
+    "joinButton": "joinButton__5aa3a",
+    "roundButton": "roundButton__5aa3a"
   },
   "724263": {
     "body": "body__7ce16",
@@ -23310,7 +23323,9 @@
     "continueIcon": "continueIcon__0b34e",
     "continueIconContainer": "continueIconContainer__0b34e",
     "audienceSummary": "audienceSummary__0b34e",
-    "summaryItem": "summaryItem__0b34e"
+    "summaryItem": "summaryItem__0b34e",
+    "container": "container__0b34e",
+    "content": "content__0b34e"
   },
   "923007": {
     "container": "container__96e72",
