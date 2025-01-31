@@ -1,0 +1,23 @@
+name: Fetch Data
+
+on:
+    schedule:
+      - cron: '0 */1 * * *'
+
+permissions:
+    contents: write
+
+jobs:
+    fetch:
+        name: Fetch Data
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+
+            - name: Install
+              uses: ./scripts/install
+
+            - name: Run Fetch
+              run: pnpm run start

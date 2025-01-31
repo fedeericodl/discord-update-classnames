@@ -5,6 +5,7 @@
     "main": "dist/index.js",
     "type": "module",
     "scripts": {
+        "start": "node dist/index.js",
         "build": "tsc && ncc build src/index.ts -o dist -m",
         "prettier:check": "prettier . --check",
         "eslint:check": "eslint .",
