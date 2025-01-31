@@ -37,7 +37,7 @@ export default async function (directory: string) {
             if (fs.existsSync(versionHashPath)) {
                 const existingHash = fs.readFileSync(versionHashPath, "utf8");
                 if (existingHash === versionHash) {
-                    process.stdout.write("\x1b[32mFiles already downloaded, skipping download.\x1b[0m\n");
+                    console.log("Files already downloaded, skipping download.");
                     return false;
                 }
             }
@@ -73,11 +73,10 @@ export default async function (directory: string) {
             fs.writeFileSync(path.join(directory, script), res);
         }
 
-        process.stdout.write("\n\x1b[32mAll files downloaded successfully!\x1b[0m\n");
+        console.log("\nAll files downloaded successfully!");
         return true;
     } catch (error) {
-        process.stdout.write("\n\x1b[31mDownload failed:\x1b[0m\n");
-        console.error(error instanceof Error ? error.message : error);
+        console.error("Download failed:", error instanceof Error ? error.message : error);
         process.exit(1);
     }
 }

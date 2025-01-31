@@ -11,7 +11,7 @@ async function main() {
 
     const isDownloaded = await downloadScripts(SCRIPTS_DIRECTORY);
     if (!isDownloaded) {
-        console.log("Files already downloaded, skipping download and extraction.");
+        console.log("Version hash matches, skipping extraction.");
         return;
     }
 
@@ -32,6 +32,8 @@ async function main() {
             fs.writeFileSync(oldPath, JSON.stringify(classNames, null, 2));
         }
     }
+
+    fs.rmSync(SCRIPTS_DIRECTORY, { recursive: true, force: true });
 }
 
 main().catch((error) => {
