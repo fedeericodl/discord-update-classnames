@@ -14153,7 +14153,7 @@
     "buttonsContainer": "buttonsContainer_b76614"
   },
   "553512": {
-    "guild": "guild__85643",
+    "title": "title__85643",
     "icon": "icon__85643",
     "guildIcon": "guildIcon__85643",
     "button": "button__85643"
@@ -23541,6 +23541,14 @@
     "emptyStateStars": "emptyStateStars__7641b",
     "emptyStateSubtext": "emptyStateSubtext__7641b",
     "container": "container__7641b"
+  },
+  "931120": {
+    "container": "container_e928f4",
+    "frame": "frame_e928f4",
+    "slot": "slot_e928f4",
+    "wrapper": "wrapper_e928f4",
+    "avatar": "avatar_e928f4",
+    "overflowCount": "overflowCount_e928f4"
   },
   "931876": {
     "cardContainer": "cardContainer__3cf14",
