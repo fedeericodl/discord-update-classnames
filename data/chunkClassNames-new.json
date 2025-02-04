@@ -612,6 +612,11 @@
     "icon": "icon__17403",
     "innerButton": "innerButton__17403"
   },
+  "27614": {
+    "root": "root_ead72e",
+    "content": "content_ead72e",
+    "footer": "footer_ead72e"
+  },
   "27731": {
     "panel": "panel_b6e84c",
     "panelGroup": "panelGroup_b6e84c"
@@ -3317,10 +3322,6 @@
     "connectionMetadataUpsellTag": "connectionMetadataUpsellTag_c7f964",
     "connectionMetadataUpsellDescription": "connectionMetadataUpsellDescription_c7f964",
     "infoBox": "infoBox_c7f964"
-  },
-  "125071": {
-    "header": "header__235bb",
-    "video": "video__235bb"
   },
   "125285": {
     "container": "container__4cb8a",
