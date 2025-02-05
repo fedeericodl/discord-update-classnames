@@ -2007,6 +2007,12 @@
     "icon": "icon_a14595",
     "text": "text_a14595"
   },
+  "77598": {
+    "container": "container__89463",
+    "contentContainer": "contentContainer__89463",
+    "powerupContainer": "powerupContainer__89463",
+    "powerupTextContainer": "powerupTextContainer__89463"
+  },
   "77659": {
     "container": "container__0d706",
     "descriptors": "descriptors__0d706",
@@ -19644,6 +19650,17 @@
     "wrapper": "wrapper__834f5",
     "icon": "icon__834f5",
     "info": "info__834f5"
+  },
+  "770964": {
+    "container": "container_cbd7a5",
+    "active": "active_cbd7a5",
+    "contentContainer": "contentContainer_cbd7a5",
+    "headerContainer": "headerContainer_cbd7a5",
+    "description": "description_cbd7a5",
+    "imageContainer": "imageContainer_cbd7a5",
+    "bundle": "bundle_cbd7a5",
+    "labelContainer": "labelContainer_cbd7a5",
+    "inline": "inline_cbd7a5"
   },
   "771039": {
     "sectionDescription": "sectionDescription__8d742",
