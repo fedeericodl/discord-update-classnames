@@ -7376,7 +7376,6 @@
     "icon": "icon_fb7f94",
     "banner": "banner_fb7f94",
     "hover": "hover_fb7f94",
-    "textBanner": "textBanner_fb7f94",
     "visible": "visible_fb7f94",
     "buttonInner": "buttonInner_fb7f94",
     "themeColor": "themeColor_fb7f94",
@@ -16490,10 +16489,6 @@
     "createButton": "createButton_fd23fc",
     "header": "header_fd23fc",
     "formContainer": "formContainer_fd23fc"
-  },
-  "640984": {
-    "getPremiumButton": "getPremiumButton__3de87",
-    "getPremiumButtonIcon": "getPremiumButtonIcon__3de87"
   },
   "641135": {
     "premiumSubscribeButton": "premiumSubscribeButton__29199",
