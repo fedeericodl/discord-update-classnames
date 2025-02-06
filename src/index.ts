@@ -51,6 +51,8 @@ async function main() {
     if (classMap) {
         fs.writeFile(path.join(DATA_DIRECTORY, "classNamesMap.json"), JSON.stringify(classMap, null, 2));
         console.log("Class map updated successfully!");
+    } else {
+        console.log("No changes found in class names.");
     }
 
     pushDataToGitHub();

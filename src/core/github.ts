@@ -29,6 +29,6 @@ export function pushDataToGitHub() {
 
         console.log("Changes pushed successfully to main branch.");
     } catch (error) {
-       throw new Error(`Action failed with error: ${error instanceof Error ? error.message : error}`);
+        throw new Error(`Action failed with error: ${error instanceof Error ? error.message : error}`);
     }
 }
