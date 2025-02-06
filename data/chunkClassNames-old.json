@@ -528,6 +528,12 @@
     "moreAvatars": "moreAvatars__488b1",
     "plusIcon": "plusIcon__488b1"
   },
+  "25815": {
+    "container": "container_d452e4",
+    "trait": "trait_d452e4",
+    "traitEmoji": "traitEmoji_d452e4",
+    "traitLabel": "traitLabel_d452e4"
+  },
   "25836": {
     "buttonsContainer": "buttonsContainer_ffefd9",
     "removeButton": "removeButton_ffefd9",
@@ -2400,6 +2406,7 @@
     "altText": "altText__0f481",
     "mediaMosaicAltTextContainer": "mediaMosaicAltTextContainer__0f481",
     "mediaMosaicAltText": "mediaMosaicAltText__0f481",
+    "reducedSize": "reducedSize__0f481",
     "mediaMosaicAltTextPopout": "mediaMosaicAltTextPopout__0f481",
     "mediaMosaicAltTextPopoutTitle": "mediaMosaicAltTextPopoutTitle__0f481",
     "mediaMosaicAltTextPopoutDescription": "mediaMosaicAltTextPopoutDescription__0f481",
@@ -12329,7 +12336,8 @@
     "paragraphFieldBody": "paragraphFieldBody__523ab",
     "multipleChoiceIcon": "multipleChoiceIcon__523ab",
     "editableRequirementContainer": "editableRequirementContainer__523ab",
-    "multipleChoiceTitle": "multipleChoiceTitle__523ab"
+    "multipleChoiceTitle": "multipleChoiceTitle__523ab",
+    "multipleChoiceItem": "multipleChoiceItem__523ab"
   },
   "485270": {
     "left": "left_caab99",
