@@ -1,4 +1,3 @@
-import * as core from "@actions/core";
 import { execSync } from "child_process";
 
 /**
@@ -20,7 +19,7 @@ export function pushDataToGitHub() {
         const status = execSync("git status --porcelain").toString().trim();
 
         if (!status) {
-            core.info("No changes detected in the 'data' folder. Skipping commit.");
+            console.log("No changes detected in the 'data' folder. Skipping commit.");
             return;
         }
 
@@ -28,12 +27,8 @@ export function pushDataToGitHub() {
         execSync('git commit -m "Automated update of chunk class names"');
         execSync("git push origin main");
 
-        core.info("Changes pushed successfully to main branch.");
+        console.log("Changes pushed successfully to main branch.");
     } catch (error) {
-        if (error instanceof Error) {
-            core.setFailed(`Action failed with error: ${error.message}`);
-        } else {
-            core.setFailed("Action failed with an unknown error.");
-        }
+       throw new Error(`Action failed with error: ${error instanceof Error ? error.message : error}`);
     }
 }
