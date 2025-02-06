@@ -1195,8 +1195,12 @@
   "47305": {
     "container": "container__6d6a1",
     "img": "img__6d6a1",
+    "imgLayer": "imgLayer__6d6a1",
+    "gradientLayer": "gradientLayer__6d6a1",
     "hover": "hover__6d6a1",
     "selected": "selected__6d6a1",
+    "memberslist": "memberslist__6d6a1",
+    "privateChannel": "privateChannel__6d6a1",
     "bordered": "bordered__6d6a1",
     "content": "content__6d6a1"
   },
@@ -10969,6 +10973,7 @@
     "inputs": "inputs_f9e1d5",
     "hexInput": "hexInput_f9e1d5",
     "preview": "preview_f9e1d5",
+    "simArea": "simArea_f9e1d5",
     "toggleButton": "toggleButton_f9e1d5",
     "themePicker": "themePicker_f9e1d5",
     "controls": "controls_f9e1d5",
@@ -10980,7 +10985,10 @@
     "uploadedImg": "uploadedImg_f9e1d5",
     "uploadedArea": "uploadedArea_f9e1d5",
     "uploadedControls": "uploadedControls_f9e1d5",
-    "xicon": "xicon_f9e1d5"
+    "xicon": "xicon_f9e1d5",
+    "previews": "previews_f9e1d5",
+    "label": "label_f9e1d5",
+    "resizer": "resizer_f9e1d5"
   },
   "422235": {
     "wrapper": "wrapper__14403",
@@ -23657,9 +23665,7 @@
   },
   "931120": {
     "container": "container_e928f4",
-    "frame": "frame_e928f4",
-    "slot": "slot_e928f4",
-    "wrapper": "wrapper_e928f4",
+    "circle": "circle_e928f4",
     "avatar": "avatar_e928f4",
     "overflowCount": "overflowCount_e928f4"
   },
