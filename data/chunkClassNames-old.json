@@ -5675,7 +5675,9 @@
     "pillContainer": "pillContainer__9e06a",
     "pillItem": "pillItem__9e06a",
     "pillItemSelected": "pillItemSelected__9e06a",
-    "tabItemSelected": "tabItemSelected__9e06a"
+    "tabItemSelected": "tabItemSelected__9e06a",
+    "icon": "icon__9e06a",
+    "controlText": "controlText__9e06a"
   },
   "215084": {
     "modal": "modal_c9e6eb",
@@ -11664,7 +11666,8 @@
     "playPauseAnimation": "playPauseAnimation_de2fa0",
     "transcriptBodySpinner": "transcriptBodySpinner_de2fa0",
     "pauseText": "pauseText_de2fa0",
-    "copyLinkBtn": "copyLinkBtn_de2fa0"
+    "copyLinkBtn": "copyLinkBtn_de2fa0",
+    "footerBtn": "footerBtn_de2fa0"
   },
   "451938": {
     "questsCard": "questsCard__72a00"
