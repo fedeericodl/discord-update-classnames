@@ -2,6 +2,7 @@ import * as acorn from "acorn";
 import * as walk from "acorn-walk";
 import fs from "fs";
 import path from "path";
+import { CLASS_NAME_REGEX } from "../constants.js";
 
 /**
  * Checks if a node is a chunk property.
@@ -168,8 +169,7 @@ function processExpression(node: acorn.Expression): string {
  */
 function isValidClassName(string: string) {
     // Examples: className_000xxx | class_name_000xxx | class-name_000xxx | class/name_000xxx
-    const regex = /[a-zA-Z0-9-_/ ]*[_][a-zA-Z0-9-_]*/;
-    return regex.test(string);
+    return CLASS_NAME_REGEX.test(string);
 }
 
 /**

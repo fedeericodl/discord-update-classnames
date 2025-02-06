@@ -1,5 +1,5 @@
 import fs from "fs";
-import path from "path";
+import { MAP_PATH_FILE } from "../constants.js";
 
 /**
  * Generate a map of old class names to new class names based on the differences between two JSON files.
@@ -16,8 +16,7 @@ export default function (oldJsonPath: string, newJsonPath: string) {
         // Load existing map or create new
         let classMap: Record<string, string> = {};
         try {
-            const classMapPath = path.join(path.dirname(oldJsonPath), "classNamesMap.json");
-            classMap = JSON.parse(fs.readFileSync(classMapPath, "utf-8"));
+            classMap = JSON.parse(fs.readFileSync(MAP_PATH_FILE, "utf-8"));
             // eslint-disable-next-line @typescript-eslint/no-unused-vars
         } catch (error) {
             // File doesn't exist yet, start with empty map
@@ -42,7 +41,7 @@ export default function (oldJsonPath: string, newJsonPath: string) {
                             const oldClasses = oldValue.split(/\s+/);
                             const newClasses = newValue.split(/\s+/);
 
-                            // If both have the same number of classes, map them individually.
+                            // If both have the same number of classes, map them individually
                             if (oldClasses.length === newClasses.length) {
                                 for (let i = 0; i < oldClasses.length; i++) {
                                     if (!classMap[oldClasses[i]]) {
@@ -51,14 +50,14 @@ export default function (oldJsonPath: string, newJsonPath: string) {
                                     }
                                 }
                             } else {
-                                // If they don't match up, fallback to mapping the whole string.
+                                // If they don't match up, fallback to mapping the whole string
                                 if (!classMap[oldValue]) {
                                     classMap[oldValue] = newValue;
                                     changesFound = true;
                                 }
                             }
                         } else {
-                            // For single class names or if only one side is concatenated, do a direct mapping.
+                            // For single class names or if only one side is concatenated, do a direct mapping
                             if (!classMap[oldValue]) {
                                 classMap[oldValue] = newValue;
                                 changesFound = true;

@@ -1,12 +1,9 @@
 import fs from "fs/promises";
-import path from "path";
+import { DATA_DIRECTORY, MAP_PATH_FILE, NEW_PATH_FILE, OLD_PATH_FILE, SCRIPTS_DIRECTORY } from "./constants.js";
 import downloadScripts from "./core/downloader.js";
 import extractClassNames from "./core/extractor.js";
 import genMaps from "./core/gen-maps.js";
 import { pushDataToGitHub } from "./core/github.js";
-
-const DATA_DIRECTORY = "./data";
-const SCRIPTS_DIRECTORY = path.join(DATA_DIRECTORY, "scripts");
 
 async function main() {
     await fs.mkdir(DATA_DIRECTORY, { recursive: true });
@@ -21,25 +18,22 @@ async function main() {
     const classNames = extractClassNames(SCRIPTS_DIRECTORY);
     console.log("Extracted class names from all files.");
 
-    const oldPath = path.join(DATA_DIRECTORY, "chunkClassNames-old.json");
-    const newPath = path.join(DATA_DIRECTORY, "chunkClassNames-new.json");
-
     try {
         const newExists = await fs
-            .access(newPath)
+            .access(NEW_PATH_FILE)
             .then(() => true)
             .catch(() => false);
 
         if (newExists) {
-            await fs.rename(newPath, oldPath);
-            await fs.writeFile(newPath, JSON.stringify(classNames, null, 2));
+            await fs.rename(NEW_PATH_FILE, OLD_PATH_FILE);
+            await fs.writeFile(NEW_PATH_FILE, JSON.stringify(classNames, null, 2));
         } else {
             const oldExists = await fs
-                .access(oldPath)
+                .access(OLD_PATH_FILE)
                 .then(() => true)
                 .catch(() => false);
 
-            const targetPath = oldExists ? newPath : oldPath;
+            const targetPath = oldExists ? NEW_PATH_FILE : OLD_PATH_FILE;
             await fs.writeFile(targetPath, JSON.stringify(classNames, null, 2));
         }
     } catch (error) {
@@ -47,9 +41,9 @@ async function main() {
         throw error;
     }
 
-    const classMap = genMaps(oldPath, newPath);
+    const classMap = genMaps(OLD_PATH_FILE, NEW_PATH_FILE);
     if (classMap) {
-        fs.writeFile(path.join(DATA_DIRECTORY, "classNamesMap.json"), JSON.stringify(classMap, null, 2));
+        fs.writeFile(MAP_PATH_FILE, JSON.stringify(classMap, null, 2));
         console.log("Class map updated successfully!");
     } else {
         console.log("No changes found in class names.");

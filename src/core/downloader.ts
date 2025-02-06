@@ -1,11 +1,6 @@
 import fs from "fs";
 import path from "path";
-
-const WEBSITE = "https://canary.discord.com";
-const HTML_REGEX = /<script defer src="\/assets\/[a-z0-9.]+\.js"><\/script>/g;
-const HTML_SRC_REGEX = /src="[^"]+"/g;
-const CHUNKS_REGEX = /function\(\w+\){return""\+\(({(?:\w+:"\w+",)*\w+:"\w+"})\)/g;
-const JSON_FIX_REGEX = /([a-z0-9]*):/g;
+import { CHUNKS_REGEX, HTML_REGEX, HTML_SRC_REGEX, JSON_FIX_REGEX, WEBSITE } from "../constants.js";
 
 /**
  * Ensures a directory is clean by removing all files and creating the directory if it doesn't exist.
