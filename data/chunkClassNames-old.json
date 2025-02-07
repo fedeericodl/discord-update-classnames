@@ -1797,7 +1797,6 @@
     "questRewardTileAsset": "questRewardTileAsset__28141",
     "questRewardTileAssetStatic": "questRewardTileAssetStatic__28141",
     "questRewardTileDetailsLearnMore": "questRewardTileDetailsLearnMore__28141",
-    "questRewardTileOrbQuantity": "questRewardTileOrbQuantity__28141",
     "Shine": "Shine__28141",
     "shine": "shine__28141"
   },
@@ -7791,8 +7790,6 @@
   "301219": {
     "page": "page__99a7e",
     "contentWrapper": "contentWrapper__99a7e",
-    "v2screensWrapper": "v2screensWrapper__99a7e",
-    "screensWrapper": "screensWrapper__99a7e",
     "dragRegion": "dragRegion__99a7e",
     "splash": "splash__99a7e",
     "defaultGradient": "defaultGradient__99a7e",
@@ -19727,7 +19724,11 @@
     "closeButtonInner": "closeButtonInner__19218",
     "closeButtonIcon": "closeButtonIcon__19218",
     "tail": "tail__19218",
+    "tailPositionNormal": "tailPositionNormal__19218",
+    "tailPositionInverted": "tailPositionInverted__19218",
     "tailSpine": "tailSpine__19218",
+    "tailTargetPositionNormal": "tailTargetPositionNormal__19218",
+    "tailTargetPositionInverted": "tailTargetPositionInverted__19218",
     "tailTargetOuter": "tailTargetOuter__19218",
     "tailTargetInner": "tailTargetInner__19218"
   },
@@ -21257,7 +21258,8 @@
     "notice": "notice_b962dc",
     "rejectionReasonLabel": "rejectionReasonLabel_b962dc",
     "disclaimerFooter": "disclaimerFooter_b962dc",
-    "rejectText": "rejectText_b962dc"
+    "statusTextContainer": "statusTextContainer_b962dc",
+    "incompleteButtonsContainer": "incompleteButtonsContainer_b962dc"
   },
   "832926": {
     "gameName": "gameName__8c6c2",
@@ -22980,7 +22982,9 @@
     "header": "header__956c6",
     "headerWithoutMargin": "headerWithoutMargin__956c6",
     "description": "description__956c6",
-    "textOverflowBlur": "textOverflowBlur__956c6"
+    "textOverflowBlur": "textOverflowBlur__956c6",
+    "questRewardTileContainer": "questRewardTileContainer__956c6",
+    "questOrbQuantity": "questOrbQuantity__956c6"
   },
   "903066": {
     "header": "header__0907c",
