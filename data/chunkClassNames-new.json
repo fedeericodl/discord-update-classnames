@@ -15575,6 +15575,17 @@
   "601839": {
     "art": "art__9292c"
   },
+  "601978": {
+    "close": "close__8118d",
+    "modal": "modal__8118d",
+    "modalContentContainer": "modalContentContainer__8118d",
+    "sidebar": "sidebar__8118d",
+    "contentContainer": "contentContainer__8118d",
+    "description": "description__8118d",
+    "footer": "footer__8118d",
+    "powerupImage": "powerupImage__8118d",
+    "exampleImage": "exampleImage__8118d"
+  },
   "602216": {
     "iconWrapper": "iconWrapper__9f20a",
     "icon": "icon__9f20a",
