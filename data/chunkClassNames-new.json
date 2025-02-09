@@ -8825,6 +8825,16 @@
     "filterIcon": "filterIcon__9dd6b",
     "filterIconButton": "filterIconButton__9dd6b"
   },
+  "339142": {
+    "row": "row__19fd1",
+    "iconContainer": "iconContainer__19fd1",
+    "icon": "icon__19fd1",
+    "textContainer": "textContainer__19fd1",
+    "button": "button__19fd1",
+    "number": "number__19fd1",
+    "tableRowGroup": "tableRowGroup__19fd1",
+    "content": "content__19fd1"
+  },
   "339445": {
     "root": "root__14990",
     "warningIcon": "warningIcon__14990"
@@ -21127,16 +21137,6 @@
     "name": "name_a77292",
     "timeContainer": "timeContainer_a77292",
     "timeTitle": "timeTitle_a77292"
-  },
-  "829820": {
-    "row": "row__19fd1",
-    "iconContainer": "iconContainer__19fd1",
-    "icon": "icon__19fd1",
-    "textContainer": "textContainer__19fd1",
-    "button": "button__19fd1",
-    "number": "number__19fd1",
-    "tableRowGroup": "tableRowGroup__19fd1",
-    "content": "content__19fd1"
   },
   "830164": {
     "nitroGemAnimation": "nitroGemAnimation__7d30a",
