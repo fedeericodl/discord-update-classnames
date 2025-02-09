@@ -13,7 +13,7 @@
         "url": "git+https://github.com/FedeIlLeone/discord-update-classnames.git"
     },
     "scripts": {
-        "start": "node dist/index.js",
+        "start": "node dist/extractor/index.js",
         "build": "tsc && pnpm run build:action && pnpm run build:extractor",
         "build:action": "ncc build src/action.ts -o dist/action -m",
         "build:extractor": "ncc build src/extractor.ts -o dist/extractor -m",
