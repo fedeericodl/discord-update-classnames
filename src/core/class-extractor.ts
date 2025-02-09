@@ -1,8 +1,9 @@
+import * as core from "@actions/core";
 import * as acorn from "acorn";
 import * as walk from "acorn-walk";
 import fs from "fs";
 import path from "path";
-import { CLASS_NAME_REGEX } from "../constants.js";
+import { CLASS_NAME_REGEX } from "../constants";
 
 /**
  * Checks if a node is a chunk property.
@@ -25,6 +26,7 @@ function isChunkProperty(node: acorn.Property | acorn.AssignmentProperty) {
  * @returns The exports data.
  */
 function processFile(code: string) {
+    core.debug("Parsing code to AST");
     const ast = acorn.parse(code, {
         ecmaVersion: "latest",
         sourceType: "script",
@@ -38,12 +40,12 @@ function processFile(code: string) {
             if (node.key.type !== "Literal") {
                 // This should never happen
                 // If it's a chunk property, the key should always be a literal
-                console.warn("Invalid chunk key:", node.key);
+                core.warning(`Invalid chunk key: ${node.key}`);
                 return;
             }
             if (typeof node.key.value !== "number") {
                 // Chunk IDs are always numbers/strings
-                console.warn("Invalid chunk key value:", node.key);
+                core.warning(`Invalid chunk key value: ${node.key}`);
                 return;
             }
 
@@ -53,7 +55,7 @@ function processFile(code: string) {
             if (func.type !== "FunctionExpression") {
                 // This should never happen as well
                 // If it's a chunk property, the value should always be a function expression
-                console.warn("Invalid chunk value:", func);
+                core.warning(`Invalid chunk value: ${func}`);
                 return;
             }
             const body = func.body.body;
@@ -133,7 +135,7 @@ function processExpression(node: acorn.Expression): string {
         if (node.left.type === "PrivateIdentifier") {
             // node.left shouldn't be a PrivateIdentifier
             // but let's report it just in case it is
-            console.warn(`Invalid class name: ${node.left.name}`);
+            core.warning(`Invalid class name: ${node.left.name}`);
         }
 
         const left = node.left.type !== "PrivateIdentifier" ? processExpression(node.left) : "";
@@ -168,7 +170,6 @@ function processExpression(node: acorn.Expression): string {
  * @returns Whether the string is a valid class name.
  */
 function isValidClassName(string: string) {
-    // Examples: className_000xxx | class_name_000xxx | class-name_000xxx | class/name_000xxx
     return CLASS_NAME_REGEX.test(string);
 }
 
@@ -210,6 +211,7 @@ function extractExports(node: acorn.Expression | null | undefined) {
  * @param allExports The exports data.
  */
 function resolveClassReferences(allExports: Record<string, Record<string, string>>) {
+    core.debug("Resolving class references in exports data");
     Object.keys(allExports).forEach((chunkId) => {
         const chunkExports = allExports[chunkId];
         if (!chunkExports) return;
@@ -225,7 +227,7 @@ function resolveClassReferences(allExports: Record<string, Record<string, string
                     if (allExports[refChunkId]?.[refProperty]) {
                         return allExports[refChunkId][refProperty];
                     } else {
-                        console.warn(`Reference to ${refChunkId}.${refProperty} not found.`);
+                        core.warning(`Reference to ${refChunkId}.${refProperty} not found.`);
                         return match;
                     }
                 });
@@ -234,7 +236,7 @@ function resolveClassReferences(allExports: Record<string, Record<string, string
                     allExports[chunkId][className] = resolvedClassValue;
                 }
             } else {
-                console.warn(`Expected a string value for className "${className}", but got ${typeof classValue}.`);
+                core.warning(`Expected a string value for className "${className}", but got ${typeof classValue}.`);
             }
         });
     });
@@ -246,15 +248,15 @@ function resolveClassReferences(allExports: Record<string, Record<string, string
  * @returns The exports data.
  */
 export default function (directory: string) {
+    core.debug(`Processing directory: ${directory}`);
     const allExports: Record<string, Record<string, string>> = {};
 
     const files = fs.readdirSync(directory);
-    if (files.length === 0) {
-        throw new Error(`No files found in directory: ${directory}`);
-    }
+    if (files.length === 0) throw new Error(`No files found in directory: ${directory}`);
 
     files.forEach((file) => {
         const filePath = path.join(directory, file);
+        core.debug(`Processing file: ${filePath}`);
         const code = fs.readFileSync(filePath, "utf-8");
 
         const exportsData = processFile(code);

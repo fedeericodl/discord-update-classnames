@@ -1,5 +1,6 @@
+import * as core from "@actions/core";
 import fs from "fs";
-import { MAP_PATH_FILE } from "../constants.js";
+import { MAP_PATH_FILE } from "../constants";
 
 /**
  * Generate a map of old class names to new class names based on the differences between two JSON files.
@@ -10,15 +11,19 @@ import { MAP_PATH_FILE } from "../constants.js";
  */
 export default function (oldJsonPath: string, newJsonPath: string) {
     try {
+        core.debug(`Reading old JSON data from ${oldJsonPath}`);
         const oldData = JSON.parse(fs.readFileSync(oldJsonPath, "utf-8"));
+        core.debug(`Reading new JSON data from ${newJsonPath}`);
         const newData = JSON.parse(fs.readFileSync(newJsonPath, "utf-8"));
 
         // Load existing map or create new
         let classMap: Record<string, string> = {};
         try {
+            core.debug(`Reading existing class map from ${MAP_PATH_FILE}`);
             classMap = JSON.parse(fs.readFileSync(MAP_PATH_FILE, "utf-8"));
             // eslint-disable-next-line @typescript-eslint/no-unused-vars
         } catch (error) {
+            core.debug("No existing class map found, starting with an empty map");
             // File doesn't exist yet, start with empty map
         }
 
@@ -70,6 +75,6 @@ export default function (oldJsonPath: string, newJsonPath: string) {
 
         if (changesFound) return classMap;
     } catch (error) {
-        throw new Error(`Error processing files: ${error}`);
+        throw new Error(`Failed to generate class map: ${error}`);
     }
 }

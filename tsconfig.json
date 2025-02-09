@@ -14,7 +14,7 @@
         "noUncheckedIndexedAccess": true,
         "noImplicitOverride": true,
         // Transpile our TypeScript code to JavaScript
-        "module": "NodeNext",
+        "module": "Preserve",
         "outDir": "lib",
         // Include the DOM types
         "lib": ["es2022"]

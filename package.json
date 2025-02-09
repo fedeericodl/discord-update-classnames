@@ -1,12 +1,22 @@
 {
     "name": "discord-update-classnames",
     "version": "0.0.0",
-    "description": "Automatically update class names for your Discord themes",
-    "main": "dist/index.js",
-    "type": "module",
+    "description": "Automated CSS class name synchronization tool for Discord theme developers",
+    "bugs": {
+        "url": "https://github.com/FedeIlLeone/discord-update-classnames/issues"
+    },
+    "author": "FedeIlLeone",
+    "license": "MIT",
+    "main": "dist/extractor/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FedeIlLeone/discord-update-classnames.git"
+    },
     "scripts": {
         "start": "node dist/index.js",
-        "build": "tsc && ncc build src/index.ts -o dist -m",
+        "build": "tsc && pnpm run build:action && pnpm run build:extractor",
+        "build:action": "ncc build src/action.ts -o dist/action -m",
+        "build:extractor": "ncc build src/extractor.ts -o dist/extractor -m",
         "prettier:check": "prettier . --check",
         "eslint:check": "eslint .",
         "typescript:check": "tsc --noEmit",
@@ -15,9 +25,10 @@
         "lint": "pnpm run prettier:check && pnpm run eslint:check && pnpm run typescript:check",
         "lint:fix": "pnpm run prettier:fix && pnpm run eslint:fix && pnpm run typescript:check"
     },
-    "author": "FedeIlLeone",
-    "license": "MIT",
     "dependencies": {
+        "@actions/core": "^1.11.1",
+        "@actions/github": "^6.0.0",
+        "@actions/glob": "^0.5.0",
         "acorn": "^8.14.0",
         "acorn-walk": "^8.3.4"
     },

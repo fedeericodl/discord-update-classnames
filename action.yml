@@ -1,0 +1,46 @@
+name: "Discord Update Class Names"
+author: "FedeIlLeone"
+description: "Automated CSS class name synchronization tool for Discord theme developers"
+inputs:
+    files:
+        description: |
+            Files/directories to process (comma/newline separated)
+            Example: |
+                src/theme/**/*.scss
+                theme.css
+                components/*.scss
+        required: true
+    follow-symbolic-links:
+        description: "Indicates whether to follow symbolic links"
+        required: false
+        default: true
+    ignores:
+        description: |
+            Files/directories to ignore (comma/newline separated)
+            Example: |
+                src/theme/**/*.scss
+                theme.css
+                components/*.scss
+        required: false
+    report-outdated:
+        description: "Indicates whether to report outdated class names, without a possible automatic replacement"
+        required: false
+        default: true
+    target-branch:
+        description: "Branch name for PR creation"
+        required: false
+        default: "classname-updates"
+    commit-message:
+        description: "Commit message template"
+        required: false
+        default: "chore: update Discord class names (automated)"
+    pr-title:
+        description: "PR title template"
+        required: false
+        default: "Class Name Updates"
+runs:
+    using: "node20"
+    main: "dist/action/index.js"
+branding:
+    color: "gray-dark"
+    icon: "code"

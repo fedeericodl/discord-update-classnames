@@ -7,7 +7,7 @@ The `discord-update-classnames` GitHub action provides automated synchronization
 
 ## Features
 
-- **🕵️ Automatic Class Name Scraping**: Regularly collects updated class names (see [data results](#data-results))
+- **🕵️ Automatic Class Name Scraping**: Regularly collects updated class names (see [data outputs](#data-outputs))
 
 - **🔄 Smart Class Replacement**: Updates outdated class names in theme files while preserving custom styling
 
@@ -25,14 +25,9 @@ The [data](./data/) directory contains structured results from class name analys
 
 **:warning: Never manually edit these files - changes will be overwritten**
 
-**Core Files:**
-
 - [`chunkClassNames-new.json`](./data/chunkClassNames-new.json): current canary build's class names organized by chunk ID.
 - [`chunkClassNames-old.json`](./data/chunkClassNames-old.json): previous build's class names for change comparison.
 - [`classNamesMap.json`](./data/classNamesMap.json): tracks and maps the old class names with the updated ones. Updates on this file occur automatically once class names hashes on that exact chunk ID got changed.
-
-**Version Tracking:**
-
 - [`VERSION_HASH`](./data/VERSION_HASH): unique hash of last processed canary build.
 
 ## Disclaimer
