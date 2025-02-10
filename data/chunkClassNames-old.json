@@ -6511,9 +6511,6 @@
     "roleIcon": "roleIcon__1e6f1",
     "clickable": "clickable__1e6f1"
   },
-  "236322": {
-    "infoGroup": "infoGroup_d2b61f"
-  },
   "236543": {
     "sectionsContainer": "sectionsContainer__722a8",
     "nitroWheel": "nitroWheel__722a8"
@@ -17911,6 +17908,9 @@
     "lockIcon": "lockIcon__6d4ed",
     "unavailableTooltip": "unavailableTooltip__6d4ed",
     "unavailableTooltipRefresh": "unavailableTooltipRefresh__6d4ed"
+  },
+  "720581": {
+    "orbClaimCopy": "orbClaimCopy__8da0b"
   },
   "720644": {
     "lottieAnimation": "lottieAnimation__85ad0",
