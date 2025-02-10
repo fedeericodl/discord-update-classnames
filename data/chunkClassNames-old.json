@@ -834,12 +834,6 @@
   "26911": {
     "reducedMotionTooltip": "reducedMotionTooltip_bb9201"
   },
-  "27191": {
-    "container": "container__10adc",
-    "image": "image__10adc",
-    "buttonContainer": "buttonContainer__10adc",
-    "previewButtonContainer": "previewButtonContainer__10adc"
-  },
   "27438": {
     "avatar": "avatar__49508",
     "divider": "divider__49508",
@@ -1278,6 +1272,7 @@
     "contentFooter": "contentFooter_de2fa0",
     "contentFooterButtonCont": "contentFooterButtonCont_de2fa0",
     "claimBtn": "claimBtn_de2fa0",
+    "orbClaimCopy": "orbClaimCopy_de2fa0",
     "progressCont": "progressCont_de2fa0",
     "questProgressRewardTile": "questProgressRewardTile_de2fa0",
     "transcriptOverlay": "transcriptOverlay_de2fa0",
@@ -1588,7 +1583,6 @@
     "unifyTrialUpsell": "unifyTrialUpsell__3a1b6",
     "premiumPromoClose": "premiumPromoClose__3a1b6",
     "premiumPromoImage": "premiumPromoImage__3a1b6",
-    "premiumPromoImageSmaller": "premiumPromoImageSmaller__3a1b6",
     "premiumPromoTitle": "premiumPromoTitle__3a1b6",
     "premiumPromoDescription": "premiumPromoDescription__3a1b6"
   },
@@ -5688,6 +5682,8 @@
     "modalInner": "modalInner__78e61",
     "modalCloseButton": "modalCloseButton__78e61",
     "avatarDecoration": "avatarDecoration__78e61",
+    "avatarDecorationPairOne": "avatarDecorationPairOne__78e61",
+    "avatarDecorationPairTwo": "avatarDecorationPairTwo__78e61",
     "decorationBanner": "decorationBanner__78e61",
     "bannerContainer": "bannerContainer__78e61",
     "collectedInfoContainer": "collectedInfoContainer__78e61",
@@ -5698,6 +5694,7 @@
     "bundlePreview": "bundlePreview__78e61",
     "bundleProfileEffectCard": "bundleProfileEffectCard__78e61",
     "buttons": "buttons__78e61",
+    "buyButton": "buyButton__78e61",
     "easterEggContainer": "easterEggContainer__78e61",
     "promotionalBanner": "promotionalBanner__78e61"
   },
@@ -16394,11 +16391,7 @@
     "container": "container__88e24",
     "buttonGroupContainer": "buttonGroupContainer__88e24",
     "cardContainer": "cardContainer__88e24",
-    "button": "button__88e24",
-    "askToJoinInputWrapper": "askToJoinInputWrapper__88e24",
-    "inputRow": "inputRow__88e24",
-    "sendButton": "sendButton__88e24",
-    "input": "input__88e24"
+    "button": "button__88e24"
   },
   "652278": {
     "doubleInput": "doubleInput__594ce"
@@ -24463,11 +24456,12 @@
     "body": "body__5dec7",
     "gameWrapper": "gameWrapper__5dec7",
     "liveIndicator": "liveIndicator__5dec7",
+    "clickableGameWrapper": "clickableGameWrapper__5dec7",
     "gameIcon": "gameIcon__5dec7",
     "info": "info__5dec7",
     "sparkleContainer": "sparkleContainer__5dec7",
     "sparkles": "sparkles__5dec7",
-    "activityName": "activityName__5dec7",
+    "underlineOnHover": "underlineOnHover__5dec7",
     "channel": "channel__5dec7",
     "perksDemoContainer": "perksDemoContainer__5dec7",
     "perksDemoText": "perksDemoText__5dec7"
