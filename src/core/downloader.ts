@@ -50,7 +50,6 @@ export default async function (directory: string) {
 
         if (!chunks[1]) throw new Error("No chunks found");
 
-        core.debug(`Found chunks: ${chunks.length}`);
         const chunksData = JSON.parse(chunks[1]);
         Object.values(chunksData).forEach((chunk) => scriptPaths.push(`${chunk}.js`));
 

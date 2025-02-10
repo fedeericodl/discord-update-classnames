@@ -26,7 +26,6 @@ function isChunkProperty(node: acorn.Property | acorn.AssignmentProperty) {
  * @returns The exports data.
  */
 function processFile(code: string) {
-    core.debug("Parsing code to AST");
     const ast = acorn.parse(code, {
         ecmaVersion: "latest",
         sourceType: "script",
