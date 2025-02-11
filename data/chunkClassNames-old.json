@@ -6201,7 +6201,8 @@
   },
   "226536": {
     "section": "section_bf424d",
-    "headings": "headings_bf424d"
+    "headings": "headings_bf424d",
+    "header": "header_bf424d"
   },
   "226621": {
     "container": "container_c880e8",
@@ -23177,8 +23178,8 @@
     "buttons": "buttons_bb2295"
   },
   "918603": {
-    "layoutContainer": "layoutContainer__9f71b",
     "channelHeader": "channelHeader__9f71b",
+    "header": "header__9f71b",
     "profile": "profile__9f71b",
     "icon": "icon__9f71b"
   },
