@@ -18760,7 +18760,8 @@
     "premiumWheel": "premiumWheel__54675",
     "boostingPill": "boostingPill__54675",
     "imageSpecifications": "imageSpecifications__54675",
-    "premiumUpsell": "premiumUpsell__54675"
+    "premiumUpsell": "premiumUpsell__54675",
+    "recentAvatarsSection": "recentAvatarsSection__54675"
   },
   "756134": {
     "container": "container_d804ff",
@@ -18917,6 +18918,20 @@
   },
   "760426": {
     "potionBadge": "potionBadge__18061"
+  },
+  "760913": {
+    "container": "container__1df30",
+    "text": "text__1df30",
+    "circular": "circular__1df30",
+    "spinner": "spinner__1df30",
+    "recentAvatarContainer": "recentAvatarContainer__1df30",
+    "recentAvatarList": "recentAvatarList__1df30",
+    "recentAvatarButton": "recentAvatarButton__1df30",
+    "recentAvatar": "recentAvatar__1df30 circular__1df30",
+    "emptyAvatarSlots": "emptyAvatarSlots__1df30",
+    "avatarPlaceholder": "avatarPlaceholder__1df30 circular__1df30",
+    "premiumUpsellButton": "premiumUpsellButton__1df30 circular__1df30",
+    "premiumUpsellLockIcon": "premiumUpsellLockIcon__1df30"
   },
   "760946": {
     "list": "list_c441f0",
@@ -21365,6 +21380,9 @@
     "reactions": "reactions__34c2c",
     "buttons": "buttons__34c2c",
     "active": "active__34c2c"
+  },
+  "848575": {
+    "placeholderFill": "placeholderFill__7ffbc"
   },
   "848682": {
     "select": "select_d48ec6",
