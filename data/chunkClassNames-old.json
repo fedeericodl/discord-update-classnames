@@ -5460,7 +5460,8 @@
     "volumeSlider": "volumeSlider__722ff",
     "chatToasts": "chatToasts__722ff",
     "rtsSidebarOpen": "rtsSidebarOpen__722ff",
-    "channelChatWrapper": "channelChatWrapper__722ff"
+    "channelChatWrapper": "channelChatWrapper__722ff",
+    "customInviteButtonColors": "customInviteButtonColors__722ff"
   },
   "197889": {
     "wrapper": "wrapper_f563df",
@@ -16076,7 +16077,8 @@
     "participantsRow": "participantsRow__5aa3a",
     "channelName": "channelName__5aa3a",
     "joinButton": "joinButton__5aa3a",
-    "roundButton": "roundButton__5aa3a"
+    "roundButton": "roundButton__5aa3a",
+    "buttonContainer": "buttonContainer__5aa3a"
   },
   "635446": {
     "keyRecorder": "keyRecorder__90f76"
@@ -17292,8 +17294,9 @@
   },
   "694978": {
     "container": "container__8ac07",
+    "textXs": "textXs__8ac07",
+    "textSm": "textSm__8ac07",
     "icon": "icon__8ac07",
-    "fullWidth": "fullWidth__8ac07",
     "text": "text__8ac07",
     "emoji": "emoji__8ac07",
     "dot": "dot__8ac07"
