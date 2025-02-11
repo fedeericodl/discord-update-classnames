@@ -1272,7 +1272,6 @@
     "contentFooter": "contentFooter_de2fa0",
     "contentFooterButtonCont": "contentFooterButtonCont_de2fa0",
     "claimBtn": "claimBtn_de2fa0",
-    "orbClaimCopy": "orbClaimCopy_de2fa0",
     "progressCont": "progressCont_de2fa0",
     "questProgressRewardTile": "questProgressRewardTile_de2fa0",
     "transcriptOverlay": "transcriptOverlay_de2fa0",
@@ -17082,10 +17081,14 @@
     "clockCircle": "clockCircle_ed0705",
     "lockedIcon": "lockedIcon_ed0705",
     "clockIcon": "clockIcon_ed0705",
+    "hoverButtonCircle": "hoverButtonCircle_ed0705",
+    "previewButton": "previewButton_ed0705",
     "filter": "filter_ed0705",
+    "selector": "selector_ed0705",
     "unlocked": "unlocked_ed0705",
     "selected": "selected_ed0705",
     "locked": "locked_ed0705",
+    "visible": "visible_ed0705",
     "iconTreatmentsWrapper": "iconTreatmentsWrapper_ed0705",
     "checkmark": "checkmark_ed0705",
     "spinner": "spinner_ed0705",
@@ -21347,7 +21350,8 @@
     "controllerImage": "controllerImage__49970",
     "title": "title__49970",
     "contentContainer": "contentContainer__49970",
-    "toggleContainer": "toggleContainer__49970"
+    "toggleContainer": "toggleContainer__49970",
+    "viewSettingsButton": "viewSettingsButton__49970"
   },
   "846693": {
     "container": "container_ad5cdf"
