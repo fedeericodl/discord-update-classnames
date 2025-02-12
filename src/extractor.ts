@@ -4,7 +4,6 @@ import { DATA_DIRECTORY, MAP_PATH_FILE, NEW_PATH_FILE, OLD_PATH_FILE, SCRIPTS_DI
 import extractClassNames from "./core/class-extractor";
 import downloadScripts from "./core/downloader";
 import genMaps from "./core/gen-maps";
-import { pushDataToGitHub } from "./core/github";
 
 async function run() {
     try {
@@ -46,8 +45,6 @@ async function run() {
         } else {
             core.info("No changes found in class names.");
         }
-
-        pushDataToGitHub();
     } catch (error) {
         core.setFailed(`Extracting class names failed: ${error}`);
     }

@@ -4,6 +4,9 @@ on:
     schedule:
         - cron: "0 */1 * * *"
     workflow_dispatch:
+    push:
+        branches:
+            - main
 
 permissions:
     contents: write
@@ -22,3 +25,12 @@ jobs:
 
             - name: Run Fetch
               run: pnpm run start
+
+            - name: Publish
+              run: |
+                  git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git config --global user.name "github-actions[bot]"
+
+                  git add data
+                  git commit -m "Automated update of class names"
+                  git push origin main
