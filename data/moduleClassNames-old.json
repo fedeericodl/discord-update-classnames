@@ -8524,6 +8524,14 @@
     "appGrid": "appGrid_c3787a",
     "rows": "rows_c3787a"
   },
+  "317171": {
+    "gradientBackground": "gradientBackground__41626",
+    "leftDarkEllipse": "leftDarkEllipse__41626",
+    "leftLightEllipse": "leftLightEllipse__41626",
+    "rightDarkEllipse": "rightDarkEllipse__41626",
+    "rightLightEllipse": "rightLightEllipse__41626",
+    "centerEllipse": "centerEllipse__41626"
+  },
   "317277": {
     "preview": "preview__5d148",
     "previewMessage": "previewMessage__5d148",
@@ -16108,7 +16116,8 @@
     "channelName": "channelName__5aa3a",
     "joinButton": "joinButton__5aa3a",
     "roundButton": "roundButton__5aa3a",
-    "buttonContainer": "buttonContainer__5aa3a"
+    "buttonContainer": "buttonContainer__5aa3a",
+    "content": "content__5aa3a"
   },
   "635446": {
     "keyRecorder": "keyRecorder__90f76"
