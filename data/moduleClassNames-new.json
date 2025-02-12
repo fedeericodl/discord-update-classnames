@@ -9525,6 +9525,9 @@
     "icon": "icon_bd6d20",
     "placeholder": "placeholder_bd6d20"
   },
+  "357597": {
+    "wrapper": "wrapper__9671f"
+  },
   "358068": {
     "disabled": "disabled_aa63ab",
     "container": "container_aa63ab",
@@ -21053,6 +21056,7 @@
     "overlayTitle": "overlayTitle__2f4f7",
     "overlayTitleText": "overlayTitleText__2f4f7",
     "overlayButton": "overlayButton__2f4f7",
+    "overlayButtonInner": "overlayButtonInner__2f4f7",
     "overlayButtonContainer": "overlayButtonContainer__2f4f7",
     "titleIcon": "titleIcon__2f4f7",
     "secureFramesIcon": "secureFramesIcon__2f4f7",
