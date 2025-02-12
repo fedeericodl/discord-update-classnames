@@ -32,5 +32,5 @@ jobs:
                   git config --global user.name "github-actions[bot]"
 
                   git add data
-                  git commit -m "Automated update of class names"
+                  git diff-index --quiet HEAD || git commit -m "Automated update of class names"
                   git push origin main
