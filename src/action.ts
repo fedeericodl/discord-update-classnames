@@ -3,7 +3,6 @@ import * as glob from "@actions/glob";
 import fs from "fs";
 import path from "path";
 import processThemeFiles from "./core/class-replacer";
-import { createUpdatePR } from "./core/github";
 
 async function run() {
     try {
@@ -12,9 +11,9 @@ async function run() {
 
         const classMap = JSON.parse(fs.readFileSync(classMapPath, "utf-8"));
 
-        const files = core.getInput("files");
-        const followSymbolicLinks = core.getBooleanInput("follow-symbolic-links");
-        const ignores = core.getInput("ignores");
+        const files = process.env.INPUT_FILES || "";
+        const followSymbolicLinks = process.env.INPUT_FOLLOW_SYMBOLIC_LINKS === "true" || true;
+        const ignores = process.env.INPUT_IGNORES || "";
 
         const ignorePatterns = ignores
             ? ignores
@@ -31,8 +30,6 @@ async function run() {
 
         await processThemeFiles(filePaths, classMap);
         core.info("Class names replaced successfully!");
-
-        createUpdatePR();
     } catch (error) {
         core.setFailed(`Replacing class names failed: ${error}`);
     }

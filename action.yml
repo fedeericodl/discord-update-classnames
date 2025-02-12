@@ -2,6 +2,9 @@ name: "Discord Update Class Names"
 author: "FedeIlLeone"
 description: "Automated CSS class name synchronization tool for Discord theme developers"
 inputs:
+    token:
+        description: "GitHub token"
+        required: true
     files:
         description: |
             Files/directories to process (comma/newline separated)
@@ -39,8 +42,33 @@ inputs:
         required: false
         default: "Class Name Updates"
 runs:
-    using: "node20"
-    main: "dist/action/index.js"
+    using: "composite"
+    steps:
+        - name: Checkout repository
+          uses: actions/checkout@v4
+
+        - name: Run Class Name Updates
+          shell: bash
+          env:
+              INPUT_FILES: ${{ inputs.files }}
+              INPUT_FOLLOW_SYMBOLIC_LINKS: ${{ inputs.follow-symbolic-links }}
+              INPUT_IGNORES: ${{ inputs.ignores }}
+              INPUT_REPORT_OUTDATED: ${{ inputs.report-outdated }}
+          run: |
+              git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+              git config --global user.name "github-actions[bot]"
+
+              node "$GITHUB_ACTION_PATH/dist/action/index.js"
+
+        - name: Create Pull Request
+          uses: peter-evans/create-pull-request@v7
+          with:
+              token: ${{ inputs.token }}
+              branch: ${{ inputs.target-branch }}
+              commit-message: ${{ inputs.commit-message }}
+              title: ${{ inputs.pr-title }}
+              body: "Automated class name updates from Discord's latest changes"
+              delete-branch: true
 branding:
     color: "gray-dark"
     icon: "code"
