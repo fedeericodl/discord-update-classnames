@@ -2,8 +2,8 @@ import path from "path";
 
 export const DATA_DIRECTORY = "./data";
 export const SCRIPTS_DIRECTORY = path.join(DATA_DIRECTORY, "scripts");
-export const OLD_PATH_FILE = path.join(DATA_DIRECTORY, "chunkClassNames-old.json");
-export const NEW_PATH_FILE = path.join(DATA_DIRECTORY, "chunkClassNames-new.json");
+export const OLD_PATH_FILE = path.join(DATA_DIRECTORY, "moduleClassNames-old.json");
+export const NEW_PATH_FILE = path.join(DATA_DIRECTORY, "moduleClassNames-new.json");
 export const MAP_PATH_FILE = path.join(DATA_DIRECTORY, "classNamesMap.json");
 
 export const WEBSITE = "https://canary.discord.com";

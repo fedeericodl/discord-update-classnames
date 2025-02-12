@@ -6,11 +6,11 @@ import path from "path";
 import { CLASS_NAME_REGEX } from "../constants";
 
 /**
- * Checks if a node is a chunk property.
+ * Checks if a node is a module property.
  * @param node The node to check.
- * @returns Whether the node is a chunk property.
+ * @returns Whether the node is a module property.
  */
-function isChunkProperty(node: acorn.Property | acorn.AssignmentProperty) {
+function isModuleProperty(node: acorn.Property | acorn.AssignmentProperty) {
     return (
         node.type === "Property" &&
         node.key.type === "Literal" &&
@@ -35,33 +35,33 @@ function processFile(code: string) {
 
     walk.simple(ast, {
         Property(node) {
-            if (!isChunkProperty(node)) return;
+            if (!isModuleProperty(node)) return;
             if (node.key.type !== "Literal") {
                 // This should never happen
-                // If it's a chunk property, the key should always be a literal
-                core.warning(`Invalid chunk key: ${node.key}`);
+                // If it's a module property, the key should always be a literal
+                core.warning(`Invalid module key: ${node.key}`);
                 return;
             }
             if (typeof node.key.value !== "number") {
-                // Chunk IDs are always numbers/strings
-                core.warning(`Invalid chunk key value: ${node.key}`);
+                // Module IDs are always numbers/strings
+                core.warning(`Invalid module key value: ${node.key}`);
                 return;
             }
 
-            const chunkId = node.key.value;
+            const moduleId = node.key.value;
             const func = node.value;
 
             if (func.type !== "FunctionExpression") {
                 // This should never happen as well
-                // If it's a chunk property, the value should always be a function expression
-                core.warning(`Invalid chunk value: ${func}`);
+                // If it's a module property, the value should always be a function expression
+                core.warning(`Invalid module value: ${func}`);
                 return;
             }
             const body = func.body.body;
 
-            // Typically chunks that export classes have an exports object
+            // Typically modules that export classes have an exports object
             // This handles 4 different cases of exporting classes
-            // Conditions are a little complex, but it's to be sure we're getting the right chunks
+            // Conditions are a little complex, but it's to be sure we're getting the right modules
             for (const statement of body) {
                 if (statement.type === "ExpressionStatement") {
                     const expr = statement.expression;
@@ -72,7 +72,7 @@ function processFile(code: string) {
                         expr.left.property.name === "exports"
                     ) {
                         // e.exports = { ... }
-                        Object.assign((exportsData[chunkId] ||= {}), extractExports(expr.right));
+                        Object.assign((exportsData[moduleId] ||= {}), extractExports(expr.right));
                     } else if (
                         expr.type === "CallExpression" &&
                         expr.arguments[0]?.type === "AssignmentExpression" &&
@@ -81,7 +81,7 @@ function processFile(code: string) {
                         expr.arguments[0].left.property.name === "exports"
                     ) {
                         // t.r((e.exports = { ... }))
-                        Object.assign((exportsData[chunkId] ||= {}), extractExports(expr.arguments[0].right));
+                        Object.assign((exportsData[moduleId] ||= {}), extractExports(expr.arguments[0].right));
                     }
                 } else if (statement.type === "VariableDeclaration") {
                     const varId = statement.declarations[0]?.id;
@@ -102,7 +102,7 @@ function processFile(code: string) {
                             expr.right.name === varName
                         ) {
                             // var i = { ... }; e.exports = i
-                            Object.assign((exportsData[chunkId] ||= {}), extractExports(varValue));
+                            Object.assign((exportsData[moduleId] ||= {}), extractExports(varValue));
                         } else if (
                             expr.type === "CallExpression" &&
                             expr.arguments[0]?.type === "AssignmentExpression" &&
@@ -113,7 +113,7 @@ function processFile(code: string) {
                             expr.arguments[0].right.name === varName
                         ) {
                             // var i = { ... }; n.r((e.exports = i))
-                            Object.assign((exportsData[chunkId] ||= {}), extractExports(varValue));
+                            Object.assign((exportsData[moduleId] ||= {}), extractExports(varValue));
                         }
                     }
                 }
@@ -148,14 +148,14 @@ function processExpression(node: acorn.Expression): string {
             node.object.arguments[0]?.type === "Literal" &&
             node.property.type === "Identifier"
         ) {
-            const chunkId = node.object.arguments[0].value;
+            const moduleId = node.object.arguments[0].value;
             const property = node.property.name;
-            if (chunkId && property) {
-                // Return a reference to the class name in another chunk
+            if (moduleId && property) {
+                // Return a reference to the class name in another module
                 // This is a way to handle concatenated class names
                 // that are later resolved in a separate step on the extractor
                 // Example: (+1.className)
-                return `(+${chunkId}.${property})`;
+                return `(+${moduleId}.${property})`;
             }
         }
         return "";
@@ -211,28 +211,28 @@ function extractExports(node: acorn.Expression | null | undefined) {
  */
 function resolveClassReferences(allExports: Record<string, Record<string, string>>) {
     core.debug("Resolving class references in exports data");
-    Object.keys(allExports).forEach((chunkId) => {
-        const chunkExports = allExports[chunkId];
-        if (!chunkExports) return;
+    Object.keys(allExports).forEach((moduleId) => {
+        const moduleExports = allExports[moduleId];
+        if (!moduleExports) return;
 
-        Object.keys(chunkExports).forEach((className) => {
-            const classValue = chunkExports[className];
+        Object.keys(moduleExports).forEach((className) => {
+            const classValue = moduleExports[className];
 
             if (typeof classValue === "string") {
                 const regex = /\(\+(\d+)\.(\w+)\)/g;
                 let resolvedClassValue = classValue;
 
-                resolvedClassValue = resolvedClassValue.replace(regex, (match, refChunkId, refProperty) => {
-                    if (allExports[refChunkId]?.[refProperty]) {
-                        return allExports[refChunkId][refProperty];
+                resolvedClassValue = resolvedClassValue.replace(regex, (match, refModuleId, refProperty) => {
+                    if (allExports[refModuleId]?.[refProperty]) {
+                        return allExports[refModuleId][refProperty];
                     } else {
-                        core.warning(`Reference to ${refChunkId}.${refProperty} not found.`);
+                        core.warning(`Reference to ${refModuleId}.${refProperty} not found.`);
                         return match;
                     }
                 });
 
-                if (allExports[chunkId]) {
-                    allExports[chunkId][className] = resolvedClassValue;
+                if (allExports[moduleId]) {
+                    allExports[moduleId][className] = resolvedClassValue;
                 }
             } else {
                 core.warning(`Expected a string value for className "${className}", but got ${typeof classValue}.`);

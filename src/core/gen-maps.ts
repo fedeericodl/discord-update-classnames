@@ -3,34 +3,34 @@ import fs from "fs";
 import { MAP_PATH_FILE } from "../constants";
 
 /**
- * Check if most chunk IDs changed between two JSON files.
+ * Check if most module IDs changed between two JSON files.
  * @param oldFile The old JSON file.
  * @param newFile The new JSON file.
- * @param chunkChangeThreshold The threshold for the percentage of new chunk IDs to consider the content as changed.
+ * @param moduleChangeThreshold The threshold for the percentage of new module IDs to consider the content as changed.
  * @returns Whether the content is the same or an object with added and removed classes.
  */
-function checkChunks(
+function checkModules(
     oldFile: Record<string, Record<string, string>>,
     newFile: Record<string, Record<string, string>>,
-    chunkChangeThreshold = 0.8,
+    moduleChangeThreshold = 0.8,
 ) {
-    const oldChunkIds = Object.keys(oldFile);
-    const newChunkIds = Object.keys(newFile);
+    const oldModuleIds = Object.keys(oldFile);
+    const newModuleIds = Object.keys(newFile);
 
-    // Check if most chunk IDs changed (e.g., 80% are new)
-    const newChunkIdCount = newChunkIds.filter((id) => !oldChunkIds.includes(id)).length;
-    const isMostlyChanged = newChunkIdCount / newChunkIds.length >= chunkChangeThreshold;
+    // Check if most module IDs changed (e.g., 80% are new)
+    const newModuleIdCount = newModuleIds.filter((id) => !oldModuleIds.includes(id)).length;
+    const isMostlyChanged = newModuleIdCount / newModuleIds.length >= moduleChangeThreshold;
 
-    core.debug(`Chunk ID changes: ${newChunkIdCount} new of ${newChunkIds.length} total`);
+    core.debug(`Module ID changes: ${newModuleIdCount} new of ${newModuleIds.length} total`);
 
     if (!isMostlyChanged) {
-        core.debug("Not enough chunk ID changes to trigger the content checking");
+        core.debug("Not enough module ID changes to trigger the content checking");
         return false;
     }
 
     const flattenAndSort = (file: Record<string, Record<string, string>>) => {
         return Object.values(file)
-            .flatMap((chunk) => Object.values(chunk))
+            .flatMap((module) => Object.values(module))
             .sort();
     };
 
@@ -69,16 +69,16 @@ export default function (oldJsonPath: string, newJsonPath: string) {
         core.debug(`Reading new JSON data from ${newJsonPath}`);
         const newData = JSON.parse(fs.readFileSync(newJsonPath, "utf-8"));
 
-        // This check is necessary: sometimes chunk IDs may change, but the content is the same
-        const chunkCheckResult = checkChunks(oldData, newData);
+        // This check is necessary: sometimes module IDs may change, but the content is the same
+        const moduleCheckResult = checkModules(oldData, newData);
 
-        if (chunkCheckResult === true) {
-            core.info("Chunk IDs are mostly changed, with content being identical. Skipping class map generation.");
+        if (moduleCheckResult === true) {
+            core.info("Module IDs are mostly changed, with content being identical. Skipping class map generation.");
             return;
-        } else if (chunkCheckResult) {
-            core.warning("Chunk IDs are mostly changed, with content being different.");
-            core.info(`Added classes: ${chunkCheckResult.added.join(", ")}`);
-            core.info(`Removed classes: ${chunkCheckResult.removed.join(", ")}`);
+        } else if (moduleCheckResult) {
+            core.warning("Module IDs are mostly changed, with content being different.");
+            core.info(`Added classes: ${moduleCheckResult.added.join(", ")}`);
+            core.info(`Removed classes: ${moduleCheckResult.removed.join(", ")}`);
             return;
         }
 
