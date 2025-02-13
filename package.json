@@ -3,14 +3,14 @@
     "version": "0.0.0",
     "description": "Automated CSS class name synchronization tool for Discord theme developers",
     "bugs": {
-        "url": "https://github.com/FedeIlLeone/discord-update-classnames/issues"
+        "url": "https://github.com/fedeericodl/discord-update-classnames/issues"
     },
-    "author": "FedeIlLeone",
+    "author": "fedeericodl",
     "license": "MIT",
     "main": "dist/extractor/index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FedeIlLeone/discord-update-classnames.git"
+        "url": "git+https://github.com/fedeericodl/discord-update-classnames.git"
     },
     "scripts": {
         "start": "node dist/extractor/index.js",
