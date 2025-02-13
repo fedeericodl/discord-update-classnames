@@ -210,7 +210,6 @@ function extractExports(node: acorn.Expression | null | undefined) {
  * @param allExports The exports data.
  */
 function resolveClassReferences(allExports: Record<string, Record<string, string>>) {
-    core.debug("Resolving class references in exports data");
     Object.keys(allExports).forEach((moduleId) => {
         const moduleExports = allExports[moduleId];
         if (!moduleExports) return;
@@ -262,6 +261,7 @@ export default function (directory: string) {
         Object.assign(allExports, exportsData);
     });
 
+    core.debug("Resolving class references in exports data");
     resolveClassReferences(allExports);
 
     // Remove empty exports
