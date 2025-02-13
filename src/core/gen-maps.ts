@@ -110,7 +110,7 @@ export default function (
                             // If both have the same number of classes, map them individually
                             if (oldClasses.length === newClasses.length) {
                                 for (let i = 0; i < oldClasses.length; i++) {
-                                    const oldClass = oldClasses[i]
+                                    const oldClass = oldClasses[i];
                                     if (oldClass && !classMap[oldClass]) {
                                         if (newClasses[i]) {
                                             classMap[oldClass] = newClasses[i]!;
