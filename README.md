@@ -62,8 +62,7 @@ The [data](./data/) directory contains structured results from class name analys
 
 **:warning: Never manually edit these files - changes will be overwritten**
 
-- [`moduleClassNames-new.json`](./data/moduleClassNames-new.json): current canary build's class names organized by module ID.
-- [`moduleClassNames-old.json`](./data/moduleClassNames-old.json): previous build's class names for change comparison.
+- [`moduleClassNames.json`](./data/moduleClassNames.json): current canary build's class names organized by module ID.
 - [`classNamesMap.json`](./data/classNamesMap.json): tracks and maps the old class names with the updated ones. Updates on this file occur automatically once class names hashes on that exact module ID got changed.
 - [`VERSION_HASH`](./data/VERSION_HASH): unique hash of last processed canary build.
 

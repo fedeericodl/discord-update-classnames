@@ -58,25 +58,22 @@ function checkModules(
 /**
  * Generate a map of old class names to new class names based on the differences between two JSON files.
  * If class names are concatenated (separated by whitespace), each individual class name is mapped separately.
- * @param oldJsonPath The path to the old JSON file.
- * @param newJsonPath The path to the new JSON file.
+ * @param oldClassNames The old class names.
+ * @param classNames The new class names.
  * @returns The class map.
  */
-export default function (oldJsonPath: string, newJsonPath: string) {
+export default function (
+    oldClassNames: Record<string, Record<string, string>>,
+    classNames: Record<string, Record<string, string>>,
+) {
     try {
-        core.debug(`Reading old JSON data from ${oldJsonPath}`);
-        const oldData = JSON.parse(fs.readFileSync(oldJsonPath, "utf-8"));
-        core.debug(`Reading new JSON data from ${newJsonPath}`);
-        const newData = JSON.parse(fs.readFileSync(newJsonPath, "utf-8"));
-
         // This check is necessary: sometimes module IDs may change, but the content is the same
-        const moduleCheckResult = checkModules(oldData, newData);
-
+        const moduleCheckResult = checkModules(oldClassNames, classNames);
         if (moduleCheckResult === true) {
             core.info("Module IDs are mostly changed, with content being identical. Skipping class map generation.");
             return;
         } else if (moduleCheckResult) {
-            core.warning("Module IDs are mostly changed, with content being different.");
+            core.notice("Module IDs are mostly changed, with content being different.");
             core.info(`Added classes: ${moduleCheckResult.added.join(", ")}`);
             core.info(`Removed classes: ${moduleCheckResult.removed.join(", ")}`);
             return;
@@ -89,15 +86,14 @@ export default function (oldJsonPath: string, newJsonPath: string) {
             classMap = JSON.parse(fs.readFileSync(MAP_PATH_FILE, "utf-8"));
         } catch {
             core.debug("No existing class map found, starting with an empty map");
-            // File doesn't exist yet, start with empty map
         }
 
         let changesFound = false;
 
-        for (const key of Object.keys(oldData)) {
-            if (newData[key]) {
-                const oldEntry = oldData[key];
-                const newEntry = newData[key];
+        for (const key of Object.keys(oldClassNames)) {
+            if (classNames[key]) {
+                const oldEntry = oldClassNames[key]!;
+                const newEntry = classNames[key];
 
                 const allKeys = new Set([...Object.keys(oldEntry), ...Object.keys(newEntry)]);
 
@@ -114,8 +110,11 @@ export default function (oldJsonPath: string, newJsonPath: string) {
                             // If both have the same number of classes, map them individually
                             if (oldClasses.length === newClasses.length) {
                                 for (let i = 0; i < oldClasses.length; i++) {
-                                    if (!classMap[oldClasses[i]]) {
-                                        classMap[oldClasses[i]] = newClasses[i];
+                                    const oldClass = oldClasses[i]
+                                    if (oldClass && !classMap[oldClass]) {
+                                        if (newClasses[i]) {
+                                            classMap[oldClass] = newClasses[i]!;
+                                        }
                                         changesFound = true;
                                     }
                                 }
