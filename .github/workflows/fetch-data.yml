@@ -15,10 +15,18 @@ jobs:
     fetch:
         name: Fetch Data
         runs-on: ubuntu-latest
+        env:
+            DATA_PATH: ${{ github.workspace }}/data
 
         steps:
-            - name: Checkout
+            - name: Checkout Script
               uses: actions/checkout@v4
+
+            - name: Checkout Data
+              uses: actions/checkout@v4
+              with:
+                  ref: "data"
+                  path: ${{ env.DATA_PATH }}
 
             - name: Install
               uses: ./.github/actions/install
@@ -31,6 +39,8 @@ jobs:
                   git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
                   git config --global user.name "github-actions[bot]"
 
-                  git add data
+                  cd ${{ env.DATA_PATH }}
+                  echo "scripts" > .gitignore
+                  git add .
                   git diff-index --quiet HEAD || git commit -m "Automated update of class names"
-                  git push origin main
+                  git push origin data
