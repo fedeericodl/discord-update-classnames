@@ -35,6 +35,13 @@ inputs:
 runs:
     using: "composite"
     steps:
+        - name: Checkout Data
+          uses: actions/checkout@v4
+          with:
+              repository: fedeericodl/discord-update-classnames
+              ref: data
+              path: $GITHUB_ACTION_PATH/data
+
         - name: Run Discord Update Class Names
           id: update-classnames
           shell: bash
