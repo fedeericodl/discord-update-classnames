@@ -58,13 +58,13 @@ The following inputs can be used to customize the action:
 
 ## Data Outputs
 
-The [data](./data/) directory contains structured results from class name analysis:
+The [data](https://github.com/fedeericodl/discord-update-classnames/tree/data) branch contains structured results from class name analysis:
 
 **:warning: Never manually edit these files - changes will be overwritten**
 
-- [`moduleClassNames.json`](./data/moduleClassNames.json): current canary build's class names organized by module ID.
-- [`classNamesMap.json`](./data/classNamesMap.json): tracks and maps the old class names with the updated ones. Updates on this file occur automatically once class names hashes on that exact module ID got changed.
-- [`VERSION_HASH`](./data/VERSION_HASH): unique hash of last processed canary build.
+- [`moduleClassNames.json`](https://github.com/fedeericodl/discord-update-classnames/blob/data/moduleClassNames.json): current canary build's class names organized by module ID.
+- [`classNamesMap.json`](https://github.com/fedeericodl/discord-update-classnames/blob/data/classNamesMap.json): tracks and maps the old class names with the updated ones. Updates on this file occur automatically once class names hashes on that exact module ID got changed; this means, if a class name got moved to another module, it won't be updated here, due to the module ID being different.
+- [`VERSION_HASH`](https://github.com/fedeericodl/discord-update-classnames/blob/data/VERSION_HASH): unique hash of last processed canary build.
 
 ## Disclaimer
 
