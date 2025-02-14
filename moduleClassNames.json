@@ -11665,7 +11665,7 @@
     "closeButton": "closeButton_f01b76",
     "closeButtonIcon": "closeButtonIcon_f01b76",
     "betaBadge": "betaBadge_f01b76",
-    "orbIconContainer": "orbIconContainer_f01b76"
+    "orbIconSVG": "orbIconSVG_f01b76"
   },
   "460377": {
     "modal": "modal_deee3a",
@@ -14501,6 +14501,7 @@
   },
   "555154": {
     "orbIconContainer": "orbIconContainer__85200",
+    "orbIconSVG": "orbIconSVG__85200",
     "loading": "loading__85200",
     "spin": "spin__85200"
   },
@@ -23120,8 +23121,8 @@
   "899088": {
     "container": "container__4d8b6",
     "gifContainer": "gifContainer__4d8b6",
-    "centerContent": "centerContent__4d8b6",
     "gif": "gif__4d8b6",
+    "centerContent": "centerContent__4d8b6",
     "contentContainer": "contentContainer__4d8b6",
     "ctaButton": "ctaButton__4d8b6",
     "link": "link__4d8b6",
