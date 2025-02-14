@@ -497,7 +497,6 @@
   },
   "15378": {
     "welcomeMessageContainer": "welcomeMessageContainer__6f212",
-    "welcomeMessageProfileContainer": "welcomeMessageProfileContainer__6f212",
     "avatar": "avatar__6f212",
     "avatarBackground": "avatarBackground__6f212",
     "avatarBorder": "avatarBorder__6f212",
@@ -11141,8 +11140,7 @@
   },
   "436030": {
     "formSection": "formSection__78ebf",
-    "dropdownOption": "dropdownOption__78ebf",
-    "optionLabel": "optionLabel__78ebf"
+    "dropdownOption": "dropdownOption__78ebf"
   },
   "436289": {
     "mainContainer": "mainContainer_ceba9e",
