@@ -18347,6 +18347,13 @@
     "eligibilityActionContainer": "eligibilityActionContainer__54e17",
     "eligibilityActionButton": "eligibilityActionButton__54e17"
   },
+  "711963": {
+    "root": "root_a2e66b",
+    "content": "content_a2e66b",
+    "headersContainer": "headersContainer_a2e66b",
+    "requestContainer": "requestContainer_a2e66b",
+    "button": "button_a2e66b"
+  },
   "712038": {
     "applicationEducation": "applicationEducation__526cc",
     "sectionLabel": "sectionLabel__526cc",
@@ -21920,8 +21927,8 @@
     "unreadIcon": "unreadIcon__7aaec",
     "voiceChannelsIcon": "voiceChannelsIcon__7aaec",
     "barText": "barText__7aaec",
-    "voiceChannelsUsers": "voiceChannelsUsers__7aaec",
-    "voiceBar": "voiceBar__7aaec"
+    "voiceBar": "voiceBar__7aaec",
+    "voiceChannelsUsers": "voiceChannelsUsers__7aaec"
   },
   "851422": {
     "buttonsContainer": "buttonsContainer__24d0d",
