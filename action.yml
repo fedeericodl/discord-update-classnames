@@ -40,7 +40,7 @@ runs:
           with:
               repository: fedeericodl/discord-update-classnames
               ref: data
-              path: $GITHUB_ACTION_PATH/data
+              path: data
 
         - name: Run Discord Update Class Names
           id: update-classnames
@@ -54,6 +54,8 @@ runs:
               git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
               git config --global user.name "github-actions[bot]"
 
+              # HACK: Had to move data to the action path because GitHub doesn't like doing it in the checkout step
+              mv "data" "$GITHUB_ACTION_PATH"
               node "$GITHUB_ACTION_PATH/dist/action/index.js"
 
         - name: Create Pull Request
