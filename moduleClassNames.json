@@ -2353,6 +2353,7 @@
     "contentColumnWide": "contentColumnWide__23e6b",
     "contentColumnDefault": "contentColumnDefault__23e6b",
     "contentColumnMinimal": "contentColumnMinimal__23e6b",
+    "contentColumnScrollable": "contentColumnScrollable__23e6b",
     "customHeader": "customHeader__23e6b",
     "customContainer": "customContainer__23e6b",
     "customScroller": "customScroller__23e6b",
@@ -3856,7 +3857,12 @@
     "productName": "productName_c3d04b",
     "newBadge": "newBadge_c3d04b",
     "partiallyOwned": "partiallyOwned_c3d04b",
-    "preview": "preview_c3d04b"
+    "preview": "preview_c3d04b",
+    "nameplatePreviewRootContainer": "nameplatePreviewRootContainer_c3d04b",
+    "nameplatePreviewList": "nameplatePreviewList_c3d04b",
+    "nameplatePreviewSampleItem": "nameplatePreviewSampleItem_c3d04b",
+    "placeholderItemChildrenDark": "placeholderItemChildrenDark_c3d04b",
+    "placeholderItemChildrenLight": "placeholderItemChildrenLight_c3d04b"
   },
   "148116": {
     "errorMessage": "errorMessage_d332d2",
@@ -6121,6 +6127,11 @@
   },
   "237310": {
     "icon": "icon_a9c2d1"
+  },
+  "237376": {
+    "separator": "separator__2dc49",
+    "gamesList": "gamesList__2dc49",
+    "gamesContainer": "gamesContainer__2dc49"
   },
   "237719": {
     "cyBanner": "cyBanner_cc67fb",
@@ -9352,6 +9363,13 @@
     "disabledIcon": "disabledIcon_e03935",
     "selected": "selected_e03935"
   },
+  "361193": {
+    "sectionBody": "sectionBody_eb5373",
+    "selectWrapper": "selectWrapper_eb5373",
+    "pills": "pills_eb5373",
+    "selectedGames": "selectedGames_eb5373",
+    "separator": "separator_eb5373"
+  },
   "361285": {
     "nagivateBackContainer": "nagivateBackContainer__786f4",
     "calendarContainer": "calendarContainer__786f4",
@@ -9588,6 +9606,16 @@
     "textHeader": "textHeader__3f9a4",
     "textHeaderWithGiftIcon": "textHeaderWithGiftIcon__3f9a4",
     "banner": "banner__3f9a4"
+  },
+  "371233": {
+    "gameImage": "gameImage_a3ec8a",
+    "gameUnknownImage": "gameUnknownImage_a3ec8a",
+    "selectedGame": "selectedGame_a3ec8a",
+    "checkBackground": "checkBackground_a3ec8a",
+    "placeholderPulse": "placeholderPulse_a3ec8a",
+    "gameImageLoading": "gameImageLoading_a3ec8a",
+    "gameImageBackground": "gameImageBackground_a3ec8a",
+    "gameName": "gameName_a3ec8a"
   },
   "371383": {
     "root": "root_a77292",
@@ -19265,6 +19293,8 @@
     "placeholderPulse": "placeholderPulse__27cc6",
     "multiplePlaceholder": "multiplePlaceholder__27cc6",
     "placeholder": "placeholder__27cc6",
+    "multiplePlaceholderAnimated": "multiplePlaceholderAnimated__27cc6",
+    "placeholderAnimated": "placeholderAnimated__27cc6",
     "mulitplePlaceholderUsername": "mulitplePlaceholderUsername__27cc6",
     "placeholderUsername": "placeholderUsername__27cc6",
     "avatarSmall": "avatarSmall__27cc6",
