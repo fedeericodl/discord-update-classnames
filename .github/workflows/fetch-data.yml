@@ -40,7 +40,6 @@ jobs:
                   git config --global user.name "github-actions[bot]"
 
                   cd ${{ env.DATA_PATH }}
-                  echo "scripts" > .gitignore
                   git add .
                   git diff-index --quiet HEAD || git commit -m "Automated update of class names"
                   git push origin data
