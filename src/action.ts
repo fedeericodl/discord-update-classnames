@@ -28,8 +28,21 @@ async function run() {
         let filePaths = await globber.glob();
         filePaths = filePaths.filter((file) => [".css", ".scss"].includes(path.extname(file).toLowerCase()));
 
-        await processThemeFiles(filePaths, classMap);
+        const replacerStats = await processThemeFiles(filePaths, classMap);
         core.info("Class names replaced successfully!");
+
+        const buildInfoPath = path.join(__dirname, "..", "..", "data", "buildInfo.json");
+        if (!fs.existsSync(buildInfoPath)) throw new Error(`Build info not found at: ${buildInfoPath}`);
+
+        const buildInfo = JSON.parse(fs.readFileSync(buildInfoPath, "utf-8"));
+
+        core.setOutput("version-hash", buildInfo.versionHash.slice(0, 7));
+        core.setOutput("built-at", buildInfo.builtAt);
+        core.setOutput("formatted-built-at", new Date(parseInt(buildInfo.builtAt)).toLocaleString());
+        core.setOutput("total-class-names", replacerStats.totalClassNames);
+        core.setOutput("changed-class-names", replacerStats.changedClassNames);
+        core.setOutput("failed-changed-class-names", replacerStats.failedChangedClassNames);
+        core.setOutput("failed-changed-files", replacerStats.failedChangedFiles);
     } catch (error) {
         core.setFailed(`Replacing class names failed: ${error}`);
     }
