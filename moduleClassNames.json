@@ -3049,8 +3049,8 @@
   },
   "110235": {
     "buttonHighlighted": "buttonHighlighted__5d39a",
-    "pausedButton": "pausedButton__5d39a",
-    "lockIcon": "lockIcon__5d39a"
+    "button": "button__5d39a",
+    "buttonIcon": "buttonIcon__5d39a"
   },
   "110262": {
     "container": "container__5a2d9",
@@ -4090,7 +4090,9 @@
   "155337": {
     "container": "container__25ea7",
     "headerContainer": "headerContainer__25ea7",
-    "contentContainer": "contentContainer__25ea7"
+    "contentContainer": "contentContainer__25ea7",
+    "boostButton": "boostButton__25ea7",
+    "boostButtonIcon": "boostButtonIcon__25ea7"
   },
   "155507": {
     "cardBrands": "cardBrands__3e8d5",
@@ -10163,7 +10165,9 @@
     "topPerksCard": "topPerksCard__3add8",
     "topPerksCardImage": "topPerksCardImage__3add8",
     "topPerksCardHeading": "topPerksCardHeading__3add8",
-    "topPerksCardDescription": "topPerksCardDescription__3add8"
+    "topPerksCardDescription": "topPerksCardDescription__3add8",
+    "topPerksCardNew": "topPerksCardNew__3add8",
+    "topPerksCardLabelContainer": "topPerksCardLabelContainer__3add8"
   },
   "390112": {
     "button": "button_afb575",
@@ -23491,6 +23495,10 @@
     "stackTraceCode": "stackTraceCode_db6581",
     "code": "code_db6581",
     "notificationIcon": "notificationIcon_db6581"
+  },
+  "912617": {
+    "container": "container_ef0711",
+    "powerupsContainer": "powerupsContainer_ef0711"
   },
   "912885": {
     "container": "container_f792fa",
