@@ -2149,6 +2149,25 @@
     "countText": "countText_f369db",
     "optInNotice": "optInNotice_f369db"
   },
+  "72981": {
+    "card": "card_c90d6e",
+    "progressContainer": "progressContainer_c90d6e",
+    "progress": "progress_c90d6e",
+    "full": "full_c90d6e",
+    "half": "half_c90d6e",
+    "none": "none_c90d6e",
+    "start": "start_c90d6e",
+    "middle": "middle_c90d6e",
+    "end": "end_c90d6e",
+    "active": "active_c90d6e",
+    "boostContainer": "boostContainer_c90d6e",
+    "boostContainerActive": "boostContainerActive_c90d6e",
+    "boost": "boost_c90d6e",
+    "perkRowContainer": "perkRowContainer_c90d6e",
+    "perkRow": "perkRow_c90d6e",
+    "perkText": "perkText_c90d6e",
+    "button": "button_c90d6e"
+  },
   "73285": {
     "container": "container__8a969",
     "iconContainer": "iconContainer__8a969",
@@ -7127,6 +7146,9 @@
     "detailsWrapper": "detailsWrapper__4a3a5",
     "headerDetailsWrapper": "headerDetailsWrapper__4a3a5",
     "premiumIcon": "premiumIcon__4a3a5"
+  },
+  "273066": {
+    "actionMenuButton": "actionMenuButton_d84e0f"
   },
   "273198": {
     "container": "container_be506c"
@@ -25624,7 +25646,6 @@
     "appDetailsContainer": "appDetailsContainer__50a54",
     "appAvatar": "appAvatar__50a54",
     "appAvatarV2": "appAvatarV2__50a54",
-    "actionMenuButton": "actionMenuButton__50a54",
     "reportButton": "reportButton__50a54",
     "permission": "permission__50a54",
     "permissionCheckmark": "permissionCheckmark__50a54",
