@@ -6946,6 +6946,14 @@
     "emptyPreview": "emptyPreview__48b20",
     "spinner": "spinner__48b20"
   },
+  "272048": {
+    "container": "container_badc98",
+    "modalImageWrapper": "modalImageWrapper_badc98",
+    "modalImage": "modalImage_badc98",
+    "content": "content_badc98",
+    "title": "title_badc98",
+    "footer": "footer_badc98"
+  },
   "272068": {
     "unownedStickerLockContainer": "unownedStickerLockContainer_ced283",
     "unownedStickerLockIcon": "unownedStickerLockIcon_ced283"
@@ -11708,6 +11716,7 @@
     "titleImage": "titleImage_c50f62",
     "description": "description_c50f62",
     "button": "button_c50f62",
+    "buttonInner": "buttonInner_c50f62",
     "disclaimer": "disclaimer_c50f62",
     "disclaimerLight": "disclaimerLight_c50f62",
     "priceTag": "priceTag_c50f62",
@@ -12103,6 +12112,9 @@
     "soundboardColumn": "soundboardColumn__16280",
     "soundboardRow": "soundboardRow__16280",
     "refresh": "refresh__16280"
+  },
+  "465261": {
+    "priceTag": "priceTag_cb53f6"
   },
   "465474": {
     "wrapper": "wrapper_a230e0",
@@ -17845,6 +17857,10 @@
     "link": "link__4d8b6",
     "coachmarkModalContainer": "coachmarkModalContainer__4d8b6"
   },
+  "682255": {
+    "orbPriceTag": "orbPriceTag__5dbac",
+    "insufficientBalance": "insufficientBalance__5dbac"
+  },
   "682333": {
     "closeIcon": "closeIcon__4f15b"
   },
@@ -18867,6 +18883,9 @@
     "container": "container__16689",
     "uploads": "uploads__16689",
     "uploadsContainer": "uploadsContainer__16689"
+  },
+  "729068": {
+    "priceLine": "priceLine__37ae9"
   },
   "730155": {
     "container": "container__0be77",
@@ -22374,6 +22393,7 @@
   },
   "864544": {
     "shopCard": "shopCard_c3d04b",
+    "cardButtonInner": "cardButtonInner_c3d04b",
     "shopCardDark": "shopCardDark_c3d04b shopCard_c3d04b",
     "shopCardHighlighted": "shopCardHighlighted_c3d04b",
     "shopCardDarkHighlighted": "shopCardDarkHighlighted_c3d04b",
