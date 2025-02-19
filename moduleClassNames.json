@@ -7777,6 +7777,10 @@
     "modalBody": "modalBody__47910",
     "closeButton": "closeButton__47910"
   },
+  "305499": {
+    "containerTop": "containerTop__45edc",
+    "containerBottom": "containerBottom__45edc"
+  },
   "305616": {
     "errorMessage": "errorMessage_d332d2",
     "createAccountTemplateHeader": "createAccountTemplateHeader_d332d2",
@@ -21049,10 +21053,6 @@
     "sortDropdown": "sortDropdown_bb26d9",
     "sortDropdownInner": "sortDropdownInner_bb26d9",
     "clearText": "clearText_bb26d9"
-  },
-  "818658": {
-    "containerTop": "containerTop__45edc",
-    "containerBottom": "containerBottom__45edc"
   },
   "818674": {
     "tierCards": "tierCards_be48d0",
