@@ -13348,16 +13348,11 @@
   },
   "513402": {
     "container": "container__4bbc6",
+    "nameplateContainer": "nameplateContainer__4bbc6",
+    "border": "border__4bbc6",
     "img": "img__4bbc6",
-    "imgLayer": "imgLayer__4bbc6",
-    "gradientLayer": "gradientLayer__4bbc6",
-    "borderLayer": "borderLayer__4bbc6",
     "hover": "hover__4bbc6",
-    "selected": "selected__4bbc6",
-    "memberslist": "memberslist__4bbc6",
-    "privateChannel": "privateChannel__4bbc6",
-    "content": "content__4bbc6",
-    "account": "account__4bbc6"
+    "selected": "selected__4bbc6"
   },
   "513538": {
     "wrapper": "wrapper__260e1",
@@ -24759,6 +24754,7 @@
   },
   "963175": {
     "container": "container__37e49",
+    "content": "content__37e49",
     "avatar": "avatar__37e49",
     "redIcon": "redIcon__37e49",
     "avatarWrapper": "avatarWrapper__37e49",
@@ -24774,7 +24770,6 @@
     "micButtonParent": "micButtonParent__37e49",
     "buttonChevron": "buttonChevron__37e49",
     "micButtonWithMenu": "micButtonWithMenu__37e49",
-    "nameplated": "nameplated__37e49",
     "buttons": "buttons__37e49",
     "buttonChevronIcon": "buttonChevronIcon__37e49"
   },
@@ -25567,6 +25562,8 @@
   "993556": {
     "container": "container__91a9d",
     "muted": "muted__91a9d",
+    "childContainer": "childContainer__91a9d",
+    "nameplated": "nameplated__91a9d",
     "avatar": "avatar__91a9d",
     "clickable": "clickable__91a9d",
     "active": "active__91a9d",
