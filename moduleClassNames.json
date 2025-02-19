@@ -6007,6 +6007,11 @@
     "joinedCheckmark": "joinedCheckmark_f1d99d",
     "buttonColorInGuild": "buttonColorInGuild_f1d99d"
   },
+  "234956": {
+    "subtitle": "subtitle__57c9c",
+    "description": "description__57c9c",
+    "switch": "switch__57c9c"
+  },
   "235794": {
     "header": "header__0856d",
     "gridNoticeWrapper": "gridNoticeWrapper__0856d",
@@ -6434,6 +6439,11 @@
     "infoNotice": "infoNotice_b25217",
     "paymentModalBreadcrumbs": "paymentModalBreadcrumbs_b25217",
     "paymentModalError": "paymentModalError_b25217"
+  },
+  "249361": {
+    "subtitle": "subtitle_e98840",
+    "description": "description_e98840",
+    "switch": "switch_e98840"
   },
   "249648": {
     "background": "background_fb62e2",
@@ -22744,6 +22754,7 @@
   },
   "877230": {
     "container": "container_f83afb",
+    "description": "description_f83afb",
     "divider": "divider_f83afb"
   },
   "877662": {
@@ -24080,6 +24091,11 @@
     "tab": "tab__0afb5",
     "progressBar": "progressBar__0afb5",
     "current": "current__0afb5"
+  },
+  "933650": {
+    "settings": "settings__1b19d",
+    "halfWidth": "halfWidth__1b19d",
+    "subtitle": "subtitle__1b19d"
   },
   "934457": {
     "bodyColumnLeft": "bodyColumnLeft_d64c23",
