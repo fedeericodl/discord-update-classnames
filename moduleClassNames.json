@@ -9954,9 +9954,10 @@
   "383244": {
     "galleryContainer": "galleryContainer_d75751",
     "gallery": "gallery_d75751",
-    "galleryItemOverlay": "galleryItemOverlay_d75751",
-    "selected": "selected_d75751",
-    "galleryItem": "galleryItem_d75751"
+    "galleryItem": "galleryItem_d75751",
+    "first": "first_d75751",
+    "last": "last_d75751",
+    "inactive": "inactive_d75751"
   },
   "383486": {
     "rootContainer": "rootContainer_dd04e8",
@@ -13153,7 +13154,8 @@
   "505363": {
     "dimensionlessImage": "dimensionlessImage_a22bfd",
     "wrapper": "wrapper_a22bfd",
-    "zoomed": "zoomed_a22bfd"
+    "zoomed": "zoomed_a22bfd",
+    "media": "media_a22bfd"
   },
   "505395": {
     "container": "container_a54d1d",
@@ -14948,6 +14950,11 @@
     "glow": "glow_f1ceac",
     "glowVideo": "glowVideo_f1ceac"
   },
+  "570124": {
+    "mediaArea": "mediaArea_e03578",
+    "animated": "animated_e03578",
+    "fadeIn": "fadeIn_e03578"
+  },
   "571555": {
     "embed": "embed_fb5def",
     "text": "text_fb5def",
@@ -15984,17 +15991,11 @@
     "body": "body__19cf2"
   },
   "609748": {
-    "wrapper": "wrapper_b2eddf",
-    "mediaContainer": "mediaContainer_b2eddf",
-    "mediaWrapper": "mediaWrapper_b2eddf",
-    "hasPreviews": "hasPreviews_b2eddf",
     "nav": "nav_b2eddf",
     "navPrev": "navPrev_b2eddf nav_b2eddf",
     "navNext": "navNext_b2eddf nav_b2eddf",
     "obscureWrapper": "obscureWrapper_b2eddf",
-    "obscure": "obscure_b2eddf",
-    "innerWrapper": "innerWrapper_b2eddf",
-    "shifted": "shifted_b2eddf"
+    "obscure": "obscure_b2eddf"
   },
   "609923": {
     "messagePreviewContainer": "messagePreviewContainer_f96002",
@@ -16269,10 +16270,11 @@
     "navigationDescription": "navigationDescription__36d07"
   },
   "623371": {
+    "fadeIn": "fadeIn__5cd44",
+    "fadeOut": "fadeOut__5cd44",
     "base": "base__5cd44",
-    "forceHidden": "forceHidden__5cd44",
     "hidden": "hidden__5cd44",
-    "group": "group__5cd44"
+    "focusSensitive": "focusSensitive__5cd44"
   },
   "623644": {
     "wrapper": "wrapper__99020",
@@ -17050,10 +17052,12 @@
   },
   "656868": {
     "topBar": "topBar__6088c",
-    "messageContents": "messageContents__6088c",
+    "author": "author__6088c",
+    "authorNameWrapper": "authorNameWrapper__6088c",
+    "authorName": "authorName__6088c",
+    "authorAvatar": "authorAvatar__6088c",
     "timestamp": "timestamp__6088c",
-    "closeButton": "closeButton__6088c",
-    "closeButtonInner": "closeButtonInner__6088c"
+    "closeButton": "closeButton__6088c"
   },
   "656870": {
     "header": "header__32c75",
@@ -21946,6 +21950,10 @@
     "isReply": "isReply__040f0",
     "emojiTooltipText": "emojiTooltipText__040f0",
     "emoji": "emoji__040f0"
+  },
+  "850494": {
+    "button": "button_aec7ab",
+    "buttonInner": "buttonInner_aec7ab"
   },
   "850606": {
     "content": "content_dbba93",
