@@ -10456,7 +10456,8 @@
   },
   "405796": {
     "description": "description__1f7ec",
-    "tagline": "tagline__1f7ec"
+    "tagline": "tagline__1f7ec",
+    "tag": "tag__1f7ec"
   },
   "405994": {
     "icon": "icon_b75563",
@@ -15174,7 +15175,6 @@
     "contentWrapper": "contentWrapper__98ba8",
     "img": "img__98ba8",
     "content": "content__98ba8",
-    "contentInfo": "contentInfo__98ba8",
     "linkIcon": "linkIcon__98ba8",
     "actionWrapper": "actionWrapper__98ba8",
     "alwaysWhiteText": "alwaysWhiteText__98ba8",
@@ -24600,7 +24600,7 @@
     "tooltipContent": "tooltipContent_c44293",
     "infoWrapper": "infoWrapper_c44293",
     "activityTimer": "activityTimer_c44293",
-    "activePlayingText": "activePlayingText_c44293"
+    "activePlayingWrapper": "activePlayingWrapper_c44293"
   },
   "957545": {
     "userSettingsOverlayField": "userSettingsOverlayField__4d38b",
