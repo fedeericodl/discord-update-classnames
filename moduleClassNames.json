@@ -2511,9 +2511,6 @@
     "placeholderAvatar": "placeholderAvatar__27cc6",
     "avatarMasked": "avatarMasked__27cc6"
   },
-  "89606": {
-    "wrapper": "wrapper__9671f"
-  },
   "89736": {
     "content": "content_e638e4",
     "metadata": "metadata_e638e4",
@@ -8058,6 +8055,9 @@
     "alignStart": "alignStart__708d1",
     "avatar": "avatar__708d1",
     "username": "username__708d1"
+  },
+  "316234": {
+    "wrapper": "wrapper__87c70"
   },
   "316584": {
     "popover": "popover_f84418",
@@ -17482,23 +17482,6 @@
   "671490": {
     "buttonsContainer": "buttonsContainer_a8b931"
   },
-  "671892": {
-    "container": "container__19218",
-    "svgContainer": "svgContainer__19218",
-    "svg": "svg__19218",
-    "content": "content__19218",
-    "closeButton": "closeButton__19218",
-    "closeButtonInner": "closeButtonInner__19218",
-    "closeButtonIcon": "closeButtonIcon__19218",
-    "tail": "tail__19218",
-    "tailPositionNormal": "tailPositionNormal__19218",
-    "tailPositionInverted": "tailPositionInverted__19218",
-    "tailSpine": "tailSpine__19218",
-    "tailTargetPositionNormal": "tailTargetPositionNormal__19218",
-    "tailTargetPositionInverted": "tailTargetPositionInverted__19218",
-    "tailTargetOuter": "tailTargetOuter__19218",
-    "tailTargetInner": "tailTargetInner__19218"
-  },
   "672723": {
     "headerContainer": "headerContainer__6d90b",
     "titleContainer": "titleContainer__6d90b",
@@ -23650,6 +23633,10 @@
     "imageContainer": "imageContainer__4c43d",
     "image": "image__4c43d"
   },
+  "907254": {
+    "svgContainer": "svgContainer_da47dd",
+    "svg": "svg_da47dd"
+  },
   "907661": {
     "blockedIgnoredSettingsNotice": "blockedIgnoredSettingsNotice__6811a",
     "closeButton": "closeButton__6811a"
@@ -24623,6 +24610,21 @@
     "autocompleteRowVerticalSmall": "autocompleteRowVerticalSmall__13533",
     "roleDot": "roleDot__13533",
     "autocompletePlaceholder": "autocompletePlaceholder__13533"
+  },
+  "953833": {
+    "container": "container__6e9b4",
+    "content": "content__6e9b4",
+    "closeButton": "closeButton__6e9b4",
+    "closeButtonInner": "closeButtonInner__6e9b4",
+    "closeButtonIcon": "closeButtonIcon__6e9b4",
+    "tail": "tail__6e9b4",
+    "tailPositionNormal": "tailPositionNormal__6e9b4",
+    "tailPositionInverted": "tailPositionInverted__6e9b4",
+    "tailSpine": "tailSpine__6e9b4",
+    "tailTargetPositionNormal": "tailTargetPositionNormal__6e9b4",
+    "tailTargetPositionInverted": "tailTargetPositionInverted__6e9b4",
+    "tailTargetOuter": "tailTargetOuter__6e9b4",
+    "tailTargetInner": "tailTargetInner__6e9b4"
   },
   "954075": {
     "cardContentsContainer": "cardContentsContainer_ed9c90",
