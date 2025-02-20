@@ -1632,7 +1632,10 @@
     "memberCount": "memberCount__99f53",
     "dot": "dot__99f53",
     "dotOnline": "dotOnline__99f53",
-    "established": "established__99f53"
+    "established": "established__99f53",
+    "nameContainer": "nameContainer__99f53",
+    "guildName": "guildName__99f53",
+    "guildBadge": "guildBadge__99f53"
   },
   "63069": {
     "container": "container__62196",
@@ -14139,7 +14142,8 @@
     "avatarWrapper": "avatarWrapper__86ab2",
     "body": "body__86ab2",
     "error": "error__86ab2",
-    "header": "header__86ab2"
+    "header": "header__86ab2",
+    "buttonContainer": "buttonContainer__86ab2"
   },
   "545722": {
     "scroller": "scroller__5d7c9",
