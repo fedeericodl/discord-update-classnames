@@ -32,7 +32,11 @@ interface ClassReplacerStats {
  * @param files The files to process.
  * @param options The options to use when processing the files.
  */
-export default async function (files: string[], classMap: Record<string, string>): Promise<ClassReplacerStats> {
+export default async function (
+    files: string[],
+    classMap: Record<string, string>,
+    ignoredClassNames: string[] = [],
+): Promise<ClassReplacerStats> {
     const stats = {
         totalClassNames: 0,
         changedClassNames: 0,
@@ -58,6 +62,11 @@ export default async function (files: string[], classMap: Record<string, string>
 
                 const groups = match.groups;
                 const className = groups.class_name;
+
+                if (className && ignoredClassNames.includes(className)) {
+                    continue;
+                }
+
                 stats.totalClassNames++;
 
                 if (!className || !classMap[className]) {

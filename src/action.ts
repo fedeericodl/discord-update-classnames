@@ -14,6 +14,8 @@ async function run() {
         const files = process.env.INPUT_FILES || "";
         const followSymbolicLinks = process.env.INPUT_FOLLOW_SYMBOLIC_LINKS === "true" || true;
         const ignores = process.env.INPUT_IGNORES || "";
+        const ignoreClassNames = process.env.INPUT_IGNORE_CLASS_NAMES || "";
+        const reportOutdated = process.env.INPUT_REPORT_OUTDATED === "true" || false;
 
         const ignorePatterns = ignores
             ? ignores
@@ -28,7 +30,12 @@ async function run() {
         let filePaths = await globber.glob();
         filePaths = filePaths.filter((file) => [".css", ".scss"].includes(path.extname(file).toLowerCase()));
 
-        const replacerStats = await processThemeFiles(filePaths, classMap);
+        const ignoreClassNamesList = ignoreClassNames
+            .split(/[\n,]+/)
+            .map((s) => s.trim())
+            .filter(Boolean);
+
+        const replacerStats = await processThemeFiles(filePaths, classMap, ignoreClassNamesList);
         core.info("Class names replaced successfully!");
 
         const buildInfoPath = path.join(__dirname, "..", "..", "data", "buildInfo.json");
@@ -43,6 +50,12 @@ async function run() {
         core.setOutput("changed-class-names", replacerStats.changedClassNames);
         core.setOutput("failed-changed-class-names", replacerStats.failedChangedClassNames);
         core.setOutput("failed-changed-files", replacerStats.failedChangedFiles);
+
+        if (replacerStats.failedChangedClassNames > 0 && replacerStats.changedClassNames === 0 && reportOutdated) {
+            throw new Error(
+                `Found ${replacerStats.failedChangedClassNames} outdated class names that could not be updated.`,
+            );
+        }
     } catch (error) {
         core.setFailed(`Replacing class names failed: ${error}`);
     }

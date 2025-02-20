@@ -20,6 +20,16 @@ inputs:
                 src/theme/**/*.scss
                 theme.css
                 components/*.scss
+    ignore-class-names:
+        description: |
+            Class names to ignore during processing (comma/newline separated). Use this for client mod/plugin classes to avoid false positives
+            Example: |
+                class1,class2
+                class3
+                class4
+    report-outdated:
+        description: "Indicates whether to fail the action if outdated class names are found, even if no changes were made"
+        default: false
     token:
         description: "GitHub token to use for pull requests creation"
         default: ${{ github.token }}
@@ -34,22 +44,22 @@ inputs:
         default: "Class Name Updates"
 outputs:
     version-hash:
-        description: "Discord build version hash"
+        description: "Discord client build version hash"
         value: ${{ steps.update-classnames.outputs.version-hash }}
     built-at:
-        description: "Discord build date timestamp"
+        description: "Discord client build date timestamp"
         value: ${{ steps.update-classnames.outputs.built-at }}
     formatted-built-at:
-        description: "Formatted Discord build date"
+        description: "Formatted Discord client build date"
         value: ${{ steps.update-classnames.outputs.formatted-built-at }}
     total-class-names:
-        description: "Total class names found"
+        description: "Total class names found in theme files"
         value: ${{ steps.update-classnames.outputs.total-class-names }}
     changed-class-names:
-        description: "Class names successfully updated"
+        description: "Class names successfully updated in theme files"
         value: ${{ steps.update-classnames.outputs.changed-class-names }}
     failed-changed-class-names:
-        description: "Class names that could not be updated"
+        description: "Class names that could not be updated in theme files"
         value: ${{ steps.update-classnames.outputs.failed-changed-class-names }}
 runs:
     using: "composite"
@@ -68,6 +78,8 @@ runs:
               INPUT_FILES: ${{ inputs.files }}
               INPUT_FOLLOW_SYMBOLIC_LINKS: ${{ inputs.follow-symbolic-links }}
               INPUT_IGNORES: ${{ inputs.ignores }}
+              INPUT_IGNORE_CLASS_NAMES: ${{ inputs.ignore-class-names }}
+              INPUT_REPORT_OUTDATED: ${{ inputs.report-outdated }}
           run: |
               git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
               git config --global user.name "github-actions[bot]"
@@ -75,6 +87,14 @@ runs:
               # HACK: Had to move data to the action path because GitHub doesn't like doing it in the checkout step
               mv "data" "$GITHUB_ACTION_PATH"
               node "$GITHUB_ACTION_PATH/dist/action/index.js"
+
+        - name: Report Outdated Classes
+          if: ${{ failure() && inputs.report-outdated == 'true' && steps.update-classnames.outputs.failed-changed-class-names > 0 && steps.update-classnames.outputs.changed-class-names == 0 }}
+          shell: bash
+          run: |
+              echo "::warning:: Found ${{ steps.update-classnames.outputs.failed-changed-class-names }} outdated class names:"
+              echo "${{ steps.update-classnames.outputs.failed-changed-files }}"
+              exit 1
 
         - name: Create Pull Request
           if: ${{ success() }}

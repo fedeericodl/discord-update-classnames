@@ -44,17 +44,32 @@ This is the most basic setup. You can customize the action by providing addition
 
 The following inputs can be used to customize the action:
 
-| Name                    | Description                                                            | Default                                         | Required |
-| ----------------------- | ---------------------------------------------------------------------- | ----------------------------------------------- | :------: |
-| `files`                 | Files/directories to process (comma/newline separated)                 |                                                 |   Yes    |
-| `follow-symbolic-links` | Indicates whether to follow symbolic links when resolving file paths   | `true`                                          |    No    |
-| `ignores`               | Files/directories to exclude from processing (comma/newline separated) |                                                 |    No    |
-| `token`                 | GitHub token to use for pull requests creation                         | `GITHUB_TOKEN`                                  |    No    |
-| `target-branch`         | Destination branch for automated changes (creates if missing)          | `classname-updates`                             |    No    |
-| `commit-message`        | Commit message template                                                | `chore: update Discord class names (automated)` |    No    |
-| `pr-title`              | Pull request title template                                            | `Class Name Updates`                            |    No    |
+| Name                    | Description                                                                                                                        | Default                                         | Required |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | :------: |
+| `files`                 | Files/directories to process (comma/newline separated)                                                                             |                                                 |   Yes    |
+| `follow-symbolic-links` | Indicates whether to follow symbolic links when resolving file paths                                                               | `true`                                          |    No    |
+| `ignores`               | Files/directories to exclude from processing (comma/newline separated)                                                             |                                                 |    No    |
+| `ignore-class-names`    | Class names to ignore during processing (comma/newline separated). Use this for client mod/plugin classes to avoid false positives |                                                 |    No    |
+| `report-outdated`       | Indicates whether to fail the action if outdated class names are found, even if no changes were made                               | `false`                                         |    No    |
+| `token`                 | GitHub token to use for pull requests creation                                                                                     | `GITHUB_TOKEN`                                  |    No    |
+| `target-branch`         | Destination branch for automated changes (creates if missing)                                                                      | `classname-updates`                             |    No    |
+| `commit-message`        | Commit message template                                                                                                            | `chore: update Discord class names (automated)` |    No    |
+| `pr-title`              | Pull request title template                                                                                                        | `Class Name Updates`                            |    No    |
 
 :exclamation: The `files` input is required and should point to the theme files or directories to process. You can use glob patterns to match multiple files, e.g. `src/theme/**/*.scss`.
+
+When using this action with themes that include styling for client mods (like BetterDiscord, Vencord, etc.) or plugins, you should specify their class names in the `ignore-class-names` input. Otherwise, these class names will be reported as "failed" or "outdated" since they don't exist in the vanilla Discord client.
+
+### Outputs
+
+The action provides the following outputs:
+
+- `version-hash`: Discord client build version hash
+- `built-at`: Discord client build date timestamp
+- `formatted-built-at`: Formatted Discord client build date
+- `total-class-names`: Total class names found in theme files
+- `changed-class-names`: Class names successfully updated in theme files
+- `failed-changed-class-names`: Class names that could not be updated in theme files
 
 ## Data Outputs
 
