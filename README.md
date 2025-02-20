@@ -66,7 +66,6 @@ The action provides the following outputs:
 
 - `version-hash`: Discord client build version hash
 - `built-at`: Discord client build date timestamp
-- `formatted-built-at`: Formatted Discord client build date
 - `total-class-names`: Total class names found in theme files
 - `changed-class-names`: Class names successfully updated in theme files
 - `failed-changed-class-names`: Class names that could not be updated in theme files
