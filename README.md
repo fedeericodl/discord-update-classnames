@@ -3,6 +3,8 @@
 [![Fetch Data](https://github.com/fedeericodl/discord-update-classnames/actions/workflows/fetch-data.yml/badge.svg)](https://github.com/fedeericodl/discord-update-classnames/actions/workflows/fetch-data.yml)
 [![Lint](https://github.com/fedeericodl/discord-update-classnames/actions/workflows/lint.yml/badge.svg)](https://github.com/fedeericodl/discord-update-classnames/actions/workflows/lint.yml)
 
+:warning: This is not released yet, you can test it by using the `main` branch as the version (`fedeericodl/discord-update-classnames@main`). Please report any issues you find.
+
 The `discord-update-classnames` GitHub action provides automated synchronization of Discord theme class names with the latest changes directly extracted from the client. This tool helps theme developers maintain compatibility by automatically updating CSS class names in their themes and warning about deprecated selectors.
 
 ## Features
