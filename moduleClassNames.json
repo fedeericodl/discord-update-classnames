@@ -331,6 +331,10 @@
     "caret": "caret__75906",
     "channelIcon": "channelIcon__75906"
   },
+  "13798": {
+    "container": "container_bb7f52",
+    "divider": "divider_bb7f52"
+  },
   "13804": {
     "features": "features_b8f10d",
     "video": "video_b8f10d",
@@ -6798,6 +6802,15 @@
   "265773": {
     "tabBarItem": "tabBarItem_e32080"
   },
+  "265914": {
+    "title": "title_fb71d6",
+    "modalContent": "modalContent_fb71d6",
+    "content": "content_fb71d6",
+    "selectionPane": "selectionPane_fb71d6",
+    "selectionItem": "selectionItem_fb71d6",
+    "selected": "selected_fb71d6",
+    "closeButton": "closeButton_fb71d6"
+  },
   "265992": {
     "container": "container_a3e361",
     "form": "form_a3e361",
@@ -11719,6 +11732,7 @@
     "titleImage": "titleImage_c50f62",
     "description": "description_c50f62",
     "button": "button_c50f62",
+    "enabledButton": "enabledButton_c50f62",
     "buttonInner": "buttonInner_c50f62",
     "disclaimer": "disclaimer_c50f62",
     "disclaimerLight": "disclaimerLight_c50f62",
@@ -11728,7 +11742,10 @@
     "buttonsContainer": "buttonsContainer_c50f62",
     "primaryButtons": "primaryButtons_c50f62",
     "variantsSwitch": "variantsSwitch_c50f62",
-    "headerButtonContainer": "headerButtonContainer_c50f62"
+    "headerButtonContainer": "headerButtonContainer_c50f62",
+    "errorMessageLine": "errorMessageLine_c50f62",
+    "payWithFiatLink": "payWithFiatLink_c50f62",
+    "payWithFiatLinkText": "payWithFiatLinkText_c50f62"
   },
   "453997": {
     "strikethrough": "strikethrough__4c6bf"
@@ -15975,6 +15992,10 @@
     "bottomDivider": "bottomDivider__01014",
     "verticalFit": "verticalFit__01014",
     "paginator": "paginator__01014"
+  },
+  "605510": {
+    "priceLine": "priceLine__794a8",
+    "orbText": "orbText__794a8"
   },
   "606323": {
     "member": "member__122b7",
