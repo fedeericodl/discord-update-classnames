@@ -5189,11 +5189,10 @@
     "buttonContainer": "buttonContainer__981f7"
   },
   "200100": {
-    "settingsColumn": "settingsColumn_fa2640 customColumn__23e6b",
-    "settingsContainer": "settingsContainer_fa2640 customContainer__23e6b",
-    "settingsScroller": "settingsScroller_fa2640 customScroller__23e6b contentRegionScroller__23e6b",
+    "override": "override_fa2640",
+    "settingsColumn": "settingsColumn_fa2640",
     "settingsHorizontalScroller": "settingsHorizontalScroller_fa2640",
-    "settingsContent": "settingsContent_fa2640 contentColumnDefault__23e6b settingsColumn_fa2640 customColumn__23e6b",
+    "settingsContent": "settingsContent_fa2640",
     "header": "header_fa2640",
     "tableContainer": "tableContainer_fa2640",
     "mainTableContainer": "mainTableContainer_fa2640",
@@ -13408,7 +13407,6 @@
   },
   "513402": {
     "container": "container__4bbc6",
-    "nameplateContainer": "nameplateContainer__4bbc6",
     "border": "border__4bbc6",
     "img": "img__4bbc6",
     "hover": "hover__4bbc6",
