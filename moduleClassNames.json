@@ -3168,6 +3168,7 @@
   },
   "119536": {
     "button": "button__67645",
+    "redGlow": "redGlow__67645",
     "enabled": "enabled__67645",
     "disabled": "disabled__67645"
   },
@@ -8937,6 +8938,8 @@
     "buttonColor": "buttonColor_e131a9",
     "buttonActive": "buttonActive_e131a9",
     "fauxDisabled": "fauxDisabled_e131a9",
+    "experimentButton": "experimentButton_e131a9",
+    "greyButtonActive": "greyButtonActive_e131a9",
     "buttonContents": "buttonContents_e131a9",
     "buttonIcon": "buttonIcon_e131a9",
     "withText": "withText_e131a9",
@@ -21622,6 +21625,10 @@
     "cmdDetails": "cmdDetails__761e5",
     "cmdAppName": "cmdAppName__761e5"
   },
+  "835211": {
+    "container": "container__71aa5",
+    "image": "image__71aa5"
+  },
   "835247": {
     "giftRecipientInfo": "giftRecipientInfo__57118",
     "content": "content__57118",
@@ -24857,6 +24864,7 @@
     "avatar": "avatar__37e49",
     "redIcon": "redIcon__37e49",
     "avatarWrapper": "avatarWrapper__37e49",
+    "experiment": "experiment__37e49",
     "nameTag": "nameTag__37e49",
     "canCopy": "canCopy__37e49",
     "panelTitleContainer": "panelTitleContainer__37e49",
@@ -24869,6 +24877,7 @@
     "micButtonParent": "micButtonParent__37e49",
     "buttonChevron": "buttonChevron__37e49",
     "micButtonWithMenu": "micButtonWithMenu__37e49",
+    "buttonSpace": "buttonSpace__37e49",
     "buttons": "buttons__37e49",
     "buttonChevronIcon": "buttonChevronIcon__37e49"
   },
