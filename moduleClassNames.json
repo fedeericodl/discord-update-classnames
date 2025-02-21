@@ -6730,6 +6730,20 @@
     "hub": "hub__09691 hubContainer__09691 background__09691",
     "verifiedHub": "verifiedHub__09691 hubContainer__09691 background__09691"
   },
+  "262143": {
+    "modal": "modal_cf1d1c",
+    "spinnerContainer": "spinnerContainer_cf1d1c",
+    "errorContainer": "errorContainer_cf1d1c",
+    "errorContentContainer": "errorContentContainer_cf1d1c",
+    "errorHeader": "errorHeader_cf1d1c",
+    "header": "header_cf1d1c",
+    "amountLabel": "amountLabel_cf1d1c",
+    "closeBtn": "closeBtn_cf1d1c",
+    "img": "img_cf1d1c",
+    "title": "title_cf1d1c",
+    "subtext": "subtext_cf1d1c",
+    "ctaBtn": "ctaBtn_cf1d1c"
+  },
   "262382": {
     "clickable": "clickable__2debe",
     "info": "info__2debe",
