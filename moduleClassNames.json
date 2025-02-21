@@ -20713,6 +20713,11 @@
     "traitsMask": "traitsMask_b770c4",
     "traitsBorderMask": "traitsBorderMask_b770c4"
   },
+  "802260": {
+    "badgeContainer": "badgeContainer_f14037",
+    "newBadge": "newBadge_f14037",
+    "timer": "timer_f14037"
+  },
   "802747": {
     "popoutWrapper": "popoutWrapper_ef4a91",
     "scroller": "scroller_ef4a91",
@@ -23604,7 +23609,11 @@
     "incentiveTooltipPointer": "incentiveTooltipPointer__83ef9",
     "incentiveCoachtipContainer": "incentiveCoachtipContainer__83ef9",
     "icon": "icon__83ef9",
-    "incentiveIcon": "incentiveIcon__83ef9"
+    "incentiveIcon": "incentiveIcon__83ef9",
+    "collectibleDecoReminderCoachmarkHeader": "collectibleDecoReminderCoachmarkHeader__83ef9",
+    "collectibleDecoReminderCoachmarkContent": "collectibleDecoReminderCoachmarkContent__83ef9",
+    "collectibleDecoReminderCoachmarkPointer": "collectibleDecoReminderCoachmarkPointer__83ef9",
+    "greyedOut": "greyedOut__83ef9"
   },
   "905074": {
     "textPrimary": "textPrimary__8e577",
