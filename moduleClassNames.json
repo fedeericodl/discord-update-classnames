@@ -4442,6 +4442,10 @@
     "skip": "skip__949ab",
     "skipColor": "skipColor__949ab"
   },
+  "175671": {
+    "lineClamp2Plus": "lineClamp2Plus__38db5",
+    "lineClamp1": "lineClamp1__38db5"
+  },
   "176426": {
     "radioGroup": "radioGroup__963c3",
     "radioGroupItem": "radioGroupItem__963c3"
@@ -11539,10 +11543,6 @@
     "wrapper": "wrapper_b76891",
     "copy": "copy_b76891",
     "rewardTile": "rewardTile_b76891"
-  },
-  "445992": {
-    "lineClamp2Plus": "lineClamp2Plus__38db5",
-    "lineClamp1": "lineClamp1__38db5"
   },
   "446426": {
     "channelHeader": "channelHeader__06fb5",
