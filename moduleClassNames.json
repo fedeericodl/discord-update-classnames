@@ -1498,6 +1498,9 @@
     "withFooter": "withFooter__44c9a",
     "messageContainer": "messageContainer__44c9a"
   },
+  "55345": {
+    "textImportant": "textImportant__877f0"
+  },
   "55373": {
     "formHeaderContainer": "formHeaderContainer__23a6b",
     "formContent": "formContent__23a6b",
@@ -4267,6 +4270,7 @@
     "avControls": "avControls_fcb27c",
     "experimentWrapper": "experimentWrapper_fcb27c",
     "buttonSection": "buttonSection_fcb27c",
+    "experimentButtonSection": "experimentButtonSection_fcb27c",
     "avSpacing": "avSpacing_fcb27c"
   },
   "165362": {
@@ -8165,6 +8169,9 @@
     "voiceChannelNameContainer": "voiceChannelNameContainer__46219",
     "channelIcon": "channelIcon__46219",
     "channelName": "channelName__46219"
+  },
+  "322758": {
+    "container": "container__9b0bb"
   },
   "324105": {
     "popout": "popout_d5c2c4",
@@ -15002,6 +15009,7 @@
     "experimentRed": "experimentRed_f1ceac",
     "disconnect": "disconnect_f1ceac",
     "redGlow": "redGlow_f1ceac",
+    "popoutOpen": "popoutOpen_f1ceac",
     "primaryDark": "primaryDark_f1ceac",
     "primaryLight": "primaryLight_f1ceac",
     "activeLight": "activeLight_f1ceac",
@@ -15016,6 +15024,7 @@
     "experimentActiveLight": "experimentActiveLight_f1ceac",
     "centerButton": "centerButton_f1ceac colorable_f1ceac",
     "experimentButton": "experimentButton_f1ceac colorable_f1ceac",
+    "attachedButton": "attachedButton_f1ceac",
     "fullRegionButton": "fullRegionButton_f1ceac",
     "fullRegionDropdownButton": "fullRegionDropdownButton_f1ceac",
     "fullRegionIcon": "fullRegionIcon_f1ceac",
@@ -15024,7 +15033,9 @@
     "staticButton": "staticButton_f1ceac",
     "contextMenuNub": "contextMenuNub_f1ceac colorable_f1ceac",
     "caretButtonContainer": "caretButtonContainer_f1ceac",
+    "attachedCaretButtonContainer": "attachedCaretButtonContainer_f1ceac",
     "contextMenuNubExperiment": "contextMenuNubExperiment_f1ceac colorable_f1ceac",
+    "attachedCaret": "attachedCaret_f1ceac",
     "contextMenuCaret": "contextMenuCaret_f1ceac",
     "open": "open_f1ceac",
     "contextMenuCaretExperiment": "contextMenuCaretExperiment_f1ceac",
@@ -17178,6 +17189,7 @@
     "experimentWrapper": "experimentWrapper__1405b wrapper__1405b",
     "buttonContainer": "buttonContainer__1405b",
     "buttonSection": "buttonSection__1405b",
+    "experimentButtonSection": "experimentButtonSection__1405b",
     "avSpacing": "avSpacing__1405b"
   },
   "658868": {
@@ -17818,6 +17830,10 @@
   "678937": {
     "picker": "picker__7f2be",
     "themes": "themes__7f2be"
+  },
+  "678970": {
+    "container": "container__1656b",
+    "icon": "icon__1656b"
   },
   "679299": {
     "container": "container_afa88e",
@@ -22466,7 +22482,7 @@
     "variantsGroup": "variantsGroup_c3d04b",
     "profileEffectShopPreview": "profileEffectShopPreview_c3d04b",
     "productName": "productName_c3d04b",
-    "newBadge": "newBadge_c3d04b",
+    "badge": "badge_c3d04b",
     "partiallyOwned": "partiallyOwned_c3d04b",
     "preview": "preview_c3d04b",
     "nameplatePreviewRootContainer": "nameplatePreviewRootContainer_c3d04b",
