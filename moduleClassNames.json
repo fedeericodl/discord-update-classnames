@@ -2080,6 +2080,19 @@
     "arrow": "arrow__4a4f2",
     "noticeRegion": "noticeRegion__4a4f2"
   },
+  "77820": {
+    "combo": "combo__257af",
+    "comboValue": "comboValue__257af",
+    "comboNameplate": "comboNameplate__257af",
+    "comboMultiplier": "comboMultiplier__257af",
+    "comboSquare": "comboSquare__257af",
+    "left": "left__257af",
+    "right": "right__257af",
+    "confettiIcon": "confettiIcon__257af",
+    "tip": "tip__257af",
+    "messageComboScore": "messageComboScore__257af",
+    "comboScore": "comboScore__257af"
+  },
   "78023": {
     "container": "container__1ce5d",
     "circularImage": "circularImage__1ce5d",
@@ -13285,6 +13298,10 @@
   "507731": {
     "goLiveGridContainer": "goLiveGridContainer__466c6"
   },
+  "508060": {
+    "assetContainer": "assetContainer_cd036b",
+    "asset": "asset_cd036b"
+  },
   "508112": {
     "container": "container_e66c4d",
     "content": "content_e66c4d",
@@ -21179,19 +21196,6 @@
     "addStatusPrompt": "addStatusPrompt_ab8609",
     "addStatusIcon": "addStatusIcon_ab8609",
     "addStatusIconColor": "addStatusIconColor_ab8609"
-  },
-  "819831": {
-    "combo": "combo__257af",
-    "comboValue": "comboValue__257af",
-    "comboNameplate": "comboNameplate__257af",
-    "comboMultiplier": "comboMultiplier__257af",
-    "comboSquare": "comboSquare__257af",
-    "left": "left__257af",
-    "right": "right__257af",
-    "confettiIcon": "confettiIcon__257af",
-    "tip": "tip__257af",
-    "messageComboScore": "messageComboScore__257af",
-    "comboScore": "comboScore__257af"
   },
   "820190": {
     "drawerSizingWrapper": "drawerSizingWrapper__9c62c",
