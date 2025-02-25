@@ -10500,6 +10500,12 @@
     "tooltip": "tooltip__450d3",
     "tooltipTimestamp": "tooltipTimestamp__450d3"
   },
+  "401345": {
+    "bulletPointsContainer": "bulletPointsContainer__4f18f",
+    "bulletPointRow": "bulletPointRow__4f18f",
+    "bulletPointIconContainer": "bulletPointIconContainer__4f18f",
+    "bulletPointText": "bulletPointText__4f18f"
+  },
   "401802": {
     "sharePromptContainer": "sharePromptContainer__56d6c",
     "sharePromptContent": "sharePromptContent__56d6c",
@@ -19855,6 +19861,7 @@
     "gameWrapper": "gameWrapper__5dec7",
     "liveIndicator": "liveIndicator__5dec7",
     "clickableGameWrapper": "clickableGameWrapper__5dec7",
+    "clickableGameWrapperForceHover": "clickableGameWrapperForceHover__5dec7",
     "gameIcon": "gameIcon__5dec7",
     "info": "info__5dec7",
     "sparkleContainer": "sparkleContainer__5dec7",
@@ -21776,6 +21783,8 @@
     "giftRecipientTag": "giftRecipientTag__57118"
   },
   "835273": {
+    "colorBrand": "colorBrand__675aa",
+    "colorPrimary": "colorPrimary__675aa",
     "upsellTooltipWrapper": "upsellTooltipWrapper__675aa",
     "caretTopCenter": "caretTopCenter__675aa",
     "caretTopRight": "caretTopRight__675aa",
@@ -22419,7 +22428,8 @@
     "iframeAndHeaderContainer": "iframeAndHeaderContainer__0b406",
     "headerContainer": "headerContainer__0b406",
     "iframeContainer": "iframeContainer__0b406",
-    "iframe": "iframe__0b406"
+    "iframe": "iframe__0b406",
+    "nuxBackground": "nuxBackground__0b406"
   },
   "860007": {
     "body": "body__33efa",
@@ -22786,7 +22796,13 @@
   },
   "870114": {
     "applicationBody": "applicationBody__864b0",
-    "form": "form__864b0"
+    "form": "form__864b0",
+    "twoColumnContainer": "twoColumnContainer__864b0",
+    "column": "column__864b0",
+    "divider": "divider__864b0",
+    "previewWrapper": "previewWrapper__864b0",
+    "gradient": "gradient__864b0",
+    "preview": "preview__864b0"
   },
   "870571": {
     "chatWheelMouseInput": "chatWheelMouseInput_adfa30",
@@ -25601,8 +25617,8 @@
     "headerBar": "headerBar__808a1"
   },
   "985775": {
-    "container": "container_ee84e7",
-    "control": "control_ee84e7"
+    "twoColumnContainer": "twoColumnContainer_ee84e7",
+    "column": "column_ee84e7"
   },
   "985856": {
     "button": "button__2723e",
