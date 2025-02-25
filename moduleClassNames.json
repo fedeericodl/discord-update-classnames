@@ -10609,6 +10609,11 @@
   "408717": {
     "container": "container__4216d"
   },
+  "409194": {
+    "container": "container__77b6b",
+    "image": "image__77b6b",
+    "text": "text__77b6b"
+  },
   "409716": {
     "container": "container_c2b141",
     "keybind": "keybind_c2b141",
@@ -16484,6 +16489,9 @@
     "removeButton": "removeButton__89253",
     "buttonHighlighted": "buttonHighlighted__89253",
     "overrideButtonsContainer": "overrideButtonsContainer__89253"
+  },
+  "625633": {
+    "image": "image__0c271"
   },
   "625855": {
     "guildsError": "guildsError_e8d03f",
