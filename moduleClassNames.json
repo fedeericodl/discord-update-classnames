@@ -987,6 +987,7 @@
   "39205": {
     "grid": "grid_ec9088",
     "itemContainer": "itemContainer_ec9088",
+    "disabled": "disabled_ec9088",
     "itemSelected": "itemSelected_ec9088",
     "uploadItemSelected": "uploadItemSelected_ec9088",
     "uploadItem": "uploadItem_ec9088",
@@ -13290,6 +13291,9 @@
     "inheritBackgroundColor": "inheritBackgroundColor_fe5e5d",
     "inheritTextColor": "inheritTextColor_fe5e5d"
   },
+  "503679": {
+    "panel": "panel__777bf"
+  },
   "503714": {
     "tierNameColumn": "tierNameColumn_e431b0",
     "priceColumn": "priceColumn_e431b0",
@@ -24859,6 +24863,7 @@
     "gameUnknownImage": "gameUnknownImage_a3ec8a",
     "selectedGame": "selectedGame_a3ec8a",
     "dimmed": "dimmed_a3ec8a",
+    "disabled": "disabled_a3ec8a",
     "checkBackground": "checkBackground_a3ec8a",
     "placeholderPulse": "placeholderPulse_a3ec8a",
     "gameImageLoading": "gameImageLoading_a3ec8a",
