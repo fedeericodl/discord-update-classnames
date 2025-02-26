@@ -2177,7 +2177,10 @@
     "perkRowContainer": "perkRowContainer_c90d6e",
     "perkRow": "perkRow_c90d6e",
     "perkText": "perkText_c90d6e",
-    "button": "button_c90d6e"
+    "button": "button_c90d6e",
+    "buttonInner": "buttonInner_c90d6e",
+    "dot": "dot_c90d6e",
+    "cost": "cost_c90d6e"
   },
   "78975": {
     "headerContainer": "headerContainer__3131d",
@@ -2767,11 +2770,6 @@
     "feature": "feature_fefb6d",
     "featureIcon": "featureIcon_fefb6d feature_fefb6d",
     "description": "description_fefb6d"
-  },
-  "96629": {
-    "container": "container__133ec",
-    "primaryButton": "primaryButton__133ec",
-    "secondaryButton": "secondaryButton__133ec"
   },
   "97135": {
     "container": "container__812a7",
@@ -22158,8 +22156,7 @@
     "premiumWheel": "premiumWheel__54675",
     "boostingPill": "boostingPill__54675",
     "imageSpecifications": "imageSpecifications__54675",
-    "premiumUpsell": "premiumUpsell__54675",
-    "recentAvatarsSection": "recentAvatarsSection__54675"
+    "premiumUpsell": "premiumUpsell__54675"
   },
   "850113": {
     "container": "container__040f0",
@@ -22261,29 +22258,6 @@
     "pill": "pill_fccfdf",
     "expandButton": "expandButton_fccfdf pill_fccfdf",
     "collapseButton": "collapseButton_fccfdf pill_fccfdf"
-  },
-  "853354": {
-    "container": "container_f792fa",
-    "guildSidebar": "guildSidebar_f792fa",
-    "sidebarCard": "sidebarCard_f792fa",
-    "modal": "modal_f792fa",
-    "sequencer": "sequencer_f792fa",
-    "modalContent": "modalContent_f792fa",
-    "mainContentWrapper": "mainContentWrapper_f792fa",
-    "content": "content_f792fa",
-    "closeButton": "closeButton_f792fa",
-    "applicationIconContainer": "applicationIconContainer_f792fa",
-    "applicationIcon": "applicationIcon_f792fa",
-    "header": "header_f792fa",
-    "footer": "footer_f792fa",
-    "divider": "divider_f792fa",
-    "submitButton": "submitButton_f792fa",
-    "formItem": "formItem_f792fa",
-    "resendButton": "resendButton_f792fa",
-    "notice": "notice_f792fa",
-    "disclaimerFooter": "disclaimerFooter_f792fa",
-    "guildProfile": "guildProfile_f792fa",
-    "sidebarGradientOverlay": "sidebarGradientOverlay_f792fa"
   },
   "853488": {
     "syncing": "syncing_a706ba",
@@ -24646,6 +24620,29 @@
     "icon": "icon__83b1d",
     "spinner": "spinner__83b1d"
   },
+  "949543": {
+    "container": "container_f792fa",
+    "guildSidebar": "guildSidebar_f792fa",
+    "sidebarCard": "sidebarCard_f792fa",
+    "modal": "modal_f792fa",
+    "sequencer": "sequencer_f792fa",
+    "modalContent": "modalContent_f792fa",
+    "mainContentWrapper": "mainContentWrapper_f792fa",
+    "content": "content_f792fa",
+    "closeButton": "closeButton_f792fa",
+    "applicationIconContainer": "applicationIconContainer_f792fa",
+    "applicationIcon": "applicationIcon_f792fa",
+    "header": "header_f792fa",
+    "footer": "footer_f792fa",
+    "divider": "divider_f792fa",
+    "submitButton": "submitButton_f792fa",
+    "formItem": "formItem_f792fa",
+    "resendButton": "resendButton_f792fa",
+    "notice": "notice_f792fa",
+    "disclaimerFooter": "disclaimerFooter_f792fa",
+    "guildProfile": "guildProfile_f792fa",
+    "sidebarGradientOverlay": "sidebarGradientOverlay_f792fa"
+  },
   "949730": {
     "inline": "inline__6c706",
     "hiddenMosaicItem": "hiddenMosaicItem__6c706",
@@ -25025,6 +25022,11 @@
     "roleRemoveIconFocused": "roleRemoveIconFocused_dfa8b6",
     "roleVerifiedIcon": "roleVerifiedIcon_dfa8b6",
     "roleCircle": "roleCircle_dfa8b6"
+  },
+  "963158": {
+    "container": "container__2b26c",
+    "primaryButton": "primaryButton__2b26c",
+    "secondaryButton": "secondaryButton__2b26c"
   },
   "963175": {
     "container": "container__37e49",
