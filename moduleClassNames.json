@@ -1604,13 +1604,6 @@
     "candidatesTableContainer": "candidatesTableContainer__0dbe4",
     "info": "info__0dbe4"
   },
-  "61506": {
-    "iconRow": "iconRow_a653e3",
-    "icon": "icon_a653e3",
-    "normal": "normal_a653e3",
-    "small": "small_a653e3",
-    "overflow": "overflow_a653e3 icon_a653e3"
-  },
   "61621": {
     "circleIconButton": "circleIconButton__5bc7e",
     "selected": "selected__5bc7e",
@@ -2735,17 +2728,6 @@
     "placeholderPulse": "placeholderPulse_ce03f4",
     "emptyContainer": "emptyContainer_ce03f4",
     "checkmark": "checkmark_ce03f4"
-  },
-  "94594": {
-    "wrapper": "wrapper__49970",
-    "gradient": "gradient__49970",
-    "content": "content__49970",
-    "closeButton": "closeButton__49970",
-    "controllerImage": "controllerImage__49970",
-    "title": "title__49970",
-    "contentContainer": "contentContainer__49970",
-    "toggleContainer": "toggleContainer__49970",
-    "viewSettingsButton": "viewSettingsButton__49970"
   },
   "94645": {
     "container": "container_bb6304",
@@ -3934,6 +3916,9 @@
   },
   "148817": {
     "buttonsContainer": "buttonsContainer__5989f"
+  },
+  "151108": {
+    "externalProductWrapper": "externalProductWrapper__320c6"
   },
   "151602": {
     "item": "item__0c135"
@@ -11881,7 +11866,8 @@
     "headerButtonContainer": "headerButtonContainer_c50f62",
     "errorMessageLine": "errorMessageLine_c50f62",
     "payWithFiatLink": "payWithFiatLink_c50f62",
-    "payWithFiatLinkText": "payWithFiatLinkText_c50f62"
+    "payWithFiatLinkText": "payWithFiatLinkText_c50f62",
+    "externalProductProfilePreview": "externalProductProfilePreview_c50f62"
   },
   "453997": {
     "strikethrough": "strikethrough__4c6bf"
@@ -18853,6 +18839,17 @@
     "tabIcon": "tabIcon__6f81c",
     "iconTitle": "iconTitle__6f81c",
     "body": "body__6f81c"
+  },
+  "721132": {
+    "wrapper": "wrapper_fa8995",
+    "gradient": "gradient_fa8995",
+    "content": "content_fa8995",
+    "closeButton": "closeButton_fa8995",
+    "controllerImage": "controllerImage_fa8995",
+    "nuxTitle": "nuxTitle_fa8995",
+    "nuxContent": "nuxContent_fa8995",
+    "controlTitle": "controlTitle_fa8995",
+    "toggleContainer": "toggleContainer_fa8995"
   },
   "721247": {
     "loadingSpinner": "loadingSpinner__5b1b2"
