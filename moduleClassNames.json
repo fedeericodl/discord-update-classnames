@@ -3479,7 +3479,11 @@
     "voiceIcons": "voiceIcons_adebba",
     "voiceIcon": "voiceIcon_adebba",
     "interactive": "interactive_adebba",
-    "speaking": "speaking_adebba"
+    "speaking": "speaking_adebba",
+    "hiddenVoiceStates": "hiddenVoiceStates_adebba",
+    "locked": "locked_adebba",
+    "hiddenVoiceStatesAvatar": "hiddenVoiceStatesAvatar_adebba",
+    "hiddenVoiceStatesText": "hiddenVoiceStatesText_adebba"
   },
   "136833": {
     "wrapper": "wrapper__8ef02",
@@ -8573,7 +8577,8 @@
   },
   "333307": {
     "panel": "panel_b6e84c",
-    "panelGroup": "panelGroup_b6e84c"
+    "panelGroup": "panelGroup_b6e84c",
+    "copyId": "copyId_b6e84c"
   },
   "333930": {
     "container": "container__87bf1",
@@ -8855,8 +8860,8 @@
     "overlayInlineReply": "overlayInlineReply__74017",
     "textAreaWithoutAttachmentButton": "textAreaWithoutAttachmentButton__74017",
     "textAreaForPostCreation": "textAreaForPostCreation__74017",
-    "textAreaForUserProfile": "textAreaForUserProfile__74017",
     "textAreaForOverlayInlineReply": "textAreaForOverlayInlineReply__74017",
+    "textAreaForUserProfile": "textAreaForUserProfile__74017",
     "textAreaCustomGift": "textAreaCustomGift__74017",
     "textAreaDisabled": "textAreaDisabled__74017 textArea__74017",
     "buttons": "buttons__74017",
@@ -11466,7 +11471,8 @@
     "profileEffectContainer": "profileEffectContainer__0b5ea",
     "profileEffect": "profileEffect__0b5ea",
     "profileEffectBackground": "profileEffectBackground__0b5ea",
-    "avatarDecoration": "avatarDecoration__0b5ea"
+    "avatarDecoration": "avatarDecoration__0b5ea",
+    "nameplateContainer": "nameplateContainer__0b5ea"
   },
   "436638": {
     "reducedMotionTooltip": "reducedMotionTooltip_bb9201"
