@@ -1743,6 +1743,9 @@
     "extrasBottomOriented": "extrasBottomOriented__58ece",
     "extrasRightOriented": "extrasRightOriented__58ece"
   },
+  "60533": {
+    "wrapper": "wrapper__748d7"
+  },
   "60901": {
     "avatar": "avatar_b8dbac",
     "userPreview": "userPreview_b8dbac",
@@ -7683,12 +7686,6 @@
     "check": "check__5621e",
     "regionSelectName": "regionSelectName__5621e"
   },
-  "276938": {
-    "banner": "banner__823fe",
-    "mainContent": "mainContent__823fe",
-    "animatedLayer": "animatedLayer__823fe",
-    "summary": "summary__823fe"
-  },
   "276940": {
     "container": "container_d8f25b",
     "icon": "icon_d8f25b",
@@ -8994,8 +8991,7 @@
     "footerContainer": "footerContainer_c44293",
     "tooltipContent": "tooltipContent_c44293",
     "infoWrapper": "infoWrapper_c44293",
-    "activityTimer": "activityTimer_c44293",
-    "activePlayingWrapper": "activePlayingWrapper_c44293"
+    "activityTimer": "activityTimer_c44293"
   },
   "332550": {
     "root": "root_dbec16",
