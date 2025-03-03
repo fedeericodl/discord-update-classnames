@@ -2166,7 +2166,8 @@
     "pillItemSelected": "pillItemSelected__9e06a",
     "tabItemSelected": "tabItemSelected__9e06a",
     "icon": "icon__9e06a",
-    "controlText": "controlText__9e06a"
+    "controlText": "controlText__9e06a",
+    "pillItemText": "pillItemText__9e06a"
   },
   "75840": {
     "clickable": "clickable__997f6",
@@ -18812,7 +18813,12 @@
     "popup": "popup__06295",
     "closeIcon": "closeIcon__06295",
     "art": "art__06295",
-    "heading": "heading__06295"
+    "heading": "heading__06295",
+    "background": "background__06295",
+    "content": "content__06295",
+    "blur0": "blur0__06295",
+    "blur1": "blur1__06295",
+    "blur2": "blur2__06295"
   },
   "727838": {
     "participants": "participants__4783a",
