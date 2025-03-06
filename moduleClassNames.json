@@ -1230,7 +1230,9 @@
     "statusWrapper": "statusWrapper_a4b24e",
     "statusOnline": "statusOnline_a4b24e status_a4b24e",
     "statusOffline": "statusOffline_a4b24e status_a4b24e",
-    "count": "count_a4b24e"
+    "count": "count_a4b24e",
+    "inviteContainer": "inviteContainer_a4b24e",
+    "infoWrapper": "infoWrapper_a4b24e"
   },
   "41540": {
     "container": "container_ad5cdf"
@@ -1551,6 +1553,9 @@
     "productActionMenuIcon": "productActionMenuIcon__8d9f6",
     "menuContainer": "menuContainer__8d9f6",
     "disabled": "disabled__8d9f6"
+  },
+  "52304": {
+    "section": "section__25879"
   },
   "52450": {
     "divider": "divider__908e2",
@@ -3845,7 +3850,8 @@
     "audienceSummary": "audienceSummary__0b34e",
     "summaryItem": "summaryItem__0b34e",
     "container": "container__0b34e",
-    "content": "content__0b34e"
+    "content": "content__0b34e",
+    "withRive": "withRive__0b34e"
   },
   "134134": {
     "guildIconImage": "guildIconImage__79e3e",
@@ -4602,7 +4608,8 @@
     "pulseBackgroundDark": "pulseBackgroundDark__11664",
     "pulseBackgroundLight": "pulseBackgroundLight__11664",
     "pulseForegroundRing": "pulseForegroundRing__11664",
-    "pulseForeground": "pulseForeground__11664"
+    "pulseForeground": "pulseForeground__11664",
+    "pulseGradient": "pulseGradient__11664"
   },
   "158831": {
     "container": "container__71af4",
@@ -4726,6 +4733,7 @@
   },
   "163213": {
     "main": "main_c08b38",
+    "fullBorderWithGradient": "fullBorderWithGradient_c08b38",
     "artwork": "artwork_c08b38",
     "gradient": "gradient_c08b38",
     "bottomCenterContent": "bottomCenterContent_c08b38",
@@ -9993,8 +10001,11 @@
     "warningBody": "warningBody__54ab7"
   },
   "371831": {
+    "column": "column_ba7f98",
     "container": "container_ba7f98",
-    "header": "header_ba7f98"
+    "header": "header_ba7f98",
+    "nameplatePreviewSection": "nameplatePreviewSection_ba7f98",
+    "nameplate": "nameplate_ba7f98"
   },
   "372075": {
     "heading": "heading_cbd375",
@@ -15688,6 +15699,7 @@
     "channelName": "channelName__5aa3a",
     "joinButton": "joinButton__5aa3a",
     "roundButton": "roundButton__5aa3a",
+    "withRive": "withRive__5aa3a",
     "buttonContainer": "buttonContainer__5aa3a",
     "content": "content__5aa3a"
   },
@@ -16982,7 +16994,8 @@
     "altFloat": "altFloat__2f300",
     "centerContent": "centerContent__2f300",
     "coverContent": "coverContent__2f300",
-    "coverTitle": "coverTitle__2f300"
+    "coverTitle": "coverTitle__2f300",
+    "guildImage": "guildImage__2f300"
   },
   "658162": {
     "guildSelectOptionIcon": "guildSelectOptionIcon_b476ba",
@@ -18419,8 +18432,7 @@
   },
   "711642": {
     "activityNewBadge": "activityNewBadge__44107",
-    "activityUpdatedBadge": "activityUpdatedBadge__44107",
-    "tooltip": "tooltip__44107"
+    "activityUpdatedBadge": "activityUpdatedBadge__44107"
   },
   "712075": {
     "modal": "modal__39466",
@@ -25187,6 +25199,30 @@
     "guildIcon": "guildIcon__85643",
     "button": "button__85643"
   },
+  "964021": {
+    "content": "content__2aeb5",
+    "header": "header__2aeb5",
+    "close": "close__2aeb5",
+    "body": "body__2aeb5",
+    "inventory": "inventory__2aeb5",
+    "inventoryTitle": "inventoryTitle__2aeb5",
+    "inventoryControls": "inventoryControls__2aeb5",
+    "inventoryControlsButton": "inventoryControlsButton__2aeb5",
+    "inventoryDescription": "inventoryDescription__2aeb5",
+    "inventoryDescriptionTitle": "inventoryDescriptionTitle__2aeb5",
+    "list": "list__2aeb5",
+    "nameplateItem": "nameplateItem__2aeb5",
+    "selected": "selected__2aeb5",
+    "lock": "lock__2aeb5",
+    "preview": "preview__2aeb5",
+    "previewBox": "previewBox__2aeb5",
+    "label": "label__2aeb5",
+    "upsellPreviewBox": "upsellPreviewBox__2aeb5",
+    "upsellPreviewDescription": "upsellPreviewDescription__2aeb5",
+    "upsellPreview": "upsellPreview__2aeb5",
+    "footer": "footer__2aeb5",
+    "goToShopButton": "goToShopButton__2aeb5"
+  },
   "964045": {
     "container": "container_b5b7aa",
     "positionContentOverBackground": "positionContentOverBackground_b5b7aa",
@@ -25211,7 +25247,10 @@
   },
   "964709": {
     "container": "container_cd1bf7",
-    "explainerContainer": "explainerContainer_cd1bf7"
+    "explainerContainer": "explainerContainer_cd1bf7",
+    "transparentBackground": "transparentBackground_cd1bf7",
+    "header": "header_cd1bf7",
+    "outerWrapping": "outerWrapping_cd1bf7"
   },
   "964981": {
     "emptyWidgetContainer": "emptyWidgetContainer_cc1cc5",
