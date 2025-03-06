@@ -9716,6 +9716,7 @@
     "popoutHeroTextSecondary": "popoutHeroTextSecondary_af3b89",
     "popoutHeaderIcons": "popoutHeaderIcons_af3b89",
     "popoutUserContainer": "popoutUserContainer_af3b89",
+    "popoutUsernames": "popoutUsernames_af3b89",
     "popoutUsername": "popoutUsername_af3b89",
     "streamingPopoutHeader": "streamingPopoutHeader_af3b89",
     "streamingPopoutHeaderText": "streamingPopoutHeaderText_af3b89",
@@ -20314,6 +20315,7 @@
     "topPerksCardDescription": "topPerksCardDescription__3add8",
     "topPerksCardNew": "topPerksCardNew__3add8",
     "topPerksCardLabelContainer": "topPerksCardLabelContainer__3add8",
+    "labelsContainer": "labelsContainer__3add8",
     "intObserver": "intObserver__3add8",
     "shineLine": "shineLine__3add8",
     "shineEffect": "shineEffect__3add8"
@@ -25398,7 +25400,12 @@
     "equalDistantBackButton": "equalDistantBackButton_d947e6",
     "compactSendGiftToUser": "compactSendGiftToUser_d947e6",
     "compactCustomGiftMessageWrapper": "compactCustomGiftMessageWrapper_d947e6",
-    "compactSelectGiftTitle": "compactSelectGiftTitle_d947e6"
+    "compactSelectGiftTitle": "compactSelectGiftTitle_d947e6",
+    "activeFractionalPremiumBannerContainer": "activeFractionalPremiumBannerContainer_d947e6",
+    "activeFractionalPremiumBannerBackgroundImage": "activeFractionalPremiumBannerBackgroundImage_d947e6",
+    "nitroIconContainer": "nitroIconContainer_d947e6",
+    "iconFractional": "iconFractional_d947e6",
+    "iconFractionalDark": "iconFractionalDark_d947e6"
   },
   "970514": {
     "container": "container__12f17",
