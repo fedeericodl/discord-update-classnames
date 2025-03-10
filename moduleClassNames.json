@@ -1829,7 +1829,10 @@
     "summaryDetail": "summaryDetail__0a8d6",
     "mutedIcon": "mutedIcon__0a8d6",
     "iconSummaryContainer": "iconSummaryContainer__0a8d6",
-    "ellipsis": "ellipsis__0a8d6"
+    "ellipsis": "ellipsis__0a8d6",
+    "sourceOrPresetName": "sourceOrPresetName__0a8d6",
+    "screenArrowIcon": "screenArrowIcon__0a8d6",
+    "sourceIcon": "sourceIcon__0a8d6"
   },
   "64064": {
     "text": "text__19b6d",
@@ -4503,6 +4506,7 @@
     "loading": "loading_febe19",
     "source": "source_febe19",
     "sourceOverlay": "sourceOverlay_febe19",
+    "selectedSource": "selectedSource_febe19",
     "sourcePreviewContainer": "sourcePreviewContainer_febe19",
     "sourcePreviewImage": "sourcePreviewImage_febe19",
     "sourcePreview": "sourcePreview_febe19",
@@ -8564,7 +8568,8 @@
     "segmentedControl": "segmentedControl__7f727",
     "segmentedControlOption": "segmentedControlOption__7f727",
     "content": "content__7f727",
-    "rightButtonGroup": "rightButtonGroup__7f727"
+    "rightButtonGroup": "rightButtonGroup__7f727",
+    "streamButton": "streamButton__7f727"
   },
   "312722": {
     "outerContentWrapper": "outerContentWrapper__91747",
@@ -25844,7 +25849,9 @@
     "playPausePop": "playPausePop_cf09d8",
     "playPausePopIcon": "playPausePopIcon_cf09d8",
     "videoButton": "videoButton_cf09d8",
-    "overlayContentHidden": "overlayContentHidden_cf09d8"
+    "overlayContentHidden": "overlayContentHidden_cf09d8",
+    "errorOverlay": "errorOverlay_cf09d8",
+    "errorMessage": "errorMessage_cf09d8"
   },
   "984661": {
     "container": "container_c2b8c9",
