@@ -2526,6 +2526,8 @@
     "linkButton": "linkButton__972a0",
     "linkButtonIcon": "linkButtonIcon__972a0",
     "closeButton": "closeButton__972a0",
+    "closeIconPlated": "closeIconPlated__972a0",
+    "closeButtonBackgroundPlated": "closeButtonBackgroundPlated__972a0",
     "favoriteIcon": "favoriteIcon__972a0",
     "closeIcon": "closeIcon__972a0",
     "subtext": "subtext__972a0",
@@ -16037,7 +16039,8 @@
     "buttonSpace": "buttonSpace__37e49",
     "voiceFilterWarning": "voiceFilterWarning__37e49",
     "buttons": "buttons__37e49",
-    "buttonChevronIcon": "buttonChevronIcon__37e49"
+    "buttonChevronIcon": "buttonChevronIcon__37e49",
+    "iconForeground": "iconForeground__37e49"
   },
   "615921": {
     "seperator": "seperator__6bf29",
