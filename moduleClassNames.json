@@ -5110,8 +5110,7 @@
     "container": "container__6e9b4",
     "title": "title__6e9b4",
     "description": "description__6e9b4",
-    "orbIcon": "orbIcon__6e9b4",
-    "orbIconImg": "orbIconImg__6e9b4",
+    "orbAsset": "orbAsset__6e9b4",
     "content": "content__6e9b4",
     "closeButton": "closeButton__6e9b4",
     "closeButtonInner": "closeButtonInner__6e9b4",
@@ -5641,8 +5640,8 @@
   },
   "198758": {
     "container": "container_b4f99f",
-    "gifContainer": "gifContainer_b4f99f",
-    "gif": "gif_b4f99f",
+    "assetContainer": "assetContainer_b4f99f",
+    "orbAsset": "orbAsset_b4f99f",
     "ctaButton": "ctaButton_b4f99f",
     "learnMoreLink": "learnMoreLink_b4f99f"
   },
@@ -25714,8 +25713,8 @@
   },
   "981987": {
     "container": "container__4d8b6",
-    "gifContainer": "gifContainer__4d8b6",
-    "gif": "gif__4d8b6",
+    "orbAssetContainer": "orbAssetContainer__4d8b6",
+    "orbAsset": "orbAsset__4d8b6",
     "centerContent": "centerContent__4d8b6",
     "contentContainer": "contentContainer__4d8b6",
     "ctaButton": "ctaButton__4d8b6",
