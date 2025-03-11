@@ -17683,6 +17683,7 @@
     "switch": "switch_c8030e"
   },
   "677344": {
+    "balanceCounterMargin": "balanceCounterMargin__98f64",
     "balanceCounterText": "balanceCounterText__98f64"
   },
   "677369": {
@@ -21276,6 +21277,10 @@
   "816202": {
     "clickable": "clickable_a3e8db",
     "container": "container_a3e8db",
+    "orbsLottieContainer": "orbsLottieContainer_a3e8db",
+    "orbsLottie": "orbsLottie_a3e8db",
+    "spin": "spin_a3e8db",
+    "orbIconloading": "orbIconloading_a3e8db",
     "containerLoading": "containerLoading_a3e8db",
     "counterLoading": "counterLoading_a3e8db",
     "default": "default_a3e8db",
@@ -25610,6 +25615,7 @@
     "card": "card__4bb93"
   },
   "976818": {
+    "lottieIconColors": "lottieIconColors__5eb9b",
     "lottieIcon": "lottieIcon__5eb9b"
   },
   "977341": {
