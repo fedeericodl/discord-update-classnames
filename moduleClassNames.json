@@ -4766,7 +4766,8 @@
     "content": "content_a2e66b",
     "headersContainer": "headersContainer_a2e66b",
     "requestContainer": "requestContainer_a2e66b",
-    "button": "button_a2e66b"
+    "button": "button_a2e66b",
+    "modalClose": "modalClose_a2e66b"
   },
   "165160": {
     "guildBadge": "guildBadge_d69818",
@@ -21644,7 +21645,8 @@
     "root": "root__10a0c",
     "content": "content__10a0c",
     "iframe": "iframe__10a0c",
-    "cancelButton": "cancelButton__10a0c"
+    "cancelButton": "cancelButton__10a0c",
+    "footer": "footer__10a0c"
   },
   "826201": {
     "draftBadge": "draftBadge__53d72"
