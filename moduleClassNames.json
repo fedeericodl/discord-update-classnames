@@ -12033,6 +12033,11 @@
   "453281": {
     "platforms": "platforms__93ebb"
   },
+  "454510": {
+    "modalHeader": "modalHeader_ccfb90",
+    "modalContent": "modalContent_ccfb90",
+    "instructionsList": "instructionsList_ccfb90"
+  },
   "454698": {
     "outgoing-call-pulse": "outgoing-call-pulse__2f4f7",
     "wrapper": "wrapper__2f4f7",
@@ -16294,9 +16299,10 @@
   "631541": {
     "container": "container__77347",
     "previewToggleContainer": "previewToggleContainer__77347",
-    "assetSelectorContainer": "assetSelectorContainer__77347",
-    "assetSelector": "assetSelector__77347",
-    "removeAssetButton": "removeAssetButton__77347"
+    "uploadInstructionsContainer": "uploadInstructionsContainer__77347",
+    "uploadedFileListItem": "uploadedFileListItem__77347",
+    "ignoredFileListItem": "ignoredFileListItem__77347",
+    "removeFileButtonInnerContents": "removeFileButtonInnerContents__77347"
   },
   "631661": {
     "channelNotice": "channelNotice_e2d7b8",
@@ -18439,9 +18445,11 @@
     "panel": "panel_fe7ab2",
     "headerBar": "headerBar_fe7ab2",
     "inspectorWrapper": "inspectorWrapper_fe7ab2",
+    "tabBarContainer": "tabBarContainer_fe7ab2",
     "tabBar": "tabBar_fe7ab2",
     "tabItem": "tabItem_fe7ab2",
     "selected": "selected_fe7ab2",
+    "menu": "menu_fe7ab2",
     "overflowChevron": "overflowChevron_fe7ab2",
     "table": "table_fe7ab2",
     "tableContainer": "tableContainer_fe7ab2",
