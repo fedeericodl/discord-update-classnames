@@ -18867,6 +18867,7 @@
     "closeIcon": "closeIcon__06295",
     "art": "art__06295",
     "heading": "heading__06295",
+    "betaTag": "betaTag__06295",
     "background": "background__06295",
     "content": "content__06295",
     "blur0": "blur0__06295",
@@ -25975,7 +25976,8 @@
     "artContainerBoxShadow": "artContainerBoxShadow__3ec70",
     "art": "art__3ec70",
     "sparkleBadge": "sparkleBadge__3ec70",
-    "newBadge": "newBadge__3ec70"
+    "newBadge": "newBadge__3ec70",
+    "betaTag": "betaTag__3ec70"
   },
   "989099": {
     "container": "container__71ded",
