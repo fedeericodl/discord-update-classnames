@@ -4907,8 +4907,11 @@
     "recentAvatarSlots": "recentAvatarSlots__1df30",
     "withPremiumUpsell": "withPremiumUpsell__1df30",
     "recentAvatarList": "recentAvatarList__1df30",
+    "recentAvatarButtonContainer": "recentAvatarButtonContainer__1df30",
+    "deleteButton": "deleteButton__1df30",
     "recentAvatarButton": "recentAvatarButton__1df30 circular__1df30",
     "recentAvatar": "recentAvatar__1df30 circular__1df30",
+    "deleteIcon": "deleteIcon__1df30",
     "emptyAvatarSlots": "emptyAvatarSlots__1df30",
     "avatarPlaceholder": "avatarPlaceholder__1df30 circular__1df30",
     "premiumUpsellButton": "premiumUpsellButton__1df30 circular__1df30",
@@ -5211,6 +5214,11 @@
     "topic": "topic__6ec1a text-sm/normal__6ec1a",
     "topicClickTarget": "topicClickTarget__6ec1a",
     "expandable": "expandable__6ec1a"
+  },
+  "182300": {
+    "modalContent": "modalContent__7dffe",
+    "avatarContainer": "avatarContainer__7dffe",
+    "avatar": "avatar__7dffe"
   },
   "182528": {
     "container": "container__8a8e7",
