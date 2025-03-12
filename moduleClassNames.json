@@ -1144,6 +1144,7 @@
     "banner": "banner__08415",
     "shopFullscreen": "shopFullscreen__08415",
     "bannerImage": "bannerImage__08415",
+    "responsiveHero": "responsiveHero__08415",
     "bannerVideoBackground": "bannerVideoBackground__08415",
     "bannerShadow": "bannerShadow__08415",
     "left": "left__08415",
@@ -25025,7 +25026,8 @@
     "medium": "medium_b52e4f",
     "small": "small_b52e4f",
     "xxsmall": "xxsmall_b52e4f",
-    "xsmall": "xsmall_b52e4f"
+    "xsmall": "xsmall_b52e4f",
+    "xlarge": "xlarge_b52e4f"
   },
   "955588": {
     "classificationEvidenceCard": "classificationEvidenceCard_f57acb",
