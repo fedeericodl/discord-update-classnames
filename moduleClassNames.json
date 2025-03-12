@@ -970,6 +970,7 @@
     "experimentDark": "experimentDark_f1ceac",
     "disabled": "disabled_f1ceac",
     "experimentActiveLight": "experimentActiveLight_f1ceac",
+    "buttonInnerWithText": "buttonInnerWithText_f1ceac",
     "centerButton": "centerButton_f1ceac colorable_f1ceac",
     "experimentButton": "experimentButton_f1ceac colorable_f1ceac",
     "attachedButton": "attachedButton_f1ceac",
@@ -4867,8 +4868,7 @@
     "disableColor": "disableColor__85d16",
     "tierTooltipTitle": "tierTooltipTitle__85d16",
     "boostedGuildTierMutedIconWithVisibleBanner": "boostedGuildTierMutedIconWithVisibleBanner__85d16",
-    "boostedGuildTierIconBackgroundWithVisibleBanner": "boostedGuildTierIconBackgroundWithVisibleBanner__85d16",
-    "guildBadgeIcon": "guildBadgeIcon__85d16"
+    "boostedGuildTierIconBackgroundWithVisibleBanner": "boostedGuildTierIconBackgroundWithVisibleBanner__85d16"
   },
   "169401": {
     "buttonContainer": "buttonContainer__3e6b4",
@@ -6321,9 +6321,8 @@
   },
   "223692": {
     "uploadArea": "uploadArea_dae93f",
-    "droppable": "droppable_dae93f",
     "uploadModal": "uploadModal_dae93f",
-    "bgScale": "bgScale_dae93f",
+    "droppable": "droppable_dae93f",
     "inner": "inner_dae93f",
     "title": "title_dae93f",
     "instructions": "instructions_dae93f",
@@ -6464,7 +6463,8 @@
     "dotSpacer": "dotSpacer_c8f358",
     "actionButtonsContainer": "actionButtonsContainer_c8f358",
     "applicationName": "applicationName_c8f358",
-    "fade": "fade_c8f358"
+    "fade": "fade_c8f358",
+    "inviteButtonIcon": "inviteButtonIcon_c8f358"
   },
   "231930": {
     "header": "header__5be3e",
@@ -12961,11 +12961,6 @@
     "inviteCardInnerError": "inviteCardInnerError__742a4",
     "inviteCardInnerLoading": "inviteCardInnerLoading__742a4"
   },
-  "496621": {
-    "button": "button__353c4",
-    "open": "open__353c4",
-    "withHighlight": "withHighlight__353c4"
-  },
   "497012": {
     "pill": "pill_c9fddf",
     "favoriteIcon": "favoriteIcon_c9fddf",
@@ -16278,6 +16273,7 @@
   },
   "631541": {
     "container": "container__77347",
+    "headingContainer": "headingContainer__77347",
     "previewToggleContainer": "previewToggleContainer__77347",
     "uploadInstructionsContainer": "uploadInstructionsContainer__77347",
     "uploadedFileListItem": "uploadedFileListItem__77347",
