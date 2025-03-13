@@ -2872,15 +2872,12 @@
     "clearButtonWrapper": "clearButtonWrapper__7fd1c",
     "clearButton": "clearButton__7fd1c",
     "clearIcon": "clearIcon__7fd1c",
-    "statusOptionItem": "statusOptionItem__7fd1c",
-    "statusIcon": "statusIcon__7fd1c",
     "header": "header__7fd1c",
     "headerTitle": "headerTitle__7fd1c",
     "headerCloseButton": "headerCloseButton__7fd1c",
     "footer": "footer__7fd1c",
     "clearAfterSelectContainer": "clearAfterSelectContainer__7fd1c",
     "profilePreview": "profilePreview__7fd1c",
-    "invisibleStatusNotice": "invisibleStatusNotice__7fd1c",
     "needInspiration": "needInspiration__7fd1c"
   },
   "95860": {
@@ -19701,6 +19698,11 @@
   },
   "750306": {
     "checkbox": "checkbox_cc7654"
+  },
+  "750451": {
+    "container": "container__74da2",
+    "backgroundArtwork": "backgroundArtwork__74da2",
+    "appOpenedTitle": "appOpenedTitle__74da2"
   },
   "751278": {
     "message": "message_d450d1",
