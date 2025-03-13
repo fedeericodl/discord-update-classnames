@@ -5679,6 +5679,8 @@
     "assetContainer": "assetContainer_b4f99f",
     "orbAsset": "orbAsset_b4f99f",
     "ctaButton": "ctaButton_b4f99f",
+    "linkContainer": "linkContainer_b4f99f",
+    "linkPreText": "linkPreText_b4f99f",
     "learnMoreLink": "learnMoreLink_b4f99f"
   },
   "199569": {
@@ -21037,9 +21039,7 @@
     "cooldownImage": "cooldownImage__5ef8c"
   },
   "803812": {
-    "baseCardOutline": "baseCardOutline__1ab14",
-    "coachmarkTitle": "coachmarkTitle__1ab14",
-    "coachmarkDescription": "coachmarkDescription__1ab14"
+    "baseCardOutline": "baseCardOutline__1ab14"
   },
   "805873": {
     "modalRoot": "modalRoot__4a43b",
@@ -25758,10 +25758,12 @@
   },
   "981987": {
     "container": "container__4d8b6",
-    "orbAssetContainer": "orbAssetContainer__4d8b6",
     "orbAsset": "orbAsset__4d8b6",
     "centerContent": "centerContent__4d8b6",
     "contentContainer": "contentContainer__4d8b6",
+    "textContainer": "textContainer__4d8b6",
+    "coachmarkTitle": "coachmarkTitle__4d8b6",
+    "coachmarkDescription": "coachmarkDescription__4d8b6",
     "ctaButton": "ctaButton__4d8b6",
     "link": "link__4d8b6",
     "coachmarkModalContainer": "coachmarkModalContainer__4d8b6"
