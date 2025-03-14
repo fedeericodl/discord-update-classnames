@@ -5434,6 +5434,17 @@
     "compact": "compact_e5199a",
     "inviteLink": "inviteLink_e5199a"
   },
+  "192082": {
+    "container": "container__29209",
+    "content": "content__29209",
+    "cta": "cta__29209",
+    "artContainer": "artContainer__29209",
+    "art": "art__29209",
+    "small": "small__29209",
+    "medium": "medium__29209",
+    "large": "large__29209",
+    "header": "header__29209"
+  },
   "192293": {
     "operations": "operations_bab751"
   },
@@ -16090,7 +16101,8 @@
     "voiceFilterWarning": "voiceFilterWarning__37e49",
     "buttons": "buttons__37e49",
     "buttonChevronIcon": "buttonChevronIcon__37e49",
-    "iconForeground": "iconForeground__37e49"
+    "iconForeground": "iconForeground__37e49",
+    "plated": "plated__37e49"
   },
   "615921": {
     "seperator": "seperator__6bf29",
@@ -17938,8 +17950,8 @@
     "linkCalloutContainer": "linkCalloutContainer_a0b371"
   },
   "688911": {
-    "badgeContainer": "badgeContainer_f14037",
     "newBadge": "newBadge_f14037",
+    "badgeContainer": "badgeContainer_f14037",
     "timer": "timer_f14037"
   },
   "688946": {
@@ -18528,7 +18540,12 @@
     "headerDescription": "headerDescription_a55fdc",
     "header": "header_a55fdc",
     "cancelButton": "cancelButton_a55fdc",
-    "art": "art_a55fdc"
+    "art": "art_a55fdc",
+    "modalFooter": "modalFooter_a55fdc",
+    "artContainer": "artContainer_a55fdc",
+    "refreshedArt": "refreshedArt_a55fdc",
+    "container": "container_a55fdc",
+    "border": "border_a55fdc"
   },
   "711642": {
     "activityNewBadge": "activityNewBadge__44107",
@@ -20857,7 +20874,8 @@
     "redGlow": "redGlow__67645",
     "enabled": "enabled__67645",
     "disabled": "disabled__67645",
-    "blur": "blur__67645"
+    "plated": "plated__67645",
+    "plateMuted": "plateMuted__67645"
   },
   "796246": {
     "modalRoot": "modalRoot__78cd9",
@@ -24252,6 +24270,7 @@
     "customCircleAnimation": "customCircleAnimation__83ef9",
     "glow": "glow__83ef9",
     "pulse": "pulse__83ef9",
+    "greyedOut": "greyedOut__83ef9",
     "extra-glow": "extra-glow__83ef9",
     "coachTipContainer": "coachTipContainer__83ef9",
     "exitIcon": "exitIcon__83ef9",
@@ -24264,8 +24283,7 @@
     "collectibleDecoReminderCoachmarkArt": "collectibleDecoReminderCoachmarkArt__83ef9",
     "collectibleDecoReminderCoachmarkHeader": "collectibleDecoReminderCoachmarkHeader__83ef9",
     "collectibleDecoReminderCoachmarkContent": "collectibleDecoReminderCoachmarkContent__83ef9",
-    "collectibleDecoReminderCoachmarkPointer": "collectibleDecoReminderCoachmarkPointer__83ef9",
-    "greyedOut": "greyedOut__83ef9"
+    "collectibleDecoReminderCoachmarkPointer": "collectibleDecoReminderCoachmarkPointer__83ef9"
   },
   "925003": {
     "container": "container__2637a",
