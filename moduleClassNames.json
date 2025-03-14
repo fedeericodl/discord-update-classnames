@@ -2972,7 +2972,7 @@
     "guildIcon": "guildIcon__1ef0e",
     "guildText": "guildText__1ef0e",
     "guildSubtitle": "guildSubtitle__1ef0e",
-    "checkboxInner": "checkboxInner__1ef0e",
+    "serverOptionSwitchContainer": "serverOptionSwitchContainer__1ef0e",
     "ignoredWarning": "ignoredWarning__1ef0e",
     "toggleAll": "toggleAll__1ef0e"
   },
@@ -15891,7 +15891,8 @@
     "tooltipWordmarkContainer": "tooltipWordmarkContainer_f240e3",
     "tooltipWordmark": "tooltipWordmark_f240e3",
     "orbBadge": "orbBadge_f240e3",
-    "orbBadgeImage": "orbBadgeImage_f240e3",
+    "orbBadgeAsset": "orbBadgeAsset_f240e3",
+    "orbHeaderWithSpacing": "orbHeaderWithSpacing_f240e3",
     "orbLink": "orbLink_f240e3"
   },
   "607639": {
@@ -22401,7 +22402,9 @@
     "avatarContainer": "avatarContainer_fdeafc",
     "avatarVisible": "avatarVisible_fdeafc",
     "avatarWithTextInnerClassName": "avatarWithTextInnerClassName_fdeafc",
-    "nameplatePurchased": "nameplatePurchased_fdeafc"
+    "nameplatePurchased": "nameplatePurchased_fdeafc",
+    "placeholderPulse": "placeholderPulse_fdeafc",
+    "placeholderUsername": "placeholderUsername_fdeafc"
   },
   "862082": {
     "channelNotice": "channelNotice__4c43d",
@@ -23328,15 +23331,11 @@
     "buttonInner": "buttonInner_c2f8c3"
   },
   "890905": {
-    "content": "content_b97ca2",
-    "header": "header_b97ca2",
-    "notes": "notes_b97ca2",
-    "note": "note_b97ca2",
-    "noteDivider": "noteDivider_b97ca2",
+    "otherOptions": "otherOptions_b97ca2",
     "linksContainer": "linksContainer_b97ca2",
     "link": "link_b97ca2",
     "linkDivider": "linkDivider_b97ca2",
-    "buttonsContainer": "buttonsContainer_b97ca2"
+    "footer": "footer_b97ca2"
   },
   "891978": {
     "paymentPane": "paymentPane__01014",
@@ -26076,7 +26075,8 @@
     "subHeader": "subHeader_eb51ec"
   },
   "992379": {
-    "externalProductWrapper": "externalProductWrapper__320c6"
+    "externalProductWrapper": "externalProductWrapper__320c6",
+    "orbProfileBadgeAsset": "orbProfileBadgeAsset__320c6"
   },
   "992718": {
     "labelWrapper": "labelWrapper_abe771",
