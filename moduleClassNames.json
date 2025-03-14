@@ -11428,7 +11428,11 @@
     "container": "container__2b26c",
     "tooltipContainer": "tooltipContainer__2b26c",
     "primaryButton": "primaryButton__2b26c",
-    "secondaryButton": "secondaryButton__2b26c"
+    "secondaryButton": "secondaryButton__2b26c",
+    "buttonInner": "buttonInner__2b26c",
+    "buttonWrapper": "buttonWrapper__2b26c",
+    "dot": "dot__2b26c",
+    "boost": "boost__2b26c"
   },
   "424091": {
     "stepBody": "stepBody_bf1b4a",
@@ -15969,8 +15973,7 @@
     "perkRow": "perkRow__823e1",
     "perkText": "perkText__823e1",
     "button": "button__823e1",
-    "buttonInner": "buttonInner__823e1",
-    "dot": "dot__823e1"
+    "footer": "footer__823e1"
   },
   "611401": {
     "container": "container__9b0bb"
