@@ -11473,6 +11473,7 @@
     "primaryButton": "primaryButton__2b26c",
     "secondaryButton": "secondaryButton__2b26c",
     "buttonInner": "buttonInner__2b26c",
+    "secondaryButtonInner": "secondaryButtonInner__2b26c",
     "buttonWrapper": "buttonWrapper__2b26c",
     "dot": "dot__2b26c",
     "boost": "boost__2b26c"
@@ -16261,6 +16262,9 @@
     "coachmarkArt": "coachmarkArt_a4ad2d",
     "coachmarkHeader": "coachmarkHeader_a4ad2d"
   },
+  "626287": {
+    "wallpaperContainer": "wallpaperContainer__5fa7b"
+  },
   "626414": {
     "avatars": "avatars_c37975"
   },
@@ -17291,8 +17295,7 @@
     "nameplatePreviewList": "nameplatePreviewList_c3d04b",
     "nameplatePreviewSampleItem": "nameplatePreviewSampleItem_c3d04b",
     "placeholderItem": "placeholderItem_c3d04b",
-    "placeholderItemChildrenDark": "placeholderItemChildrenDark_c3d04b",
-    "placeholderItemChildrenLight": "placeholderItemChildrenLight_c3d04b"
+    "placeholderBar": "placeholderBar_c3d04b"
   },
   "662607": {
     "header": "header_e34850",
@@ -22020,7 +22023,10 @@
   },
   "840987": {
     "container": "container_ef0711",
-    "powerupsContainer": "powerupsContainer_ef0711"
+    "powerupsContainer": "powerupsContainer_ef0711",
+    "powerupCard": "powerupCard_ef0711",
+    "image": "image_ef0711",
+    "contentContainer": "contentContainer_ef0711"
   },
   "841097": {
     "container": "container__2410d recentMentionsPopout__95796",
@@ -22450,8 +22456,8 @@
     "avatarVisible": "avatarVisible_fdeafc",
     "avatarWithTextInnerClassName": "avatarWithTextInnerClassName_fdeafc",
     "nameplatePurchased": "nameplatePurchased_fdeafc",
-    "placeholderPulse": "placeholderPulse_fdeafc",
-    "placeholderUsername": "placeholderUsername_fdeafc"
+    "placeholderUsername": "placeholderUsername_fdeafc",
+    "placeholderUsernameColor": "placeholderUsernameColor_fdeafc"
   },
   "862082": {
     "channelNotice": "channelNotice__4c43d",
@@ -25399,6 +25405,7 @@
     "lock": "lock__2aeb5",
     "preview": "preview__2aeb5",
     "previewBox": "previewBox__2aeb5",
+    "upsellPreviewContents": "upsellPreviewContents__2aeb5",
     "label": "label__2aeb5",
     "upsellPreviewBox": "upsellPreviewBox__2aeb5",
     "upsellPreviewDescription": "upsellPreviewDescription__2aeb5",
