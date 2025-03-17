@@ -2565,6 +2565,7 @@
     "avatarWithText": "avatarWithText__972a0",
     "link": "link__972a0",
     "plated": "plated__972a0",
+    "platedHover": "platedHover__972a0",
     "linkButton": "linkButton__972a0",
     "linkButtonIcon": "linkButtonIcon__972a0",
     "closeButton": "closeButton__972a0",
@@ -3515,8 +3516,7 @@
     "wrappedLayout": "wrappedLayout__20a53",
     "wrappedName": "wrappedName__20a53",
     "nameAndDecorators": "nameAndDecorators__20a53",
-    "subText": "subText__20a53",
-    "plated": "plated__20a53"
+    "subText": "subText__20a53"
   },
   "120682": {
     "eventPrompt": "eventPrompt_a5e25b"
@@ -22800,7 +22800,8 @@
     "hover": "hover__4bbc6",
     "selected": "selected__4bbc6",
     "account": "account__4bbc6",
-    "accountContainer": "accountContainer__4bbc6"
+    "accountContainer": "accountContainer__4bbc6",
+    "videoContainer": "videoContainer__4bbc6"
   },
   "874525": {
     "spine": "spine__9271d",
