@@ -4949,9 +4949,10 @@
     "withPremiumUpsell": "withPremiumUpsell__1df30",
     "recentAvatarList": "recentAvatarList__1df30",
     "recentAvatarButtonContainer": "recentAvatarButtonContainer__1df30",
-    "deleteButton": "deleteButton__1df30",
     "recentAvatarButton": "recentAvatarButton__1df30 circular__1df30",
+    "deleteButton": "deleteButton__1df30",
     "recentAvatar": "recentAvatar__1df30 circular__1df30",
+    "deleteButtonInner": "deleteButtonInner__1df30",
     "deleteIcon": "deleteIcon__1df30",
     "emptyAvatarSlots": "emptyAvatarSlots__1df30",
     "avatarPlaceholder": "avatarPlaceholder__1df30 circular__1df30",
@@ -7245,8 +7246,7 @@
     "gatedContent": "gatedContent__7184c",
     "image": "image__7184c",
     "title": "title__7184c",
-    "description": "description__7184c",
-    "action": "action__7184c"
+    "description": "description__7184c"
   },
   "258471": {
     "pricePerInterval": "pricePerInterval_fd0764",
@@ -7795,6 +7795,8 @@
     "selected": "selected__07f91",
     "optionsButton": "optionsButton__07f91",
     "optionsActive": "optionsActive__07f91",
+    "optionsButtonContainer": "optionsButtonContainer__07f91",
+    "optionsContainerActive": "optionsContainerActive__07f91",
     "clanTag": "clanTag__07f91",
     "isOverlay": "isOverlay__07f91",
     "usernameSpeaking": "usernameSpeaking__07f91",
@@ -19300,6 +19302,7 @@
     "statusText": "statusText_ab8609",
     "statusEmoji": "statusEmoji_ab8609",
     "addStatusPrompt": "addStatusPrompt_ab8609",
+    "italicPrompt": "italicPrompt_ab8609",
     "addStatusIcon": "addStatusIcon_ab8609",
     "addStatusIconColor": "addStatusIconColor_ab8609"
   },
