@@ -6357,6 +6357,7 @@
     "localePicker": "localePicker__659bf"
   },
   "222688": {
+    "spoilerMarkdownContent": "spoilerMarkdownContent__54ab5",
     "spoilerContent": "spoilerContent__54ab5",
     "hidden": "hidden__54ab5",
     "opaque": "opaque__54ab5",
@@ -6371,7 +6372,6 @@
     "explicitContentWarningText": "explicitContentWarningText__54ab5",
     "spoilerWarning": "spoilerWarning__54ab5 obscureWarning__54ab5",
     "embed": "embed__54ab5",
-    "spoilerMarkdownContent": "spoilerMarkdownContent__54ab5",
     "obscuredTextContent": "obscuredTextContent__54ab5",
     "obscuredTextContentInner": "obscuredTextContentInner__54ab5",
     "obscureButtonContainer": "obscureButtonContainer__54ab5",
@@ -8862,7 +8862,6 @@
     "overflowCount": "overflowCount__711d3",
     "channelItemContainer": "channelItemContainer__711d3",
     "channelItemHighlighted": "channelItemHighlighted__711d3",
-    "channelItemConnected": "channelItemConnected__711d3",
     "searchBarContainer": "searchBarContainer__711d3",
     "searchBar": "searchBar__711d3",
     "emptyChannelItem": "emptyChannelItem__711d3",
@@ -15505,8 +15504,7 @@
     "channelIcon": "channelIcon__5c799",
     "channelText": "channelText__5c799",
     "role": "role__5c799",
-    "roleCircle": "roleCircle__5c799",
-    "roleName": "roleName__5c799"
+    "roleCircle": "roleCircle__5c799"
   },
   "593064": {
     "header": "header_cd8d1b",
