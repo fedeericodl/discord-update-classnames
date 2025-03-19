@@ -5212,6 +5212,18 @@
   "179111": {
     "container": "container__86c0f"
   },
+  "179493": {
+    "container": "container__11014",
+    "unfocusedMessage": "unfocusedMessage__11014",
+    "badgeContainer": "badgeContainer__11014",
+    "tagText": "tagText__11014",
+    "badgePreview": "badgePreview__11014",
+    "messageContainer": "messageContainer__11014",
+    "avatarContainer": "avatarContainer__11014",
+    "contentContainer": "contentContainer__11014",
+    "usernameContainer": "usernameContainer__11014",
+    "decorationsContainer": "decorationsContainer__11014"
+  },
   "180468": {
     "microphoneUnit": "microphoneUnit_de2d78",
     "microphoneUnitHeader": "microphoneUnitHeader_de2d78",
@@ -9379,7 +9391,6 @@
     "sparkChart": "sparkChart__7eeec"
   },
   "345119": {
-    "orbIconContainer": "orbIconContainer__85200",
     "orbIconSVG": "orbIconSVG__85200",
     "loading": "loading__85200",
     "spin": "spin__85200"
@@ -16834,6 +16845,14 @@
     "container": "container__4f074",
     "input": "input__4f074",
     "outer": "outer__4f074"
+  },
+  "650075": {
+    "stepBody": "stepBody__42615",
+    "paymentSourceWrapper": "paymentSourceWrapper__42615",
+    "paymentSourceItem": "paymentSourceItem__42615",
+    "purchaseDetailsSpinner": "purchaseDetailsSpinner__42615",
+    "orbAmountTag": "orbAmountTag__42615",
+    "displayFlex": "displayFlex__42615"
   },
   "651095": {
     "chipletFlexContainer": "chipletFlexContainer__3b3ff",
@@ -24563,6 +24582,7 @@
   },
   "935921": {
     "spinnerContainer": "spinnerContainer__69ef9",
+    "container": "container__69ef9",
     "leftContent": "leftContent__69ef9",
     "description": "description__69ef9",
     "title": "title__69ef9",
