@@ -19441,6 +19441,13 @@
     "outerButton": "outerButton_c6e099",
     "button": "button_c6e099"
   },
+  "739507": {
+    "container": "container__7c626",
+    "guildContainer": "guildContainer__7c626",
+    "header": "header__7c626",
+    "guildInfo": "guildInfo__7c626",
+    "guildIcon": "guildIcon__7c626"
+  },
   "739867": {
     "fixClipping": "fixClipping_efbae7"
   },
