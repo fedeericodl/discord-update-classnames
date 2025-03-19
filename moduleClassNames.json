@@ -2291,6 +2291,11 @@
     "cmdDetails": "cmdDetails__761e5",
     "cmdAppName": "cmdAppName__761e5"
   },
+  "78779": {
+    "container": "container_a1bfef",
+    "image": "image_a1bfef",
+    "header": "header_a1bfef"
+  },
   "78809": {
     "fadeIn": "fadeIn__5cd44",
     "fadeOut": "fadeOut__5cd44",
