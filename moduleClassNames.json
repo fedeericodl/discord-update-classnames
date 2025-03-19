@@ -11983,7 +11983,6 @@
   "448941": {
     "section": "section_c7ac92",
     "header": "header_c7ac92",
-    "loading": "loading_c7ac92",
     "clickable": "clickable_c7ac92",
     "list": "list_c7ac92"
   },
@@ -15478,7 +15477,8 @@
     "confettiCanvas": "confettiCanvas_b0ba57",
     "additionalRedemptionInstructions": "additionalRedemptionInstructions_b0ba57",
     "sponsorLogo": "sponsorLogo_b0ba57",
-    "loadingIndicatorWrapper": "loadingIndicatorWrapper_b0ba57"
+    "loadingIndicatorWrapper": "loadingIndicatorWrapper_b0ba57",
+    "upsell": "upsell_b0ba57"
   },
   "592915": {
     "icon": "icon_f4b9b5",
@@ -17571,7 +17571,8 @@
   "671914": {
     "overlay": "overlay__325ce",
     "divider": "divider__325ce",
-    "list": "list__325ce"
+    "list": "list__325ce",
+    "loadingMutualFriend": "loadingMutualFriend__325ce"
   },
   "672164": {
     "reactions": "reactions_f8896c",
@@ -22083,6 +22084,12 @@
     "icon": "icon__89d80",
     "username": "username__89d80",
     "sectionIconContainer": "sectionIconContainer__89d80 icon__89d80"
+  },
+  "846683": {
+    "upsellContainer": "upsellContainer__88422",
+    "row": "row__88422",
+    "upsellText": "upsellText__88422",
+    "button": "button__88422"
   },
   "846857": {
     "card": "card_c59071",
