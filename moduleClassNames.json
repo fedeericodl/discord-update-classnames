@@ -747,8 +747,7 @@
     "container": "container__8e680",
     "max-width": "max-width__8e680",
     "banner": "banner__8e680 max-width__8e680",
-    "featureCards": "featureCards__8e680 max-width__8e680",
-    "chatCheckIcon": "chatCheckIcon__8e680"
+    "featureCards": "featureCards__8e680 max-width__8e680"
   },
   "28522": {
     "container": "container__0ab43",
@@ -799,8 +798,6 @@
     "attachButton": "attachButton__0923f",
     "attachButtonPlus": "attachButtonPlus__0923f",
     "attachButtonInner": "attachButtonInner__0923f",
-    "attachButtonClip": "attachButtonClip__0923f",
-    "attachButtonPlay": "attachButtonPlay__0923f",
     "uploadInput": "uploadInput__0923f",
     "buttonAnimation": "buttonAnimation__0923f",
     "buttonAnimationGlow": "buttonAnimationGlow__0923f",
@@ -2189,9 +2186,6 @@
     "spinner": "spinner__9ae4f",
     "title": "title__9ae4f",
     "description": "description__9ae4f"
-  },
-  "74954": {
-    "strikethrough": "strikethrough__69a26"
   },
   "75401": {
     "header": "header_adbad8",
@@ -5042,10 +5036,7 @@
     "header": "header__00de6",
     "description": "description__00de6",
     "emptyChannelIcon": "emptyChannelIcon__00de6",
-    "emptyChannelIconComponent": "emptyChannelIconComponent__00de6",
-    "emptyChannelIconSvg": "emptyChannelIconSvg__00de6",
-    "locked": "locked__00de6",
-    "voiceChat": "voiceChat__00de6"
+    "emptyChannelIconComponent": "emptyChannelIconComponent__00de6"
   },
   "173054": {
     "peopleListItem": "peopleListItem_cc6179",
@@ -9340,7 +9331,6 @@
     "rtcConnectionStatusConnecting": "rtcConnectionStatusConnecting__06d62 rtcConnectionStatusLabel__06d62",
     "rtcConnectionStatusError": "rtcConnectionStatusError__06d62 rtcConnectionStatusLabel__06d62",
     "rtcConnectionQualityFine": "rtcConnectionQualityFine__06d62",
-    "pingForeground": "pingForeground__06d62",
     "rtcConnectionQualityAverage": "rtcConnectionQualityAverage__06d62",
     "rtcConnectionQualityBad": "rtcConnectionQualityBad__06d62",
     "labelWrapper": "labelWrapper__06d62",
@@ -11915,9 +11905,6 @@
   "445663": {
     "modal": "modal_b0827a"
   },
-  "445745": {
-    "strikethrough": "strikethrough__4c6bf"
-  },
   "445754": {
     "draggableContainer": "draggableContainer__6a6d6",
     "container": "container__6a6d6",
@@ -12161,7 +12148,6 @@
     "selectedScreen": "selectedScreen__2f4f7",
     "toggleMute": "toggleMute__2f4f7",
     "selectedIcon": "selectedIcon__2f4f7",
-    "localMuteStrikethrough": "localMuteStrikethrough__2f4f7",
     "liveIndicator": "liveIndicator__2f4f7",
     "addStreamIcon": "addStreamIcon__2f4f7",
     "addCTA": "addCTA__2f4f7",
@@ -17446,7 +17432,6 @@
     "playIcon": "playIcon_a8e786",
     "playing": "playing_a8e786",
     "playButtonContainer": "playButtonContainer_a8e786",
-    "oldPlayIconSpacing": "oldPlayIconSpacing_a8e786",
     "audioElement": "audioElement_a8e786",
     "volumeButton": "volumeButton_a8e786",
     "volumeButtonIcon": "volumeButtonIcon_a8e786",
@@ -17908,7 +17893,6 @@
   },
   "684441": {
     "icon": "icon_dfa67d",
-    "notAllowedIcon": "notAllowedIcon_dfa67d icon_dfa67d",
     "shopIcon": "shopIcon_dfa67d icon_dfa67d",
     "presetDecorationImg": "presetDecorationImg_dfa67d",
     "decorationGridItem": "decorationGridItem_dfa67d",
@@ -20917,6 +20901,8 @@
     "overflowIcon": "overflowIcon__58de5"
   },
   "796004": {
+    "container": "container__877f0",
+    "lottie": "lottie__877f0",
     "textImportant": "textImportant__877f0"
   },
   "796171": {
@@ -21747,7 +21733,6 @@
     "draftBadge": "draftBadge__53d72"
   },
   "826301": {
-    "transition": "transition__5fbe9",
     "directionDown": "directionDown__5fbe9",
     "directionRight": "directionRight__5fbe9",
     "directionLeft": "directionLeft__5fbe9",
