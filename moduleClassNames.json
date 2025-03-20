@@ -316,7 +316,10 @@
     "themedHeaderMobile": "themedHeaderMobile_f37cb1",
     "headerEllipseForeground": "headerEllipseForeground_f37cb1",
     "headerEllipseBackdrop": "headerEllipseBackdrop_f37cb1",
-    "headerGlass": "headerGlass_f37cb1"
+    "headerGlass": "headerGlass_f37cb1",
+    "invitesRefresh": "invitesRefresh_f37cb1",
+    "guildDropdown": "guildDropdown_f37cb1",
+    "inviteButton": "inviteButton_f37cb1"
   },
   "15366": {
     "eyebrow": "eyebrow__72025",
@@ -4914,7 +4917,8 @@
     "disableColor": "disableColor__85d16",
     "tierTooltipTitle": "tierTooltipTitle__85d16",
     "boostedGuildTierMutedIconWithVisibleBanner": "boostedGuildTierMutedIconWithVisibleBanner__85d16",
-    "boostedGuildTierIconBackgroundWithVisibleBanner": "boostedGuildTierIconBackgroundWithVisibleBanner__85d16"
+    "boostedGuildTierIconBackgroundWithVisibleBanner": "boostedGuildTierIconBackgroundWithVisibleBanner__85d16",
+    "invitesRefresh": "invitesRefresh__85d16"
   },
   "169401": {
     "buttonContainer": "buttonContainer__3e6b4",
