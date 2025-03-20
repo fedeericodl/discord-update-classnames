@@ -5019,10 +5019,6 @@
     "secondarySection": "secondarySection_ed47e5",
     "divider": "divider_ed47e5"
   },
-  "172110": {
-    "priceLine": "priceLine__794a8",
-    "orbText": "orbText__794a8"
-  },
   "172241": {
     "actions": "actions__4cd01",
     "panelButtonContainer": "panelButtonContainer__4cd01"
@@ -9583,8 +9579,7 @@
     "avControls": "avControls_fcb27c",
     "experimentWrapper": "experimentWrapper_fcb27c",
     "buttonSection": "buttonSection_fcb27c",
-    "experimentButtonSection": "experimentButtonSection_fcb27c",
-    "avSpacing": "avSpacing_fcb27c"
+    "experimentButtonSection": "experimentButtonSection_fcb27c"
   },
   "351641": {
     "flagContainer": "flagContainer__71c22",
@@ -13902,9 +13897,6 @@
     "groupHeader": "groupHeader__5df34",
     "channelName": "channelName__5df34"
   },
-  "527338": {
-    "priceTag": "priceTag_cb53f6"
-  },
   "528514": {
     "searchBar": "searchBar_a73dc3",
     "settingsHeader": "settingsHeader_a73dc3",
@@ -15487,9 +15479,6 @@
     "radioBarIcon": "radioBarIcon_ac72c6",
     "radioItemName": "radioItemName_ac72c6"
   },
-  "592561": {
-    "priceLine": "priceLine__37ae9"
-  },
   "592885": {
     "rootContainer": "rootContainer_b0ba57",
     "rootContainerLoading": "rootContainerLoading_b0ba57",
@@ -15665,6 +15654,11 @@
     "title": "title__4626b",
     "description": "description__4626b",
     "icon": "icon__4626b"
+  },
+  "598409": {
+    "priceLine": "priceLine__05bc9",
+    "orbText": "orbText__05bc9",
+    "nitroUpsell": "nitroUpsell__05bc9"
   },
   "598437": {
     "container": "container__5084b",
@@ -16426,8 +16420,7 @@
     "experimentWrapper": "experimentWrapper__1405b wrapper__1405b",
     "buttonContainer": "buttonContainer__1405b",
     "buttonSection": "buttonSection__1405b",
-    "experimentButtonSection": "experimentButtonSection__1405b",
-    "avSpacing": "avSpacing__1405b"
+    "experimentButtonSection": "experimentButtonSection__1405b"
   },
   "634437": {
     "contentContainer": "contentContainer_c94584",
@@ -17429,6 +17422,10 @@
     "perkNewsletter": "perkNewsletter_b8f10d perkIcon_b8f10d",
     "perkBadge": "perkBadge_b8f10d perkIcon_b8f10d",
     "perkChallenges": "perkChallenges_b8f10d perkIcon_b8f10d"
+  },
+  "666048": {
+    "priceLine": "priceLine__132c6",
+    "nitroIcon": "nitroIcon__132c6"
   },
   "667042": {
     "tryItOutButtons": "tryItOutButtons__6b52d",
@@ -23140,20 +23137,17 @@
     "titleImage": "titleImage_c50f62",
     "description": "description_c50f62",
     "button": "button_c50f62",
-    "enabledButton": "enabledButton_c50f62",
-    "buttonInner": "buttonInner_c50f62",
+    "primaryButton": "primaryButton_c50f62",
     "disclaimer": "disclaimer_c50f62",
     "disclaimerLight": "disclaimerLight_c50f62",
     "priceTag": "priceTag_c50f62",
     "priceTagContainer": "priceTagContainer_c50f62",
     "headingWithItemTypePill": "headingWithItemTypePill_c50f62",
     "buttonsContainer": "buttonsContainer_c50f62",
-    "primaryButtons": "primaryButtons_c50f62",
+    "checkoutButtonsRow": "checkoutButtonsRow_c50f62",
     "variantsSwitch": "variantsSwitch_c50f62",
     "headerButtonContainer": "headerButtonContainer_c50f62",
     "errorMessageLine": "errorMessageLine_c50f62",
-    "payWithFiatLink": "payWithFiatLink_c50f62",
-    "payWithFiatLinkText": "payWithFiatLinkText_c50f62",
     "externalProductProfilePreview": "externalProductProfilePreview_c50f62"
   },
   "885833": {
