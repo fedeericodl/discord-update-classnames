@@ -6826,6 +6826,15 @@
     "modInfoAction": "modInfoAction__96c0b",
     "modInfoItemActionIcon": "modInfoItemActionIcon__96c0b"
   },
+  "244187": {
+    "container": "container__26669",
+    "measurements": "measurements__26669",
+    "tabs": "tabs__26669",
+    "tabWrapper": "tabWrapper__26669",
+    "tab": "tab__26669",
+    "more": "more__26669",
+    "selected": "selected__26669"
+  },
   "244566": {
     "overflow": "overflow__82b15"
   },
@@ -8334,6 +8343,9 @@
   },
   "301883": {
     "collapseable": "collapseable__9d98d",
+    "notificationSettingsContainer": "notificationSettingsContainer__9d98d",
+    "notificationItem": "notificationItem__9d98d",
+    "notificationDescriptionContainer": "notificationDescriptionContainer__9d98d",
     "mainCollapseableContainer": "mainCollapseableContainer__9d98d",
     "groupContainer": "groupContainer__9d98d",
     "standaloneContainer": "standaloneContainer__9d98d",
@@ -14822,6 +14834,12 @@
     "header": "header__52c9d",
     "upsellImage": "upsellImage__52c9d"
   },
+  "567839": {
+    "headerBar": "headerBar__1a9ce",
+    "headerBarInner": "headerBarInner__1a9ce",
+    "headerBarContent": "headerBarContent__1a9ce",
+    "headerBarSearchContent": "headerBarSearchContent__1a9ce"
+  },
   "567863": {
     "modalRoot": "modalRoot__78e61",
     "modalContent": "modalContent__78e61",
@@ -16680,7 +16698,6 @@
     "bannerImage": "bannerImage__955a3",
     "bannerGradient": "bannerGradient__955a3",
     "tabs": "tabs__955a3",
-    "tabsExperimental": "tabsExperimental__955a3",
     "bannerContainer": "bannerContainer__955a3"
   },
   "642824": {
