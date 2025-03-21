@@ -13884,24 +13884,6 @@
     "pendingCancellationIcon": "pendingCancellationIcon__2cbe8",
     "pendingCancellationMessage": "pendingCancellationMessage__2cbe8"
   },
-  "526712": {
-    "container": "container_f01b76",
-    "marginContainer": "marginContainer_f01b76",
-    "gifContainer": "gifContainer_f01b76",
-    "gif": "gif_f01b76",
-    "list": "list_f01b76",
-    "listItem": "listItem_f01b76",
-    "listItemIcon": "listItemIcon_f01b76",
-    "listItemText": "listItemText_f01b76",
-    "button": "button_f01b76",
-    "buttonColor": "buttonColor_f01b76",
-    "titleLeadIn": "titleLeadIn_f01b76",
-    "title": "title_f01b76",
-    "closeButton": "closeButton_f01b76",
-    "closeButtonIcon": "closeButtonIcon_f01b76",
-    "betaBadge": "betaBadge_f01b76",
-    "orbIconSVG": "orbIconSVG_f01b76"
-  },
   "526952": {
     "groupHeader": "groupHeader__5df34",
     "channelName": "channelName__5df34"
@@ -16864,7 +16846,9 @@
     "toggleContainerWrapper": "toggleContainerWrapper_fa8995",
     "toggleContainer": "toggleContainer_fa8995",
     "toggleContainerOnlineRow": "toggleContainerOnlineRow_fa8995",
-    "toggleContainerText": "toggleContainerText_fa8995"
+    "toggleContainerText": "toggleContainerText_fa8995",
+    "goOnlineButton": "goOnlineButton_fa8995",
+    "divider": "divider_fa8995"
   },
   "649439": {
     "required": "required__287ee"
@@ -23863,6 +23847,23 @@
   "907526": {
     "sectionContainer": "sectionContainer_f8758b",
     "contentContainer": "contentContainer_f8758b"
+  },
+  "907796": {
+    "root": "root__2a5c7",
+    "heroAsset": "heroAsset__2a5c7",
+    "button": "button__2a5c7",
+    "buttonColor": "buttonColor__2a5c7",
+    "closeButton": "closeButton__2a5c7",
+    "closeButtonIcon": "closeButtonIcon__2a5c7",
+    "content": "content__2a5c7",
+    "header": "header__2a5c7",
+    "subHeader": "subHeader__2a5c7",
+    "featureCardGroup": "featureCardGroup__2a5c7",
+    "featureCard": "featureCard__2a5c7",
+    "featureCardTextGroup": "featureCardTextGroup__2a5c7",
+    "featureCardTextHeader": "featureCardTextHeader__2a5c7",
+    "featureCardTextSubHeader": "featureCardTextSubHeader__2a5c7",
+    "orbAsset": "orbAsset__2a5c7"
   },
   "908848": {
     "container": "container__9fa5a",
