@@ -913,7 +913,6 @@
   "32533": {
     "formGroup": "formGroup_dbc4b7",
     "customStatusInputTitle": "customStatusInputTitle_dbc4b7",
-    "customStatusInputTitleContainer": "customStatusInputTitleContainer_dbc4b7",
     "inputContainer": "inputContainer_dbc4b7",
     "emojiButton": "emojiButton_dbc4b7",
     "emojiButtonContainer": "emojiButtonContainer_dbc4b7",
@@ -928,7 +927,8 @@
     "footer": "footer_dbc4b7",
     "clearAfterSelectContainer": "clearAfterSelectContainer_dbc4b7",
     "profilePreview": "profilePreview_dbc4b7",
-    "needInspiration": "needInspiration_dbc4b7"
+    "needInspiration": "needInspiration_dbc4b7",
+    "needInspirationDisabled": "needInspirationDisabled_dbc4b7"
   },
   "33072": {
     "boostIconContainer": "boostIconContainer__8dbf5",
@@ -6507,7 +6507,8 @@
     "profileEffect": "profileEffect__0b5ea",
     "profileEffectBackground": "profileEffectBackground__0b5ea",
     "avatarDecoration": "avatarDecoration__0b5ea",
-    "nameplateContainer": "nameplateContainer__0b5ea"
+    "nameplateContainer": "nameplateContainer__0b5ea",
+    "externalProductAsset": "externalProductAsset__0b5ea"
   },
   "231315": {
     "description": "description__80a8f",
