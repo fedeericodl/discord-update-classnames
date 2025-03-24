@@ -6215,6 +6215,7 @@
     "headerText": "headerText__99e7c",
     "privateChannelsHeaderContainer": "privateChannelsHeaderContainer__99e7c",
     "privateChannelRecipientsInviteButtonIcon": "privateChannelRecipientsInviteButtonIcon__99e7c",
+    "privateChannelRecipientsInviteButtonIconContainer": "privateChannelRecipientsInviteButtonIconContainer__99e7c",
     "scroller": "scroller__99e7c"
   },
   "218443": {
@@ -15604,6 +15605,7 @@
     "clickable": "clickable__675e5",
     "disabledClickable": "disabledClickable__675e5",
     "plusIcon": "plusIcon__675e5",
+    "plusIconContainer": "plusIconContainer__675e5",
     "spinner": "spinner__675e5",
     "spinnerInnerRunning": "spinnerInnerRunning__675e5"
   },
