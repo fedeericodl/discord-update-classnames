@@ -2466,6 +2466,13 @@
     "listingPrice": "listingPrice_c7dbcb",
     "embedPrice": "embedPrice_c7dbcb"
   },
+  "83627": {
+    "deleteEntitlementButton": "deleteEntitlementButton__23012",
+    "card": "card__23012",
+    "clickableGroup": "clickableGroup__23012",
+    "section": "section__23012",
+    "buttonGroup": "buttonGroup__23012"
+  },
   "83647": {
     "emptyStateContainer": "emptyStateContainer__5ec2f",
     "peopleList": "peopleList__5ec2f",
@@ -2499,6 +2506,12 @@
     "errorSubText": "errorSubText_f0c2ea subText_f0c2ea",
     "disabledTooltipWrapper": "disabledTooltipWrapper_f0c2ea",
     "disabledTooltipTarget": "disabledTooltipTarget_f0c2ea"
+  },
+  "84848": {
+    "iconContainer": "iconContainer__4bcae",
+    "content": "content__4bcae",
+    "textContainer": "textContainer__4bcae",
+    "action": "action__4bcae"
   },
   "85004": {
     "modalHeader": "modalHeader__6d749",
@@ -2672,7 +2685,6 @@
     "badgeDiamondGlow": "badgeDiamondGlow__1f2ac",
     "badgeEmeraldGlow": "badgeEmeraldGlow__1f2ac",
     "badgeRubyGlow": "badgeRubyGlow__1f2ac",
-    "badgeFireGlow": "badgeFireGlow__1f2ac",
     "badgeOpalGlow": "badgeOpalGlow__1f2ac"
   },
   "88293": {
@@ -6232,18 +6244,7 @@
   "219041": {
     "container": "container__8061a",
     "badge": "badge__8061a",
-    "orbBadge": "orbBadge__8061a",
-    "tieredTenureBadgeBronzeGlow": "tieredTenureBadgeBronzeGlow__8061a",
-    "tieredTenureBadgeSilverGlow": "tieredTenureBadgeSilverGlow__8061a",
-    "tieredTenureBadgeGoldGlow": "tieredTenureBadgeGoldGlow__8061a",
-    "tieredTenureBadgePlatinumGlow": "tieredTenureBadgePlatinumGlow__8061a",
-    "tieredTenureBadgeDiamondGlow": "tieredTenureBadgeDiamondGlow__8061a",
-    "tieredTenureBadgeEmeraldGlow": "tieredTenureBadgeEmeraldGlow__8061a",
-    "tieredTenureBadgeRubyGlow": "tieredTenureBadgeRubyGlow__8061a",
-    "tieredTenureBadgeFireGlow": "tieredTenureBadgeFireGlow__8061a",
-    "starContainer": "starContainer__8061a",
-    "bottomRightStar": "bottomRightStar__8061a",
-    "topLeftStar": "topLeftStar__8061a"
+    "orbBadge": "orbBadge__8061a"
   },
   "219142": {
     "fileWrapper": "fileWrapper__0ccae",
@@ -8831,10 +8832,8 @@
     "header": "header_a92dc5",
     "subHeader": "subHeader_a92dc5",
     "badge": "badge_a92dc5",
-    "badgeV2": "badgeV2_a92dc5",
     "badgeImage": "badgeImage_a92dc5",
     "badgeText": "badgeText_a92dc5",
-    "badgeTextV2": "badgeTextV2_a92dc5",
     "badgeName": "badgeName_a92dc5",
     "badgeList": "badgeList_a92dc5",
     "subscribeButton": "subscribeButton_a92dc5",
@@ -14477,8 +14476,8 @@
   "553481": {
     "soundButtonWrapper": "soundButtonWrapper__6d4ed",
     "soundButton": "soundButton__6d4ed",
-    "soundButtonRefresh": "soundButtonRefresh__6d4ed",
     "focused": "focused__6d4ed",
+    "soundButtonRefresh": "soundButtonRefresh__6d4ed",
     "soundInfoRefresh": "soundInfoRefresh__6d4ed",
     "buttonOverlayActionsRefresh": "buttonOverlayActionsRefresh__6d4ed absoluteFill__6d4ed",
     "soundNameRefresh": "soundNameRefresh__6d4ed",
