@@ -6968,9 +6968,7 @@
     "preview": "preview__37357",
     "previewForCollected": "previewForCollected__37357 preview__37357",
     "container": "container__37357",
-    "header": "header__37357",
     "headerContainer": "headerContainer__37357",
-    "centeredButton": "centeredButton__37357",
     "body": "body__37357",
     "bodySpacing": "bodySpacing__37357"
   },
@@ -7201,12 +7199,9 @@
     "preview": "preview__573a4",
     "previewForCollected": "previewForCollected__573a4 preview__573a4",
     "container": "container__573a4",
-    "header": "header__573a4",
     "headerContainer": "headerContainer__573a4",
     "body": "body__573a4",
     "bodySpacing": "bodySpacing__573a4",
-    "centeredButton": "centeredButton__573a4",
-    "safetyTable": "safetyTable__573a4",
     "restrictedSafetyTable": "restrictedSafetyTable__573a4"
   },
   "256606": {
@@ -17570,13 +17565,11 @@
   },
   "670353": {
     "container": "container__48a3a",
-    "header": "header__48a3a",
     "headerContainer": "headerContainer__48a3a",
     "preview": "preview__48a3a",
     "previewForCollected": "previewForCollected__48a3a preview__48a3a",
     "body": "body__48a3a",
-    "bodySpacing": "bodySpacing__48a3a",
-    "centeredButton": "centeredButton__48a3a"
+    "bodySpacing": "bodySpacing__48a3a"
   },
   "670924": {
     "container": "container__0a12b",
@@ -17883,7 +17876,6 @@
   "684082": {
     "container": "container_a9809a",
     "avatar": "avatar_a9809a",
-    "avatarHalo": "avatarHalo_a9809a",
     "avatarIconContainer": "avatarIconContainer_a9809a"
   },
   "684117": {
