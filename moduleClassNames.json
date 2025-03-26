@@ -11105,6 +11105,10 @@
   "406672": {
     "questsCard": "questsCard__72a00"
   },
+  "407791": {
+    "tooltipDescription": "tooltipDescription_cd30d9",
+    "tooltipWordmark": "tooltipWordmark_cd30d9"
+  },
   "407823": {
     "container": "container__8cc9a",
     "circle": "circle__8cc9a",
@@ -15914,16 +15918,6 @@
     "avatar": "avatar_ec58fe",
     "username": "username_ec58fe"
   },
-  "607558": {
-    "tooltipContainer": "tooltipContainer_f240e3",
-    "tooltipDescription": "tooltipDescription_f240e3",
-    "tooltipWordmarkContainer": "tooltipWordmarkContainer_f240e3",
-    "tooltipWordmark": "tooltipWordmark_f240e3",
-    "orbBadge": "orbBadge_f240e3",
-    "orbBadgeAsset": "orbBadgeAsset_f240e3",
-    "orbHeaderWithSpacing": "orbHeaderWithSpacing_f240e3",
-    "orbSubtext": "orbSubtext_f240e3"
-  },
   "607639": {
     "prompt": "prompt_fe70ca",
     "promptContent": "promptContent_fe70ca",
@@ -16112,6 +16106,7 @@
     "micButtonParent": "micButtonParent__37e49",
     "buttonChevron": "buttonChevron__37e49",
     "micButtonWithMenu": "micButtonWithMenu__37e49",
+    "redGlow": "redGlow__37e49",
     "voiceFilterWarning": "voiceFilterWarning__37e49",
     "buttons": "buttons__37e49",
     "buttonChevronIcon": "buttonChevronIcon__37e49",
@@ -18330,6 +18325,10 @@
     "ctaInner": "ctaInner__28e57",
     "inlineSwitch": "inlineSwitch__28e57"
   },
+  "702674": {
+    "tooltipContainer": "tooltipContainer__7bebc",
+    "tooltipWordmarkContainer": "tooltipWordmarkContainer__7bebc"
+  },
   "703272": {
     "emojiErrorItem": "emojiErrorItem__67954",
     "fileIcon": "fileIcon__67954",
@@ -19669,6 +19668,13 @@
     "closeButton": "closeButton__51e4d",
     "ctaButton": "ctaButton__51e4d"
   },
+  "746923": {
+    "root": "root__75df3",
+    "content": "content__75df3",
+    "headersContainer": "headersContainer__75df3",
+    "modalClose": "modalClose__75df3",
+    "learnMore": "learnMore__75df3"
+  },
   "747160": {
     "badgeUpgrade": "badgeUpgrade_fbcaba"
   },
@@ -20304,7 +20310,9 @@
     "button": "button__19fd1",
     "number": "number__19fd1",
     "tableRowGroup": "tableRowGroup__19fd1",
-    "content": "content__19fd1"
+    "content": "content__19fd1",
+    "buttonContainer": "buttonContainer__19fd1",
+    "buttonIcon": "buttonIcon__19fd1"
   },
   "770792": {
     "profile": "profile_ed0705",
@@ -20789,6 +20797,12 @@
     "iconContainer": "iconContainer__8e75f",
     "nameContainer": "nameContainer__8e75f",
     "unlocked": "unlocked__8e75f"
+  },
+  "791165": {
+    "tooltipWordmark": "tooltipWordmark_d4ff11",
+    "orbBadgeAsset": "orbBadgeAsset_d4ff11",
+    "orbHeaderWithSpacing": "orbHeaderWithSpacing_d4ff11",
+    "orbSubtext": "orbSubtext_d4ff11"
   },
   "792069": {
     "content": "content__7e015",
@@ -22789,7 +22803,7 @@
   "873841": {
     "container": "container__4bbc6",
     "fadeIn": "fadeIn__4bbc6",
-    "containerExit": "containerExit__4bbc6",
+    "noFade": "noFade__4bbc6",
     "fadeOut": "fadeOut__4bbc6",
     "img": "img__4bbc6",
     "hover": "hover__4bbc6",
