@@ -16237,6 +16237,12 @@
     "dismissButton": "dismissButton_dd40b0",
     "dismissIcon": "dismissIcon_dd40b0"
   },
+  "623753": {
+    "container": "container__3a77d",
+    "headerAsset": "headerAsset__3a77d",
+    "benefits": "benefits__3a77d",
+    "benefitRow": "benefitRow__3a77d"
+  },
   "624848": {
     "questRewardTile": "questRewardTile__28141",
     "rewardHighlight": "rewardHighlight__28141",
@@ -18586,6 +18592,7 @@
     "artContainer": "artContainer_a55fdc",
     "refreshedArt": "refreshedArt_a55fdc",
     "container": "container_a55fdc",
+    "buttonContainer": "buttonContainer_a55fdc",
     "border": "border_a55fdc"
   },
   "711642": {
@@ -23130,6 +23137,7 @@
     "categoryBanner": "categoryBanner_c50f62",
     "collectiblePreviewsContainerNoChat": "collectiblePreviewsContainerNoChat_c50f62 collectiblePreviewsContainer_c50f62",
     "collectiblePreviewsContainerWithChat": "collectiblePreviewsContainerWithChat_c50f62 collectiblePreviewsContainer_c50f62",
+    "fractionalNitroPreviewContainer": "fractionalNitroPreviewContainer_c50f62 collectiblePreviewsContainer_c50f62",
     "avatarPreviewContainer": "avatarPreviewContainer_c50f62",
     "pfxPreviewContainer": "pfxPreviewContainer_c50f62",
     "bundlePreviewContainer": "bundlePreviewContainer_c50f62",
