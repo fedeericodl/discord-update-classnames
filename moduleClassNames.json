@@ -20247,7 +20247,7 @@
     "selected": "selected_ca5f52"
   },
   "766808": {
-    "panel": "panel__6dc2e"
+    "previewPanel": "previewPanel__6dc2e"
   },
   "766851": {
     "container": "container__6436f",
@@ -22341,6 +22341,9 @@
     "unreadImportant": "unreadImportant__2ea32",
     "numberBadge": "numberBadge__2ea32",
     "activeEvent": "activeEvent__2ea32"
+  },
+  "854060": {
+    "container": "container__0ccef"
   },
   "854848": {
     "container": "container_a804d4",
