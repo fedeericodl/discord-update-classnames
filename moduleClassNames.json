@@ -319,6 +319,7 @@
     "headerGlass": "headerGlass_f37cb1",
     "invitesRefresh": "invitesRefresh_f37cb1",
     "guildDropdown": "guildDropdown_f37cb1",
+    "guildBadgeAndName": "guildBadgeAndName_f37cb1",
     "inviteButton": "inviteButton_f37cb1"
   },
   "15366": {
@@ -3034,6 +3035,11 @@
   },
   "102214": {
     "container": "container__5662e"
+  },
+  "102695": {
+    "chatWallpaperDMListCoachmarkContent": "chatWallpaperDMListCoachmarkContent_f36944",
+    "chatWallpaperDMListCoachmarkPointer": "chatWallpaperDMListCoachmarkPointer_f36944",
+    "chatWallpaperDMListCoachmarkArt": "chatWallpaperDMListCoachmarkArt_f36944"
   },
   "102850": {
     "previewContainer": "previewContainer__92e52",
@@ -23192,6 +23198,7 @@
     "primaryButton": "primaryButton_c50f62",
     "disclaimer": "disclaimer_c50f62",
     "disclaimerLight": "disclaimerLight_c50f62",
+    "learnMoreLink": "learnMoreLink_c50f62",
     "priceTag": "priceTag_c50f62",
     "priceTagContainer": "priceTagContainer_c50f62",
     "headingWithItemTypePill": "headingWithItemTypePill_c50f62",
