@@ -16321,12 +16321,12 @@
     "video": "video__078ac"
   },
   "630167": {
+    "messagePopoutContent": "messagePopoutContent_c00127",
     "popoutContainer": "popoutContainer_c00127",
     "mainContent": "mainContent_c00127",
     "iconContainer": "iconContainer_c00127",
     "header": "header_c00127",
-    "ctaButton": "ctaButton_c00127",
-    "ctaButtonContent": "ctaButtonContent_c00127"
+    "ctaButton": "ctaButton_c00127"
   },
   "630588": {
     "translate": "translate_faf9c0",
@@ -24694,6 +24694,7 @@
     "tagInputContainer": "tagInputContainer__69ef9",
     "tagInputWrapper": "tagInputWrapper__69ef9",
     "tagInput": "tagInput__69ef9",
+    "tagChangeInfoBox": "tagChangeInfoBox__69ef9",
     "pickerGrid": "pickerGrid__69ef9",
     "pickerItem": "pickerItem__69ef9",
     "pickerItemSelected": "pickerItemSelected__69ef9",
