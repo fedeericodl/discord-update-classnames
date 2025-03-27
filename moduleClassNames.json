@@ -2577,8 +2577,9 @@
     "linkButton": "linkButton__972a0",
     "linkButtonIcon": "linkButtonIcon__972a0",
     "closeButton": "closeButton__972a0",
+    "closeButtonPlated": "closeButtonPlated__972a0",
+    "innerCloseButtonPlated": "innerCloseButtonPlated__972a0",
     "closeIconPlated": "closeIconPlated__972a0",
-    "closeButtonBackgroundPlated": "closeButtonBackgroundPlated__972a0",
     "favoriteIcon": "favoriteIcon__972a0",
     "closeIcon": "closeIcon__972a0",
     "subtext": "subtext__972a0",
@@ -22818,7 +22819,7 @@
     "selected": "selected__4bbc6",
     "account": "account__4bbc6",
     "preview": "preview__4bbc6",
-    "accountContainer": "accountContainer__4bbc6",
+    "rtcOpened": "rtcOpened__4bbc6",
     "videoContainer": "videoContainer__4bbc6"
   },
   "874525": {
