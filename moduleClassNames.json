@@ -148,11 +148,6 @@
   "11923": {
     "noticeContainer": "noticeContainer_f2a57a"
   },
-  "12165": {
-    "container": "container__77b6b",
-    "image": "image__77b6b",
-    "text": "text__77b6b"
-  },
   "12364": {
     "bar": "bar_c38106",
     "shortBar": "shortBar_c38106",
@@ -4600,7 +4595,8 @@
     "nonTier2FooterText": "nonTier2FooterText_f86e69",
     "getNitroButton": "getNitroButton_f86e69",
     "getNitroButtonText": "getNitroButtonText_f86e69",
-    "loadingContainer": "loadingContainer_f86e69"
+    "loadingContainer": "loadingContainer_f86e69",
+    "blurToggle": "blurToggle_f86e69"
   },
   "154972": {
     "modal": "modal__7e85a",
@@ -10793,6 +10789,9 @@
     "cardContent": "cardContent__8833c",
     "selectedCard": "selectedCard__8833c"
   },
+  "394704": {
+    "customConfetti": "customConfetti__69c6c"
+  },
   "395360": {
     "button": "button_e08d4d",
     "seeMore": "seeMore_e08d4d",
@@ -14861,7 +14860,6 @@
     "collectedTextContainer": "collectedTextContainer__78e61",
     "confettiCanvas": "confettiCanvas__78e61",
     "profileEffectShopPreview": "profileEffectShopPreview__78e61",
-    "customConfetti": "customConfetti__78e61",
     "bundlePreview": "bundlePreview__78e61",
     "bundleProfileEffectCard": "bundleProfileEffectCard__78e61",
     "buttons": "buttons__78e61",
@@ -15613,6 +15611,11 @@
     "image": "image__577c3",
     "links": "links__577c3",
     "agreementDescription": "agreementDescription__577c3"
+  },
+  "597003": {
+    "container": "container__5e25d",
+    "image": "image__5e25d",
+    "text": "text__5e25d"
   },
   "597017": {
     "headerContainer": "headerContainer__675e5",
