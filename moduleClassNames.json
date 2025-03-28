@@ -7801,6 +7801,9 @@
     "check": "check__5621e",
     "regionSelectName": "regionSelectName__5621e"
   },
+  "276795": {
+    "icon": "icon__402f3"
+  },
   "276940": {
     "container": "container_d8f25b",
     "icon": "icon_d8f25b",
@@ -19320,6 +19323,7 @@
     "card": "card__4cb8a",
     "iconMask": "iconMask__4cb8a",
     "contextMenu": "contextMenu__4cb8a",
+    "maximizeIcon": "maximizeIcon__4cb8a",
     "header": "header__4cb8a",
     "loaded": "loaded__4cb8a",
     "banner": "banner__4cb8a",
