@@ -21468,6 +21468,13 @@
     "video": "video_cc0382",
     "artContainer": "artContainer_cc0382"
   },
+  "819590": {
+    "previewContents": "previewContents__36852",
+    "previewBox": "previewBox__36852",
+    "previewDescription": "previewDescription__36852",
+    "previewBorder": "previewBorder__36852",
+    "upsell": "upsell__36852"
+  },
   "819683": {
     "backgroundIconOptionIcon": "backgroundIconOptionIcon__53965",
     "backgroundOptions": "backgroundOptions__53965",
@@ -23028,6 +23035,19 @@
   "881805": {
     "settings": "settings__1b19d",
     "halfWidth": "halfWidth__1b19d"
+  },
+  "881837": {
+    "inventory": "inventory__6980e",
+    "inventoryTitle": "inventoryTitle__6980e",
+    "inventoryControls": "inventoryControls__6980e",
+    "inventoryControlsButton": "inventoryControlsButton__6980e",
+    "inventoryDescription": "inventoryDescription__6980e",
+    "inventoryDescriptionTitle": "inventoryDescriptionTitle__6980e",
+    "list": "list__6980e",
+    "nameplateItem": "nameplateItem__6980e",
+    "nameplateItemOverlay": "nameplateItemOverlay__6980e",
+    "selected": "selected__6980e",
+    "lock": "lock__6980e"
   },
   "882061": {
     "modal": "modal__54675",
@@ -25414,26 +25434,10 @@
     "button": "button__85643"
   },
   "964021": {
-    "content": "content__2aeb5",
+    "spinner": "spinner__2aeb5",
     "header": "header__2aeb5",
-    "close": "close__2aeb5",
-    "body": "body__2aeb5",
-    "inventory": "inventory__2aeb5",
-    "inventoryTitle": "inventoryTitle__2aeb5",
-    "inventoryControls": "inventoryControls__2aeb5",
-    "inventoryControlsButton": "inventoryControlsButton__2aeb5",
-    "inventoryDescription": "inventoryDescription__2aeb5",
-    "inventoryDescriptionTitle": "inventoryDescriptionTitle__2aeb5",
-    "list": "list__2aeb5",
-    "nameplateItem": "nameplateItem__2aeb5",
-    "selected": "selected__2aeb5",
-    "lock": "lock__2aeb5",
-    "previewContents": "previewContents__2aeb5",
-    "previewBox": "previewBox__2aeb5",
-    "previewDescription": "previewDescription__2aeb5",
-    "previewBorder": "previewBorder__2aeb5",
-    "upsell": "upsell__2aeb5",
-    "footer": "footer__2aeb5",
+    "closeButton": "closeButton__2aeb5",
+    "content": "content__2aeb5",
     "goToShopButton": "goToShopButton__2aeb5"
   },
   "964045": {
