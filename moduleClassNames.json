@@ -3029,11 +3029,6 @@
   "102214": {
     "container": "container__5662e"
   },
-  "102695": {
-    "chatWallpaperDMListCoachmarkContent": "chatWallpaperDMListCoachmarkContent_f36944",
-    "chatWallpaperDMListCoachmarkPointer": "chatWallpaperDMListCoachmarkPointer_f36944",
-    "chatWallpaperDMListCoachmarkArt": "chatWallpaperDMListCoachmarkArt_f36944"
-  },
   "102850": {
     "previewContainer": "previewContainer__92e52",
     "effectDescriptionBorder": "effectDescriptionBorder__92e52",
@@ -22839,8 +22834,8 @@
   },
   "873841": {
     "container": "container__4bbc6",
-    "fadeIn": "fadeIn__4bbc6",
     "noFade": "noFade__4bbc6",
+    "fadeIn": "fadeIn__4bbc6",
     "fadeOut": "fadeOut__4bbc6",
     "img": "img__4bbc6",
     "hover": "hover__4bbc6",
