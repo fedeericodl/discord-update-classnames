@@ -10455,6 +10455,7 @@
     "hidden": "hidden__3ce43",
     "buttonContainer": "buttonContainer__3ce43",
     "button": "button__3ce43",
+    "subscribeButton": "subscribeButton__3ce43",
     "headerArt": "headerArt__3ce43",
     "headerArtV2": "headerArtV2__3ce43",
     "reverseContainer": "reverseContainer__3ce43",
@@ -21377,6 +21378,11 @@
     "noResultsHeader": "noResultsHeader_d5ae15",
     "positionBottom": "positionBottom_d5ae15",
     "positionTop": "positionTop_d5ae15"
+  },
+  "817064": {
+    "chatWallpaperDMListCoachmarkContent": "chatWallpaperDMListCoachmarkContent_f36944",
+    "chatWallpaperDMListCoachmarkPointer": "chatWallpaperDMListCoachmarkPointer_f36944",
+    "chatWallpaperDMListCoachmarkArt": "chatWallpaperDMListCoachmarkArt_f36944"
   },
   "817500": {
     "pulse": "pulse__3b43f",
