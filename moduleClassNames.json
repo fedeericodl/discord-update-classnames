@@ -9607,6 +9607,7 @@
     "contents": "contents_c19a55",
     "zalgo": "zalgo_c19a55",
     "messageContent": "messageContent_c19a55",
+    "gradient": "gradient_c19a55",
     "header": "header_c19a55",
     "buttonContainer": "buttonContainer_c19a55",
     "avatar": "avatar_c19a55",
@@ -9732,6 +9733,13 @@
     "animation": "animation__7e090",
     "headerTitle": "headerTitle__7e090",
     "closeButton": "closeButton__7e090"
+  },
+  "377211": {
+    "twoColorGradient": "twoColorGradient__65640",
+    "threeColorGradient": "threeColorGradient__65640",
+    "gradient": "gradient__65640",
+    "gradientText": "gradientText__65640",
+    "gradientGlow": "gradientGlow__65640"
   },
   "377446": {
     "channelHeader": "channelHeader__9f71b",
@@ -23518,7 +23526,8 @@
     "errorContent": "errorContent__5ce63",
     "errorModalFooter": "errorModalFooter__5ce63",
     "iconBackgroundFractional": "iconBackgroundFractional__5ce63",
-    "iconFractional": "iconFractional__5ce63"
+    "iconFractional": "iconFractional__5ce63",
+    "spinnerContainer": "spinnerContainer__5ce63"
   },
   "883695": {
     "ctaButtons": "ctaButtons_a77fde",
