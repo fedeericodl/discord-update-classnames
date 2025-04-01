@@ -11601,6 +11601,12 @@
     "partnerBranding": "partnerBranding__8a22c",
     "rewardHighlightCTA": "rewardHighlightCTA__8a22c"
   },
+  "451387": {
+    "body": "body_e12757",
+    "header": "header_e12757",
+    "button": "button_e12757",
+    "buttonContainer": "buttonContainer_e12757"
+  },
   "451559": {
     "fileWrapper": "fileWrapper__0ccae",
     "file": "file__0ccae",
@@ -21543,6 +21549,7 @@
     "positionTop": "positionTop_d5ae15"
   },
   "817064": {
+    "chatWallpaperDMListCoachmark": "chatWallpaperDMListCoachmark_f36944",
     "chatWallpaperDMListCoachmarkContent": "chatWallpaperDMListCoachmarkContent_f36944",
     "chatWallpaperDMListCoachmarkPointer": "chatWallpaperDMListCoachmarkPointer_f36944",
     "chatWallpaperDMListCoachmarkArt": "chatWallpaperDMListCoachmarkArt_f36944"
