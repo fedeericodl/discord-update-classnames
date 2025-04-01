@@ -340,6 +340,17 @@
     "inviterImage": "inviterImage__93f15",
     "titleContainer": "titleContainer__93f15"
   },
+  "9902": {
+    "container": "container__6f9f7",
+    "tooltipContainer": "tooltipContainer__6f9f7",
+    "primaryButton": "primaryButton__6f9f7",
+    "secondaryButton": "secondaryButton__6f9f7",
+    "buttonInner": "buttonInner__6f9f7",
+    "secondaryButtonInner": "secondaryButtonInner__6f9f7",
+    "buttonWrapper": "buttonWrapper__6f9f7",
+    "dot": "dot__6f9f7",
+    "boost": "boost__6f9f7"
+  },
   "10190": {
     "userInfo": "userInfo__0a06e",
     "avatar": "avatar__0a06e",
@@ -4607,17 +4618,6 @@
     "subtitle": "subtitle_cba592",
     "footerText": "footerText_cba592"
   },
-  "170633": {
-    "container": "container__2b26c",
-    "tooltipContainer": "tooltipContainer__2b26c",
-    "primaryButton": "primaryButton__2b26c",
-    "secondaryButton": "secondaryButton__2b26c",
-    "buttonInner": "buttonInner__2b26c",
-    "secondaryButtonInner": "secondaryButtonInner__2b26c",
-    "buttonWrapper": "buttonWrapper__2b26c",
-    "dot": "dot__2b26c",
-    "boost": "boost__2b26c"
-  },
   "171115": {
     "translate": "translate_faf9c0",
     "animatorTop": "animatorTop_faf9c0",
@@ -6754,9 +6754,9 @@
     "layerForm": "layerForm__93529",
     "layerPreviewContainer": "layerPreviewContainer__93529",
     "layerPreview": "layerPreview__93529",
-    "staticFramesContainer": "staticFramesContainer__93529",
-    "staticFramePreviewContainer": "staticFramePreviewContainer__93529",
-    "staticFramePreview": "staticFramePreview__93529"
+    "stillFramesContainer": "stillFramesContainer__93529",
+    "stillFramePreviewContainer": "stillFramePreviewContainer__93529",
+    "stillFramePreview": "stillFramePreview__93529"
   },
   "257495": {
     "fadeIn": "fadeIn__5cd44",
@@ -12497,6 +12497,16 @@
     "iconBackground": "iconBackground__33980",
     "link": "link__33980"
   },
+  "485417": {
+    "modalContent": "modalContent__46773",
+    "header": "header__46773",
+    "iconSection": "iconSection__46773",
+    "iconContainer": "iconContainer__46773",
+    "pencilIconWrapper": "pencilIconWrapper__46773",
+    "iconPlaceholder": "iconPlaceholder__46773",
+    "iconImage": "iconImage__46773",
+    "closeButtonWrapper": "closeButtonWrapper__46773"
+  },
   "485519": {
     "subheaderContainer": "subheaderContainer__6f7ce",
     "subHeaderTextContainer": "subHeaderTextContainer__6f7ce",
@@ -13815,6 +13825,10 @@
     "footer": "footer__30359",
     "header": "header__30359",
     "subtitleText": "subtitleText__30359"
+  },
+  "539749": {
+    "container": "container_ec8ca9",
+    "disabled": "disabled_ec8ca9"
   },
   "541061": {
     "messagesPopoutWrap": "messagesPopoutWrap__45690",
@@ -16304,7 +16318,9 @@
     "closeIcon": "closeIcon_cacd02"
   },
   "640983": {
+    "text-sm/medium": "text-sm/medium__13cf1",
     "container": "container__13cf1",
+    "header": "header__13cf1 text-sm/medium__13cf1",
     "text": "text__13cf1"
   },
   "641168": {
@@ -23963,7 +23979,11 @@
     "actions": "actions__2dbe1",
     "actionButton": "actionButton__2dbe1",
     "experimentActions": "experimentActions__2dbe1",
-    "previewButton": "previewButton__2dbe1"
+    "previewButton": "previewButton__2dbe1",
+    "guildIcon": "guildIcon__2dbe1",
+    "mask": "mask__2dbe1",
+    "guildAcronym": "guildAcronym__2dbe1",
+    "guildIconWithoutImage": "guildIconWithoutImage__2dbe1"
   },
   "907578": {
     "emoji": "emoji__045fa",
@@ -24200,6 +24220,8 @@
   "918360": {
     "iconContainer": "iconContainer__4bcae",
     "content": "content__4bcae",
+    "noReactions": "noReactions__4bcae",
+    "withReactions": "withReactions__4bcae",
     "textContainer": "textContainer__4bcae",
     "action": "action__4bcae"
   },
@@ -25472,6 +25494,20 @@
   "957932": {
     "container": "container_b1c93b",
     "emptySearchIcon": "emptySearchIcon_b1c93b"
+  },
+  "958062": {
+    "chatHeaderBar": "chatHeaderBar_a53846",
+    "chatHeaderBarInfo": "chatHeaderBarInfo_a53846",
+    "chatHeaderBarText": "chatHeaderBarText_a53846",
+    "chatHeaderBarButton": "chatHeaderBarButton_a53846",
+    "chatHeaderBarButtonInner": "chatHeaderBarButtonInner_a53846",
+    "voiceIcon": "voiceIcon_a53846",
+    "voiceIconRinging": "voiceIconRinging_a53846",
+    "guildIcon": "guildIcon_a53846",
+    "mask": "mask_a53846",
+    "guildAcronym": "guildAcronym_a53846",
+    "guildIconWithoutImage": "guildIconWithoutImage_a53846",
+    "themed": "themed_a53846"
   },
   "958607": {
     "content": "content__57f77",
