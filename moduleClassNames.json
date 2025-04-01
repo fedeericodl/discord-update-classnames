@@ -18612,7 +18612,8 @@
     "fullbleed": "fullbleed__10a0c",
     "iframe": "iframe__10a0c",
     "cancelButton": "cancelButton__10a0c",
-    "footer": "footer__10a0c"
+    "footer": "footer__10a0c",
+    "footerButton": "footerButton__10a0c"
   },
   "717958": {
     "root": "root_a2e66b",
