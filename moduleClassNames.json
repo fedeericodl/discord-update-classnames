@@ -4234,11 +4234,6 @@
     "icon": "icon__17403",
     "innerButton": "innerButton__17403"
   },
-  "157213": {
-    "modalHeader": "modalHeader_ccfb90",
-    "modalContent": "modalContent_ccfb90",
-    "instructionsList": "instructionsList_ccfb90"
-  },
   "157264": {
     "reasonContainer": "reasonContainer__958c7",
     "background": "background__958c7",
@@ -8779,6 +8774,12 @@
     "playButton": "playButton_cf0b5e",
     "playButtonIcon": "playButtonIcon_cf0b5e"
   },
+  "342722": {
+    "modalRoot": "modalRoot__5d321",
+    "modalHeader": "modalHeader__5d321",
+    "modalContent": "modalContent__5d321",
+    "instructionsList": "instructionsList__5d321"
+  },
   "343425": {
     "giftRecipientInfo": "giftRecipientInfo__57118",
     "content": "content__57118",
@@ -10428,11 +10429,12 @@
     "container": "container__77347",
     "headingContainer": "headingContainer__77347",
     "previewToggleContainer": "previewToggleContainer__77347",
-    "uploadInstructionsContainer": "uploadInstructionsContainer__77347",
+    "instructionsButton": "instructionsButton__77347",
     "uploadedFileListItem": "uploadedFileListItem__77347",
     "ignoredFileListItem": "ignoredFileListItem__77347",
     "removeFileButtonInnerContents": "removeFileButtonInnerContents__77347",
-    "profileEffectPreviewSelector": "profileEffectPreviewSelector__77347"
+    "profileEffectPreviewSelector": "profileEffectPreviewSelector__77347",
+    "divider": "divider__77347"
   },
   "407601": {
     "modalRoot": "modalRoot__4f18f",
