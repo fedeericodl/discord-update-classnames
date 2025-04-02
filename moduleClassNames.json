@@ -4572,7 +4572,8 @@
     "popoutCaretLeft": "popoutCaretLeft__93fc9",
     "popoutContent": "popoutContent__93fc9",
     "coachmarkTextContainer": "coachmarkTextContainer__93fc9",
-    "folderIconContent": "folderIconContent__93fc9"
+    "folderIconContent": "folderIconContent__93fc9",
+    "folderWrapperCollapsed": "folderWrapperCollapsed__93fc9"
   },
   "168575": {
     "wrapper": "wrapper__4d7bb",
@@ -21607,6 +21608,7 @@
     "embedField": "embedField__623de",
     "embedMedia": "embedMedia__623de",
     "embedAmazonMusic": "embedAmazonMusic__623de",
+    "embedAppleMusic": "embedAppleMusic__623de",
     "embedSpotify": "embedSpotify__623de",
     "hiddenEmbed": "hiddenEmbed__623de",
     "spoilerEmbed": "spoilerEmbed__623de hiddenEmbed__623de",
