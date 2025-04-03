@@ -4555,6 +4555,16 @@
     "loadIN": "loadIN__2dc39",
     "placeholder": "placeholder__2dc39"
   },
+  "172204": {
+    "container": "container__35859",
+    "icon": "icon__35859",
+    "iconDiv": "iconDiv__35859",
+    "text": "text__35859",
+    "positive": "positive__35859",
+    "warning": "warning__35859",
+    "info": "info__35859",
+    "error": "error__35859"
+  },
   "172211": {
     "rowContainer": "rowContainer__8a920"
   },
@@ -11035,16 +11045,6 @@
     "tagInputWrapper": "tagInputWrapper__62196",
     "tagInput": "tagInput__62196",
     "tagValidationText": "tagValidationText__62196"
-  },
-  "420077": {
-    "container": "container__6436f",
-    "icon": "icon__6436f",
-    "iconDiv": "iconDiv__6436f",
-    "text": "text__6436f",
-    "positive": "positive__6436f",
-    "warning": "warning__6436f",
-    "info": "info__6436f",
-    "error": "error__6436f"
   },
   "420334": {
     "rightTrayIcon": "rightTrayIcon__2cdb8",
@@ -19730,8 +19730,7 @@
     "twoColorGradient": "twoColorGradient__65640",
     "threeColorGradient": "threeColorGradient__65640",
     "gradient": "gradient__65640",
-    "gradientText": "gradientText__65640",
-    "gradientGlow": "gradientGlow__65640"
+    "gradientText": "gradientText__65640"
   },
   "762956": {
     "addQuestionsContainer": "addQuestionsContainer_e4e867"
