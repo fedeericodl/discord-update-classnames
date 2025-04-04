@@ -3673,6 +3673,7 @@
     "wrapper": "wrapper_f910d0",
     "ringingOutgoing": "ringingOutgoing_f910d0",
     "ringingIncoming": "ringingIncoming_f910d0",
+    "statusContainer": "statusContainer_f910d0",
     "status": "status_f910d0",
     "voiceAvatar": "voiceAvatar_f910d0",
     "border": "border_f910d0",
@@ -20761,7 +20762,6 @@
   "795243": {
     "scroller": "scroller__68617",
     "voiceUsers": "voiceUsers__68617",
-    "expandButton": "expandButton__68617",
     "avatarContainer": "avatarContainer__68617",
     "avatar": "avatar__68617",
     "speaking": "speaking__68617",
