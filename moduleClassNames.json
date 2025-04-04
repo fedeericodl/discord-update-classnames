@@ -3114,6 +3114,7 @@
     "description": "description__98cbd",
     "imageContainer": "imageContainer__98cbd",
     "image": "image__98cbd",
+    "gradientRoleColorsImage": "gradientRoleColorsImage__98cbd",
     "bundle": "bundle__98cbd",
     "inline": "inline__98cbd",
     "inlineBoost": "inlineBoost__98cbd"
@@ -10078,6 +10079,7 @@
     "footer": "footer__61aee",
     "powerupImageContainer": "powerupImageContainer__61aee",
     "powerupImage": "powerupImage__61aee",
+    "gradientRoleColorsImage": "gradientRoleColorsImage__61aee",
     "exampleImage": "exampleImage__61aee",
     "error": "error__61aee"
   },
