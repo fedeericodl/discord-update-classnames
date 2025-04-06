@@ -25666,6 +25666,11 @@
     "hiddenIframeContainer": "hiddenIframeContainer__078ba",
     "iframePlaceholder": "iframePlaceholder__078ba"
   },
+  "962178": {
+    "inspectorContainer": "inspectorContainer__583eb",
+    "traceContainer": "traceContainer__583eb",
+    "traceItem": "traceItem__583eb"
+  },
   "962311": {
     "membershipDialog": "membershipDialog__2d899",
     "membershipDialogContent": "membershipDialogContent__2d899",
