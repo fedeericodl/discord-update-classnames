@@ -3403,15 +3403,6 @@
     "sharingTitleSpacer": "sharingTitleSpacer__50dce",
     "manageContainer": "manageContainer__50dce"
   },
-  "129163": {
-    "wrapper": "wrapper_ec15c1",
-    "toastContainerInner": "toastContainerInner_ec15c1",
-    "hovered": "hovered_ec15c1",
-    "guildIconContainer": "guildIconContainer_ec15c1",
-    "guildTagContainer": "guildTagContainer_ec15c1",
-    "guildClanTag": "guildClanTag_ec15c1",
-    "toastButton": "toastButton_ec15c1"
-  },
   "129419": {
     "tag": "tag_fe5e5d",
     "inheritBackgroundColor": "inheritBackgroundColor_fe5e5d",
@@ -4764,23 +4755,6 @@
   },
   "179168": {
     "clickable": "clickable__75b30"
-  },
-  "179471": {
-    "container": "container_d6cfa8",
-    "closeButtonContainer": "closeButtonContainer_d6cfa8",
-    "body": "body_d6cfa8",
-    "applicationContainer": "applicationContainer_d6cfa8",
-    "scroller": "scroller_d6cfa8",
-    "verticalRule": "verticalRule_d6cfa8",
-    "clanContainer": "clanContainer_d6cfa8",
-    "applyButtonContainer": "applyButtonContainer_d6cfa8",
-    "applyButtonInner": "applyButtonInner_d6cfa8",
-    "successCheckmark": "successCheckmark_d6cfa8",
-    "verificationForm": "verificationForm_d6cfa8",
-    "profileCard": "profileCard_d6cfa8",
-    "maxCapacityText": "maxCapacityText_d6cfa8",
-    "separator": "separator_d6cfa8",
-    "noticeText": "noticeText_d6cfa8"
   },
   "179556": {
     "container": "container__4a4f2",
@@ -8967,10 +8941,14 @@
     "acceptText": "acceptText_ef2eb4"
   },
   "341402": {
+    "tooltip": "tooltip_e12757",
     "body": "body_e12757",
     "header": "header_e12757",
     "button": "button_e12757",
-    "buttonContainer": "buttonContainer_e12757"
+    "buttonContainer": "buttonContainer_e12757",
+    "content": "content_e12757",
+    "pointer": "pointer_e12757",
+    "pointerBottom": "pointerBottom_e12757"
   },
   "341969": {
     "popover": "popover__2d0ab",
@@ -18323,9 +18301,6 @@
     "removeButton": "removeButton__82d84"
   },
   "706442": {
-    "chatWallpaperDMListCoachmark": "chatWallpaperDMListCoachmark_f36944",
-    "chatWallpaperDMListCoachmarkContent": "chatWallpaperDMListCoachmarkContent_f36944",
-    "chatWallpaperDMListCoachmarkPointer": "chatWallpaperDMListCoachmarkPointer_f36944",
     "chatWallpaperDMListCoachmarkArt": "chatWallpaperDMListCoachmarkArt_f36944"
   },
   "707432": {
@@ -18354,6 +18329,10 @@
     "lockIcon": "lockIcon__6f7ce",
     "lockdownButtonText": "lockdownButtonText__6f7ce",
     "shieldIcon": "shieldIcon__6f7ce"
+  },
+  "708348": {
+    "friendsWhoPlay": "friendsWhoPlay__4daa6",
+    "friendsWhoPlayText": "friendsWhoPlayText__4daa6"
   },
   "708554": {
     "container": "container_fea832",
@@ -19039,13 +19018,6 @@
     "linkTextContainer": "linkTextContainer_b1585f",
     "linkIcon": "linkIcon_b1585f",
     "linksContainer": "linksContainer_b1585f"
-  },
-  "736609": {
-    "mainContainer": "mainContainer_e1323c",
-    "modal": "modal_e1323c",
-    "infoContainer": "infoContainer_e1323c",
-    "modalFooter": "modalFooter_e1323c",
-    "headerTextContainer": "headerTextContainer_e1323c"
   },
   "736967": {
     "container": "container_db0ccb",
