@@ -5257,11 +5257,6 @@
     "container": "container__38f6e",
     "border": "border__38f6e"
   },
-  "197617": {
-    "slide": "slide_fd65ff",
-    "scaleDown": "scaleDown_fd65ff",
-    "contain": "contain_fd65ff"
-  },
   "197866": {
     "wrapper": "wrapper__727be",
     "header": "header__727be",
@@ -8057,8 +8052,7 @@
     "gradientLeft": "gradientLeft_a1cc72 gradient_a1cc72",
     "gradientRight": "gradientRight_a1cc72 gradient_a1cc72",
     "arrowClickable": "arrowClickable_a1cc72",
-    "arrow": "arrow_a1cc72",
-    "mediaModal": "mediaModal_a1cc72"
+    "arrow": "arrow_a1cc72"
   },
   "301849": {
     "container": "container_d7a3d0",
@@ -8154,20 +8148,6 @@
     "errorHeader": "errorHeader__9ed46",
     "errorBody": "errorBody__9ed46",
     "errorArt": "errorArt__9ed46"
-  },
-  "302597": {
-    "wrapper": "wrapper__1bcc7",
-    "zoomedMediaFitWrapper": "zoomedMediaFitWrapper__1bcc7",
-    "optionsContainer": "optionsContainer__1bcc7",
-    "nav": "nav__1bcc7",
-    "navPrev": "navPrev__1bcc7 nav__1bcc7",
-    "navNext": "navNext__1bcc7 nav__1bcc7",
-    "downloadLink": "downloadLink__1bcc7",
-    "forward": "forward__1bcc7",
-    "obscureContainer": "obscureContainer__1bcc7",
-    "obscureWrapper": "obscureWrapper__1bcc7",
-    "obscure": "obscure__1bcc7",
-    "controlsOffset": "controlsOffset__1bcc7"
   },
   "302615": {
     "privateChannels": "privateChannels_ee924e",
@@ -11681,6 +11661,7 @@
     "experimentTitleContainer": "experimentTitleContainer__95856",
     "entryPointCheckbox": "entryPointCheckbox__95856",
     "entryPointCheckboxLabel": "entryPointCheckboxLabel__95856",
+    "noShowTryItOutButton": "noShowTryItOutButton__95856",
     "entryPointContainerFlexChild": "entryPointContainerFlexChild__95856",
     "expandableDescriptionClickable": "expandableDescriptionClickable__95856",
     "overflowHidden": "overflowHidden__95856",
@@ -17426,8 +17407,11 @@
     "gradientSwatch": "gradientSwatch__488d9",
     "colorPickerDropperLeft": "colorPickerDropperLeft__488d9",
     "colorPickerDropperRight": "colorPickerDropperRight__488d9",
+    "lightRing": "lightRing__488d9",
+    "darkRing": "darkRing__488d9",
     "colorPickerDropperInner": "colorPickerDropperInner__488d9",
-    "colorPickerDropperGradient": "colorPickerDropperGradient__488d9",
+    "colorPickerDropperLight": "colorPickerDropperLight__488d9",
+    "colorPickerDropperDark": "colorPickerDropperDark__488d9",
     "disabled": "disabled__488d9"
   },
   "675833": {
@@ -21859,9 +21843,6 @@
     "singleItem": "singleItem_ed6d69 item_ed6d69",
     "viewport": "viewport_ed6d69"
   },
-  "838157": {
-    "modal": "modal_b0827a"
-  },
   "838997": {
     "roleTag": "roleTag__9cd44",
     "roleTagContainer": "roleTagContainer__9cd44",
@@ -22462,11 +22443,6 @@
     "ctaButton": "ctaButton__8641f",
     "ctaButtonContent": "ctaButtonContent__8641f",
     "boosterBadge": "boosterBadge__8641f"
-  },
-  "854600": {
-    "carouselModal": "carouselModal__8a837",
-    "mobileCloseWrapper": "mobileCloseWrapper__8a837",
-    "forcedTransparency": "forcedTransparency__8a837"
   },
   "855112": {
     "preview": "preview__5d148",
@@ -24313,10 +24289,6 @@
     "decoration": "decoration_ce83f7",
     "decorationBackground": "decorationBackground_ce83f7",
     "header": "header_ce83f7"
-  },
-  "919399": {
-    "container": "container__96e72",
-    "text": "text__96e72"
   },
   "919957": {
     "upsellButton": "upsellButton__5abaa",
