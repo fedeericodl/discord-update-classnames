@@ -2716,7 +2716,8 @@
     "linkedLobbyEducationTooltipWrapper": "linkedLobbyEducationTooltipWrapper_f75fb0",
     "linkedLobbyEducationTooltip": "linkedLobbyEducationTooltip_f75fb0",
     "linkedLobbyEducationTooltipCloseClickContainer": "linkedLobbyEducationTooltipCloseClickContainer_f75fb0",
-    "linkedLobbyEducationTooltipCloseIcon": "linkedLobbyEducationTooltipCloseIcon_f75fb0"
+    "linkedLobbyEducationTooltipCloseIcon": "linkedLobbyEducationTooltipCloseIcon_f75fb0",
+    "hasWallpaper": "hasWallpaper_f75fb0"
   },
   "103395": {
     "stackedAvatar": "stackedAvatar__4337d",
@@ -7332,7 +7333,8 @@
     "roleStyleMessageContainer": "roleStyleMessageContainer__981c8",
     "roleStylePreviewContainer": "roleStylePreviewContainer__981c8",
     "selected": "selected__981c8",
-    "roleStyleLabel": "roleStyleLabel__981c8"
+    "roleStyleLabel": "roleStyleLabel__981c8",
+    "disabled": "disabled__981c8"
   },
   "275459": {
     "container": "container_f215b9",
