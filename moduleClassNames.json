@@ -7327,7 +7327,12 @@
     "divider": "divider__981c8",
     "noticeContainer": "noticeContainer__981c8",
     "previewContainer": "previewContainer__981c8",
-    "messageContainer": "messageContainer__981c8"
+    "messageContainer": "messageContainer__981c8",
+    "roleStyleContainer": "roleStyleContainer__981c8",
+    "roleStyleMessageContainer": "roleStyleMessageContainer__981c8",
+    "roleStylePreviewContainer": "roleStylePreviewContainer__981c8",
+    "selected": "selected__981c8",
+    "roleStyleLabel": "roleStyleLabel__981c8"
   },
   "275459": {
     "container": "container_f215b9",
@@ -22225,6 +22230,7 @@
     "compact": "compact_c19a55",
     "cozy": "cozy_c19a55",
     "contentOnly": "contentOnly_c19a55",
+    "preview": "preview_c19a55",
     "repliedMessage": "repliedMessage_c19a55",
     "executedCommand": "executedCommand_c19a55",
     "threadMessageAccessory": "threadMessageAccessory_c19a55",
