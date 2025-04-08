@@ -13307,6 +13307,14 @@
     "containerDragBefore": "containerDragBefore__5f97b",
     "roleFlowerStar": "roleFlowerStar__5f97b"
   },
+  "521338": {
+    "bar": "bar_f5401d",
+    "emojiSelectContainer": "emojiSelectContainer_f5401d",
+    "end": "end_f5401d",
+    "separator": "separator_f5401d",
+    "learnMoreButton": "learnMoreButton_f5401d",
+    "emojiIconContainer": "emojiIconContainer_f5401d"
+  },
   "521361": {
     "selector": "selector_e1dc93",
     "selectedDevice": "selectedDevice_e1dc93"
@@ -21951,14 +21959,6 @@
   "842304": {
     "textArea": "textArea_ab8e5c",
     "container": "container_ab8e5c"
-  },
-  "842321": {
-    "bar": "bar_f5401d",
-    "emojiSelectContainer": "emojiSelectContainer_f5401d",
-    "end": "end_f5401d",
-    "separator": "separator_f5401d",
-    "learnMoreButton": "learnMoreButton_f5401d",
-    "emojiIconContainer": "emojiIconContainer_f5401d"
   },
   "842515": {
     "noScroll": "noScroll_e81c2b",
