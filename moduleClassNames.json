@@ -922,7 +922,6 @@
     "jump": "jump__5126c",
     "buttons": "buttons__5126c",
     "buttonsInner": "buttonsInner__5126c",
-    "hideIfMessageNotFocused": "hideIfMessageNotFocused__5126c",
     "cozyMessage": "cozyMessage__5126c",
     "groupStart": "groupStart__5126c",
     "systemMessage": "systemMessage__5126c",
@@ -10396,9 +10395,7 @@
     "isInAppComponentsV2": "isInAppComponentsV2_f4758a",
     "nonVisualMediaItemContainer": "nonVisualMediaItemContainer_f4758a",
     "nonVisualMediaItem": "nonVisualMediaItem_f4758a",
-    "hasFooter": "hasFooter_f4758a",
-    "mosaicContainer": "mosaicContainer_f4758a",
-    "single": "single_f4758a"
+    "hasFooter": "hasFooter_f4758a"
   },
   "400024": {
     "header": "header__991a0",
@@ -17987,7 +17984,6 @@
     "titleLine": "titleLine__62280",
     "title": "title__62280",
     "closeButton": "closeButton__62280",
-    "footer": "footer__62280",
     "footerWithMessage": "footerWithMessage__62280",
     "footerWarningWrapper": "footerWarningWrapper__62280",
     "footerButtons": "footerButtons__62280",
@@ -18008,8 +18004,7 @@
     "actions": "actions__62280",
     "sendWithMessage": "sendWithMessage__62280",
     "messageInput": "messageInput__62280",
-    "forwardPreviewWrapper": "forwardPreviewWrapper__62280",
-    "forwardPreviewWrapperInset": "forwardPreviewWrapperInset__62280"
+    "forwardPreviewWrapper": "forwardPreviewWrapper__62280"
   },
   "691825": {
     "giftRecipientInfo": "giftRecipientInfo__57118",
@@ -21172,9 +21167,7 @@
     "threadRoleMentionFailure": "threadRoleMentionFailure_b7e1cb",
     "nitroFileSizeUpsell": "nitroFileSizeUpsell_b7e1cb",
     "nitroBadgeSvg": "nitroBadgeSvg_b7e1cb",
-    "ctaButtonContainer": "ctaButtonContainer_b7e1cb",
-    "embedContainer": "embedContainer_b7e1cb",
-    "embedFlexGrow": "embedFlexGrow_b7e1cb"
+    "ctaButtonContainer": "ctaButtonContainer_b7e1cb"
   },
   "813567": {
     "container": "container_d4ced7",
