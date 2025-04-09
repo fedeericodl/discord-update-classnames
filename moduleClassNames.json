@@ -669,13 +669,6 @@
     "elevationBorderLow": "elevationBorderLow__2b2f1",
     "elevationBorderHigh": "elevationBorderHigh__2b2f1"
   },
-  "20902": {
-    "content": "content__79a24",
-    "achievement": "achievement__79a24",
-    "achievementIcon": "achievementIcon__79a24",
-    "tooltip": "tooltip__79a24",
-    "header": "header__79a24"
-  },
   "21330": {
     "headerContainer": "headerContainer_bdedd9"
   },
@@ -1388,8 +1381,7 @@
     "dotOnline": "dotOnline__99f53",
     "established": "established__99f53",
     "nameContainer": "nameContainer__99f53",
-    "guildName": "guildName__99f53",
-    "guildBadge": "guildBadge__99f53"
+    "guildName": "guildName__99f53"
   },
   "50259": {
     "list": "list_c3cd7d",
@@ -21623,6 +21615,13 @@
     "uploaderAvatar": "uploaderAvatar__15634",
     "uploader": "uploader__15634",
     "browserUnsupportedDialog": "browserUnsupportedDialog__15634"
+  },
+  "832287": {
+    "content": "content__79a24",
+    "achievement": "achievement__79a24",
+    "achievementIcon": "achievementIcon__79a24",
+    "tooltip": "tooltip__79a24",
+    "header": "header__79a24"
   },
   "832339": {
     "header": "header__2f4ff",
