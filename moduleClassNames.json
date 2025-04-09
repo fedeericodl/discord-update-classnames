@@ -11120,6 +11120,8 @@
   "425154": {
     "channel": "channel__972a0",
     "fullWidth": "fullWidth__972a0",
+    "unreadPill": "unreadPill__972a0",
+    "muted": "muted__972a0",
     "interactive": "interactive__972a0",
     "overflowTooltip": "overflowTooltip__972a0",
     "clanTag": "clanTag__972a0",
@@ -12493,7 +12495,8 @@
     "addStatusIcon": "addStatusIcon_ab8609",
     "addStatusIconColor": "addStatusIconColor_ab8609",
     "labelContent": "labelContent_ab8609",
-    "labelText": "labelText_ab8609"
+    "labelText": "labelText_ab8609",
+    "labelIconsRow": "labelIconsRow_ab8609"
   },
   "484920": {
     "shopViewWrapper": "shopViewWrapper__6db1d",
@@ -19278,6 +19281,7 @@
     "wrapper": "wrapper__2dbe1",
     "actions": "actions__2dbe1",
     "actionButton": "actionButton__2dbe1",
+    "fullRegionDropdownButtonOverride": "fullRegionDropdownButtonOverride__2dbe1",
     "experimentActions": "experimentActions__2dbe1",
     "previewButton": "previewButton__2dbe1",
     "guildIcon": "guildIcon__2dbe1",
