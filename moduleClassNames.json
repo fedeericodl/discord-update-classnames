@@ -3081,7 +3081,8 @@
     "description": "description__98cbd",
     "image": "image__98cbd",
     "inline": "inline__98cbd",
-    "inlineBoost": "inlineBoost__98cbd"
+    "inlineBoost": "inlineBoost__98cbd",
+    "new": "new__98cbd"
   },
   "117335": {
     "slateContainer": "slateContainer_ec4baf",
@@ -4007,6 +4008,12 @@
   },
   "152485": {
     "error": "error__6e36d"
+  },
+  "152790": {
+    "profileEntryCard": "profileEntryCard__655fa",
+    "reactions": "reactions__655fa",
+    "avatar": "avatar__655fa",
+    "playerInfo": "playerInfo__655fa"
   },
   "152906": {
     "modalRoot": "modalRoot__5d321",
@@ -22665,12 +22672,6 @@
     "notificationToggle": "notificationToggle__74570",
     "tooltip": "tooltip__74570"
   },
-  "865136": {
-    "profileEntryCard": "profileEntryCard__06137",
-    "reactions": "reactions__06137",
-    "avatar": "avatar__06137",
-    "playerInfo": "playerInfo__06137"
-  },
   "865184": {
     "orbIconSVG": "orbIconSVG__85200",
     "loading": "loading__85200",
@@ -25900,6 +25901,9 @@
   },
   "977003": {
     "container": "container__0ccef"
+  },
+  "977481": {
+    "joinButton": "joinButton__18453"
   },
   "977659": {
     "messagesWrapper": "messagesWrapper__36d07",
