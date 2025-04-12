@@ -1603,7 +1603,7 @@
     "uploadedFileListItem": "uploadedFileListItem__77347",
     "ignoredFileListItem": "ignoredFileListItem__77347",
     "removeFileButtonInnerContents": "removeFileButtonInnerContents__77347",
-    "profileEffectPreviewSelector": "profileEffectPreviewSelector__77347",
+    "previewSelector": "previewSelector__77347",
     "divider": "divider__77347"
   },
   "64460": {
@@ -4669,7 +4669,8 @@
     "headerContainer": "headerContainer__9abb9",
     "closeButton": "closeButton__9abb9",
     "headerImage": "headerImage__9abb9",
-    "headerImageContainer": "headerImageContainer__9abb9"
+    "headerImageContainer": "headerImageContainer__9abb9",
+    "orbCheckoutHeaderVideo": "orbCheckoutHeaderVideo__9abb9"
   },
   "177488": {
     "panelContainer": "panelContainer__0dbe4",
@@ -8842,6 +8843,7 @@
     "header": "header_bc32e9",
     "button": "button_bc32e9",
     "warningContainer": "warningContainer_bc32e9",
+    "warningText": "warningText_bc32e9",
     "errorText": "errorText_bc32e9",
     "footer": "footer_bc32e9",
     "image": "image_bc32e9"
@@ -10823,6 +10825,7 @@
   },
   "418822": {
     "root": "root__2a5c7",
+    "featureCard": "featureCard__2a5c7",
     "heroAsset": "heroAsset__2a5c7",
     "button": "button__2a5c7",
     "buttonColor": "buttonColor__2a5c7",
@@ -10832,7 +10835,6 @@
     "header": "header__2a5c7",
     "subHeader": "subHeader__2a5c7",
     "featureCardGroup": "featureCardGroup__2a5c7",
-    "featureCard": "featureCard__2a5c7",
     "featureCardTextGroup": "featureCardTextGroup__2a5c7",
     "featureCardTextHeader": "featureCardTextHeader__2a5c7",
     "featureCardTextSubHeader": "featureCardTextSubHeader__2a5c7",
