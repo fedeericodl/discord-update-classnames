@@ -12284,9 +12284,8 @@
     "italicPrompt": "italicPrompt_ab8609",
     "addStatusIcon": "addStatusIcon_ab8609",
     "addStatusIconColor": "addStatusIconColor_ab8609",
-    "labelContent": "labelContent_ab8609",
-    "labelText": "labelText_ab8609",
-    "labelIconsRow": "labelIconsRow_ab8609"
+    "labelIconsRow": "labelIconsRow_ab8609",
+    "labelRow": "labelRow_ab8609"
   },
   "484920": {
     "shopViewWrapper": "shopViewWrapper__6db1d",
@@ -18635,6 +18634,10 @@
     "resetButton": "resetButton__04485",
     "colorSwatchLabel": "colorSwatchLabel__04485",
     "sparkleContainer": "sparkleContainer__04485"
+  },
+  "733316": {
+    "labelRow": "labelRow__1fdc8",
+    "labelText": "labelText__1fdc8"
   },
   "733750": {
     "category": "category__41c03",
