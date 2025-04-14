@@ -1581,7 +1581,11 @@
     "ignoredFileListItem": "ignoredFileListItem__77347",
     "removeFileButtonInnerContents": "removeFileButtonInnerContents__77347",
     "previewSelector": "previewSelector__77347",
-    "divider": "divider__77347"
+    "panelModeControl": "panelModeControl__77347",
+    "panelModeControlOption": "panelModeControlOption__77347",
+    "divider": "divider__77347",
+    "validationSummary": "validationSummary__77347",
+    "validationIssuesList": "validationIssuesList__77347"
   },
   "64460": {
     "name": "name_c524f4",
@@ -8196,6 +8200,15 @@
     "removeMosaicItemHoverButton": "removeMosaicItemHoverButton__6c706",
     "downloadHoverButtonIcon": "downloadHoverButtonIcon__6c706"
   },
+  "309103": {
+    "stepBody": "stepBody_ae9991",
+    "formErrorContainer": "formErrorContainer_ae9991",
+    "paymentSourceWrapper": "paymentSourceWrapper_ae9991",
+    "paymentSourceItem": "paymentSourceItem_ae9991",
+    "purchaseDetailsSpinner": "purchaseDetailsSpinner_ae9991",
+    "orbAmountTag": "orbAmountTag_ae9991",
+    "displayFlex": "displayFlex_ae9991"
+  },
   "309368": {
     "header": "header_ae5adc",
     "artContainer": "artContainer_ae5adc",
@@ -9386,15 +9399,6 @@
     "cancelImage": "cancelImage__968a4",
     "invoiceCancelRow": "invoiceCancelRow__968a4",
     "error": "error__968a4"
-  },
-  "363833": {
-    "stepBody": "stepBody__42615",
-    "formErrorContainer": "formErrorContainer__42615",
-    "paymentSourceWrapper": "paymentSourceWrapper__42615",
-    "paymentSourceItem": "paymentSourceItem__42615",
-    "purchaseDetailsSpinner": "purchaseDetailsSpinner__42615",
-    "orbAmountTag": "orbAmountTag__42615",
-    "displayFlex": "displayFlex__42615"
   },
   "363987": {
     "voiceCallWrapper": "voiceCallWrapper_a21736",
