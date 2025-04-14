@@ -7181,7 +7181,8 @@
     "roleStylePreviewContainer": "roleStylePreviewContainer__981c8",
     "selected": "selected__981c8",
     "roleStyleLabel": "roleStyleLabel__981c8",
-    "disabled": "disabled__981c8"
+    "disabled": "disabled__981c8",
+    "holographicInfoBox": "holographicInfoBox__981c8"
   },
   "275459": {
     "container": "container_f215b9",
@@ -7533,7 +7534,8 @@
     "inner": "inner__02fc8"
   },
   "287170": {
-    "guildSeparator": "guildSeparator__252b6"
+    "guildSeparator": "guildSeparator__252b6",
+    "fullWidth": "fullWidth__252b6"
   },
   "287400": {
     "container": "container__82be8"
@@ -11714,30 +11716,6 @@
     "soundboardHeader": "soundboardHeader__08434",
     "soundmojiLabelContainer": "soundmojiLabelContainer__08434"
   },
-  "460647": {
-    "container": "container_f792fa",
-    "guildSidebar": "guildSidebar_f792fa",
-    "sidebarCard": "sidebarCard_f792fa",
-    "modal": "modal_f792fa",
-    "sequencer": "sequencer_f792fa",
-    "modalContent": "modalContent_f792fa",
-    "mainContentWrapper": "mainContentWrapper_f792fa",
-    "content": "content_f792fa",
-    "closeButton": "closeButton_f792fa",
-    "closeButtonInner": "closeButtonInner_f792fa",
-    "applicationIconContainer": "applicationIconContainer_f792fa",
-    "applicationIcon": "applicationIcon_f792fa",
-    "header": "header_f792fa",
-    "footer": "footer_f792fa",
-    "divider": "divider_f792fa",
-    "submitButton": "submitButton_f792fa",
-    "formItem": "formItem_f792fa",
-    "resendButton": "resendButton_f792fa",
-    "notice": "notice_f792fa",
-    "disclaimerFooter": "disclaimerFooter_f792fa",
-    "guildProfile": "guildProfile_f792fa",
-    "sidebarGradientOverlay": "sidebarGradientOverlay_f792fa"
-  },
   "461238": {
     "container": "container_c6ad88",
     "headerRow": "headerRow_c6ad88",
@@ -14329,6 +14307,16 @@
     "root": "root_ead72e",
     "content": "content_ead72e",
     "footer": "footer_ead72e"
+  },
+  "568410": {
+    "confirmation": "confirmation__1051d",
+    "iconWrapper": "iconWrapper__1051d",
+    "statusTextContainer": "statusTextContainer__1051d",
+    "incompleteButtonsContainer": "incompleteButtonsContainer__1051d",
+    "confirmationButtonRow": "confirmationButtonRow__1051d",
+    "confirmationButton": "confirmationButton__1051d",
+    "rejectionReasonLabel": "rejectionReasonLabel__1051d",
+    "confirmationTooltipContents": "confirmationTooltipContents__1051d"
   },
   "568413": {
     "card": "card__823e1",
@@ -23485,13 +23473,16 @@
     "hidden": "hidden_ef3116",
     "tree": "tree_ef3116",
     "itemsContainer": "itemsContainer_ef3116",
+    "topSection": "topSection_ef3116",
+    "bottomSection": "bottomSection_ef3116",
     "scroller": "scroller_ef3116",
     "scrolling": "scrolling_ef3116",
     "unreadMentionsIndicatorBottom": "unreadMentionsIndicatorBottom_ef3116",
     "unreadMentionsIndicatorTop": "unreadMentionsIndicatorTop_ef3116",
     "unreadMentionsBar": "unreadMentionsBar_ef3116",
     "unreadMentionsFixedFooter": "unreadMentionsFixedFooter_ef3116",
-    "discoveryIcon": "discoveryIcon_ef3116"
+    "discoveryIcon": "discoveryIcon_ef3116",
+    "scrollerBottomSection": "scrollerBottomSection_ef3116"
   },
   "907273": {
     "icon": "icon_b9588c"
@@ -23794,46 +23785,26 @@
   "916199": {
     "container": "container_b962dc",
     "guildSidebar": "guildSidebar_b962dc",
-    "guildDescription": "guildDescription_b962dc",
-    "guildIcon": "guildIcon_b962dc",
-    "guildIconNoIcon": "guildIconNoIcon_b962dc",
-    "guildName": "guildName_b962dc",
-    "emojisContainer": "emojisContainer_b962dc",
-    "emoji": "emoji_b962dc",
-    "onlineCount": "onlineCount_b962dc",
-    "dot": "dot_b962dc",
-    "dotOnline": "dotOnline_b962dc dot_b962dc",
-    "dotMembers": "dotMembers_b962dc dot_b962dc",
-    "divider": "divider_b962dc",
+    "sidebarCard": "sidebarCard_b962dc",
     "modal": "modal_b962dc",
     "sequencer": "sequencer_b962dc",
     "modalContent": "modalContent_b962dc",
+    "mainContentWrapper": "mainContentWrapper_b962dc",
     "content": "content_b962dc",
-    "centerContent": "centerContent_b962dc",
     "closeButton": "closeButton_b962dc",
+    "closeButtonInner": "closeButtonInner_b962dc",
     "applicationIconContainer": "applicationIconContainer_b962dc",
     "applicationIcon": "applicationIcon_b962dc",
-    "animationAndSparklesContainer": "animationAndSparklesContainer_b962dc",
-    "sparkleIcon": "sparkleIcon_b962dc",
-    "sparkleTop": "sparkleTop_b962dc",
-    "sparkleBottom": "sparkleBottom_b962dc",
-    "animation": "animation_b962dc",
     "header": "header_b962dc",
-    "subheader": "subheader_b962dc",
     "footer": "footer_b962dc",
+    "divider": "divider_b962dc",
     "submitButton": "submitButton_b962dc",
     "formItem": "formItem_b962dc",
     "resendButton": "resendButton_b962dc",
-    "confirmation": "confirmation_b962dc",
-    "iconWrapper": "iconWrapper_b962dc",
-    "confirmationButtonRow": "confirmationButtonRow_b962dc",
-    "confirmationButton": "confirmationButton_b962dc",
-    "confirmationTooltipContents": "confirmationTooltipContents_b962dc",
     "notice": "notice_b962dc",
-    "rejectionReasonLabel": "rejectionReasonLabel_b962dc",
     "disclaimerFooter": "disclaimerFooter_b962dc",
-    "statusTextContainer": "statusTextContainer_b962dc",
-    "incompleteButtonsContainer": "incompleteButtonsContainer_b962dc"
+    "guildProfile": "guildProfile_b962dc",
+    "sidebarGradientOverlay": "sidebarGradientOverlay_b962dc"
   },
   "916396": {
     "container": "container__664ff",
