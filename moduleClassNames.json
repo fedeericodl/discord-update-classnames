@@ -3053,11 +3053,12 @@
     "spacingLarge": "spacingLarge__1fcac"
   },
   "117172": {
+    "parentContainer": "parentContainer__98cbd",
     "container": "container__98cbd",
-    "active": "active__98cbd",
-    "warning": "warning__98cbd",
     "buttonContainer": "buttonContainer__98cbd",
     "labelContainer": "labelContainer__98cbd",
+    "active": "active__98cbd",
+    "warning": "warning__98cbd",
     "contentContainer": "contentContainer__98cbd",
     "headerContainer": "headerContainer__98cbd",
     "description": "description__98cbd",
@@ -3787,7 +3788,7 @@
     "userInfoContainer": "userInfoContainer__6b102",
     "infoRow": "infoRow__6b102",
     "accountLabel": "accountLabel__6b102",
-    "rejectionReasonContainer": "rejectionReasonContainer__6b102",
+    "actionContainer": "actionContainer__6b102",
     "actionedInfo": "actionedInfo__6b102",
     "dot": "dot__6b102"
   },
@@ -20048,6 +20049,7 @@
     "staffContainer": "staffContainer__89463",
     "staffHeader": "staffHeader__89463",
     "powerupsContainer": "powerupsContainer__89463",
+    "powerupHorizontalPadding": "powerupHorizontalPadding__89463",
     "sidebarContainer": "sidebarContainer__89463",
     "powerupsSection": "powerupsSection__89463",
     "headerContainer": "headerContainer__89463",
