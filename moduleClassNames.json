@@ -3458,6 +3458,10 @@
     "fractionalPremiumTopRimPill": "fractionalPremiumTopRimPill_a45ed3",
     "fractionalPremiumSubheader": "fractionalPremiumSubheader_a45ed3"
   },
+  "134772": {
+    "text": "text__7b750",
+    "premiumIcon": "premiumIcon__7b750"
+  },
   "135169": {
     "code": "code__1a1f5",
     "chunk": "chunk__1a1f5",
@@ -7911,10 +7915,6 @@
     "floating-animation-3": "floating-animation-3_f0df50",
     "emoji4": "emoji4_f0df50",
     "floating-animation-4": "floating-animation-4_f0df50"
-  },
-  "301307": {
-    "text": "text__18089",
-    "premiumIcon": "premiumIcon__18089"
   },
   "301403": {
     "checkboxMargin": "checkboxMargin__5d41f"
@@ -20303,6 +20303,10 @@
     "explainer": "explainer__754bd",
     "visibleLink": "visibleLink__754bd"
   },
+  "791422": {
+    "floaterWrapper": "floaterWrapper__729b7",
+    "visibleFloater": "visibleFloater__729b7"
+  },
   "791644": {
     "badge": "badge__36097",
     "image": "image__36097"
@@ -23995,7 +23999,8 @@
     "actionMenuButton": "actionMenuButton_d84e0f"
   },
   "923756": {
-    "containerWithMargin": "containerWithMargin_d4883c",
+    "marginContainer": "marginContainer_d4883c",
+    "gradientContainer": "gradientContainer_d4883c",
     "promoHeaderContainer": "promoHeaderContainer_d4883c",
     "promoDescription": "promoDescription_d4883c",
     "promoNitroButton": "promoNitroButton_d4883c",
@@ -24012,7 +24017,8 @@
     "promotionCardButton": "promotionCardButton_d4883c",
     "promotionIcon": "promotionIcon_d4883c",
     "promotionIconImage": "promotionIconImage_d4883c",
-    "promotionLegalese": "promotionLegalese_d4883c"
+    "promotionLegalese": "promotionLegalese_d4883c",
+    "premiumIcon": "premiumIcon_d4883c"
   },
   "923918": {
     "tabs": "tabs__0afb5",
@@ -24447,13 +24453,11 @@
   },
   "942558": {
     "footer": "footer__6be55",
-    "preview": "preview__6be55",
     "guildRow": "guildRow__6be55",
     "inviteIcon": "inviteIcon__6be55",
     "inviteTarget": "inviteTarget__6be55",
     "inviteTargetIcon": "inviteTargetIcon__6be55",
     "inviteTargetHeading": "inviteTargetHeading__6be55",
-    "inviteTargetContent": "inviteTargetContent__6be55",
     "guildPresence": "guildPresence__6be55",
     "memberCount": "memberCount__6be55",
     "onlineCount": "onlineCount__6be55",
