@@ -5642,8 +5642,7 @@
     "hovered": "hovered__0263c"
   },
   "223009": {
-    "text": "text__19b6d",
-    "customStatusEmoji": "customStatusEmoji__19b6d"
+    "text": "text__19b6d"
   },
   "223203": {
     "pill": "pill_ed9a5f"
@@ -10963,7 +10962,8 @@
     "favoriteIcon": "favoriteIcon__972a0",
     "closeIcon": "closeIcon__972a0",
     "subtext": "subtext__972a0",
-    "mutedEmoji": "mutedEmoji__972a0",
+    "mutedIcon": "mutedIcon__972a0",
+    "activityStatusText": "activityStatusText__972a0",
     "decorator": "decorator__972a0",
     "dm": "dm__972a0"
   },
@@ -11802,8 +11802,6 @@
     "layout": "layout__20a53",
     "content": "content__20a53",
     "name": "name__20a53",
-    "wrappedLayout": "wrappedLayout__20a53",
-    "wrappedName": "wrappedName__20a53",
     "nameAndDecorators": "nameAndDecorators__20a53",
     "subText": "subText__20a53"
   },
