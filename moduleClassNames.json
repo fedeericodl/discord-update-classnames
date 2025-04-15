@@ -5642,6 +5642,7 @@
     "hovered": "hovered__0263c"
   },
   "223009": {
+    "statusText": "statusText__19b6d",
     "text": "text__19b6d"
   },
   "223203": {
@@ -6207,11 +6208,10 @@
     "nameplated": "nameplated__91a9d",
     "avatar": "avatar__91a9d",
     "clickable": "clickable__91a9d",
-    "active": "active__91a9d",
     "highlighted": "highlighted__91a9d",
+    "selected": "selected__91a9d",
     "layout": "layout__91a9d",
     "wrappedLayout": "wrappedLayout__91a9d",
-    "selected": "selected__91a9d",
     "content": "content__91a9d",
     "name": "name__91a9d",
     "wrappedName": "wrappedName__91a9d",
@@ -7566,7 +7566,6 @@
     "header": "header_e73f2a",
     "chevronIcon": "chevronIcon_e73f2a",
     "sectionCollapsible": "sectionCollapsible_e73f2a",
-    "activityText": "activityText_e73f2a",
     "controlButtons": "controlButtons_e73f2a",
     "controlButton": "controlButton_e73f2a",
     "searchContainer": "searchContainer_e73f2a",
@@ -24287,7 +24286,6 @@
     "placeholder": "placeholder__5d473 member__5d473",
     "botTag": "botTag__5d473",
     "username": "username__5d473",
-    "activityText": "activityText__5d473",
     "name": "name__5d473",
     "clanTag": "clanTag__5d473"
   },
