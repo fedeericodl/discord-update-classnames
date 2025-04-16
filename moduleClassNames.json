@@ -12257,11 +12257,6 @@
     "noVoiceChannelSelected": "noVoiceChannelSelected__25eff",
     "voiceListSearchEmpty": "voiceListSearchEmpty__25eff"
   },
-  "484741": {
-    "actionButtonsContainer": "actionButtonsContainer__58de5",
-    "forceButtonsShow": "forceButtonsShow__58de5",
-    "overflowIcon": "overflowIcon__58de5"
-  },
   "484762": {
     "nowPlayingNotification": "nowPlayingNotification__81a05",
     "nowPlayingNotificationAnimationWrapper": "nowPlayingNotificationAnimationWrapper__81a05",
@@ -18497,7 +18492,6 @@
     "container": "container__4cb8a",
     "card": "card__4cb8a",
     "iconMask": "iconMask__4cb8a",
-    "contextMenu": "contextMenu__4cb8a",
     "maximizeIcon": "maximizeIcon__4cb8a",
     "header": "header__4cb8a",
     "loaded": "loaded__4cb8a",
