@@ -3770,6 +3770,12 @@
   "145606": {
     "calendarPicker": "calendarPicker_d27f17"
   },
+  "145634": {
+    "container": "container_f1a68f",
+    "header": "header_f1a68f",
+    "subheader": "subheader_f1a68f",
+    "code": "code_f1a68f"
+  },
   "145635": {
     "grid": "grid_d87d30",
     "placeholderCard": "placeholderCard_d87d30",
@@ -7200,7 +7206,9 @@
     "roleStyleUpsellButton": "roleStyleUpsellButton__981c8",
     "roleStyleUpsellButtonContents": "roleStyleUpsellButtonContents__981c8",
     "guildBoostBadge": "guildBoostBadge__981c8",
-    "holographicInfoBox": "holographicInfoBox__981c8"
+    "holographicInfoBox": "holographicInfoBox__981c8",
+    "roleStyleFormTitle": "roleStyleFormTitle__981c8",
+    "newBadge": "newBadge__981c8"
   },
   "275459": {
     "container": "container_f215b9",
@@ -21979,7 +21987,8 @@
     "communicationDisabled": "communicationDisabled_c19a55",
     "compactCommunicationDisabled": "compactCommunicationDisabled_c19a55",
     "communicationDisabledOpacity": "communicationDisabledOpacity_c19a55",
-    "badgesContainer": "badgesContainer_c19a55"
+    "badgesContainer": "badgesContainer_c19a55",
+    "reducedMotion": "reducedMotion_c19a55"
   },
   "849388": {
     "panelContainer": "panelContainer_a83780",
@@ -26024,7 +26033,8 @@
   "989966": {
     "subtitle": "subtitle_d541c3",
     "select": "select_d541c3",
-    "selectPopout": "selectPopout_d541c3"
+    "selectPopout": "selectPopout_d541c3",
+    "newBadge": "newBadge_d541c3"
   },
   "990252": {
     "newChannel": "newChannel__599fa"
