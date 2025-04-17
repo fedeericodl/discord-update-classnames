@@ -10203,7 +10203,8 @@
   },
   "398435": {
     "container": "container__6c8a3",
-    "activityWrapper": "activityWrapper__6c8a3"
+    "activityWrapper": "activityWrapper__6c8a3",
+    "statusText": "statusText__6c8a3"
   },
   "400003": {
     "oneByOneGrid": "oneByOneGrid_f4758a",
@@ -10894,6 +10895,7 @@
     "caretTopCenter": "caretTopCenter_a1bfef",
     "imageContainer": "imageContainer_a1bfef",
     "image": "image_a1bfef",
+    "newPerksImage": "newPerksImage_a1bfef",
     "close": "close_a1bfef",
     "header": "header_a1bfef",
     "description": "description_a1bfef"
