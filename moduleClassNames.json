@@ -294,11 +294,6 @@
     "hideDetailsButton": "hideDetailsButton__083ae",
     "hideDetailsButtonInner": "hideDetailsButtonInner__083ae"
   },
-  "14601": {
-    "footer": "footer__214dc",
-    "gradient": "gradient__214dc",
-    "gradientHidden": "gradientHidden__214dc"
-  },
   "15018": {
     "chipletContainerInner": "chipletContainerInner__4a25c",
     "chipletContainerInline": "chipletContainerInline__4a25c",
@@ -9059,6 +9054,7 @@
     "bottomSection": "bottomSection_ef3116",
     "scroller": "scroller_ef3116",
     "scrolling": "scrolling_ef3116",
+    "isScrolledToBottom": "isScrolledToBottom_ef3116",
     "unreadMentionsIndicatorBottom": "unreadMentionsIndicatorBottom_ef3116",
     "unreadMentionsIndicatorTop": "unreadMentionsIndicatorTop_ef3116",
     "unreadMentionsBar": "unreadMentionsBar_ef3116",
@@ -14728,11 +14724,13 @@
     "monetizationDisclosureContainerStyle": "monetizationDisclosureContainerStyle__95856",
     "experimentLayout": "experimentLayout__95856",
     "altLayout": "altLayout__95856",
+    "friendsWhoPlay": "friendsWhoPlay__95856",
     "videoContainer": "videoContainer__95856",
     "videoCover": "videoCover__95856",
     "video": "video__95856",
     "fadeIn": "fadeIn__95856",
     "overviewContainerWithVideo": "overviewContainerWithVideo__95856",
+    "tabBar": "tabBar__95856",
     "overviewContainerNoVideo": "overviewContainerNoVideo__95856",
     "titleContainer": "titleContainer__95856",
     "partnerLabelContainer": "partnerLabelContainer__95856",
@@ -14743,6 +14741,7 @@
     "entrypointContainer": "entrypointContainer__95856",
     "developerShelfControlsContainer": "developerShelfControlsContainer__95856",
     "experimentTitleContainer": "experimentTitleContainer__95856",
+    "friendsWhoPlayPEP": "friendsWhoPlayPEP__95856",
     "entryPointCheckbox": "entryPointCheckbox__95856",
     "entryPointCheckboxLabel": "entryPointCheckboxLabel__95856",
     "noShowTryItOutButton": "noShowTryItOutButton__95856",
@@ -14754,7 +14753,6 @@
     "friendsMotivationText": "friendsMotivationText__95856",
     "friendsContainer": "friendsContainer__95856",
     "fixedHeight": "fixedHeight__95856",
-    "tabBar": "tabBar__95856",
     "tabItem": "tabItem__95856"
   },
   "566764": {
@@ -18206,7 +18204,6 @@
     "base": "base_c48ade",
     "sidebar": "sidebar_c48ade",
     "hidden": "hidden_c48ade",
-    "hasNotice": "hasNotice_c48ade",
     "fullWidth": "fullWidth_c48ade",
     "panels": "panels_c48ade",
     "content": "content_c48ade",
