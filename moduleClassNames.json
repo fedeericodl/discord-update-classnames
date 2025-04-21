@@ -2246,8 +2246,7 @@
     "tooltipRemovePadding": "tooltipRemovePadding__7d7fe",
     "gemIcon": "gemIcon__7d7fe",
     "tooltipPremiumFooterSegment": "tooltipPremiumFooterSegment__7d7fe",
-    "tooltipPremiumFooterTierSegment": "tooltipPremiumFooterTierSegment__7d7fe",
-    "clanBadgeContainer": "clanBadgeContainer__7d7fe"
+    "tooltipPremiumFooterTierSegment": "tooltipPremiumFooterTierSegment__7d7fe"
   },
   "90386": {
     "twoColumnFormSection": "twoColumnFormSection__4cfe2",
@@ -9891,6 +9890,12 @@
     "powerupImage": "powerupImage__61aee",
     "exampleImage": "exampleImage__61aee",
     "error": "error__61aee"
+  },
+  "385255": {
+    "container": "container__7e777",
+    "header": "header__7e777",
+    "body": "body__7e777",
+    "art": "art__7e777"
   },
   "385491": {
     "emojiSpriteImage": "emojiSpriteImage_d982c2",
