@@ -6117,6 +6117,7 @@
     "redGlow": "redGlow__37e49",
     "voiceFilterWarning": "voiceFilterWarning__37e49",
     "buttons": "buttons__37e49",
+    "containerQuestBarVisible": "containerQuestBarVisible__37e49",
     "containerRtcOpened": "containerRtcOpened__37e49",
     "buttonChevronIcon": "buttonChevronIcon__37e49",
     "iconForeground": "iconForeground__37e49",
@@ -6201,7 +6202,6 @@
     "recentAvatarContainer": "recentAvatarContainer__1df30",
     "recentAvatarsHeading": "recentAvatarsHeading__1df30",
     "recentAvatarSlots": "recentAvatarSlots__1df30",
-    "withPremiumUpsell": "withPremiumUpsell__1df30",
     "recentAvatarList": "recentAvatarList__1df30",
     "recentAvatarButtonContainer": "recentAvatarButtonContainer__1df30",
     "recentAvatarButton": "recentAvatarButton__1df30 circular__1df30",
@@ -6210,9 +6210,7 @@
     "deleteButtonInner": "deleteButtonInner__1df30",
     "deleteIcon": "deleteIcon__1df30",
     "emptyAvatarSlots": "emptyAvatarSlots__1df30",
-    "avatarPlaceholder": "avatarPlaceholder__1df30 circular__1df30",
-    "premiumUpsellButton": "premiumUpsellButton__1df30 circular__1df30",
-    "premiumUpsellLockIcon": "premiumUpsellLockIcon__1df30"
+    "avatarPlaceholder": "avatarPlaceholder__1df30 circular__1df30"
   },
   "240848": {
     "pauseBackground": "pauseBackground_d70e0d",
@@ -20091,6 +20089,8 @@
     "headerCloseButton": "headerCloseButton_dbc4b7",
     "footer": "footer_dbc4b7",
     "clearAfterSelectContainer": "clearAfterSelectContainer_dbc4b7",
+    "clearAfterSelectOption": "clearAfterSelectOption_dbc4b7",
+    "clearAfterSelectOptionLabel": "clearAfterSelectOptionLabel_dbc4b7",
     "profilePreview": "profilePreview_dbc4b7",
     "needInspiration": "needInspiration_dbc4b7",
     "needInspirationDisabled": "needInspirationDisabled_dbc4b7",
@@ -21648,6 +21648,14 @@
   "841806": {
     "container": "container__5e208",
     "isComponentsV2": "isComponentsV2__5e208"
+  },
+  "842054": {
+    "modal": "modal__914fc",
+    "closeBtn": "closeBtn__914fc",
+    "header": "header__914fc",
+    "title": "title__914fc",
+    "subtext": "subtext__914fc",
+    "ctaBtn": "ctaBtn__914fc"
   },
   "842123": {
     "socialLinks": "socialLinks__7df54",
