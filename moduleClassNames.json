@@ -3780,7 +3780,8 @@
     "header": "header_f1a68f",
     "subheader": "subheader_f1a68f",
     "hasTooltip": "hasTooltip_f1a68f",
-    "code": "code_f1a68f"
+    "code": "code_f1a68f",
+    "colorInputContainer": "colorInputContainer_f1a68f"
   },
   "145635": {
     "grid": "grid_d87d30",
@@ -18694,7 +18695,8 @@
     "reverseTrialHomeHeader": "reverseTrialHomeHeader__3ce43",
     "flexCentered": "flexCentered__3ce43",
     "tooltip": "tooltip__3ce43",
-    "pillContainer": "pillContainer__3ce43"
+    "pillContainer": "pillContainer__3ce43",
+    "pillIcon": "pillIcon__3ce43"
   },
   "734829": {
     "container": "container__5537c",
@@ -20024,6 +20026,7 @@
     "greyBackgroundPill": "greyBackgroundPill_ac86f6",
     "freeTrialPillTier2OldGradientFill": "freeTrialPillTier2OldGradientFill_ac86f6",
     "lightBackgroundPill": "lightBackgroundPill_ac86f6",
+    "freeTrialPillGap": "freeTrialPillGap_ac86f6",
     "freeTrialPillText": "freeTrialPillText_ac86f6",
     "freeTrialPillTextTier0": "freeTrialPillTextTier0_ac86f6",
     "freeTrialPillTextTier2": "freeTrialPillTextTier2_ac86f6",
