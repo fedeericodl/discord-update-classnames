@@ -128,6 +128,7 @@
   },
   "1376": {
     "container": "container__80da8",
+    "gameIconWrapper": "gameIconWrapper__80da8",
     "gameIcon": "gameIcon__80da8",
     "gameIconImage": "gameIconImage__80da8",
     "extraGamesContainer": "extraGamesContainer__80da8",
@@ -15217,8 +15218,9 @@
     "spinnerContainer": "spinnerContainer__69ef9",
     "container": "container__69ef9",
     "leftContent": "leftContent__69ef9",
-    "description": "description__69ef9",
+    "descriptionContainer": "descriptionContainer__69ef9",
     "title": "title__69ef9",
+    "privateProfileWarning": "privateProfileWarning__69ef9",
     "enableSwitchContainer": "enableSwitchContainer__69ef9",
     "boostingLinkContainer": "boostingLinkContainer__69ef9",
     "sectionTitle": "sectionTitle__69ef9",
