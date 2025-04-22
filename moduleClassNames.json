@@ -11257,9 +11257,7 @@
     "pronounsTooltip": "pronounsTooltip__63ed3",
     "pronounsText": "pronounsText__63ed3 userTag__63ed3",
     "userTagDiscriminator": "userTagDiscriminator__63ed3",
-    "dotSpacer": "dotSpacer__63ed3",
-    "clanTagContainer": "clanTagContainer__63ed3",
-    "clanTag": "clanTag__63ed3"
+    "dotSpacer": "dotSpacer__63ed3"
   },
   "439478": {
     "card": "card__83361",
@@ -11290,6 +11288,11 @@
   "441012": {
     "container": "container_fb1896",
     "icon": "icon_fb1896"
+  },
+  "441393": {
+    "premiumTrialBadge": "premiumTrialBadge__94f65",
+    "premiumTrialAcknowledgedBadge": "premiumTrialAcknowledgedBadge__94f65",
+    "reverseTrialBadgeIcon": "reverseTrialBadgeIcon__94f65"
   },
   "441533": {
     "header": "header__03630",
@@ -16252,8 +16255,9 @@
   },
   "641089": {
     "banner": "banner__4524c",
-    "body": "body__4524c",
-    "trialPill": "trialPill__4524c"
+    "bodyContainer": "bodyContainer__4524c",
+    "promoNitroButton": "promoNitroButton__4524c",
+    "bannerArt": "bannerArt__4524c"
   },
   "641419": {
     "button": "button__06eda",
@@ -25504,7 +25508,8 @@
   "970248": {
     "artContainer": "artContainer_ee7791",
     "subscribeButton": "subscribeButton_ee7791",
-    "subHeader": "subHeader_ee7791"
+    "subHeader": "subHeader_ee7791",
+    "secondaryCTA": "secondaryCTA_ee7791"
   },
   "970612": {
     "animationContainer": "animationContainer__884d1",
