@@ -3676,6 +3676,7 @@
     "open": "open__3f413",
     "selectPositionTop": "selectPositionTop__3f413",
     "disabled": "disabled__3f413",
+    "optionDisabled": "optionDisabled__3f413",
     "iconsContainer": "iconsContainer__3f413",
     "iconsCenter": "iconsCenter__3f413",
     "placeholder": "placeholder__3f413",
@@ -6605,6 +6606,13 @@
     "icon": "icon__3633a",
     "name": "name__3633a",
     "title": "title__3633a"
+  },
+  "258501": {
+    "paymentRestrictionBannerContainer": "paymentRestrictionBannerContainer__52623",
+    "paymentRestrictionBannerBackgroundImage": "paymentRestrictionBannerBackgroundImage__52623",
+    "appsIconContainer": "appsIconContainer__52623",
+    "icon": "icon__52623",
+    "iconDark": "iconDark__52623"
   },
   "259173": {
     "rankContainer": "rankContainer__632c2",
