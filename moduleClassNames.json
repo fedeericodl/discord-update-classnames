@@ -1161,11 +1161,8 @@
     "input": "input_b1f01d",
     "editor": "editor_b1f01d",
     "container": "container_b1f01d",
-    "fullSize": "fullSize_b1f01d",
     "activity": "activity_b1f01d",
-    "panel": "panel_b1f01d",
     "status": "status_b1f01d",
-    "biteSize": "biteSize_b1f01d",
     "avatar": "avatar_b1f01d",
     "customProfileTheme": "customProfileTheme_b1f01d"
   },
@@ -4200,7 +4197,6 @@
   },
   "162509": {
     "preview": "preview__3299f",
-    "fullSize": "fullSize__3299f",
     "image": "image__3299f",
     "clickable": "clickable__3299f",
     "overlay": "overlay__3299f",
@@ -5737,7 +5733,6 @@
     "details": "details__39ec2",
     "platformIcon": "platformIcon__39ec2",
     "toolbarContainer": "toolbarContainer__39ec2",
-    "fullSize": "fullSize__39ec2",
     "actions": "actions__39ec2",
     "primaryButton": "primaryButton__39ec2",
     "customButton": "customButton__39ec2",
@@ -10434,10 +10429,7 @@
     "toast": "toast__24502"
   },
   "405751": {
-    "wrapper": "wrapper_da5890",
-    "biteSize": "biteSize_da5890",
-    "fullSize": "fullSize_da5890",
-    "panel": "panel_da5890"
+    "wrapper": "wrapper_da5890"
   },
   "405920": {
     "card": "card_ebafdd",
@@ -11256,9 +11248,6 @@
     "clickableUsername": "clickableUsername__63ed3",
     "nickname": "nickname__63ed3",
     "userTagUsername": "userTagUsername__63ed3",
-    "biteSize": "biteSize__63ed3",
-    "panel": "panel__63ed3",
-    "fullSize": "fullSize__63ed3",
     "nicknameIcons": "nicknameIcons__63ed3",
     "usernameRow": "usernameRow__63ed3",
     "tags": "tags__63ed3",
@@ -12323,9 +12312,6 @@
     "container": "container_ab8609",
     "editable": "editable_ab8609",
     "hoisted": "hoisted_ab8609",
-    "biteSize": "biteSize_ab8609",
-    "fullSize": "fullSize_ab8609",
-    "panel": "panel_ab8609",
     "referenceContainer": "referenceContainer_ab8609",
     "withLabel": "withLabel_ab8609",
     "outer": "outer_ab8609",
@@ -12429,9 +12415,6 @@
   },
   "487784": {
     "avatar": "avatar__75742",
-    "biteSize": "biteSize__75742",
-    "fullSize": "fullSize__75742",
-    "panel": "panel__75742",
     "withReactReply": "withReactReply__75742",
     "hoisted": "hoisted__75742",
     "clickable": "clickable__75742",
@@ -19136,9 +19119,6 @@
     "gradientBackground": "gradientBackground_e9ef78"
   },
   "750883": {
-    "biteSize": "biteSize_c0bea0",
-    "fullSize": "fullSize_c0bea0",
-    "panel": "panel_c0bea0",
     "outer": "outer_c0bea0",
     "inner": "inner_c0bea0",
     "overlay": "overlay_c0bea0"
