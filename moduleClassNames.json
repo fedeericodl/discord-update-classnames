@@ -12300,7 +12300,6 @@
     "inner": "inner_ab8609",
     "content": "content_ab8609",
     "unclamped": "unclamped_ab8609",
-    "clickable": "clickable_ab8609",
     "ring": "ring_ab8609",
     "statusText": "statusText_ab8609",
     "statusEmoji": "statusEmoji_ab8609",
@@ -12308,8 +12307,14 @@
     "italicPrompt": "italicPrompt_ab8609",
     "addStatusIcon": "addStatusIcon_ab8609",
     "addStatusIconColor": "addStatusIconColor_ab8609",
-    "labelIconsRow": "labelIconsRow_ab8609",
-    "labelRow": "labelRow_ab8609"
+    "labelRow": "labelRow_ab8609",
+    "labelToolbar": "labelToolbar_ab8609",
+    "labelToolbarHoverGap": "labelToolbarHoverGap_ab8609",
+    "labelToolbarVisible": "labelToolbarVisible_ab8609",
+    "labelToolbarFadeIn": "labelToolbarFadeIn_ab8609",
+    "labelToolbarFadingOut": "labelToolbarFadingOut_ab8609",
+    "labelToolbarFadeOut": "labelToolbarFadeOut_ab8609",
+    "customStatusLabelToolbar": "customStatusLabelToolbar_ab8609"
   },
   "484920": {
     "shopViewWrapper": "shopViewWrapper__6db1d",
@@ -16778,7 +16783,8 @@
   "662776": {
     "container": "container__37bfc",
     "tabBar": "tabBar__37bfc",
-    "tabBarItem": "tabBarItem__37bfc"
+    "tabBarItem": "tabBarItem__37bfc",
+    "tabBarPanel": "tabBarPanel__37bfc"
   },
   "663362": {
     "container": "container_d03e0c",
@@ -17908,6 +17914,11 @@
     "section": "section_b1e4f3",
     "builtInSeparator": "builtInSeparator_b1e4f3"
   },
+  "701526": {
+    "toolbar": "toolbar__7e6ab",
+    "toolbarItem": "toolbarItem__7e6ab",
+    "icon": "icon__7e6ab"
+  },
   "701579": {
     "title": "title_c6674f"
   },
@@ -18203,6 +18214,7 @@
     "container": "container__28fdc",
     "tabBar": "tabBar__28fdc",
     "tabBarItem": "tabBarItem__28fdc",
+    "tabBarPanel": "tabBarPanel__28fdc",
     "scroller": "scroller__28fdc",
     "empty": "empty__28fdc",
     "emptyImage": "emptyImage__28fdc",
@@ -20083,7 +20095,8 @@
     "clearAfterSelectOptionLabel": "clearAfterSelectOptionLabel_dbc4b7",
     "profilePreview": "profilePreview_dbc4b7",
     "labelSelectorContainer": "labelSelectorContainer_dbc4b7",
-    "inputCustomStatusLabelRow": "inputCustomStatusLabelRow_dbc4b7"
+    "inputCustomStatusLabelRow": "inputCustomStatusLabelRow_dbc4b7",
+    "labelSelectorTooltip": "labelSelectorTooltip_dbc4b7"
   },
   "782682": {
     "searchIndexAnimation": "searchIndexAnimation_e1fee6",
