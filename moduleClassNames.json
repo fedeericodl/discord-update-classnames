@@ -8697,13 +8697,6 @@
     "avatarContainer": "avatarContainer__7dffe",
     "avatar": "avatar__7dffe"
   },
-  "336579": {
-    "collapsablePane": "collapsablePane__1f651",
-    "collapsablePaneHeader": "collapsablePaneHeader__1f651",
-    "formSection": "formSection__1f651",
-    "error": "error__1f651",
-    "subscriptionTextContainer": "subscriptionTextContainer__1f651"
-  },
   "339500": {
     "content": "content__1c69f",
     "header": "header__1c69f",
@@ -14680,6 +14673,11 @@
     "moreGuildsLarge": "moreGuildsLarge_bb856d",
     "defaultIcon": "defaultIcon_bb856d"
   },
+  "581738": {
+    "description": "description_c8f246",
+    "tagline": "tagline_c8f246",
+    "partyStatusWrapper": "partyStatusWrapper_c8f246"
+  },
   "582735": {
     "overviewContainer": "overviewContainer_c4b47c",
     "descriptionClamp": "descriptionClamp_c4b47c",
@@ -15591,6 +15589,7 @@
   },
   "616257": {
     "panel": "panel_fe7ab2",
+    "header": "header_fe7ab2",
     "headerBar": "headerBar_fe7ab2",
     "headerTitle": "headerTitle_fe7ab2",
     "dispatcherHeader": "dispatcherHeader_fe7ab2",
@@ -23616,6 +23615,13 @@
     "premiumOfferPill": "premiumOfferPill__81281",
     "subButton": "subButton__81281",
     "whiteSubButton": "whiteSubButton__81281"
+  },
+  "909291": {
+    "collapsablePane": "collapsablePane__7ed4d",
+    "collapsablePaneHeader": "collapsablePaneHeader__7ed4d",
+    "formSection": "formSection__7ed4d",
+    "error": "error__7ed4d",
+    "subscriptionTextContainer": "subscriptionTextContainer__7ed4d"
   },
   "909846": {
     "container": "container__04119",
