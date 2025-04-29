@@ -7864,7 +7864,6 @@
     "listRowContent": "listRowContent__9d78f",
     "listName": "listName__9d78f",
     "listAvatar": "listAvatar__9d78f",
-    "listDiscriminator": "listDiscriminator__9d78f",
     "empty": "empty__9d78f",
     "emptyIcon": "emptyIcon__9d78f",
     "emptyText": "emptyText__9d78f",
@@ -15317,6 +15316,21 @@
     "sectionHeader": "sectionHeader__38524",
     "accountRow": "accountRow__38524",
     "select": "select__38524"
+  },
+  "608459": {
+    "cardsList": "cardsList__84832",
+    "activityContainer": "activityContainer__84832",
+    "firstCardContainer": "firstCardContainer__84832",
+    "card": "card__84832",
+    "hasShowMoreButton": "hasShowMoreButton__84832",
+    "showMoreButtonContainer": "showMoreButtonContainer__84832",
+    "showMoreButton": "showMoreButton__84832",
+    "isHidden": "isHidden__84832",
+    "secondCardContainer": "secondCardContainer__84832",
+    "remainingCardContainer": "remainingCardContainer__84832",
+    "isShown": "isShown__84832",
+    "viewAllButton": "viewAllButton__84832",
+    "remainingCardsCopyToMeasure": "remainingCardsCopyToMeasure__84832"
   },
   "609848": {
     "subtext": "subtext__339d0"
@@ -23559,15 +23573,13 @@
   },
   "908998": {
     "inventory": "inventory__6980e",
-    "inventoryTitle": "inventoryTitle__6980e",
     "inventoryControls": "inventoryControls__6980e",
     "inventoryControlsButton": "inventoryControlsButton__6980e",
-    "inventoryDescriptionTitle": "inventoryDescriptionTitle__6980e",
     "list": "list__6980e",
     "nameplateItem": "nameplateItem__6980e",
     "nameplateItemOverlay": "nameplateItemOverlay__6980e",
     "selected": "selected__6980e",
-    "lock": "lock__6980e"
+    "iconBadge": "iconBadge__6980e"
   },
   "909176": {
     "container": "container__81281",
@@ -24475,7 +24487,7 @@
     "container": "container_d452e4",
     "trait": "trait_d452e4",
     "traitEmoji": "traitEmoji_d452e4",
-    "traitLabel": "traitLabel_d452e4"
+    "ellipsize": "ellipsize_d452e4"
   },
   "942530": {
     "wrapper": "wrapper_a4ad2d",
@@ -25429,6 +25441,13 @@
     "brokenImageIconWrapper": "brokenImageIconWrapper__8a940 activitySuggestionImage__8a940",
     "overlayBadge": "overlayBadge__8a940",
     "badgeContainer": "badgeContainer__8a940"
+  },
+  "968823": {
+    "row": "row__89036",
+    "avatar": "avatar__89036",
+    "details": "details__89036",
+    "tag": "tag__89036",
+    "discriminator": "discriminator__89036"
   },
   "969397": {
     "perksContainer": "perksContainer_b62c4e",
