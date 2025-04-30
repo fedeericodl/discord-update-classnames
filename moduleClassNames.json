@@ -7437,15 +7437,6 @@
     "acronym": "acronym__6e9f8",
     "icon": "icon__6e9f8"
   },
-  "284613": {
-    "title": "title_fb71d6",
-    "modalContent": "modalContent_fb71d6",
-    "content": "content_fb71d6",
-    "selectionPane": "selectionPane_fb71d6",
-    "selectionItem": "selectionItem_fb71d6",
-    "selected": "selected_fb71d6",
-    "closeButton": "closeButton_fb71d6"
-  },
   "284944": {
     "actionContainer": "actionContainer_adfd31",
     "iconButton": "iconButton_adfd31",
@@ -14455,10 +14446,6 @@
     "botTagVerified": "botTagVerified__82f07",
     "botText": "botText__82f07"
   },
-  "575651": {
-    "container": "container__71aa5",
-    "image": "image__71aa5"
-  },
   "576052": {
     "list": "list__920b8",
     "accountCard": "accountCard__920b8",
@@ -15762,14 +15749,6 @@
     "icon": "icon_eb2cd2",
     "text": "text_eb2cd2",
     "arrow": "arrow_eb2cd2"
-  },
-  "625273": {
-    "container": "container_badc98",
-    "modalImageWrapper": "modalImageWrapper_badc98",
-    "modalImage": "modalImage_badc98",
-    "content": "content_badc98",
-    "title": "title_badc98",
-    "footer": "footer_badc98"
   },
   "625276": {
     "container": "container__750de",
@@ -18583,16 +18562,6 @@
     "whatsNewBoxButtonWhite": "whatsNewBoxButtonWhite__463ca",
     "whatsNewBoxButtonBrand": "whatsNewBoxButtonBrand__463ca"
   },
-  "731670": {
-    "banner": "banner_bb7e05",
-    "staticBanner": "staticBanner_bb7e05",
-    "bannerFullScreen": "bannerFullScreen_bb7e05",
-    "bannerContent": "bannerContent_bb7e05",
-    "bannerContentSettingsPage": "bannerContentSettingsPage_bb7e05",
-    "countdown": "countdown_bb7e05",
-    "bannerButton": "bannerButton_bb7e05",
-    "bannerButtonShine": "bannerButtonShine_bb7e05"
-  },
   "732391": {
     "sectionContainer": "sectionContainer__04485",
     "resetButton": "resetButton__04485",
@@ -18663,11 +18632,6 @@
     "userNameContainer": "userNameContainer__91600",
     "userSubtitle": "userSubtitle__91600",
     "winnerImage": "winnerImage__91600"
-  },
-  "734906": {
-    "container": "container__5e25d",
-    "image": "image__5e25d",
-    "text": "text__5e25d"
   },
   "735077": {
     "container": "container_d97f89",
