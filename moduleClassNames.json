@@ -7393,6 +7393,9 @@
     "overlay": "overlay_b32ca4",
     "card": "card_b32ca4"
   },
+  "283294": {
+    "container": "container__28435"
+  },
   "283331": {
     "modalRoot": "modalRoot__6f8c0",
     "closeButton": "closeButton__6f8c0",
@@ -16189,6 +16192,7 @@
     "errorModalCloseButton": "errorModalCloseButton__5ce63",
     "errorContent": "errorContent__5ce63",
     "errorModalFooter": "errorModalFooter__5ce63",
+    "rewardAssetContainer": "rewardAssetContainer__5ce63",
     "spinnerContainer": "spinnerContainer__5ce63"
   },
   "639746": {
@@ -19081,7 +19085,6 @@
   "749778": {
     "container": "container__81a06",
     "select": "select__81a06",
-    "loading": "loading__81a06",
     "iconContainer": "iconContainer__81a06",
     "badges": "badges__81a06",
     "soloInput": "soloInput__81a06",
