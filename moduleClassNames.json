@@ -20621,7 +20621,12 @@
     "heroHeaderLogo": "heroHeaderLogo__08415",
     "popularPicksSection": "popularPicksSection__08415",
     "blockHeader": "blockHeader__08415",
+    "headerLeft": "headerLeft__08415",
+    "headerRight": "headerRight__08415",
+    "sortSelect": "sortSelect__08415",
+    "sortByText": "sortByText__08415",
     "title": "title__08415",
+    "informationIcon": "informationIcon__08415",
     "subHeaderText": "subHeaderText__08415",
     "subHeaderTextDark": "subHeaderTextDark__08415",
     "orbsSubHeaderText": "orbsSubHeaderText__08415",
@@ -20672,14 +20677,17 @@
     "footer": "footer_d7fb2d"
   },
   "807179": {
-    "modalRoot": "modalRoot_db78b7",
     "modalContent": "modalContent_db78b7",
-    "left": "left_db78b7",
-    "right": "right_db78b7",
-    "closeButton": "closeButton_db78b7",
-    "uploadContainer": "uploadContainer_db78b7",
     "emptyState": "emptyState_db78b7",
-    "dropZone": "dropZone_db78b7"
+    "dropZone": "dropZone_db78b7",
+    "grid": "grid_db78b7",
+    "select": "select_db78b7",
+    "submit": "submit_db78b7",
+    "heading": "heading_db78b7",
+    "editor": "editor_db78b7",
+    "closeButton": "closeButton_db78b7",
+    "backButton": "backButton_db78b7",
+    "backButtonInnner": "backButtonInnner_db78b7"
   },
   "807201": {
     "noScroll": "noScroll_afb566",
