@@ -19722,6 +19722,14 @@
     "buttons": "buttons_bc38cd",
     "button": "button_bc38cd"
   },
+  "773967": {
+    "header": "header_cba043",
+    "text": "text_cba043",
+    "inlineContainer": "inlineContainer_cba043",
+    "inlineButton": "inlineButton_cba043",
+    "playing": "playing_cba043",
+    "soundmojiEmoji": "soundmojiEmoji_cba043"
+  },
   "774457": {
     "headerBar": "headerBar__80679",
     "headerBarInner": "headerBarInner__80679",
