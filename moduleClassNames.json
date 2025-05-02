@@ -15925,6 +15925,9 @@
     "levelUpIcon": "levelUpIcon_d970da levelIcon_d970da",
     "tierPillGem": "tierPillGem_d970da"
   },
+  "632261": {
+    "errorBanner": "errorBanner__3405b"
+  },
   "632374": {
     "emptyWidgetContainer": "emptyWidgetContainer_cc1cc5",
     "absolute": "absolute_cc1cc5",
@@ -21495,9 +21498,6 @@
   "839058": {
     "wrapper": "wrapper__686ce",
     "subtitle": "subtitle__686ce"
-  },
-  "839388": {
-    "errorBanner": "errorBanner__0c773"
   },
   "839841": {
     "iframe": "iframe__8c55d"
