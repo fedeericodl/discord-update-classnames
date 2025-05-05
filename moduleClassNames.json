@@ -21196,15 +21196,6 @@
     "body": "body__1f3e3",
     "safetyTable": "safetyTable__1f3e3"
   },
-  "829444": {
-    "container": "container__2410d recentMentionsPopout__95796",
-    "headerText": "headerText__2410d",
-    "reminderActions": "reminderActions__2410d",
-    "clock": "clock__2410d",
-    "delete": "delete__2410d",
-    "notes": "notes__2410d",
-    "unloadedMessage": "unloadedMessage__2410d"
-  },
   "830129": {
     "guildIcon": "guildIcon__0fa6d",
     "mask": "mask__0fa6d",
