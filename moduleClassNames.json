@@ -2190,6 +2190,7 @@
     "oversizedImg": "oversizedImg__955a3",
     "bannerGradient": "bannerGradient__955a3",
     "tabs": "tabs__955a3",
+    "orbsTermsButton": "orbsTermsButton__955a3",
     "orbsGradient": "orbsGradient__955a3",
     "bannerContainer": "bannerContainer__955a3",
     "orbsContainer": "orbsContainer__955a3"
@@ -18239,6 +18240,7 @@
     "taskDetails": "taskDetails__2055a",
     "taskInstructions": "taskInstructions__2055a",
     "ctaButtonContainer": "ctaButtonContainer__2055a",
+    "questEnrollmentBlockedButton": "questEnrollmentBlockedButton__2055a",
     "ctaButtonWrapper": "ctaButtonWrapper__2055a",
     "ctaButtonInner": "ctaButtonInner__2055a",
     "learnMoreLink": "learnMoreLink__2055a",
