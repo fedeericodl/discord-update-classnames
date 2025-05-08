@@ -12230,11 +12230,11 @@
     "ring": "ring_ab8609",
     "statusText": "statusText_ab8609",
     "statusEmoji": "statusEmoji_ab8609",
+    "labelRow": "labelRow_ab8609",
     "addStatusPrompt": "addStatusPrompt_ab8609",
     "italicPrompt": "italicPrompt_ab8609",
     "addStatusIcon": "addStatusIcon_ab8609",
     "addStatusIconColor": "addStatusIconColor_ab8609",
-    "labelRow": "labelRow_ab8609",
     "labelToolbar": "labelToolbar_ab8609",
     "labelToolbarHoverGap": "labelToolbarHoverGap_ab8609",
     "labelToolbarVisible": "labelToolbarVisible_ab8609",
@@ -18690,6 +18690,7 @@
     "default": "default_a3e8db",
     "highlighted": "highlighted_a3e8db",
     "selected": "selected_a3e8db",
+    "inModalOverlay": "inModalOverlay_a3e8db",
     "notificationBadge": "notificationBadge_a3e8db"
   },
   "738286": {
