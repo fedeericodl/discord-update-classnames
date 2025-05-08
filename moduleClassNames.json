@@ -9687,7 +9687,9 @@
   },
   "381054": {
     "tooltipDescription": "tooltipDescription_cd30d9",
-    "tooltipWordmark": "tooltipWordmark_cd30d9"
+    "tooltipWordmark": "tooltipWordmark_cd30d9",
+    "ambient": "ambient_cd30d9",
+    "badgeImage": "badgeImage_cd30d9"
   },
   "381109": {
     "section": "section_e537cd",
