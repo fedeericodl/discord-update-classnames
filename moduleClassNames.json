@@ -11417,13 +11417,11 @@
   "449549": {
     "container": "container__95856",
     "monetizationDisclosureContainerStyle": "monetizationDisclosureContainerStyle__95856",
-    "friendsWhoPlay": "friendsWhoPlay__95856",
     "videoContainer": "videoContainer__95856",
     "videoCover": "videoCover__95856",
     "video": "video__95856",
     "fadeIn": "fadeIn__95856",
     "overviewContainerWithVideo": "overviewContainerWithVideo__95856",
-    "tabBar": "tabBar__95856",
     "overviewContainerNoVideo": "overviewContainerNoVideo__95856",
     "titleContainer": "titleContainer__95856",
     "partnerLabelContainer": "partnerLabelContainer__95856",
@@ -11433,17 +11431,11 @@
     "primaryEntryPointWarningMessage": "primaryEntryPointWarningMessage__95856",
     "entrypointContainer": "entrypointContainer__95856",
     "developerShelfControlsContainer": "developerShelfControlsContainer__95856",
-    "experimentTitleContainer": "experimentTitleContainer__95856",
-    "friendsWhoPlayPEP": "friendsWhoPlayPEP__95856",
     "entryPointContainerFlexChild": "entryPointContainerFlexChild__95856",
     "expandableDescriptionClickable": "expandableDescriptionClickable__95856",
     "overflowHidden": "overflowHidden__95856",
     "developerShelfControls": "developerShelfControls__95856",
-    "monetizationDisclosureStyle": "monetizationDisclosureStyle__95856",
-    "friendsMotivationText": "friendsMotivationText__95856",
-    "friendsContainer": "friendsContainer__95856",
-    "fixedHeight": "fixedHeight__95856",
-    "tabItem": "tabItem__95856"
+    "monetizationDisclosureStyle": "monetizationDisclosureStyle__95856"
   },
   "449696": {
     "glow": "glow__8b6cd",
@@ -12716,7 +12708,6 @@
     "positionContentOverBackground": "positionContentOverBackground_b5b7aa",
     "contents": "contents_b5b7aa",
     "heroAssetWrapper": "heroAssetWrapper_b5b7aa",
-    "heroAssetCont": "heroAssetCont_b5b7aa",
     "heroAsset": "heroAsset_b5b7aa",
     "heroAssetVideo": "heroAssetVideo_b5b7aa",
     "hidden": "hidden_b5b7aa",
@@ -16557,7 +16548,6 @@
     "focusBlock": "focusBlock__761e5",
     "clickable": "clickable__761e5",
     "underline": "underline__761e5",
-    "friendsWhoPlayHover": "friendsWhoPlayHover__761e5",
     "cmdDetails": "cmdDetails__761e5",
     "cmdAppName": "cmdAppName__761e5"
   },
@@ -17892,9 +17882,6 @@
   "701579": {
     "title": "title_c6674f"
   },
-  "701642": {
-    "placeholderElement": "placeholderElement__6e847"
-  },
   "701675": {
     "closeButton": "closeButton__52eda",
     "content": "content__52eda",
@@ -18018,11 +18005,6 @@
     "lockIcon": "lockIcon__6f7ce",
     "lockdownButtonText": "lockdownButtonText__6f7ce",
     "shieldIcon": "shieldIcon__6f7ce"
-  },
-  "708348": {
-    "friendsWhoPlay": "friendsWhoPlay__4daa6",
-    "friendsWhoPlayText": "friendsWhoPlayText__4daa6",
-    "floatLeft": "floatLeft__4daa6"
   },
   "708554": {
     "container": "container_fea832",
@@ -22244,7 +22226,6 @@
     "rowDivider": "rowDivider_cb32c7",
     "container": "container_cb32c7",
     "containerBorderRadius": "containerBorderRadius_cb32c7",
-    "friendsWhoPlayHover": "friendsWhoPlayHover_cb32c7",
     "rowContainer": "rowContainer_cb32c7",
     "containerDisabled": "containerDisabled_cb32c7",
     "icon": "icon_cb32c7",
@@ -25652,9 +25633,6 @@
   "977003": {
     "container": "container__0ccef",
     "selector": "selector__0ccef"
-  },
-  "977481": {
-    "joinButton": "joinButton__18453"
   },
   "977659": {
     "messagesWrapper": "messagesWrapper__36d07",
