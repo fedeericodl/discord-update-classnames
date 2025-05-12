@@ -7083,8 +7083,6 @@
   },
   "274151": {
     "scroller": "scroller__9498a",
-    "empty": "empty__9498a",
-    "emptyImage": "emptyImage__9498a",
     "loadingItem": "loadingItem__9498a"
   },
   "274569": {
@@ -19597,6 +19595,10 @@
     "tableHeaderCell": "tableHeaderCell__9dd6b",
     "filterIcon": "filterIcon__9dd6b",
     "filterIconButton": "filterIconButton__9dd6b"
+  },
+  "771627": {
+    "empty": "empty_e766f2",
+    "textContainer": "textContainer_e766f2"
   },
   "772526": {
     "paymentBanner": "paymentBanner_e335a7",
