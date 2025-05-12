@@ -2004,6 +2004,13 @@
     "overflowRolesPopoutHeaderText": "overflowRolesPopoutHeaderText__48c1c",
     "roleIcon": "roleIcon__48c1c"
   },
+  "78286": {
+    "otherOptions": "otherOptions__821a1",
+    "linksContainer": "linksContainer__821a1",
+    "link": "link__821a1",
+    "linkDivider": "linkDivider__821a1",
+    "footer": "footer__821a1"
+  },
   "78349": {
     "content": "content_b96ca2",
     "header": "header_b96ca2",
@@ -3328,17 +3335,6 @@
   "128863": {
     "noResultsContainer": "noResultsContainer__9c6d0"
   },
-  "128910": {
-    "cardsContainer": "cardsContainer__50dce",
-    "container": "container__50dce",
-    "innerContainer": "innerContainer__50dce",
-    "disabled": "disabled__50dce",
-    "headerContainer": "headerContainer__50dce",
-    "headerAsset": "headerAsset__50dce",
-    "sharingContainer": "sharingContainer__50dce",
-    "sharingTitleSpacer": "sharingTitleSpacer__50dce",
-    "manageContainer": "manageContainer__50dce"
-  },
   "129419": {
     "tag": "tag_fe5e5d",
     "inheritBackgroundColor": "inheritBackgroundColor_fe5e5d",
@@ -4016,6 +4012,23 @@
     "promotionalGiftMessageText": "promotionalGiftMessageText__6fbbd",
     "promotionalTextSection": "promotionalTextSection__6fbbd",
     "avatar": "avatar__6fbbd"
+  },
+  "154947": {
+    "allActivitySharingTitle": "allActivitySharingTitle_eda416",
+    "divider": "divider_eda416",
+    "defaultSetting": "defaultSetting_eda416",
+    "description": "description_eda416",
+    "title": "title_eda416",
+    "privacyAndTerms": "privacyAndTerms_eda416",
+    "scroller": "scroller_eda416",
+    "guildRow": "guildRow_eda416",
+    "guildInfo": "guildInfo_eda416",
+    "guildIcon": "guildIcon_eda416",
+    "guildText": "guildText_eda416",
+    "guildSubtitle": "guildSubtitle_eda416",
+    "serverOptionSwitchContainer": "serverOptionSwitchContainer_eda416",
+    "ignoredWarning": "ignoredWarning_eda416",
+    "toggleAll": "toggleAll_eda416"
   },
   "156189": {
     "badge": "badge__6ba43"
@@ -8469,6 +8482,17 @@
     "outerCircle": "outerCircle_ffc7aa",
     "outer-circle-loop": "outer-circle-loop_ffc7aa",
     "outer-circle-loop-high-priority": "outer-circle-loop-high-priority_ffc7aa"
+  },
+  "324819": {
+    "cardsContainer": "cardsContainer__5a92b",
+    "container": "container__5a92b",
+    "innerContainer": "innerContainer__5a92b",
+    "disabled": "disabled__5a92b",
+    "headerContainer": "headerContainer__5a92b",
+    "headerAsset": "headerAsset__5a92b",
+    "sharingContainer": "sharingContainer__5a92b",
+    "sharingTitleSpacer": "sharingTitleSpacer__5a92b",
+    "manageContainer": "manageContainer__5a92b"
   },
   "324846": {
     "clipPill": "clipPill_d762d7"
@@ -13270,23 +13294,6 @@
   "529882": {
     "container": "container__0c9ee",
     "errorHeader": "errorHeader__0c9ee"
-  },
-  "530435": {
-    "allActivitySharingTitle": "allActivitySharingTitle__1ef0e",
-    "divider": "divider__1ef0e",
-    "defaultSetting": "defaultSetting__1ef0e",
-    "description": "description__1ef0e",
-    "title": "title__1ef0e",
-    "privacyAndTerms": "privacyAndTerms__1ef0e",
-    "scroller": "scroller__1ef0e",
-    "guildRow": "guildRow__1ef0e",
-    "guildInfo": "guildInfo__1ef0e",
-    "guildIcon": "guildIcon__1ef0e",
-    "guildText": "guildText__1ef0e",
-    "guildSubtitle": "guildSubtitle__1ef0e",
-    "serverOptionSwitchContainer": "serverOptionSwitchContainer__1ef0e",
-    "ignoredWarning": "ignoredWarning__1ef0e",
-    "toggleAll": "toggleAll__1ef0e"
   },
   "530925": {
     "scroller": "scroller__7d20c",
@@ -24788,13 +24795,6 @@
     "noticeTextButton": "noticeTextButton__2666b",
     "codeCheckbox": "codeCheckbox__2666b",
     "tabPanel": "tabPanel__2666b"
-  },
-  "951874": {
-    "otherOptions": "otherOptions_b97ca2",
-    "linksContainer": "linksContainer_b97ca2",
-    "link": "link_b97ca2",
-    "linkDivider": "linkDivider_b97ca2",
-    "footer": "footer_b97ca2"
   },
   "951878": {
     "wrapper": "wrapper_eb1a4c",
