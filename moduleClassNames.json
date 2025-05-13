@@ -1244,7 +1244,7 @@
     "section": "section_c3d3d9",
     "children": "children_c3d3d9",
     "textChildren": "textChildren_c3d3d9",
-    "centerAlign": "centerAlign_c3d3d9",
+    "verticallyCenterAlign": "verticallyCenterAlign_c3d3d9",
     "accessory": "accessory_c3d3d9",
     "restrictWidth": "restrictWidth_c3d3d9"
   },
@@ -23753,6 +23753,9 @@
     "body": "body_c93be2",
     "textArea": "textArea_c93be2",
     "editorTextArea": "editorTextArea_c93be2"
+  },
+  "913939": {
+    "link": "link_c53b47"
   },
   "914242": {
     "nitroGemAnimation": "nitroGemAnimation__7d30a",
