@@ -3064,6 +3064,7 @@
     "description": "description__98cbd",
     "image": "image__98cbd",
     "inline": "inline__98cbd",
+    "price": "price__98cbd",
     "inlineBoost": "inlineBoost__98cbd",
     "new": "new__98cbd"
   },
@@ -4197,6 +4198,10 @@
   },
   "162193": {
     "divider": "divider__44f7f"
+  },
+  "162337": {
+    "emptyState": "emptyState__43278",
+    "dropZone": "dropZone__43278"
   },
   "162509": {
     "preview": "preview__3299f",
@@ -20718,8 +20723,6 @@
   },
   "807179": {
     "modalContent": "modalContent_db78b7",
-    "emptyState": "emptyState_db78b7",
-    "dropZone": "dropZone_db78b7",
     "grid": "grid_db78b7",
     "preview": "preview_db78b7",
     "inputNote": "inputNote_db78b7",
