@@ -53,8 +53,8 @@ export default async function (directory: string) {
         core.debug(`Found script paths: ${JSON.stringify(scriptPaths)}`);
 
         // 0 is the position of the chunk loader in the scripts
-        core.debug(`Fetching chunk loader from ${WEBSITE}/assets/${scriptPaths[0]}`);
-        const chunkLoaderRes = await (await fetch(`${WEBSITE}/assets/${scriptPaths[0]}`)).text();
+        core.debug(`Fetching chunk loader from ${WEBSITE}/assets/${scriptPaths[2]}`);
+        const chunkLoaderRes = await (await fetch(`${WEBSITE}/assets/${scriptPaths[2]}`)).text();
 
         const versionHash = chunkLoaderRes.match(VERSION_HASH_REGEX)?.[1];
         const sentryLoaderRes = await (await fetch(`${WEBSITE}/assets/${scriptPaths[1]}`)).text();
