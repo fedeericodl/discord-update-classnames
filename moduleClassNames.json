@@ -6359,6 +6359,7 @@
     "clickable": "clickable__86ab2",
     "avatarWrapper": "avatarWrapper__86ab2",
     "acronymText": "acronymText__86ab2",
+    "emptyBody": "emptyBody__86ab2",
     "body": "body__86ab2",
     "error": "error__86ab2",
     "header": "header__86ab2",
@@ -14684,10 +14685,11 @@
     "floatingFooter": "floatingFooter__083ae",
     "gradient": "gradient__083ae",
     "footerContent": "footerContent__083ae",
-    "separator": "separator__083ae",
+    "collapsedFooterContent": "collapsedFooterContent__083ae",
     "buttonContainer": "buttonContainer__083ae",
-    "hideDetailsButton": "hideDetailsButton__083ae",
-    "hideDetailsButtonInner": "hideDetailsButtonInner__083ae"
+    "hideDetailsButtonInner": "hideDetailsButtonInner__083ae",
+    "inviteTitleWrapper": "inviteTitleWrapper__083ae",
+    "inviteTitle": "inviteTitle__083ae"
   },
   "583512": {
     "applicationName": "applicationName__9e50d",
