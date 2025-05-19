@@ -629,6 +629,24 @@
   "21330": {
     "headerContainer": "headerContainer_bdedd9"
   },
+  "21678": {
+    "container": "container_ea5470",
+    "panelSpacing": "panelSpacing_ea5470",
+    "channelName": "channelName_ea5470",
+    "unread": "unread_ea5470",
+    "inlineIcon": "inlineIcon_ea5470",
+    "messageContainer": "messageContainer_ea5470",
+    "messageClickableContainer": "messageClickableContainer_ea5470",
+    "message": "message_ea5470",
+    "timestamp": "timestamp_ea5470",
+    "actions": "actions_ea5470",
+    "selected": "selected_ea5470",
+    "messageList": "messageList_ea5470",
+    "username": "username_ea5470",
+    "unreadDot": "unreadDot_ea5470",
+    "action": "action_ea5470",
+    "actionIcon": "actionIcon_ea5470"
+  },
   "21821": {
     "clickerButton": "clickerButton_e9638b",
     "enabled": "enabled_e9638b",
@@ -9717,6 +9735,11 @@
     "section": "section_e537cd",
     "sectionHeader": "sectionHeader_e537cd"
   },
+  "381231": {
+    "filters": "filters_c485a2",
+    "filterBtn": "filterBtn_c485a2",
+    "active": "active_c485a2"
+  },
   "381528": {
     "root": "root_debd93",
     "header": "header_debd93",
@@ -13131,6 +13154,10 @@
     "additionalParticipantBadgeText": "additionalParticipantBadgeText__0f2e8",
     "thumbnail": "thumbnail__0f2e8"
   },
+  "522458": {
+    "pill": "pill__4f4b6",
+    "notificationsIcon": "notificationsIcon__4f4b6"
+  },
   "522634": {
     "icon": "icon_d98031",
     "browser": "browser_d98031"
@@ -15502,6 +15529,12 @@
     "textContainer": "textContainer_cc67fb",
     "ctaButton": "ctaButton_cc67fb",
     "ctaButtonContainer": "ctaButtonContainer_cc67fb"
+  },
+  "614147": {
+    "positionLayer": "positionLayer_fc71d3",
+    "container": "container_fc71d3",
+    "backgroundContainer": "backgroundContainer_fc71d3",
+    "background": "background_fc71d3"
   },
   "614177": {
     "actionGroup": "actionGroup__83fb3",
@@ -18084,6 +18117,19 @@
     "linkedLobbyIcon": "linkedLobbyIcon__98b95",
     "platformIcon": "platformIcon__98b95",
     "searchContainer": "searchContainer__98b95"
+  },
+  "709701": {
+    "messagesPopoutWrap": "messagesPopoutWrap__0aee3",
+    "loadingMore": "loadingMore__0aee3",
+    "messagesPopout": "messagesPopout__0aee3",
+    "emptyPlaceholder": "emptyPlaceholder__0aee3",
+    "loadingPlaceholder": "loadingPlaceholder__0aee3",
+    "messagesGroupHeaderWrap": "messagesGroupHeaderWrap__0aee3",
+    "messagesGroupHeader": "messagesGroupHeader__0aee3",
+    "chevron": "chevron__0aee3",
+    "collapsed": "collapsed__0aee3",
+    "unreadsEmpty": "unreadsEmpty__0aee3",
+    "unreadsEmptyIcon": "unreadsEmptyIcon__0aee3"
   },
   "709893": {
     "answersContainer": "answersContainer__4c520",
@@ -23947,7 +23993,9 @@
     "invitesRefresh": "invitesRefresh_f37cb1",
     "guildDropdown": "guildDropdown_f37cb1",
     "guildBadgeAndName": "guildBadgeAndName_f37cb1",
-    "inviteButton": "inviteButton_f37cb1"
+    "inviteButton": "inviteButton_f37cb1",
+    "settingsButton": "settingsButton_f37cb1",
+    "settingsButtonIcon": "settingsButtonIcon_f37cb1"
   },
   "917764": {
     "headerContainer": "headerContainer__095fe",
