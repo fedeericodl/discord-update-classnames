@@ -5738,6 +5738,7 @@
     "badges": "badges__39ec2",
     "clickableContainer": "clickableContainer__39ec2",
     "clickableImage": "clickableImage__39ec2",
+    "image": "image__39ec2",
     "clickableText": "clickableText__39ec2",
     "inline": "inline__39ec2",
     "gameState": "gameState__39ec2",
@@ -5747,6 +5748,7 @@
     "voiceIcon": "voiceIcon__39ec2",
     "voiceChannelHeading": "voiceChannelHeading__39ec2",
     "voiceChannelDivider": "voiceChannelDivider__39ec2",
+    "voiceChannelOverflowCount": "voiceChannelOverflowCount__39ec2",
     "contextMenu": "contextMenu__39ec2"
   },
   "228016": {
@@ -12959,8 +12961,6 @@
     "profileButtons": "profileButtons__9c3be",
     "profileScroller": "profileScroller__9c3be",
     "profileHeading": "profileHeading__9c3be",
-    "profileConnections": "profileConnections__9c3be",
-    "profileAppConnections": "profileAppConnections__9c3be",
     "profileNote": "profileNote__9c3be"
   },
   "517791": {
@@ -14034,7 +14034,10 @@
     "emoji": "emoji_a2c9e8",
     "closeCircle": "closeCircle_a2c9e8 emoji_a2c9e8",
     "close": "close_a2c9e8",
-    "tooltipPill": "tooltipPill_a2c9e8"
+    "tooltipPill": "tooltipPill_a2c9e8",
+    "danger": "danger_a2c9e8",
+    "success": "success_a2c9e8",
+    "warning": "warning_a2c9e8"
   },
   "559554": {
     "wrapper": "wrapper__3564f",
@@ -18796,6 +18799,16 @@
     "banner": "banner__68edb",
     "gifTag": "gifTag__68edb",
     "mask": "mask__68edb"
+  },
+  "738873": {
+    "container": "container__9bfb9",
+    "connection": "connection__9bfb9",
+    "connectionInfo": "connectionInfo__9bfb9",
+    "platformIcon": "platformIcon__9bfb9",
+    "accountName": "accountName__9bfb9",
+    "platformUrlAnchor": "platformUrlAnchor__9bfb9",
+    "platformUrlIcon": "platformUrlIcon__9bfb9",
+    "metadata": "metadata__9bfb9"
   },
   "738901": {
     "controls": "controls__0fcb7",
