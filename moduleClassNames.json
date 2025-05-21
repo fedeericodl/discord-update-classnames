@@ -17019,6 +17019,14 @@
     "buttonCopy": "buttonCopy_de9b99",
     "tooltip": "tooltip_de9b99"
   },
+  "669018": {
+    "contents": "contents_ce2e74",
+    "badgeImage": "badgeImage_ce2e74",
+    "subtitle": "subtitle_ce2e74",
+    "closeButton": "closeButton_ce2e74",
+    "checkItOutButton": "checkItOutButton_ce2e74",
+    "pointer": "pointer_ce2e74"
+  },
   "669116": {
     "banner": "banner_ec75b3",
     "ctaContainer": "ctaContainer_ec75b3",
@@ -22945,6 +22953,7 @@
     "container": "container__2a3ed",
     "loaded": "loaded__2a3ed",
     "closeButton": "closeButton__2a3ed",
+    "reveal": "reveal__2a3ed",
     "content": "content__2a3ed",
     "video": "video__2a3ed",
     "nitroLogo": "nitroLogo__2a3ed",
@@ -22955,7 +22964,6 @@
     "old": "old__2a3ed",
     "oldWhite": "oldWhite__2a3ed",
     "new": "new__2a3ed",
-    "reveal": "reveal__2a3ed",
     "subscribedText": "subscribedText__2a3ed",
     "actionButtons": "actionButtons__2a3ed",
     "ended": "ended__2a3ed"
