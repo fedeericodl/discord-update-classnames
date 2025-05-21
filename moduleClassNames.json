@@ -973,7 +973,8 @@
     "canvas": "canvas__5dc9c"
   },
   "33976": {
-    "tags": "tags_e5a45e"
+    "tags": "tags_e5a45e",
+    "wrap": "wrap_e5a45e"
   },
   "34397": {
     "title": "title_cb3bbe",
@@ -11203,7 +11204,9 @@
     "pronounsTooltip": "pronounsTooltip__63ed3",
     "pronounsText": "pronounsText__63ed3 userTag__63ed3",
     "userTagDiscriminator": "userTagDiscriminator__63ed3",
-    "dotSpacer": "dotSpacer__63ed3"
+    "dotSpacer": "dotSpacer__63ed3",
+    "guildTagContainer": "guildTagContainer__63ed3",
+    "guildTag": "guildTag__63ed3"
   },
   "439478": {
     "card": "card__83361",
@@ -12957,6 +12960,8 @@
     "profileHeader": "profileHeader__9c3be",
     "profileBody": "profileBody__9c3be",
     "profileSection": "profileSection__9c3be",
+    "profileBanner": "profileBanner__9c3be",
+    "friendRequestBanner": "friendRequestBanner__9c3be",
     "profileUsernameTag": "profileUsernameTag__9c3be",
     "profileButtons": "profileButtons__9c3be",
     "profileScroller": "profileScroller__9c3be",
@@ -14752,6 +14757,11 @@
   },
   "584235": {
     "nitroWheel": "nitroWheel_c5f0dc"
+  },
+  "584299": {
+    "closeButton": "closeButton__40059",
+    "header": "header__40059",
+    "footer": "footer__40059"
   },
   "585523": {
     "containerDefault": "containerDefault__29444",
