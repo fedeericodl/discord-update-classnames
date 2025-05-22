@@ -8299,6 +8299,12 @@
     "previewForCollected": "previewForCollected__1e458 preview__1e458",
     "purchasedEffect": "purchasedEffect__1e458"
   },
+  "313572": {
+    "container": "container__8fea4",
+    "paletteIcon": "paletteIcon__8fea4",
+    "newBadge": "newBadge__8fea4",
+    "newRing": "newRing__8fea4"
+  },
   "313795": {
     "groupContainer": "groupContainer_b6a9f9",
     "groupHeaderRow": "groupHeaderRow_b6a9f9",
