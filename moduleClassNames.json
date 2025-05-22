@@ -3499,6 +3499,10 @@
     "textArea": "textArea__4da69",
     "backButton": "backButton__4da69"
   },
+  "136021": {
+    "brandShine": "brandShine__1995d",
+    "freeTrialText": "freeTrialText__1995d"
+  },
   "136266": {
     "blurb": "blurb_cd2ff7",
     "giftSentMessage": "giftSentMessage_cd2ff7",
@@ -13408,10 +13412,6 @@
     "userCell": "userCell_e4169f",
     "affinityCell": "affinityCell_e4169f"
   },
-  "534641": {
-    "brandShine": "brandShine__9497e",
-    "freeTrialText": "freeTrialText__9497e"
-  },
   "534733": {
     "wrapper": "wrapper_b1fb0b",
     "partyMembers": "partyMembers_b1fb0b",
@@ -15640,17 +15640,7 @@
     "mainPageScroller": "mainPageScroller_ca1a02",
     "open": "open_ca1a02",
     "openCloseReduceMotion": "openCloseReduceMotion_ca1a02",
-    "cardCarousel": "cardCarousel_ca1a02",
-    "giftingVariant2Container": "giftingVariant2Container_ca1a02",
-    "giftingVariant2CardHeader": "giftingVariant2CardHeader_ca1a02",
-    "giftingVariant2CardContainer": "giftingVariant2CardContainer_ca1a02",
-    "giftingVariant2Card": "giftingVariant2Card_ca1a02",
-    "giftingVariant2CardContent": "giftingVariant2CardContent_ca1a02",
-    "giftingVariant2CardContentButton": "giftingVariant2CardContentButton_ca1a02",
-    "giftingVariant2CardImageContainer": "giftingVariant2CardImageContainer_ca1a02",
-    "giftingVariant2CardImage": "giftingVariant2CardImage_ca1a02",
-    "giftingVariant2CardContentPremiumSubscribeButton": "giftingVariant2CardContentPremiumSubscribeButton_ca1a02",
-    "giftingVariant2CardContentPremiumSubscribeButtonText": "giftingVariant2CardContentPremiumSubscribeButtonText_ca1a02"
+    "cardCarousel": "cardCarousel_ca1a02"
   },
   "615133": {
     "inviteContainer": "inviteContainer__23437",
