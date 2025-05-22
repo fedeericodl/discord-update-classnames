@@ -9743,7 +9743,8 @@
     "originalMessageAuthorAndContent": "originalMessageAuthorAndContent_fc958f",
     "message": "message_fc958f",
     "messageContent": "messageContent_fc958f",
-    "originalMessageAuthorAvatar": "originalMessageAuthorAvatar_fc958f"
+    "originalMessageAuthorAvatar": "originalMessageAuthorAvatar_fc958f",
+    "newBadge": "newBadge_fc958f"
   },
   "381231": {
     "filters": "filters_c485a2",
@@ -19723,7 +19724,8 @@
     "themeControl": "themeControl__1436a",
     "colorList": "colorList__1436a",
     "colorItem": "colorItem__1436a",
-    "colorPreview": "colorPreview__1436a"
+    "colorPreview": "colorPreview__1436a",
+    "saveButton": "saveButton__1436a"
   },
   "772526": {
     "paymentBanner": "paymentBanner_e335a7",
@@ -22950,10 +22952,8 @@
     "nitroLogo": "nitroLogo__2a3ed",
     "badgeText": "badgeText__2a3ed",
     "oldBadgeText": "oldBadgeText__2a3ed",
-    "oldBadgeTextWhite": "oldBadgeTextWhite__2a3ed",
     "newBadgeText": "newBadgeText__2a3ed",
     "old": "old__2a3ed",
-    "oldWhite": "oldWhite__2a3ed",
     "new": "new__2a3ed",
     "subscribedText": "subscribedText__2a3ed",
     "actionButtons": "actionButtons__2a3ed",
