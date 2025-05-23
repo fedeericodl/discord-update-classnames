@@ -441,22 +441,6 @@
     "rightLightEllipse": "rightLightEllipse__41626",
     "centerEllipse": "centerEllipse__41626"
   },
-  "16534": {
-    "draggableContainer": "draggableContainer__6a6d6",
-    "container": "container__6a6d6",
-    "headerParentContainer": "headerParentContainer__6a6d6",
-    "headerContainer": "headerContainer__6a6d6",
-    "closeContainer": "closeContainer__6a6d6",
-    "closeInner": "closeInner__6a6d6",
-    "scrollContainer": "scrollContainer__6a6d6",
-    "footerContainer": "footerContainer__6a6d6",
-    "footerLabelContainer": "footerLabelContainer__6a6d6",
-    "footerButtonContainer": "footerButtonContainer__6a6d6",
-    "footerNitro": "footerNitro__6a6d6",
-    "footerText": "footerText__6a6d6",
-    "footerButtonBack": "footerButtonBack__6a6d6",
-    "footerButton": "footerButton__6a6d6"
-  },
   "17213": {
     "wrapper": "wrapper_ac2cfb",
     "icon": "icon_ac2cfb",
@@ -12294,8 +12278,10 @@
     "hiddenWumpus": "hiddenWumpus__6db1d",
     "hiddenWumpusEnabled": "hiddenWumpusEnabled__6db1d",
     "categories": "categories__6db1d",
+    "products": "products__6db1d",
     "skeletons": "skeletons__6db1d",
-    "paginationContainer": "paginationContainer__6db1d"
+    "paginationContainer": "paginationContainer__6db1d",
+    "bannerContainer": "bannerContainer__6db1d"
   },
   "484953": {
     "container": "container__0be77",
@@ -15790,8 +15776,6 @@
     "headings": "headings__67a11",
     "upsellText": "upsellText__67a11",
     "title": "title__67a11",
-    "description": "description__67a11",
-    "nitroWheel": "nitroWheel__67a11",
     "premiumIcon": "premiumIcon__67a11",
     "easterEggSelection": "easterEggSelection__67a11",
     "scale-bounce-wiggle": "scale-bounce-wiggle__67a11",
@@ -19846,6 +19830,8 @@
     "tabWrapper": "tabWrapper__80679",
     "tab": "tab__80679",
     "selected": "selected__80679",
+    "tabWithMenuContainer": "tabWithMenuContainer__80679",
+    "tabWithMenu": "tabWithMenu__80679",
     "discordLogo": "discordLogo__80679",
     "shopHomeLink": "shopHomeLink__80679",
     "alignedRightContent": "alignedRightContent__80679",
@@ -23090,12 +23076,9 @@
   },
   "888090": {
     "presets": "presets_a00e6e",
-    "presetsJustified": "presetsJustified_a00e6e",
     "header": "header_a00e6e",
     "headings": "headings_a00e6e",
     "title": "title_a00e6e",
-    "description": "description_a00e6e",
-    "nitroWheel": "nitroWheel_a00e6e",
     "premiumIcon": "premiumIcon_a00e6e",
     "titleText": "titleText_a00e6e"
   },
