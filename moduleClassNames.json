@@ -5124,6 +5124,23 @@
     "nameInputWrapperWithEmojiPicker": "nameInputWrapperWithEmojiPicker__0511a",
     "nameInputInnerWithEmojiPicker": "nameInputInnerWithEmojiPicker__0511a"
   },
+  "195078": {
+    "card": "card__61870",
+    "tier0": "tier0__61870",
+    "pillMargin": "pillMargin__61870",
+    "tier2": "tier2__61870",
+    "wordmark": "wordmark__61870",
+    "wumpus": "wumpus__61870",
+    "bigCloud": "bigCloud__61870",
+    "smallCloud": "smallCloud__61870",
+    "divider": "divider__61870",
+    "featureItem": "featureItem__61870",
+    "pillContainer": "pillContainer__61870",
+    "pill": "pill__61870",
+    "pillText": "pillText__61870",
+    "promotionalBackgroundImage": "promotionalBackgroundImage__61870",
+    "priceHeader": "priceHeader__61870"
+  },
   "196773": {
     "container": "container__5662e"
   },
@@ -17251,7 +17268,9 @@
     "modalPadding": "modalPadding_e50a4d",
     "modalSize": "modalSize_e50a4d",
     "close": "close_e50a4d",
-    "closeInner": "closeInner_e50a4d"
+    "closeInner": "closeInner_e50a4d",
+    "premiumRebrandHeader": "premiumRebrandHeader_e50a4d",
+    "premiumRebrandContent": "premiumRebrandContent_e50a4d"
   },
   "677234": {
     "auditLog": "auditLog__43dab",
