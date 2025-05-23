@@ -12266,14 +12266,7 @@
     "addStatusPrompt": "addStatusPrompt_ab8609",
     "italicPrompt": "italicPrompt_ab8609",
     "addStatusIcon": "addStatusIcon_ab8609",
-    "addStatusIconColor": "addStatusIconColor_ab8609",
-    "labelToolbar": "labelToolbar_ab8609",
-    "labelToolbarHoverGap": "labelToolbarHoverGap_ab8609",
-    "labelToolbarVisible": "labelToolbarVisible_ab8609",
-    "labelToolbarFadeIn": "labelToolbarFadeIn_ab8609",
-    "labelToolbarFadingOut": "labelToolbarFadingOut_ab8609",
-    "labelToolbarFadeOut": "labelToolbarFadeOut_ab8609",
-    "customStatusLabelToolbar": "customStatusLabelToolbar_ab8609"
+    "addStatusIconColor": "addStatusIconColor_ab8609"
   },
   "484920": {
     "shopViewWrapper": "shopViewWrapper__6db1d",
@@ -17955,11 +17948,6 @@
     "list": "list_b1e4f3",
     "section": "section_b1e4f3",
     "builtInSeparator": "builtInSeparator_b1e4f3"
-  },
-  "701526": {
-    "toolbar": "toolbar__7e6ab",
-    "toolbarItem": "toolbarItem__7e6ab",
-    "icon": "icon__7e6ab"
   },
   "701579": {
     "title": "title_c6674f"
