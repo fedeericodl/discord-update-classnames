@@ -12771,6 +12771,7 @@
     "positionContentOverBackground": "positionContentOverBackground_b5b7aa",
     "contents": "contents_b5b7aa",
     "heroAssetWrapper": "heroAssetWrapper_b5b7aa",
+    "heroAssetCont": "heroAssetCont_b5b7aa",
     "heroAsset": "heroAsset_b5b7aa",
     "heroAssetVideo": "heroAssetVideo_b5b7aa",
     "hidden": "hidden_b5b7aa",
@@ -17951,6 +17952,9 @@
   },
   "701579": {
     "title": "title_c6674f"
+  },
+  "701642": {
+    "placeholderElement": "placeholderElement__6e847"
   },
   "701675": {
     "closeButton": "closeButton__52eda",
