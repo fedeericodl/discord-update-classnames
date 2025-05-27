@@ -5131,9 +5131,6 @@
     "smallCloud": "smallCloud__61870",
     "divider": "divider__61870",
     "featureItem": "featureItem__61870",
-    "pillContainer": "pillContainer__61870",
-    "pill": "pill__61870",
-    "pillText": "pillText__61870",
     "promotionalBackgroundImage": "promotionalBackgroundImage__61870",
     "priceHeader": "priceHeader__61870"
   },
@@ -11028,7 +11025,9 @@
     "activeFractionalPremiumBannerBackgroundImage": "activeFractionalPremiumBannerBackgroundImage__0687d",
     "nitroIconContainer": "nitroIconContainer__0687d",
     "iconFractional": "iconFractional__0687d",
-    "iconFractionalDark": "iconFractionalDark__0687d"
+    "iconFractionalDark": "iconFractionalDark__0687d",
+    "premiumRebrandContainer": "premiumRebrandContainer__0687d",
+    "premiumRebrandIcon": "premiumRebrandIcon__0687d"
   },
   "430537": {
     "modalContainer": "modalContainer_fc200b",
@@ -12350,6 +12349,11 @@
   "487153": {
     "noChannel": "noChannel__01d5c"
   },
+  "487292": {
+    "pillContainer": "pillContainer__18dd3",
+    "pill": "pill__18dd3",
+    "pillText": "pillText__18dd3"
+  },
   "487784": {
     "avatar": "avatar__75742",
     "withReactReply": "withReactReply__75742",
@@ -13089,7 +13093,7 @@
     "contentContainer": "contentContainer__4f6e5",
     "image": "image__4f6e5",
     "title": "title__4f6e5",
-    "titleNoSocialProof": "titleNoSocialProof__4f6e5",
+    "body": "body__4f6e5",
     "footer": "footer__4f6e5",
     "buttonContainer": "buttonContainer__4f6e5"
   },
@@ -20029,6 +20033,7 @@
     "v2starBackground": "v2starBackground_ac86f6",
     "itemWithWumpus": "itemWithWumpus_ac86f6 item_ac86f6",
     "icon": "icon_ac86f6",
+    "smallIcon": "smallIcon_ac86f6",
     "freeTrialPillInlineBlock": "freeTrialPillInlineBlock_ac86f6",
     "freeTrialPillInline": "freeTrialPillInline_ac86f6 freeTrialPillInlineBlock_ac86f6",
     "price": "price_ac86f6",
