@@ -7580,6 +7580,17 @@
     "modalContent": "modalContent__20a09",
     "spinner": "spinner__20a09"
   },
+  "288013": {
+    "modalContent": "modalContent__58ae6",
+    "modalContentChild": "modalContentChild__58ae6",
+    "close": "close__58ae6",
+    "left": "left__58ae6",
+    "right": "right__58ae6",
+    "headerContainer": "headerContainer__58ae6",
+    "guildRow": "guildRow__58ae6",
+    "buttonContainer": "buttonContainer__58ae6",
+    "tooltip": "tooltip__58ae6"
+  },
   "288779": {
     "container": "container_e73f2a",
     "section": "section_e73f2a",
@@ -13748,6 +13759,12 @@
     "classificationPolicyCardIcon": "classificationPolicyCardIcon_a48d6b",
     "classificationPolicyDescriptionContainer": "classificationPolicyDescriptionContainer_a48d6b",
     "classificationPolicyLinkIcon": "classificationPolicyLinkIcon_a48d6b"
+  },
+  "549904": {
+    "container": "container__72a2d",
+    "textSection": "textSection__72a2d",
+    "subheading": "subheading__72a2d",
+    "avatar": "avatar__72a2d"
   },
   "551084": {
     "tierComparisonTable": "tierComparisonTable__744ff",
@@ -21649,6 +21666,7 @@
   "840368": {
     "errorMessage": "errorMessage_d332d2",
     "createAccountTemplateHeader": "createAccountTemplateHeader_d332d2",
+    "authBlock": "authBlock_d332d2",
     "horizontalAuthBox": "horizontalAuthBox_d332d2",
     "flex": "flex_d332d2",
     "divider": "divider_d332d2",
@@ -21659,8 +21677,7 @@
     "messagePositive": "messagePositive_d332d2",
     "birthdayText": "birthdayText_d332d2",
     "consentBox": "consentBox_d332d2",
-    "consentSubText": "consentSubText_d332d2",
-    "centeredButtonContainer": "centeredButtonContainer_d332d2"
+    "consentSubText": "consentSubText_d332d2"
   },
   "840440": {
     "content": "content__79cbe",
