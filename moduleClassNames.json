@@ -12878,6 +12878,13 @@
     "category": "category__3ddc0",
     "channelIcon": "channelIcon__3ddc0"
   },
+  "512072": {
+    "wrapper": "wrapper_cb9f10",
+    "nav": "nav_cb9f10",
+    "banner": "banner_cb9f10",
+    "pfxBanner": "pfxBanner_cb9f10",
+    "nameplateBanner": "nameplateBanner_cb9f10"
+  },
   "512231": {
     "wrapper": "wrapper_a6f654",
     "installationPath": "installationPath_a6f654",
@@ -16878,7 +16885,10 @@
     "layerPreview": "layerPreview_a35735",
     "stillFramesContainer": "stillFramesContainer_a35735",
     "stillFramePreviewContainer": "stillFramePreviewContainer_a35735",
-    "stillFramePreview": "stillFramePreview_a35735"
+    "stillFramePreview": "stillFramePreview_a35735",
+    "pfxGrid": "pfxGrid_a35735",
+    "pfxListItem": "pfxListItem_a35735",
+    "pfxListItemFooter": "pfxListItemFooter_a35735"
   },
   "662776": {
     "container": "container__37bfc",
