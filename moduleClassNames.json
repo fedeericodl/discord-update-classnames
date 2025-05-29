@@ -5016,6 +5016,14 @@
     "questProgressHint": "questProgressHint_b628ac",
     "Shine": "Shine_b628ac"
   },
+  "192360": {
+    "nameInput": "nameInput__38eb6",
+    "wrapInput": "wrapInput__38eb6",
+    "inputNote": "inputNote__38eb6",
+    "ghost": "ghost__38eb6",
+    "bookend": "bookend__38eb6",
+    "spacer": "spacer__38eb6"
+  },
   "192639": {
     "card": "card__991c2",
     "iconMask": "iconMask__991c2",
@@ -20910,7 +20918,6 @@
     "modalContent": "modalContent_db78b7",
     "grid": "grid_db78b7",
     "preview": "preview_db78b7",
-    "inputNote": "inputNote_db78b7",
     "submit": "submit_db78b7",
     "heading": "heading_db78b7",
     "editor": "editor_db78b7",
