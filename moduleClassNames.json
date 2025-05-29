@@ -12425,6 +12425,12 @@
     "upsellContainer": "upsellContainer__4a7f0",
     "upsellText": "upsellText__4a7f0"
   },
+  "491410": {
+    "addAnotherRuleCardContainer": "addAnotherRuleCardContainer__0c1e8",
+    "mainRuleContainer": "mainRuleContainer__0c1e8",
+    "plusIcon": "plusIcon__0c1e8",
+    "animatedRuleCardContainer": "animatedRuleCardContainer__0c1e8"
+  },
   "491503": {
     "guildStatus": "guildStatus_f9f04c",
     "guildIcon": "guildIcon_f9f04c",
@@ -13003,7 +13009,6 @@
     "profileSection": "profileSection__9c3be",
     "profileOverlay": "profileOverlay__9c3be",
     "profileBanner": "profileBanner__9c3be",
-    "profileUsernameTag": "profileUsernameTag__9c3be",
     "profileButtons": "profileButtons__9c3be",
     "profileScroller": "profileScroller__9c3be",
     "profileRolesSection": "profileRolesSection__9c3be",
@@ -23968,12 +23973,6 @@
   },
   "914439": {
     "container": "container__4216d"
-  },
-  "914661": {
-    "addAnotherRuleCardContainer": "addAnotherRuleCardContainer__0c1e8",
-    "mainRuleContainer": "mainRuleContainer__0c1e8",
-    "plusIcon": "plusIcon__0c1e8",
-    "animatedRuleCardContainer": "animatedRuleCardContainer__0c1e8"
   },
   "915298": {
     "container": "container__6764b",
