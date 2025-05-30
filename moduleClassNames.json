@@ -4363,6 +4363,7 @@
   },
   "168301": {
     "button": "button__67645",
+    "orangeGlow": "orangeGlow__67645",
     "redGlow": "redGlow__67645",
     "enabled": "enabled__67645",
     "disabled": "disabled__67645",
@@ -6111,9 +6112,10 @@
     "micButtonParent": "micButtonParent__37e49",
     "buttonChevron": "buttonChevron__37e49",
     "micButtonWithMenu": "micButtonWithMenu__37e49",
-    "redGlow": "redGlow__37e49",
+    "hasColorGlow": "hasColorGlow__37e49",
     "voiceFilterWarning": "voiceFilterWarning__37e49",
     "buttons": "buttons__37e49",
+    "tooltipWithSubtext": "tooltipWithSubtext__37e49",
     "containerListenAlongVisible": "containerListenAlongVisible__37e49",
     "containerQuestBarVisible": "containerQuestBarVisible__37e49",
     "containerRtcOpened": "containerRtcOpened__37e49",
@@ -19949,7 +19951,6 @@
     "tabWrapper": "tabWrapper__80679",
     "tab": "tab__80679",
     "selected": "selected__80679",
-    "tabWithMenuContainer": "tabWithMenuContainer__80679",
     "tabWithMenu": "tabWithMenu__80679",
     "discordLogo": "discordLogo__80679",
     "shopHomeLink": "shopHomeLink__80679",
@@ -22320,6 +22321,12 @@
     "ttsSliderMarker": "ttsSliderMarker__5d148",
     "syncProfileThemeWithUserTheme": "syncProfileThemeWithUserTheme__5d148",
     "reducedMotion": "reducedMotion__5d148"
+  },
+  "856045": {
+    "badgeContainer": "badgeContainer_fc0249",
+    "tier2": "tier2_fc0249",
+    "tier0": "tier0_fc0249",
+    "badgeText": "badgeText_fc0249"
   },
   "856461": {
     "guildPickerContainer": "guildPickerContainer__99854",
