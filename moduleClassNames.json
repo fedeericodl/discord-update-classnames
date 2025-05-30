@@ -19833,20 +19833,6 @@
     "connectionIcon": "connectionIcon_e766f2",
     "buttonRow": "buttonRow_e766f2"
   },
-  "772017": {
-    "container": "container__1436a",
-    "editorBody": "editorBody__1436a",
-    "header": "header__1436a",
-    "subheader": "subheader__1436a",
-    "slider": "slider__1436a",
-    "themeColorPicker": "themeColorPicker__1436a",
-    "themeControl": "themeControl__1436a",
-    "colorList": "colorList__1436a",
-    "colorItem": "colorItem__1436a",
-    "colorPreview": "colorPreview__1436a",
-    "exitButton": "exitButton__1436a",
-    "saveButton": "saveButton__1436a"
-  },
   "772526": {
     "paymentBanner": "paymentBanner_e335a7",
     "paymentBannerIcon": "paymentBannerIcon_e335a7",
@@ -23108,6 +23094,16 @@
     "action": "action_b50d96",
     "mutualGuilds": "mutualGuilds_b50d96"
   },
+  "882903": {
+    "container": "container__68a18",
+    "editorBody": "editorBody__68a18",
+    "header": "header__68a18",
+    "subheader": "subheader__68a18",
+    "slider": "slider__68a18",
+    "themeColorPicker": "themeColorPicker__68a18",
+    "exitButton": "exitButton__68a18",
+    "saveButton": "saveButton__68a18"
+  },
   "883658": {
     "checkboxWrapper": "checkboxWrapper_f525d3",
     "row": "row_f525d3",
@@ -23473,6 +23469,13 @@
   },
   "897384": {
     "icon": "icon_e59963"
+  },
+  "897867": {
+    "pickerWrapper": "pickerWrapper_a32ef3",
+    "saturation": "saturation_a32ef3",
+    "hue": "hue_a32ef3",
+    "customPointer": "customPointer_a32ef3",
+    "huePointer": "huePointer_a32ef3"
   },
   "898275": {
     "mobileMenuItem": "mobileMenuItem__43cad",
@@ -24535,6 +24538,19 @@
     "childText": "childText__3ed08",
     "childIcon": "childIcon__3ed08",
     "externalLinkWrapper": "externalLinkWrapper__3ed08"
+  },
+  "936631": {
+    "container": "container_b29565",
+    "headerContainer": "headerContainer_b29565",
+    "addColorButtonText": "addColorButtonText_b29565",
+    "gradientBar": "gradientBar_b29565",
+    "colorCircle": "colorCircle_b29565",
+    "colorCircleSelected": "colorCircleSelected_b29565",
+    "colorCircleInner": "colorCircleInner_b29565",
+    "hexInputContainer": "hexInputContainer_b29565",
+    "colorSwatch": "colorSwatch_b29565",
+    "hexInput": "hexInput_b29565",
+    "hexInputInner": "hexInputInner_b29565"
   },
   "937848": {
     "wrapper": "wrapper_e03935",
