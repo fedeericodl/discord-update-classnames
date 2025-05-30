@@ -4024,12 +4024,14 @@
     "avatar": "avatar__6fbbd"
   },
   "154947": {
-    "allActivitySharingTitle": "allActivitySharingTitle_eda416",
     "divider": "divider_eda416",
     "defaultSetting": "defaultSetting_eda416",
-    "description": "description_eda416",
-    "title": "title_eda416",
-    "privacyAndTerms": "privacyAndTerms_eda416"
+    "formTitle": "formTitle_eda416",
+    "formDescription": "formDescription_eda416",
+    "switchContainer": "switchContainer_eda416",
+    "activitySharingSwitch": "activitySharingSwitch_eda416",
+    "formSection": "formSection_eda416",
+    "joinRequestSwitch": "joinRequestSwitch_eda416"
   },
   "156189": {
     "badge": "badge__6ba43"
@@ -5954,6 +5956,19 @@
     "header": "header__20c92",
     "thumbnailStackContainer": "thumbnailStackContainer__20c92",
     "buttonsContainer": "buttonsContainer__20c92"
+  },
+  "236022": {
+    "guildRow": "guildRow__7db08",
+    "memberDetailsContainer": "memberDetailsContainer__7db08",
+    "infoDot": "infoDot__7db08",
+    "memberCountDot": "memberCountDot__7db08 infoDot__7db08",
+    "controlsContainer": "controlsContainer__7db08",
+    "showAllButton": "showAllButton__7db08",
+    "showAllIcon": "showAllIcon__7db08",
+    "wrapper": "wrapper__7db08",
+    "guildRowWrapper": "guildRowWrapper__7db08",
+    "sortOrderSelect": "sortOrderSelect__7db08",
+    "toggleAllButton": "toggleAllButton__7db08"
   },
   "236237": {
     "erroredContainer": "erroredContainer_bf2caa",
@@ -11781,7 +11796,8 @@
     "stickersNavItem": "stickersNavItem__08434",
     "soundboardContainer": "soundboardContainer__08434",
     "soundboardHeader": "soundboardHeader__08434",
-    "soundmojiLabelContainer": "soundmojiLabelContainer__08434"
+    "soundmojiLabelContainer": "soundmojiLabelContainer__08434",
+    "addEmojiButton": "addEmojiButton__08434"
   },
   "461238": {
     "container": "container_c6ad88",
