@@ -9645,7 +9645,9 @@
     "reload": "reload__4485d"
   },
   "373283": {
-    "spacing": "spacing__7d739"
+    "spacing": "spacing__7d739",
+    "title": "title__7d739",
+    "closeButton": "closeButton__7d739"
   },
   "374336": {
     "qualityIndicator": "qualityIndicator__30845",
