@@ -11371,6 +11371,7 @@
   },
   "443257": {
     "popup": "popup_ff5cbf",
+    "closeIcon": "closeIcon_ff5cbf",
     "content": "content_ff5cbf"
   },
   "443474": {
@@ -18781,9 +18782,7 @@
     "questRewardTileAssetStatic": "questRewardTileAssetStatic__28141",
     "questRewardTileDetailsLearnMore": "questRewardTileDetailsLearnMore__28141",
     "Shine": "Shine__28141",
-    "shine": "shine__28141",
-    "hidden": "hidden__28141",
-    "imageVideoOverlay": "imageVideoOverlay__28141"
+    "shine": "shine__28141"
   },
   "734664": {
     "container": "container__3ce43",
