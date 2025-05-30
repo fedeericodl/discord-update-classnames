@@ -4675,7 +4675,8 @@
     "shaker": "shaker_e5f3a9",
     "root": "root_e5f3a9",
     "withHeader": "withHeader_e5f3a9",
-    "halloweenModalHeight": "halloweenModalHeight_e5f3a9"
+    "halloweenModalHeight": "halloweenModalHeight_e5f3a9",
+    "premiumRebrandBackground": "premiumRebrandBackground_e5f3a9"
   },
   "179867": {
     "subscriptionsContainer": "subscriptionsContainer__0dc23",
@@ -5975,6 +5976,7 @@
     "stepBody": "stepBody_e4d803",
     "bodyText": "bodyText_e4d803",
     "invoice": "invoice_e4d803",
+    "premiumRebrandInputBackground": "premiumRebrandInputBackground_e4d803",
     "paymentSourceWrapper": "paymentSourceWrapper_e4d803",
     "paymentSourceOptionalWarning": "paymentSourceOptionalWarning_e4d803",
     "currencyWrapper": "currencyWrapper_e4d803",
