@@ -617,11 +617,12 @@
     "container": "container_ea5470",
     "panelSpacing": "panelSpacing_ea5470",
     "messageList": "messageList_ea5470",
-    "emptyStateContainer": "emptyStateContainer_ea5470",
-    "emptyStateText": "emptyStateText_ea5470",
-    "emptyStateIcon": "emptyStateIcon_ea5470",
+    "caughtUpContainer": "caughtUpContainer_ea5470",
+    "caughtUpText": "caughtUpText_ea5470",
+    "caughtUpIcon": "caughtUpIcon_ea5470",
     "settingsButton": "settingsButton_ea5470",
-    "settingsButtonIcon": "settingsButtonIcon_ea5470"
+    "settingsButtonIcon": "settingsButtonIcon_ea5470",
+    "emptyStateContainer": "emptyStateContainer_ea5470"
   },
   "21821": {
     "clickerButton": "clickerButton_e9638b",
@@ -6730,8 +6731,8 @@
     "bigWumpus": "bigWumpus_c7bb69",
     "wumpus": "wumpus_c7bb69",
     "bigCloud": "bigCloud_c7bb69",
-    "smallCloud": "smallCloud_c7bb69",
     "mediumCloud": "mediumCloud_c7bb69",
+    "smallCloud": "smallCloud_c7bb69",
     "closeButtonPosition": "closeButtonPosition_c7bb69",
     "textContainer": "textContainer_c7bb69",
     "headerTextWrapper": "headerTextWrapper_c7bb69",
@@ -23123,12 +23124,17 @@
   "882903": {
     "container": "container__68a18",
     "editorBody": "editorBody__68a18",
-    "header": "header__68a18",
-    "subheader": "subheader__68a18",
+    "headerContainer": "headerContainer__68a18",
+    "closeButton": "closeButton__68a18",
+    "sliderContainer": "sliderContainer__68a18",
     "slider": "slider__68a18",
-    "themeColorPicker": "themeColorPicker__68a18",
-    "exitButton": "exitButton__68a18",
-    "saveButton": "saveButton__68a18"
+    "resetButton": "resetButton__68a18",
+    "resetButtonContent": "resetButtonContent__68a18",
+    "surpriseMeButton": "surpriseMeButton__68a18",
+    "surpriseMeButtonContent": "surpriseMeButtonContent__68a18",
+    "footerContainer": "footerContainer__68a18",
+    "backButton": "backButton__68a18",
+    "applyButton": "applyButton__68a18"
   },
   "883658": {
     "checkboxWrapper": "checkboxWrapper_f525d3",
