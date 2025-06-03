@@ -1151,8 +1151,11 @@
   },
   "44380": {
     "tabBar": "tabBar_f8303a",
+    "vertical": "vertical_f8303a",
     "tabBarPanel": "tabBarPanel_f8303a",
-    "tab": "tab_f8303a"
+    "tab": "tab_f8303a",
+    "selected": "selected_f8303a",
+    "tabbedSettingsContainer": "tabbedSettingsContainer_f8303a"
   },
   "44534": {
     "container": "container__444a0",
@@ -7937,7 +7940,8 @@
     "emptyCard": "emptyCard__0a9e8"
   },
   "298136": {
-    "selectItemTitle": "selectItemTitle_d81ffd"
+    "selectItemTitle": "selectItemTitle_d81ffd",
+    "selectItemRow": "selectItemRow_d81ffd"
   },
   "298746": {
     "container": "container_ac6cb0",
