@@ -7893,6 +7893,11 @@
   "296665": {
     "root": "root_e605a1"
   },
+  "297100": {
+    "gradientOuterBorder": "gradientOuterBorder__8f49b",
+    "gradientInnerBorder": "gradientInnerBorder__8f49b",
+    "svgCopy": "svgCopy__8f49b"
+  },
   "297731": {
     "container": "container__56dee",
     "author": "author__56dee",
@@ -15157,7 +15162,6 @@
     "cardImage": "cardImage_b5493b",
     "carouselCardImage": "carouselCardImage_b5493b",
     "carouselCardImageGrayscale": "carouselCardImageGrayscale_b5493b",
-    "cardComponent": "cardComponent_b5493b",
     "partialFlipCard": "partialFlipCard_b5493b",
     "reducedMotion": "reducedMotion_b5493b",
     "ultraFlipCard": "ultraFlipCard_b5493b",
@@ -20564,7 +20568,6 @@
     "heading": "heading_efc71f",
     "sectionHeader": "sectionHeader_efc71f",
     "sectionHeaderSeeAll": "sectionHeaderSeeAll_efc71f",
-    "confettiCanvas": "confettiCanvas_efc71f",
     "container": "container_efc71f",
     "subtitle": "subtitle_efc71f",
     "subtitleWithButton": "subtitleWithButton_efc71f",
@@ -22714,10 +22717,6 @@
     "loading": "loading_b9f95d",
     "renewalInvoiceDate": "renewalInvoiceDate_b9f95d",
     "invoiceCancelRow": "invoiceCancelRow_b9f95d",
-    "iconClassName": "iconClassName_b9f95d",
-    "subtitleIcon": "subtitleIcon_b9f95d",
-    "subtitleSection": "subtitleSection_b9f95d",
-    "innerCircle": "innerCircle_b9f95d",
     "cancellationHeader": "cancellationHeader_b9f95d",
     "whatYouLoseButtonContainer": "whatYouLoseButtonContainer_b9f95d",
     "confettiCanvas": "confettiCanvas_b9f95d"
