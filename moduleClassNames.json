@@ -14602,6 +14602,11 @@
     "rainbow": "rainbow_cf3f70",
     "rainbow_animation": "rainbow_animation_cf3f70"
   },
+  "574697": {
+    "scrim": "scrim_d9cec8",
+    "lightbox": "lightbox_d9cec8",
+    "pointerEventsNone": "pointerEventsNone_d9cec8"
+  },
   "575302": {
     "botTag": "botTag__82f07",
     "px": "px__82f07",
