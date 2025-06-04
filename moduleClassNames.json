@@ -3471,7 +3471,6 @@
     "backButton": "backButton__4da69"
   },
   "136021": {
-    "brandShine": "brandShine__1995d",
     "freeTrialText": "freeTrialText__1995d"
   },
   "136266": {
@@ -4260,7 +4259,8 @@
     "giftButton": "giftButton_e00877",
     "giftIcon": "giftIcon_e00877",
     "tier1Gradient": "tier1Gradient_e00877",
-    "tier2Gradient": "tier2Gradient_e00877"
+    "tier2Gradient": "tier2Gradient_e00877",
+    "brandShine": "brandShine_e00877"
   },
   "164526": {
     "counter": "counter__90981"
@@ -15114,11 +15114,6 @@
   "588866": {
     "card": "card_b846e5"
   },
-  "589061": {
-    "neverShow": "neverShow__8c141",
-    "options": "options__8c141",
-    "cancelButton": "cancelButton__8c141"
-  },
   "589608": {
     "box": "box_f8c98c"
   },
@@ -21128,6 +21123,12 @@
     "buttonRow": "buttonRow_da1bc3",
     "removeButton": "removeButton_da1bc3",
     "button": "button_da1bc3"
+  },
+  "815646": {
+    "neverShow": "neverShow__6480d",
+    "options": "options__6480d",
+    "cancelButton": "cancelButton__6480d",
+    "footerButtons": "footerButtons__6480d"
   },
   "815669": {
     "container": "container_b6a3c4",
