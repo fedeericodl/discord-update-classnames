@@ -12065,6 +12065,7 @@
     "size24": "size24__183c2",
     "size16": "size16__183c2",
     "emptyUserDimmed": "emptyUserDimmed__183c2",
+    "avatarWithBackground": "avatarWithBackground__183c2",
     "avatar": "avatar__183c2",
     "moreUsers": "moreUsers__183c2",
     "moreUsersDimmed": "moreUsersDimmed__183c2"
@@ -24918,7 +24919,11 @@
     "titleBarTrailingAbsolute": "titleBarTrailingAbsolute__53cea",
     "titleBarMain": "titleBarMain__53cea",
     "titleBarMainCentered": "titleBarMainCentered__53cea",
-    "closeButton": "closeButton__53cea"
+    "closeButton": "closeButton__53cea",
+    "actionBar": "actionBar__53cea",
+    "actionBarLeading": "actionBarLeading__53cea",
+    "actionBarTrailing": "actionBarTrailing__53cea",
+    "actionBarTrailingFullWidth": "actionBarTrailingFullWidth__53cea"
   },
   "946908": {
     "sectionContentContainer": "sectionContentContainer_b18295",
@@ -26554,6 +26559,7 @@
     "md": "md__2723e",
     "lg": "lg__2723e",
     "text": "text__2723e",
+    "fullWidth": "fullWidth__2723e",
     "primary": "primary__2723e",
     "expressive": "expressive__2723e",
     "expressiveRive": "expressiveRive__2723e",
