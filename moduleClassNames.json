@@ -8431,7 +8431,8 @@
     "settingsIcon": "settingsIcon__61424"
   },
   "316879": {
-    "scroller": "scroller_ac477d"
+    "scroller": "scroller_ac477d",
+    "activityList": "activityList_ac477d"
   },
   "317112": {
     "promotionalFooter": "promotionalFooter__82bb4"
@@ -23164,7 +23165,13 @@
     "surpriseMeButtonContent": "surpriseMeButtonContent__68a18",
     "footerContainer": "footerContainer__68a18",
     "backButton": "backButton__68a18",
-    "applyButton": "applyButton__68a18"
+    "applyButton": "applyButton__68a18",
+    "coachmarkHeaderContainer": "coachmarkHeaderContainer__68a18",
+    "coachmarkHeaderTextContainer": "coachmarkHeaderTextContainer__68a18",
+    "badgeAndCloseRow": "badgeAndCloseRow__68a18",
+    "subtitle": "subtitle__68a18",
+    "coachmarkFooterContainer": "coachmarkFooterContainer__68a18",
+    "coachmarkSecondButton": "coachmarkSecondButton__68a18"
   },
   "883658": {
     "checkboxWrapper": "checkboxWrapper_f525d3",
