@@ -13593,12 +13593,15 @@
   },
   "538566": {
     "nameplatePreview": "nameplatePreview_fdeafc",
+    "large": "large_fdeafc",
     "overlayContainer": "overlayContainer_fdeafc",
     "avatarContainer": "avatarContainer_fdeafc",
     "avatarVisible": "avatarVisible_fdeafc",
+    "avatarWithText": "avatarWithText_fdeafc",
     "nameplatePurchased": "nameplatePurchased_fdeafc",
     "placeholderUsername": "placeholderUsername_fdeafc",
-    "placeholderUsernameColor": "placeholderUsernameColor_fdeafc"
+    "placeholderUsernameColor": "placeholderUsernameColor_fdeafc",
+    "tagChiplet": "tagChiplet_fdeafc"
   },
   "538631": {
     "avatarPairContainer": "avatarPairContainer__30f35",
@@ -15547,6 +15550,8 @@
   "609887": {
     "avatarDecorationPreview": "avatarDecorationPreview__9baf3",
     "profileEffectPreview": "profileEffectPreview__9baf3",
+    "nameplatePreview": "nameplatePreview__9baf3",
+    "nameplate": "nameplate__9baf3",
     "giftAnimation": "giftAnimation__9baf3"
   },
   "610220": {
