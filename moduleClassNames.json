@@ -4206,6 +4206,7 @@
     "preview": "preview__3299f",
     "image": "image__3299f",
     "clickable": "clickable__3299f",
+    "disabled": "disabled__3299f",
     "overlay": "overlay__3299f",
     "overlayText": "overlayText__3299f",
     "clyde": "clyde__3299f",
@@ -17516,6 +17517,12 @@
   "677972": {
     "channelNameChange": "channelNameChange__2f82d"
   },
+  "677973": {
+    "wrapper": "wrapper__123e1",
+    "textContainer": "textContainer__123e1",
+    "heading": "heading__123e1",
+    "text": "text__123e1"
+  },
   "678270": {
     "gridContainer": "gridContainer_ad58e7",
     "gridItem": "gridItem_ad58e7",
@@ -21961,8 +21968,9 @@
     "textSm": "textSm_c9d15c",
     "activityContainer": "activityContainer_c9d15c",
     "activitiesTooltip": "activitiesTooltip_c9d15c",
-    "tooltip": "tooltip_c9d15c",
+    "tooltipText": "tooltipText_c9d15c",
     "icon": "icon_c9d15c",
+    "hasMultipleActivities": "hasMultipleActivities_c9d15c",
     "truncated": "truncated_c9d15c",
     "textWithIconContainer": "textWithIconContainer_c9d15c",
     "activityCounter": "activityCounter_c9d15c",
