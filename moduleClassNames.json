@@ -3304,12 +3304,12 @@
   },
   "128654": {
     "container": "container_c48ade",
+    "panels": "panels_c48ade",
     "guilds": "guilds_c48ade",
     "base": "base_c48ade",
     "sidebar": "sidebar_c48ade",
     "hidden": "hidden_c48ade",
     "fullWidth": "fullWidth_c48ade",
-    "panels": "panels_c48ade",
     "content": "content_c48ade",
     "activityPanel": "activityPanel_c48ade",
     "loader": "loader_c48ade",
@@ -14434,14 +14434,15 @@
   },
   "566177": {
     "container": "container_e131a9",
+    "wrapper": "wrapper_e131a9",
     "inner": "inner_e131a9",
+    "connection": "connection_e131a9",
     "channel": "channel_e131a9",
     "noiseCancellationPopout": "noiseCancellationPopout_e131a9",
     "noiseCancellationTooltip": "noiseCancellationTooltip_e131a9",
     "krispLogo": "krispLogo_e131a9",
     "krispLink": "krispLink_e131a9",
     "micTestButton": "micTestButton_e131a9",
-    "connection": "connection_e131a9",
     "voiceUsers": "voiceUsers_e131a9",
     "actionButtons": "actionButtons_e131a9",
     "button": "button_e131a9",
@@ -14456,7 +14457,6 @@
     "voicePanelIntroductionText": "voicePanelIntroductionText_e131a9",
     "voicePanelIntroductionButton": "voicePanelIntroductionButton_e131a9",
     "voicePanelIntroductionWrapper": "voicePanelIntroductionWrapper_e131a9",
-    "wrapper": "wrapper_e131a9",
     "viewAsRolesWarning": "viewAsRolesWarning_e131a9",
     "viewAsRolesWarningText": "viewAsRolesWarningText_e131a9",
     "viewAsRolesWarningButton": "viewAsRolesWarningButton_e131a9",
@@ -17620,6 +17620,7 @@
   "683560": {
     "ping": "ping__06d62",
     "smallPing": "smallPing__06d62",
+    "largePing": "largePing__06d62",
     "rtcConnectionStatus": "rtcConnectionStatus__06d62",
     "rtcConnectionStatusLabel": "rtcConnectionStatusLabel__06d62",
     "rtcConnectionStatusConnected": "rtcConnectionStatusConnected__06d62 rtcConnectionStatusLabel__06d62",
@@ -26024,7 +26025,8 @@
     "scrollerSpacer": "scrollerSpacer__36d07",
     "empty": "empty__36d07",
     "emptyForum": "emptyForum__36d07",
-    "navigationDescription": "navigationDescription__36d07"
+    "navigationDescription": "navigationDescription__36d07",
+    "typingGradient": "typingGradient__36d07"
   },
   "978644": {
     "chatIcon": "chatIcon__233f8",
