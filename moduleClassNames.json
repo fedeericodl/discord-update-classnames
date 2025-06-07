@@ -12999,8 +12999,8 @@
   },
   "514656": {
     "scroller": "scroller__764cd",
-    "spinner": "spinner__764cd",
-    "cards": "cards__764cd"
+    "cards": "cards__764cd",
+    "loadingItem": "loadingItem__764cd"
   },
   "514835": {
     "buttonContainer": "buttonContainer__7e329",
@@ -17007,6 +17007,7 @@
   },
   "662776": {
     "container": "container__37bfc",
+    "scroller": "scroller__37bfc",
     "tabBarItem": "tabBarItem__37bfc",
     "tabBarPanel": "tabBarPanel__37bfc"
   },
@@ -19476,6 +19477,10 @@
     "recommendedTierHighlightTier3": "recommendedTierHighlightTier3__686cf",
     "recommendedTierHighlightTag": "recommendedTierHighlightTag__686cf",
     "perkPreviewImage": "perkPreviewImage__686cf"
+  },
+  "757020": {
+    "wrapper": "wrapper__2beb3",
+    "closeButton": "closeButton__2beb3"
   },
   "758010": {
     "expanded": "expanded__7a70a",
@@ -23142,11 +23147,8 @@
     "container": "container__757e8"
   },
   "882714": {
-    "container": "container__2a3ed",
-    "loaded": "loaded__2a3ed",
-    "closeButton": "closeButton__2a3ed",
-    "reveal": "reveal__2a3ed",
     "content": "content__2a3ed",
+    "loaded": "loaded__2a3ed",
     "video": "video__2a3ed",
     "nitroLogo": "nitroLogo__2a3ed",
     "badgeText": "badgeText__2a3ed",
@@ -23155,6 +23157,7 @@
     "old": "old__2a3ed",
     "started": "started__2a3ed",
     "new": "new__2a3ed",
+    "reveal": "reveal__2a3ed",
     "subscribedText": "subscribedText__2a3ed",
     "actionButtons": "actionButtons__2a3ed",
     "ended": "ended__2a3ed"
