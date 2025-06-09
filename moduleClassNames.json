@@ -621,7 +621,6 @@
     "caughtUpText": "caughtUpText_ea5470",
     "caughtUpIcon": "caughtUpIcon_ea5470",
     "headerButton": "headerButton_ea5470",
-    "emptyStateContainer": "emptyStateContainer_ea5470",
     "filterHeaderWrap": "filterHeaderWrap_ea5470"
   },
   "21821": {
@@ -8612,24 +8611,6 @@
   "322248": {
     "title": "title_feb59c"
   },
-  "322274": {
-    "indicator": "indicator_ffc7aa",
-    "animationContainer": "animationContainer_ffc7aa",
-    "animating": "animating_ffc7aa",
-    "notAnimating": "notAnimating_ffc7aa",
-    "top": "top_ffc7aa",
-    "exclaim-loop": "exclaim-loop_ffc7aa",
-    "quick-fade-out": "quick-fade-out_ffc7aa",
-    "bottom": "bottom_ffc7aa",
-    "dot-loop": "dot-loop_ffc7aa",
-    "innerCircle": "innerCircle_ffc7aa",
-    "inner-circle-loop": "inner-circle-loop_ffc7aa",
-    "highPriority": "highPriority_ffc7aa",
-    "inner-circle-loop-high-priority": "inner-circle-loop-high-priority_ffc7aa",
-    "outerCircle": "outerCircle_ffc7aa",
-    "outer-circle-loop": "outer-circle-loop_ffc7aa",
-    "outer-circle-loop-high-priority": "outer-circle-loop-high-priority_ffc7aa"
-  },
   "324846": {
     "clipPill": "clipPill_d762d7"
   },
@@ -15232,7 +15213,8 @@
     "above": "above_b5493b",
     "below": "below_b5493b",
     "topCover": "topCover_b5493b",
-    "relative": "relative_b5493b"
+    "relative": "relative_b5493b",
+    "nitroGradientBackground": "nitroGradientBackground_b5493b"
   },
   "593673": {
     "container": "container_a3fac7",
@@ -16736,6 +16718,24 @@
     "wrapper": "wrapper__29ebd",
     "sadImage": "sadImage__29ebd",
     "forceLightTheme": "forceLightTheme__29ebd"
+  },
+  "652148": {
+    "indicator": "indicator_ffc7aa",
+    "animationContainer": "animationContainer_ffc7aa",
+    "animating": "animating_ffc7aa",
+    "notAnimating": "notAnimating_ffc7aa",
+    "top": "top_ffc7aa",
+    "exclaim-loop": "exclaim-loop_ffc7aa",
+    "quick-fade-out": "quick-fade-out_ffc7aa",
+    "bottom": "bottom_ffc7aa",
+    "dot-loop": "dot-loop_ffc7aa",
+    "innerCircle": "innerCircle_ffc7aa",
+    "inner-circle-loop": "inner-circle-loop_ffc7aa",
+    "highPriority": "highPriority_ffc7aa",
+    "inner-circle-loop-high-priority": "inner-circle-loop-high-priority_ffc7aa",
+    "outerCircle": "outerCircle_ffc7aa",
+    "outer-circle-loop": "outer-circle-loop_ffc7aa",
+    "outer-circle-loop-high-priority": "outer-circle-loop-high-priority_ffc7aa"
   },
   "652156": {
     "streamTile": "streamTile__8151b",
@@ -18352,7 +18352,8 @@
     "messagesGroupHeaderWrap": "messagesGroupHeaderWrap__0aee3",
     "messagesGroupHeader": "messagesGroupHeader__0aee3",
     "chevron": "chevron__0aee3",
-    "collapsed": "collapsed__0aee3"
+    "collapsed": "collapsed__0aee3",
+    "emptyStateContainer": "emptyStateContainer__0aee3"
   },
   "709893": {
     "answersContainer": "answersContainer__4c520",
