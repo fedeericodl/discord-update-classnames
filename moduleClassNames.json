@@ -618,6 +618,8 @@
     "panelSpacing": "panelSpacing_ea5470",
     "messageList": "messageList_ea5470",
     "caughtUpContainer": "caughtUpContainer_ea5470",
+    "hide": "hide_ea5470",
+    "caughtUpContent": "caughtUpContent_ea5470",
     "caughtUpText": "caughtUpText_ea5470",
     "caughtUpIcon": "caughtUpIcon_ea5470",
     "headerButton": "headerButton_ea5470",
@@ -23180,6 +23182,7 @@
     "editorBody": "editorBody__68a18",
     "headerContainer": "headerContainer__68a18",
     "closeButton": "closeButton__68a18",
+    "closeIconWithHover": "closeIconWithHover__68a18",
     "sliderContainer": "sliderContainer__68a18",
     "slider": "slider__68a18",
     "gradientDirectionSliderContainer": "gradientDirectionSliderContainer__68a18",
@@ -23197,7 +23200,9 @@
     "badgeAndCloseRow": "badgeAndCloseRow__68a18",
     "subtitle": "subtitle__68a18",
     "coachmarkFooterContainer": "coachmarkFooterContainer__68a18",
-    "coachmarkSecondButton": "coachmarkSecondButton__68a18"
+    "coachmarkSecondButton": "coachmarkSecondButton__68a18",
+    "nitroIconContainer": "nitroIconContainer__68a18",
+    "nitroIconWithHover": "nitroIconWithHover__68a18"
   },
   "883658": {
     "checkboxWrapper": "checkboxWrapper_f525d3",
@@ -24645,7 +24650,9 @@
     "colorCircleSelectedTriangle": "colorCircleSelectedTriangle_b29565",
     "hexInputContainer": "hexInputContainer_b29565",
     "hexInput": "hexInput_b29565",
-    "trailingIcons": "trailingIcons_b29565"
+    "trailingIcons": "trailingIcons_b29565",
+    "iconWithHover": "iconWithHover_b29565",
+    "iconButton": "iconButton_b29565"
   },
   "937848": {
     "wrapper": "wrapper_e03935",
@@ -24926,6 +24933,7 @@
     "size-md": "size-md__53cea",
     "size-lg": "size-lg__53cea",
     "size-xl": "size-xl__53cea",
+    "fullScreenOnMobile": "fullScreenOnMobile__53cea",
     "titleBar": "titleBar__53cea",
     "titleBarLeading": "titleBarLeading__53cea",
     "titleBarLeadingSpacer": "titleBarLeadingSpacer__53cea",
