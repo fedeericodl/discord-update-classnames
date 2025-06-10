@@ -5975,14 +5975,13 @@
     "infoDot": "infoDot__7db08",
     "memberCountDot": "memberCountDot__7db08 infoDot__7db08",
     "controlsContainer": "controlsContainer__7db08",
-    "showAllButton": "showAllButton__7db08",
-    "showAllIcon": "showAllIcon__7db08",
     "wrapper": "wrapper__7db08",
     "guildRowWrapper": "guildRowWrapper__7db08",
     "sortOrderSelect": "sortOrderSelect__7db08",
     "toggleAllButton": "toggleAllButton__7db08",
     "noResultsContainer": "noResultsContainer__7db08",
-    "noResultsText": "noResultsText__7db08"
+    "noResultsText": "noResultsText__7db08",
+    "headerContainer": "headerContainer__7db08"
   },
   "236237": {
     "erroredContainer": "erroredContainer_bf2caa",
@@ -13617,13 +13616,13 @@
   "538566": {
     "nameplatePreview": "nameplatePreview_fdeafc",
     "large": "large_fdeafc",
+    "xlarge": "xlarge_fdeafc",
     "overlayContainer": "overlayContainer_fdeafc",
     "avatarContainer": "avatarContainer_fdeafc",
+    "avatar": "avatar_fdeafc",
     "avatarVisible": "avatarVisible_fdeafc",
-    "avatarWithText": "avatarWithText_fdeafc",
     "nameplatePurchased": "nameplatePurchased_fdeafc",
     "placeholderUsername": "placeholderUsername_fdeafc",
-    "placeholderUsernameColor": "placeholderUsernameColor_fdeafc",
     "tagChiplet": "tagChiplet_fdeafc"
   },
   "538631": {
@@ -24968,6 +24967,7 @@
     "actionBar": "actionBar__53cea",
     "actionBarLeading": "actionBarLeading__53cea",
     "actionBarTrailing": "actionBarTrailing__53cea",
+    "actionButtonWrapper": "actionButtonWrapper__53cea",
     "actionBarTrailingFullWidth": "actionBarTrailingFullWidth__53cea"
   },
   "946908": {
