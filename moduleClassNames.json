@@ -2377,7 +2377,6 @@
   "92609": {
     "row": "row__6500b",
     "container": "container__6500b",
-    "hasHeaders": "hasHeaders__6500b",
     "header": "header__6500b",
     "loading": "loading__6500b",
     "iconMessage": "iconMessage__6500b"
@@ -3363,6 +3362,7 @@
   "130802": {
     "voiceFiltersPopout": "voiceFiltersPopout_e2f668",
     "wide": "wide_e2f668",
+    "notResizable": "notResizable_e2f668",
     "voiceFiltersHeader": "voiceFiltersHeader_e2f668",
     "voiceFiltersFooter": "voiceFiltersFooter_e2f668",
     "hasActiveVoice": "hasActiveVoice_e2f668",
