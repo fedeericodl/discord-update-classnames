@@ -4202,7 +4202,9 @@
   },
   "162337": {
     "emptyState": "emptyState__43278",
-    "dropZone": "dropZone__43278"
+    "dropZone": "dropZone__43278",
+    "imagePlusIcon": "imagePlusIcon__43278",
+    "header": "header__43278"
   },
   "162509": {
     "preview": "preview__3299f",
@@ -15115,6 +15117,7 @@
   "588687": {
     "guildSelector": "guildSelector_f494f4",
     "guildSelectOption": "guildSelectOption_f494f4",
+    "guildSelectOptionIcon": "guildSelectOptionIcon_f494f4",
     "guildSelectOptionLabel": "guildSelectOptionLabel_f494f4"
   },
   "588799": {
