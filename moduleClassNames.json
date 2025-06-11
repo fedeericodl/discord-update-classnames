@@ -2559,6 +2559,10 @@
   "98078": {
     "container": "container__024d4"
   },
+  "98199": {
+    "safetySettingsNotice": "safetySettingsNotice__9536c",
+    "closeButton": "closeButton__9536c"
+  },
   "98574": {
     "applicationBody": "applicationBody__864b0",
     "form": "form__864b0",
@@ -8203,8 +8207,7 @@
     "guildIcon": "guildIcon__631c2"
   },
   "306194": {
-    "blockedIgnoredSettingsNotice": "blockedIgnoredSettingsNotice__6811a",
-    "closeButton": "closeButton__6811a"
+    "blockedIgnoredSettingsNotice": "blockedIgnoredSettingsNotice__6811a"
   },
   "306222": {
     "header": "header__15d0e",
