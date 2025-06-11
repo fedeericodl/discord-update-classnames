@@ -4267,8 +4267,6 @@
     "premiumSubscribeButton": "premiumSubscribeButton_e00877",
     "premiumIcon": "premiumIcon_e00877",
     "buttonText": "buttonText_e00877",
-    "giftButton": "giftButton_e00877",
-    "giftIcon": "giftIcon_e00877",
     "tier1Gradient": "tier1Gradient_e00877",
     "tier2Gradient": "tier2Gradient_e00877",
     "brandShine": "brandShine_e00877"
@@ -10677,6 +10675,7 @@
     "wrapperInvisible": "wrapperInvisible__0d616",
     "wrapperVisible": "wrapperVisible__0d616",
     "contentWrapper": "contentWrapper__0d616",
+    "contentWrapperBrandColorRemoval": "contentWrapperBrandColorRemoval__0d616",
     "contentWrapperExpanded": "contentWrapperExpanded__0d616",
     "contentWrapperAccepted": "contentWrapperAccepted__0d616",
     "mask": "mask__0d616"
@@ -12796,6 +12795,12 @@
     "selected": "selected_cc1819",
     "actionButtonWrapper": "actionButtonWrapper_cc1819",
     "actionButtonInner": "actionButtonInner_cc1819"
+  },
+  "505939": {
+    "questProgressWrapper": "questProgressWrapper__1d950",
+    "questProgressRewardTile": "questProgressRewardTile__1d950",
+    "questProgressCopy": "questProgressCopy__1d950",
+    "questProgressHint": "questProgressHint__1d950"
   },
   "506098": {
     "guildHeader": "guildHeader_b81b18",
@@ -17160,11 +17165,7 @@
     "contentCollapsed": "contentCollapsed__5f897",
     "contentCollapsedWrapper": "contentCollapsedWrapper__5f897",
     "contentCollapsedAccepted": "contentCollapsedAccepted__5f897",
-    "contentCollapsedExpanded": "contentCollapsedExpanded__5f897",
-    "questProgressWrapper": "questProgressWrapper__5f897",
-    "questProgressRewardTile": "questProgressRewardTile__5f897",
-    "questProgressCopy": "questProgressCopy__5f897",
-    "questProgressHint": "questProgressHint__5f897"
+    "contentCollapsedExpanded": "contentCollapsedExpanded__5f897"
   },
   "668271": {
     "container": "container__11014",
@@ -18886,8 +18887,7 @@
     "giftingContainerHighVisIcon": "giftingContainerHighVisIcon__3ce43",
     "giftingContainerHighVisDescription": "giftingContainerHighVisDescription__3ce43",
     "giftingContainerHighVisButtonContainer": "giftingContainerHighVisButtonContainer__3ce43",
-    "giftingContainerHighVisButton": "giftingContainerHighVisButton__3ce43",
-    "giftingContainerHighVisButtonText": "giftingContainerHighVisButtonText__3ce43"
+    "giftingContainerHighVisButton": "giftingContainerHighVisButton__3ce43"
   },
   "734829": {
     "container": "container__5537c",
@@ -24322,7 +24322,9 @@
     "postEnrollmentBackgroundCollapsed": "postEnrollmentBackgroundCollapsed__636a2",
     "postEnrollmentBackgroundExpanded": "postEnrollmentBackgroundExpanded__636a2",
     "previewPlayButtonCont": "previewPlayButtonCont__636a2",
-    "previewPlayButton": "previewPlayButton__636a2"
+    "previewPlayButton": "previewPlayButton__636a2",
+    "contentCollapsedBackgroundWrapper": "contentCollapsedBackgroundWrapper__636a2",
+    "contentCollapsedBackground": "contentCollapsedBackground__636a2"
   },
   "921500": {
     "tile": "tile_ba65b0",
