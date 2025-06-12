@@ -3307,12 +3307,12 @@
   },
   "128654": {
     "container": "container_c48ade",
-    "panels": "panels_c48ade",
     "guilds": "guilds_c48ade",
     "base": "base_c48ade",
     "sidebar": "sidebar_c48ade",
     "hidden": "hidden_c48ade",
     "fullWidth": "fullWidth_c48ade",
+    "panels": "panels_c48ade",
     "content": "content_c48ade",
     "activityPanel": "activityPanel_c48ade",
     "loader": "loader_c48ade",
@@ -21974,6 +21974,7 @@
     "textXs": "textXs_c9d15c",
     "textSm": "textSm_c9d15c",
     "activityContainer": "activityContainer_c9d15c",
+    "iconOnly": "iconOnly_c9d15c",
     "activitiesTooltip": "activitiesTooltip_c9d15c",
     "tooltipText": "tooltipText_c9d15c",
     "icon": "icon_c9d15c",
@@ -26043,8 +26044,7 @@
     "scrollerSpacer": "scrollerSpacer__36d07",
     "empty": "empty__36d07",
     "emptyForum": "emptyForum__36d07",
-    "navigationDescription": "navigationDescription__36d07",
-    "typingGradient": "typingGradient__36d07"
+    "navigationDescription": "navigationDescription__36d07"
   },
   "978644": {
     "chatIcon": "chatIcon__233f8",
