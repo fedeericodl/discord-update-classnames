@@ -7201,10 +7201,6 @@
     "keywordListTextContainer": "keywordListTextContainer__09e76",
     "toggle": "toggle__09e76"
   },
-  "274151": {
-    "scroller": "scroller__9498a",
-    "loadingItem": "loadingItem__9498a"
-  },
   "274569": {
     "container": "container_b5010b",
     "eventName": "eventName_b5010b",
@@ -18498,6 +18494,11 @@
     "text": "text__6c5a1",
     "premium": "premium__6c5a1",
     "iconOnly": "iconOnly__6c5a1"
+  },
+  "714905": {
+    "scroller": "scroller__28fdc",
+    "friendsLoadingItem": "friendsLoadingItem__28fdc",
+    "guildsLoadingItem": "guildsLoadingItem__28fdc"
   },
   "714943": {
     "container": "container_ad5cdf"
