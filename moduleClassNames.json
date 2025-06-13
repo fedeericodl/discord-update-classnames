@@ -778,6 +778,17 @@
     "pillContentContainer": "pillContentContainer__51d15",
     "pillButtonText": "pillButtonText__51d15"
   },
+  "27053": {
+    "container": "container__0d0f9",
+    "progressContainer": "progressContainer__0d0f9",
+    "progress": "progress__0d0f9",
+    "text": "text__0d0f9",
+    "containerWithMargin": "containerWithMargin__0d0f9",
+    "contentContainer": "contentContainer__0d0f9",
+    "textContainer": "textContainer__0d0f9",
+    "textContentContainer": "textContentContainer__0d0f9",
+    "progressLow": "progressLow__0d0f9"
+  },
   "28007": {
     "channel": "channel__427f0",
     "collapseButton": "collapseButton__427f0",
@@ -11352,6 +11363,14 @@
     "premiumTrialAcknowledgedBadge": "premiumTrialAcknowledgedBadge__94f65",
     "reverseTrialBadgeIcon": "reverseTrialBadgeIcon__94f65"
   },
+  "441425": {
+    "popup": "popup__49a20",
+    "closeIcon": "closeIcon__49a20",
+    "title": "title__49a20",
+    "asset": "asset__49a20",
+    "content": "content__49a20",
+    "button": "button__49a20"
+  },
   "441533": {
     "header": "header__03630",
     "currentUser": "currentUser__03630",
@@ -19449,6 +19468,10 @@
     "closeButtonInner": "closeButtonInner_b425c1",
     "closeButtonIcon": "closeButtonIcon_b425c1"
   },
+  "753023": {
+    "trialHeader": "trialHeader__784e4",
+    "price": "price__784e4"
+  },
   "753130": {
     "role": "role_b4b2c3",
     "roleColor": "roleColor_b4b2c3",
@@ -20280,7 +20303,6 @@
     "smallIcon": "smallIcon_ac86f6",
     "freeTrialPillInlineBlock": "freeTrialPillInlineBlock_ac86f6",
     "freeTrialPillInline": "freeTrialPillInline_ac86f6 freeTrialPillInlineBlock_ac86f6",
-    "price": "price_ac86f6",
     "newTagItem": "newTagItem_ac86f6",
     "freeTrialPillWithSparkles": "freeTrialPillWithSparkles_ac86f6",
     "sparkleStar1": "sparkleStar1_ac86f6",
@@ -20302,7 +20324,6 @@
     "topRimPill": "topRimPill_ac86f6",
     "rimGlowTier0": "rimGlowTier0_ac86f6",
     "rimGlowTier2": "rimGlowTier2_ac86f6",
-    "trialHeader": "trialHeader_ac86f6",
     "withPromotionalGradientBanner": "withPromotionalGradientBanner_ac86f6",
     "withPromotionalCardImage": "withPromotionalCardImage_ac86f6",
     "promotionalCardImage": "promotionalCardImage_ac86f6",
