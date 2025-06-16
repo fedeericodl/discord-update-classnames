@@ -5962,6 +5962,7 @@
   },
   "236022": {
     "guildRow": "guildRow__7db08",
+    "guildsList": "guildsList__7db08",
     "guildRowTextContainer": "guildRowTextContainer__7db08",
     "memberDetailsContainer": "memberDetailsContainer__7db08",
     "infoDot": "infoDot__7db08",
@@ -21881,7 +21882,8 @@
     "messagePositive": "messagePositive_d332d2",
     "birthdayText": "birthdayText_d332d2",
     "consentBox": "consentBox_d332d2",
-    "consentSubText": "consentSubText_d332d2"
+    "consentSubText": "consentSubText_d332d2",
+    "birthdayInput": "birthdayInput_d332d2"
   },
   "840440": {
     "content": "content__79cbe",
