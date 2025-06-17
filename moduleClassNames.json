@@ -311,10 +311,10 @@
   },
   "10123": {
     "container": "container__8564e",
+    "contentContainer": "contentContainer__8564e",
     "soundIcon": "soundIcon__8564e",
-    "textSelected": "textSelected__8564e",
-    "sound": "sound__8564e",
     "text": "text__8564e",
+    "textSelected": "textSelected__8564e",
     "customGiftHeader": "customGiftHeader__8564e",
     "searchAndSound": "searchAndSound__8564e"
   },
@@ -6409,9 +6409,8 @@
   },
   "249779": {
     "body": "body_c6f1a4",
-    "noRoundedCorners": "noRoundedCorners_c6f1a4",
-    "reviewStep": "reviewStep_c6f1a4",
     "sliderBody": "sliderBody_c6f1a4",
+    "reviewStep": "reviewStep_c6f1a4",
     "sliderBodyLarge": "sliderBodyLarge_c6f1a4"
   },
   "251027": {
@@ -22380,13 +22379,13 @@
   },
   "853464": {
     "container": "container__231eb",
-    "emojiList": "emojiList__231eb",
-    "emoji": "emoji__231eb",
-    "textSelected": "textSelected__231eb",
+    "contentContainer": "contentContainer__231eb",
     "emojiIcon": "emojiIcon__231eb",
     "text": "text__231eb",
-    "customGiftContent": "customGiftContent__231eb",
+    "textSelected": "textSelected__231eb",
+    "emojiList": "emojiList__231eb",
     "emojiHeader": "emojiHeader__231eb",
+    "customGiftContent": "customGiftContent__231eb",
     "customGiftHeader": "customGiftHeader__231eb",
     "categoryList": "categoryList__231eb"
   },
