@@ -21001,6 +21001,7 @@
     "banner": "banner__08415",
     "bannerImage": "bannerImage__08415",
     "responsiveHero": "responsiveHero__08415",
+    "bannerAsset": "bannerAsset__08415",
     "bannerVideoBackground": "bannerVideoBackground__08415",
     "bannerShadow": "bannerShadow__08415",
     "left": "left__08415",
@@ -21052,7 +21053,9 @@
     "wideBannerBlockButton": "wideBannerBlockButton__08415",
     "wideBannerTextContainer": "wideBannerTextContainer__08415",
     "wideBannerContentContainer": "wideBannerContentContainer__08415",
-    "shelfBlockContainer": "shelfBlockContainer__08415"
+    "shelfBlockContainer": "shelfBlockContainer__08415",
+    "heroBannerSheenContainer": "heroBannerSheenContainer__08415",
+    "responsive": "responsive__08415"
   },
   "806802": {
     "content": "content__3ff0e",
@@ -21881,7 +21884,7 @@
     "caret": "caret_d332d2",
     "messageNegative": "messageNegative_d332d2",
     "messagePositive": "messagePositive_d332d2",
-    "birthdayText": "birthdayText_d332d2",
+    "inviteBirthdayInput": "inviteBirthdayInput_d332d2",
     "consentBox": "consentBox_d332d2",
     "consentSubText": "consentSubText_d332d2",
     "birthdayInput": "birthdayInput_d332d2"
