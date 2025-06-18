@@ -7580,7 +7580,8 @@
     "inner": "inner__02fc8"
   },
   "287170": {
-    "guildSeparator": "guildSeparator__252b6"
+    "guildSeparator": "guildSeparator__252b6",
+    "fullWidth": "fullWidth__252b6"
   },
   "287975": {
     "modal": "modal__20a09",
@@ -13284,7 +13285,8 @@
   },
   "522458": {
     "pill": "pill__4f4b6",
-    "notificationsIcon": "notificationsIcon__4f4b6"
+    "notificationsIcon": "notificationsIcon__4f4b6",
+    "positionLayer": "positionLayer__4f4b6"
   },
   "522634": {
     "icon": "icon_d98031",
@@ -23915,7 +23917,9 @@
     "unreadMentionsIndicatorTop": "unreadMentionsIndicatorTop_ef3116",
     "unreadMentionsBar": "unreadMentionsBar_ef3116",
     "unreadMentionsFixedFooter": "unreadMentionsFixedFooter_ef3116",
-    "discoveryIcon": "discoveryIcon_ef3116"
+    "discoveryIcon": "discoveryIcon_ef3116",
+    "bottomRailNotifCenterButton": "bottomRailNotifCenterButton_ef3116",
+    "unreadMentionsFixedFooterBottomNotifCenterEntrypoint": "unreadMentionsFixedFooterBottomNotifCenterEntrypoint_ef3116"
   },
   "907273": {
     "icon": "icon_b9588c"
