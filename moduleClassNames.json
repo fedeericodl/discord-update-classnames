@@ -2658,10 +2658,10 @@
     "noChat": "noChat_f75fb0",
     "channelBottomBarArea": "channelBottomBarArea_f75fb0",
     "channelTextArea": "channelTextArea_f75fb0",
-    "title": "title_f75fb0",
     "entryPointButtonContainer": "entryPointButtonContainer_f75fb0",
     "avatar": "avatar_f75fb0",
     "parentChannelName": "parentChannelName_f75fb0",
+    "title": "title_f75fb0",
     "followButton": "followButton_f75fb0",
     "guildBreadcrumbContainer": "guildBreadcrumbContainer_f75fb0",
     "guildSidebar": "guildSidebar_f75fb0",
@@ -10274,8 +10274,6 @@
     "inputForm": "inputForm__991a0",
     "formTitle": "formTitle__991a0",
     "error": "error__991a0",
-    "input": "input__991a0",
-    "inputInner": "inputInner__991a0",
     "examplesForm": "examplesForm__991a0",
     "sampleLink": "sampleLink__991a0",
     "footer": "footer__991a0",
@@ -11619,9 +11617,9 @@
     "replyBar": "replyBar__841c8",
     "threadSuggestionBar": "threadSuggestionBar__841c8",
     "text": "text__841c8",
-    "actions": "actions__841c8",
     "replyLabel": "replyLabel__841c8",
     "name": "name__841c8",
+    "actions": "actions__841c8",
     "mentionButton": "mentionButton__841c8",
     "mentionIcon": "mentionIcon__841c8",
     "separator": "separator__841c8",
@@ -16242,7 +16240,6 @@
     "requestContainer": "requestContainer_a2e66b",
     "button": "button_a2e66b",
     "modalClose": "modalClose_a2e66b",
-    "modalFooter": "modalFooter_a2e66b",
     "learnMoreButton": "learnMoreButton_a2e66b"
   },
   "632139": {
@@ -18285,7 +18282,6 @@
     "itemWrapper": "itemWrapper_d1405b"
   },
   "703803": {
-    "spoilerMarkdownContent": "spoilerMarkdownContent__54ab5",
     "spoilerContent": "spoilerContent__54ab5",
     "hidden": "hidden__54ab5",
     "opaque": "opaque__54ab5",
@@ -18300,6 +18296,7 @@
     "explicitContentWarningText": "explicitContentWarningText__54ab5",
     "spoilerWarning": "spoilerWarning__54ab5 obscureWarning__54ab5",
     "embed": "embed__54ab5",
+    "spoilerMarkdownContent": "spoilerMarkdownContent__54ab5",
     "obscuredTextContent": "obscuredTextContent__54ab5",
     "obscuredTextContentInner": "obscuredTextContentInner__54ab5",
     "obscureButtonContainer": "obscureButtonContainer__54ab5",
@@ -24514,7 +24511,8 @@
     "freeformTextArea": "freeformTextArea__7ca6b",
     "freeformTextAreaDisabled": "freeformTextAreaDisabled__7ca6b",
     "question": "question__7ca6b",
-    "questionTitle": "questionTitle__7ca6b"
+    "questionTitle": "questionTitle__7ca6b",
+    "textAreaTitle": "textAreaTitle__7ca6b"
   },
   "925231": {
     "note": "note__2ef07",
