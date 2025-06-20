@@ -5168,7 +5168,8 @@
     "smallCloud": "smallCloud__61870",
     "divider": "divider__61870",
     "featureItem": "featureItem__61870",
-    "priceHeader": "priceHeader__61870"
+    "priceHeader": "priceHeader__61870",
+    "pill": "pill__61870"
   },
   "196773": {
     "container": "container__5662e"
@@ -12441,7 +12442,6 @@
     "noChannel": "noChannel__01d5c"
   },
   "487292": {
-    "pillContainer": "pillContainer__18dd3",
     "pill": "pill__18dd3",
     "pillGradient": "pillGradient__18dd3",
     "pillText": "pillText__18dd3"
@@ -22483,10 +22483,7 @@
     "reducedMotion": "reducedMotion__5d148"
   },
   "856045": {
-    "badgeContainer": "badgeContainer_fc0249",
-    "tier2": "tier2_fc0249",
-    "tier0": "tier0_fc0249",
-    "badgeText": "badgeText_fc0249"
+    "badgeContainer": "badgeContainer_fc0249"
   },
   "856461": {
     "guildPickerContainer": "guildPickerContainer__99854",
