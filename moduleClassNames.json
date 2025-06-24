@@ -14820,8 +14820,7 @@
     "iframeAndHeaderContainer": "iframeAndHeaderContainer__0b406",
     "headerContainer": "headerContainer__0b406",
     "iframeContainer": "iframeContainer__0b406",
-    "iframe": "iframe__0b406",
-    "nuxBackground": "nuxBackground__0b406"
+    "iframe": "iframe__0b406"
   },
   "578949": {
     "pageControlContainer": "pageControlContainer_c15210",
@@ -22350,15 +22349,6 @@
     "customGiftHeader": "customGiftHeader__231eb",
     "categoryList": "categoryList__231eb"
   },
-  "853639": {
-    "modalRoot": "modalRoot__4f18f",
-    "heading": "heading__4f18f",
-    "contentText": "contentText__4f18f",
-    "bulletPointsContainer": "bulletPointsContainer__4f18f",
-    "bulletPointRow": "bulletPointRow__4f18f",
-    "bulletPointText": "bulletPointText__4f18f",
-    "modalFooter": "modalFooter__4f18f"
-  },
   "853967": {
     "modalRoot": "modalRoot_d507dd",
     "contentWrapper": "contentWrapper_d507dd",
@@ -22721,8 +22711,6 @@
     "body": "body__5dec7",
     "gameWrapper": "gameWrapper__5dec7",
     "liveIndicator": "liveIndicator__5dec7",
-    "clickableGameWrapper": "clickableGameWrapper__5dec7",
-    "clickableGameWrapperForceHover": "clickableGameWrapperForceHover__5dec7",
     "gameIcon": "gameIcon__5dec7",
     "info": "info__5dec7",
     "sparkleContainer": "sparkleContainer__5dec7",
