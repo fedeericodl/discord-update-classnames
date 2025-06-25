@@ -7958,6 +7958,7 @@
   "302195": {
     "channelTextArea": "channelTextArea__74017",
     "highlighted": "highlighted__74017",
+    "error": "error__74017",
     "focusRing": "focusRing__74017",
     "scrollableContainer": "scrollableContainer__74017",
     "themedBackground": "themedBackground__74017",
@@ -13025,6 +13026,7 @@
     "profile": "profile__9c3be",
     "profileHeader": "profileHeader__9c3be",
     "profileBody": "profileBody__9c3be",
+    "profileOverlay": "profileOverlay__9c3be",
     "profileBanner": "profileBanner__9c3be",
     "profileButtons": "profileButtons__9c3be",
     "profileRolesSection": "profileRolesSection__9c3be",
