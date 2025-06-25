@@ -3414,7 +3414,6 @@
   },
   "132383": {
     "container": "container__60b20",
-    "lightTextLink": "lightTextLink__60b20",
     "centerText": "centerText__60b20",
     "icon": "icon__60b20",
     "lightThemeColorOnly": "lightThemeColorOnly__60b20"
@@ -10695,13 +10694,10 @@
     "attributionBannerContainerRebranded": "attributionBannerContainerRebranded_afe9b4",
     "attributionBannerContentApplicationHomeRebranded": "attributionBannerContentApplicationHomeRebranded_afe9b4",
     "textContainerRebranded": "textContainerRebranded_afe9b4",
-    "attributionBannerContent": "attributionBannerContent_afe9b4",
     "attributionBannerContentApplicationHome": "attributionBannerContentApplicationHome_afe9b4",
-    "iconContainer": "iconContainer_afe9b4",
     "iconContainerApplicationHome": "iconContainerApplicationHome_afe9b4",
     "icon": "icon_afe9b4",
-    "textContainer": "textContainer_afe9b4",
-    "attributionIcon": "attributionIcon_afe9b4"
+    "textContainer": "textContainer_afe9b4"
   },
   "416922": {
     "image": "image_f3406e",
@@ -20672,7 +20668,6 @@
     "moreSubtitleMargin": "moreSubtitleMargin_efc71f",
     "fullWidth": "fullWidth_efc71f",
     "cardContainer": "cardContainer_efc71f",
-    "cardContainerNarrowWidth": "cardContainerNarrowWidth_efc71f",
     "centerAlignSection": "centerAlignSection_efc71f",
     "showAllPerksButton": "showAllPerksButton_efc71f",
     "showAllPerksButtonCenter": "showAllPerksButtonCenter_efc71f"
@@ -23951,10 +23946,6 @@
     "settingsSparkleStar2": "settingsSparkleStar2__81281 sparkleStar__81281",
     "settingsSparkleStar3": "settingsSparkleStar3__81281 sparkleStar__81281",
     "settingsSparkleStar4": "settingsSparkleStar4__81281 sparkleStar__81281",
-    "fullscreenSparkleStar1": "fullscreenSparkleStar1__81281 sparkleStar__81281",
-    "fullscreenSparkleStar2": "fullscreenSparkleStar2__81281 sparkleStar__81281",
-    "fullscreenSparkleStar3": "fullscreenSparkleStar3__81281 sparkleStar__81281",
-    "fullscreenSparkleStar4": "fullscreenSparkleStar4__81281 sparkleStar__81281",
     "marketingPageCTAContainer": "marketingPageCTAContainer__81281",
     "marketingPageCTAMargin": "marketingPageCTAMargin__81281",
     "marketingPageTextContainer": "marketingPageTextContainer__81281",
