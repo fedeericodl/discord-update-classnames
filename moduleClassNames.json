@@ -3647,10 +3647,7 @@
     "stepIconWrapper": "stepIconWrapper__10e9a",
     "stepWrapperComplete": "stepWrapperComplete__10e9a",
     "stepConnector": "stepConnector__10e9a",
-    "stepIcon": "stepIcon__10e9a",
-    "rewardsListWrapper": "rewardsListWrapper__10e9a",
-    "rewardsListBody": "rewardsListBody__10e9a",
-    "rewardsListPremiumDurationExtension": "rewardsListPremiumDurationExtension__10e9a"
+    "stepIcon": "stepIcon__10e9a"
   },
   "141675": {
     "container": "container__264ae"
@@ -12515,10 +12512,6 @@
     "container": "container__733ad",
     "errorContainer": "errorContainer__733ad container__733ad",
     "buttonText": "buttonText__733ad"
-  },
-  "493456": {
-    "customStatusAction": "customStatusAction_b5ae07",
-    "customStatusActionHoverText": "customStatusActionHoverText_b5ae07"
   },
   "493591": {
     "dot": "dot_ae2d95",
@@ -21885,6 +21878,16 @@
     "container": "container__5e208",
     "isComponentsV2": "isComponentsV2__5e208"
   },
+  "841935": {
+    "textContainer": "textContainer__45eb7",
+    "timestamp": "timestamp__45eb7",
+    "iconContainer": "iconContainer__45eb7",
+    "content": "content__45eb7",
+    "clickableEmoji": "clickableEmoji__45eb7",
+    "clickableEmojiPreview": "clickableEmojiPreview__45eb7",
+    "ctaText": "ctaText__45eb7",
+    "ctaEmoji": "ctaEmoji__45eb7"
+  },
   "842054": {
     "modal": "modal__914fc",
     "closeBtn": "closeBtn__914fc",
@@ -23131,7 +23134,6 @@
     "justifyCenter": "justifyCenter__956c6",
     "questName": "questName__956c6",
     "header": "header__956c6",
-    "headerWithoutMargin": "headerWithoutMargin__956c6",
     "orbsBalanceIcon": "orbsBalanceIcon__956c6",
     "description": "description__956c6",
     "textOverflowBlur": "textOverflowBlur__956c6"
@@ -24326,7 +24328,6 @@
     "headerText": "headerText__636a2",
     "title": "title__636a2",
     "rewardTile": "rewardTile__636a2",
-    "questPromoContentWithCopySimplification": "questPromoContentWithCopySimplification__636a2",
     "hiddenRewardTile": "hiddenRewardTile__636a2",
     "description": "description__636a2",
     "flex": "flex__636a2",
@@ -25372,13 +25373,6 @@
   },
   "954338": {
     "defaultColor": "defaultColor__5345c"
-  },
-  "954353": {
-    "rewardsDisclosures": "rewardsDisclosures__311b6",
-    "rewardsDisclosuresStack": "rewardsDisclosuresStack__311b6",
-    "rewardsDisclosuresHorizontal": "rewardsDisclosuresHorizontal__311b6",
-    "rewardsDisclosuresDurationPremiumExtendable": "rewardsDisclosuresDurationPremiumExtendable__311b6",
-    "rewardsDisclosuresItemPremiumHighlight": "rewardsDisclosuresItemPremiumHighlight__311b6"
   },
   "954767": {
     "overlay": "overlay__3b260",
