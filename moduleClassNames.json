@@ -2579,17 +2579,6 @@
     "safetySettingsNotice": "safetySettingsNotice__9536c",
     "closeButton": "closeButton__9536c"
   },
-  "98574": {
-    "applicationBody": "applicationBody__864b0",
-    "form": "form__864b0",
-    "twoColumnContainer": "twoColumnContainer__864b0",
-    "column": "column__864b0",
-    "divider": "divider__864b0",
-    "previewWrapper": "previewWrapper__864b0",
-    "gradient": "gradient__864b0",
-    "preview": "preview__864b0",
-    "previewButton": "previewButton__864b0"
-  },
   "98847": {
     "modal": "modal__0651b",
     "description": "description__0651b",
@@ -2713,7 +2702,6 @@
   "104327": {
     "stepBody": "stepBody_d947e6",
     "stepBodyCustomGift": "stepBodyCustomGift_d947e6",
-    "paddingForHalloweenBanner": "paddingForHalloweenBanner_d947e6",
     "bodyColumnMiddle": "bodyColumnMiddle_d947e6",
     "bodyColumnLeft": "bodyColumnLeft_d947e6",
     "bodyColumnRight": "bodyColumnRight_d947e6",
@@ -4690,7 +4678,6 @@
     "shaker": "shaker_e5f3a9",
     "root": "root_e5f3a9",
     "withHeader": "withHeader_e5f3a9",
-    "halloweenModalHeight": "halloweenModalHeight_e5f3a9",
     "premiumBrandRefreshBackground": "premiumBrandRefreshBackground_e5f3a9"
   },
   "179867": {
@@ -8032,7 +8019,6 @@
   },
   "302794": {
     "container": "container__6c253",
-    "background": "background__6c253",
     "content": "content__6c253",
     "image": "image__6c253 content__6c253",
     "boostIcon": "boostIcon__6c253",
@@ -8870,6 +8856,7 @@
     "formItemTitleVerySlim": "formItemTitleVerySlim_a55fdc",
     "formItemTitleSlim": "formItemTitleSlim_a55fdc",
     "modalContent": "modalContent_a55fdc",
+    "manaDesktopModalContent": "manaDesktopModalContent_a55fdc",
     "modalHeader": "modalHeader_a55fdc",
     "marginBottom": "marginBottom_a55fdc",
     "formItemTitle": "formItemTitle_a55fdc",
@@ -8945,8 +8932,6 @@
     "container": "container_d5200e",
     "headerContainer": "headerContainer_d5200e",
     "containerBottomPadding": "containerBottomPadding_d5200e",
-    "tier0Background": "tier0Background_d5200e",
-    "tier2Background": "tier2Background_d5200e",
     "bigWumpus": "bigWumpus_d5200e",
     "wumpus": "wumpus_d5200e",
     "bigCloud": "bigCloud_d5200e",
@@ -12320,7 +12305,6 @@
     "fadeIn": "fadeIn__6db1d",
     "pageWrapper": "pageWrapper__6db1d",
     "page": "page__6db1d",
-    "pageWithPagination": "pageWithPagination__6db1d",
     "pageFullscreen": "pageFullscreen__6db1d",
     "categoryWrapper": "categoryWrapper__6db1d",
     "cardsContainer": "cardsContainer__6db1d",
@@ -14480,6 +14464,7 @@
     "content": "content_deee3a",
     "title": "title_deee3a",
     "captchaContainer": "captchaContainer_deee3a",
+    "manaDesktopModal": "manaDesktopModal_deee3a",
     "gradientBorder": "gradientBorder_deee3a"
   },
   "566670": {
@@ -19732,7 +19717,6 @@
     "card": "card__6df1a",
     "tier0": "tier0__6df1a",
     "pillMargin": "pillMargin__6df1a",
-    "tier2": "tier2__6df1a",
     "wordmark": "wordmark__6df1a",
     "wumpus": "wumpus__6df1a",
     "bigCloud": "bigCloud__6df1a",
@@ -20399,18 +20383,6 @@
     "gridNoticeWrapper": "gridNoticeWrapper__0856d",
     "listWrapper": "listWrapper__0856d",
     "emptyState": "emptyState__0856d"
-  },
-  "784168": {
-    "container": "container__1e3f8",
-    "body": "body__1e3f8",
-    "pointer": "pointer__1e3f8",
-    "popoutCloseButton": "popoutCloseButton__1e3f8",
-    "popoutTarget": "popoutTarget__1e3f8",
-    "text": "text__1e3f8",
-    "image": "image__1e3f8",
-    "buttonContainer": "buttonContainer__1e3f8",
-    "ctaButton": "ctaButton__1e3f8",
-    "closeButton": "closeButton__1e3f8"
   },
   "784687": {
     "modal": "modal__038c3",
@@ -22887,12 +22859,15 @@
     "placeholder": "placeholder_bd6d20"
   },
   "870751": {
-    "container": "container_eaf2fb",
-    "iconContainer": "iconContainer_eaf2fb",
-    "decorativeLayer": "decorativeLayer_eaf2fb",
-    "decorativeLayerActive": "decorativeLayerActive_eaf2fb",
-    "giftIconButton": "giftIconButton_eaf2fb",
-    "giftIconButtonActive": "giftIconButtonActive_eaf2fb"
+    "applicationBody": "applicationBody__864b0",
+    "form": "form__864b0",
+    "twoColumnContainer": "twoColumnContainer__864b0",
+    "column": "column__864b0",
+    "divider": "divider__864b0",
+    "previewWrapper": "previewWrapper__864b0",
+    "gradient": "gradient__864b0",
+    "preview": "preview__864b0",
+    "previewButton": "previewButton__864b0"
   },
   "871146": {
     "closeIconWrapper": "closeIconWrapper__6fd0e",
