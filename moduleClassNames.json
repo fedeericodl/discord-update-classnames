@@ -19764,6 +19764,19 @@
     "joinLeaderboardButtonInner": "joinLeaderboardButtonInner__5e421",
     "riotIcon": "riotIcon__5e421"
   },
+  "767905": {
+    "container": "container__1ad33",
+    "author": "author__1ad33",
+    "closeIcon": "closeIcon__1ad33",
+    "inline": "inline__1ad33",
+    "discordIcon": "discordIcon__1ad33",
+    "separator": "separator__1ad33",
+    "list": "list__1ad33",
+    "topLevelList": "topLevelList__1ad33",
+    "innerList": "innerList__1ad33",
+    "orderedList": "orderedList__1ad33",
+    "unorderedList": "unorderedList__1ad33"
+  },
   "767980": {
     "container": "container_c0c49a",
     "iconContainer": "iconContainer_c0c49a",
