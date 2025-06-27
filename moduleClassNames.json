@@ -12310,8 +12310,6 @@
     "itemTypeTitle": "itemTypeTitle__6db1d",
     "easterEggAnimation": "easterEggAnimation__6db1d",
     "easterEggAnimationReverse": "easterEggAnimationReverse__6db1d",
-    "hiddenWumpus": "hiddenWumpus__6db1d",
-    "hiddenWumpusEnabled": "hiddenWumpusEnabled__6db1d",
     "categories": "categories__6db1d",
     "products": "products__6db1d",
     "skeletons": "skeletons__6db1d",
@@ -21387,15 +21385,11 @@
     "cancelButton": "cancelButton_e638e4"
   },
   "821383": {
-    "container": "container_f0aa37",
-    "modalHeader": "modalHeader_f0aa37",
-    "header": "header_f0aa37",
     "row": "row_f0aa37",
     "switchGroup": "switchGroup_f0aa37",
     "error": "error_f0aa37",
     "roleSelector": "roleSelector_f0aa37",
     "roleCircle": "roleCircle_f0aa37",
-    "footer": "footer_f0aa37",
     "button": "button_f0aa37"
   },
   "822566": {
@@ -26332,14 +26326,8 @@
     "cta": "cta_b76614",
     "headerSuccess": "headerSuccess_b76614",
     "headerFailure": "headerFailure_b76614",
-    "errorWrapper": "errorWrapper_b76614",
     "authorizedSuccessWrapper": "authorizedSuccessWrapper_b76614",
-    "buttonsContainer": "buttonsContainer_b76614",
-    "authorizedSuccessExternal": "authorizedSuccessExternal_b76614",
-    "authorizedSuccessExternalCopy": "authorizedSuccessExternalCopy_b76614",
-    "authorizedSuccessExternalIcon": "authorizedSuccessExternalIcon_b76614",
-    "authorizedExternalCta": "authorizedExternalCta_b76614",
-    "authorizedExternalCtaInner": "authorizedExternalCtaInner_b76614"
+    "buttonsContainer": "buttonsContainer_b76614"
   },
   "986449": {
     "toast": "toast__3fde7",
@@ -26638,11 +26626,6 @@
   },
   "999384": {
     "menu": "menu_e1bef1"
-  },
-  "999727": {
-    "snowflake": "snowflake_ca9710",
-    "snowflakes-fall": "snowflakes-fall_ca9710",
-    "snowflakes-shake": "snowflakes-shake_ca9710"
   },
   "999976": {
     "root": "root__6981d",
