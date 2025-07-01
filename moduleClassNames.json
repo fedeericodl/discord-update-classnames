@@ -9809,7 +9809,10 @@
     "bannerAspectRatioActivity": "bannerAspectRatioActivity__98ba8",
     "header": "header__98ba8",
     "contentContainer": "contentContainer__98ba8",
+    "contentAndCopyButtonWrapper": "contentAndCopyButtonWrapper__98ba8",
     "contentWrapper": "contentWrapper__98ba8",
+    "contentWrapperClickable": "contentWrapperClickable__98ba8",
+    "contentTitle": "contentTitle__98ba8",
     "img": "img__98ba8",
     "content": "content__98ba8",
     "contentInfoWrapper": "contentInfoWrapper__98ba8",
@@ -12228,7 +12231,9 @@
   },
   "484608": {
     "infoWrapper": "infoWrapper_c44293",
-    "activityTimer": "activityTimer_c44293"
+    "activityPresenceDetailsContainer": "activityPresenceDetailsContainer_c44293",
+    "activityPresenceDetailsItemContainer": "activityPresenceDetailsItemContainer_c44293",
+    "truncatesText": "truncatesText_c44293"
   },
   "484618": {
     "oauth2PageWrapper": "oauth2PageWrapper__647f0",
@@ -12355,12 +12360,11 @@
     "ellipsis": "ellipsis_b88801",
     "typingDots": "typingDots_b88801",
     "inTextChannel": "inTextChannel_b88801",
+    "activityInviteEducation": "activityInviteEducation_b88801 base_b88801",
+    "activityInviteEducationArrow": "activityInviteEducationArrow_b88801",
     "typing": "typing_b88801 base_b88801",
     "isComboing": "isComboing_b88801",
-    "activityInviteEducation": "activityInviteEducation_b88801 base_b88801",
-    "activityInviteEducationFadeIn": "activityInviteEducationFadeIn_b88801",
-    "activityInviteEducationArrow": "activityInviteEducationArrow_b88801",
-    "activityInviteEducationLeftArrow": "activityInviteEducationLeftArrow_b88801"
+    "activityInviteEducationFadeIn": "activityInviteEducationFadeIn_b88801"
   },
   "486893": {
     "modal": "modal__6fa2e",
@@ -26023,11 +26027,11 @@
     "messagesWrapper": "messagesWrapper__36d07",
     "scrollerContent": "scrollerContent__36d07",
     "scroller": "scroller__36d07",
-    "scrollerInner": "scrollerInner__36d07",
-    "scrollerAllowSticky": "scrollerAllowSticky__36d07",
     "scrollerSpacer": "scrollerSpacer__36d07",
     "empty": "empty__36d07",
     "emptyForum": "emptyForum__36d07",
+    "scrollerInner": "scrollerInner__36d07",
+    "scrollerAllowSticky": "scrollerAllowSticky__36d07",
     "navigationDescription": "navigationDescription__36d07"
   },
   "978644": {
