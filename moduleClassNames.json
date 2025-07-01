@@ -1079,15 +1079,6 @@
     "radioBarIcon": "radioBarIcon_ac72c6",
     "radioItemName": "radioItemName_ac72c6"
   },
-  "39028": {
-    "iconContainer": "iconContainer_e5199a",
-    "inviteHeader": "inviteHeader_e5199a",
-    "inviteContent": "inviteContent_e5199a",
-    "content": "content_e5199a",
-    "inviteButton": "inviteButton_e5199a",
-    "compact": "compact_e5199a",
-    "inviteLink": "inviteLink_e5199a"
-  },
   "39276": {
     "selected": "selected_dcc822",
     "siblingSelected": "siblingSelected_dcc822",
