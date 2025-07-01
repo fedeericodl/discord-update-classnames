@@ -1475,6 +1475,12 @@
     "boostIconCanceled": "boostIconCanceled__8dbf5",
     "snowflake": "snowflake__8dbf5"
   },
+  "61626": {
+    "iconWrapper": "iconWrapper_ede711",
+    "clickableContainer": "clickableContainer_ede711",
+    "icon": "icon_ede711",
+    "unreadDot": "unreadDot_ede711"
+  },
   "61942": {
     "modalHeader": "modalHeader_c28af8",
     "closeBtn": "closeBtn_c28af8",
@@ -13273,7 +13279,8 @@
   },
   "527018": {
     "wrapper": "wrapper__58105",
-    "item": "item__58105"
+    "item": "item__58105",
+    "dimmed": "dimmed__58105"
   },
   "527134": {
     "botPermissions": "botPermissions__41924",
@@ -15709,8 +15716,9 @@
     "ctaButtonContainer": "ctaButtonContainer_cc67fb"
   },
   "614147": {
-    "positionLayer": "positionLayer_fc71d3",
+    "repositionLayerSidebarPopout": "repositionLayerSidebarPopout_fc71d3",
     "container": "container_fc71d3",
+    "titleBarEntrypointVariant": "titleBarEntrypointVariant_fc71d3",
     "backgroundContainer": "backgroundContainer_fc71d3",
     "background": "background_fc71d3"
   },
@@ -25208,8 +25216,8 @@
   "952849": {
     "premiumTrialBadge": "premiumTrialBadge__4c1e4",
     "premiumOfferUnackedBadge": "premiumOfferUnackedBadge__4c1e4",
-    "premiumTrialBadgeIcon": "premiumTrialBadgeIcon__4c1e4",
     "premiumTrialAcknowledgedBadge": "premiumTrialAcknowledgedBadge__4c1e4",
+    "premiumTrialBadgeIcon": "premiumTrialBadgeIcon__4c1e4",
     "premiumTrialBadgeSelected": "premiumTrialBadgeSelected__4c1e4",
     "premiumOfferBadgeCopy": "premiumOfferBadgeCopy__4c1e4"
   },
