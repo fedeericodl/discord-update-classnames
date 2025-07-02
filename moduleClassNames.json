@@ -3902,6 +3902,17 @@
     "embeddedActivityJoinWrapper": "embeddedActivityJoinWrapper__00943",
     "embeddedActivityIcon": "embeddedActivityIcon__00943"
   },
+  "147282": {
+    "caret": "caret__6ec79",
+    "caret--bottom": "caret--bottom__6ec79",
+    "caret--top": "caret--top__6ec79",
+    "caret--left": "caret--left__6ec79",
+    "caret--right": "caret--right__6ec79",
+    "caret--center": "caret--center__6ec79",
+    "caret--start": "caret--start__6ec79",
+    "caret--end": "caret--end__6ec79",
+    "caret--custom": "caret--custom__6ec79"
+  },
   "147612": {
     "headerContainer": "headerContainer__7e1d8",
     "headerText": "headerText__7e1d8",
@@ -11436,6 +11447,12 @@
     "unfocused": "unfocused__421ed",
     "withBackgroundOverride": "withBackgroundOverride__421ed"
   },
+  "445689": {
+    "media": "media__9c640",
+    "inlineVideo": "inlineVideo__9c640",
+    "videoContainer": "videoContainer__9c640",
+    "playButton": "playButton__9c640"
+  },
   "447556": {
     "attribution": "attribution__83f6c",
     "img": "img__83f6c"
@@ -17209,6 +17226,39 @@
     "topGuildEmojiBadge": "topGuildEmojiBadge_aeaaeb",
     "newlyAddedBadge": "newlyAddedBadge_aeaaeb",
     "newlyAddedBadgeIcon": "newlyAddedBadgeIcon_aeaaeb"
+  },
+  "669546": {
+    "popover": "popover_d6f39b",
+    "popoverGradientWrapper": "popoverGradientWrapper_d6f39b",
+    "popoverContentWithGradient": "popoverContentWithGradient_d6f39b",
+    "popover--video": "popover--video_d6f39b",
+    "footer": "footer_d6f39b",
+    "header": "header_d6f39b",
+    "actionBar": "actionBar_d6f39b",
+    "closeButton": "closeButton_d6f39b",
+    "headerWithBadge": "headerWithBadge_d6f39b header_d6f39b",
+    "badge": "badge_d6f39b",
+    "title": "title_d6f39b",
+    "headerBody": "headerBody_d6f39b",
+    "content": "content_d6f39b",
+    "asset": "asset_d6f39b",
+    "assetPlaceholder": "assetPlaceholder_d6f39b",
+    "asset--sm": "asset--sm_d6f39b",
+    "asset--md": "asset--md_d6f39b",
+    "videoAsset": "videoAsset_d6f39b",
+    "assetInline": "assetInline_d6f39b",
+    "footerText": "footerText_d6f39b",
+    "footerLink": "footerLink_d6f39b",
+    "actions": "actions_d6f39b",
+    "actionsFullWidth": "actionsFullWidth_d6f39b actions_d6f39b",
+    "badgeBeta": "badgeBeta_d6f39b",
+    "badgeEarlyAccess": "badgeEarlyAccess_d6f39b",
+    "badgeNew": "badgeNew_d6f39b",
+    "multistepIndicator": "multistepIndicator_d6f39b",
+    "multistepActionLayout": "multistepActionLayout_d6f39b",
+    "caretIcon": "caretIcon_d6f39b",
+    "caretFill": "caretFill_d6f39b",
+    "caretStroke": "caretStroke_d6f39b"
   },
   "669792": {
     "applicationHomeBanner": "applicationHomeBanner__62eb1",
