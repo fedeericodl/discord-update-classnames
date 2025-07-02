@@ -21117,6 +21117,14 @@
     "sortDropdownInner": "sortDropdownInner_bb26d9",
     "clearText": "clearText_bb26d9"
   },
+  "808353": {
+    "container": "container_cba0a7",
+    "image": "image_cba0a7",
+    "close": "close_cba0a7",
+    "innerClose": "innerClose_cba0a7",
+    "description": "description_cba0a7",
+    "button": "button_cba0a7"
+  },
   "808509": {
     "dividerContainer": "dividerContainer__1abf5",
     "dividerIconContainer": "dividerIconContainer__1abf5",
