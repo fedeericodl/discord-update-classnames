@@ -5827,6 +5827,9 @@
     "presetEffectImg": "presetEffectImg_b4019a",
     "presetEffectBackground": "presetEffectBackground_b4019a"
   },
+  "234209": {
+    "searchBar": "searchBar__824d3"
+  },
   "235831": {
     "gameIcon": "gameIcon_b52e4f",
     "large": "large_b52e4f",
@@ -12328,7 +12331,9 @@
     "paginationContainer": "paginationContainer__6db1d",
     "bannerContainer": "bannerContainer__6db1d",
     "filterBar": "filterBar__6db1d",
-    "filterButton": "filterButton__6db1d"
+    "filterButton": "filterButton__6db1d",
+    "controlsRightSide": "controlsRightSide__6db1d",
+    "controlsLeftSide": "controlsLeftSide__6db1d"
   },
   "484953": {
     "container": "container__0be77",
@@ -24292,6 +24297,7 @@
     "editingContainer": "editingContainer_ab2592",
     "image": "image_ab2592",
     "overlay": "overlay_ab2592",
+    "animatedInfoContainer": "animatedInfoContainer_ab2592",
     "toolsContainer": "toolsContainer_ab2592",
     "zoomControls": "zoomControls_ab2592",
     "slider": "slider_ab2592",
