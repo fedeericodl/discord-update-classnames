@@ -782,11 +782,12 @@
     "container": "container__0d0f9",
     "progressContainer": "progressContainer__0d0f9",
     "progress": "progress__0d0f9",
-    "text": "text__0d0f9",
+    "boostCountText": "boostCountText__0d0f9",
     "containerWithMargin": "containerWithMargin__0d0f9",
     "contentContainer": "contentContainer__0d0f9",
     "textContainer": "textContainer__0d0f9",
     "textContentContainer": "textContentContainer__0d0f9",
+    "text": "text__0d0f9",
     "progressLow": "progressLow__0d0f9"
   },
   "28007": {
@@ -1134,6 +1135,7 @@
     "bannerText": "bannerText_e68795"
   },
   "42328": {
+    "inputInner": "inputInner_b1f01d",
     "input": "input_b1f01d",
     "editor": "editor_b1f01d",
     "container": "container_b1f01d",
@@ -14897,7 +14899,11 @@
     "description": "description_c8f246",
     "tagline": "tagline_c8f246",
     "timestampContainer": "timestampContainer_c8f246",
-    "partyStatusWrapper": "partyStatusWrapper_c8f246"
+    "partyStatusWrapper": "partyStatusWrapper_c8f246",
+    "footer": "footer_c8f246",
+    "footerSupportedPlatformIconsContainer": "footerSupportedPlatformIconsContainer_c8f246",
+    "footerSupportedPlatformIconContainer": "footerSupportedPlatformIconContainer_c8f246",
+    "footerSupportedPlatformText": "footerSupportedPlatformText_c8f246"
   },
   "582735": {
     "overviewContainer": "overviewContainer_c4b47c",
