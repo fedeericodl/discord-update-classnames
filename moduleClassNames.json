@@ -6605,6 +6605,9 @@
     "icon": "icon_d2b05e",
     "connectionInstructions": "connectionInstructions_d2b05e"
   },
+  "262762": {
+    "displayNameStylesSection": "displayNameStylesSection_e60bc0"
+  },
   "262839": {
     "card": "card__2eab1",
     "header": "header__2eab1",
@@ -10280,6 +10283,9 @@
   "401174": {
     "newBadgeRow": "newBadgeRow__46b5e",
     "newBadge": "newBadge__46b5e"
+  },
+  "401609": {
+    "buttonsContainer": "buttonsContainer__4962e"
   },
   "401623": {
     "container": "container_d843c9",
