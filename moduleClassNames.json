@@ -2674,7 +2674,6 @@
   "103609": {
     "title": "title__85643",
     "icon": "icon__85643",
-    "appIcon": "appIcon__85643",
     "guildIcon": "guildIcon__85643",
     "button": "button__85643"
   },
@@ -10167,8 +10166,8 @@
     "xicon": "xicon_c202a4",
     "previews": "previews_c202a4",
     "label": "label_c202a4",
-    "resizer": "resizer_c202a4",
-    "rtcSim": "rtcSim_c202a4"
+    "rtcSim": "rtcSim_c202a4",
+    "resizeHandle": "resizeHandle_c202a4"
   },
   "397101": {
     "upsellWrapper": "upsellWrapper__4006b",
@@ -14677,17 +14676,6 @@
     "logoRight": "logoRight_cf3f70",
     "rainbow": "rainbow_cf3f70",
     "rainbow_animation": "rainbow_animation_cf3f70"
-  },
-  "574682": {
-    "iframe": "iframe_a62174",
-    "wrapper": "wrapper_a62174",
-    "resizable": "resizable_a62174",
-    "noChat": "noChat_a62174",
-    "activityPanelContainer": "activityPanelContainer_a62174",
-    "activityContainer": "activityContainer_a62174",
-    "activityContainerNoMargin": "activityContainerNoMargin_a62174",
-    "buttonSection": "buttonSection_a62174",
-    "contextlessHeader": "contextlessHeader_a62174"
   },
   "574697": {
     "scrim": "scrim_d9cec8",
