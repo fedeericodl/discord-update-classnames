@@ -2674,6 +2674,7 @@
   "103609": {
     "title": "title__85643",
     "icon": "icon__85643",
+    "appIcon": "appIcon__85643",
     "guildIcon": "guildIcon__85643",
     "button": "button__85643"
   },
@@ -4676,9 +4677,7 @@
     "title": "title__0dc23"
   },
   "179963": {
-    "mediaArea": "mediaArea_e03578",
-    "animated": "animated_e03578",
-    "fadeIn": "fadeIn_e03578"
+    "mediaArea": "mediaArea_e03578"
   },
   "179979": {
     "container": "container__7c626",
@@ -14688,6 +14687,17 @@
     "rainbow": "rainbow_cf3f70",
     "rainbow_animation": "rainbow_animation_cf3f70"
   },
+  "574682": {
+    "iframe": "iframe_a62174",
+    "wrapper": "wrapper_a62174",
+    "resizable": "resizable_a62174",
+    "noChat": "noChat_a62174",
+    "activityPanelContainer": "activityPanelContainer_a62174",
+    "activityContainer": "activityContainer_a62174",
+    "activityContainerNoMargin": "activityContainerNoMargin_a62174",
+    "buttonSection": "buttonSection_a62174",
+    "contextlessHeader": "contextlessHeader_a62174"
+  },
   "574697": {
     "scrim": "scrim_d9cec8",
     "lightbox": "lightbox_d9cec8",
@@ -15239,11 +15249,6 @@
   },
   "591837": {
     "chat": "chat_ee72fa"
-  },
-  "592697": {
-    "wrapper": "wrapper__091cf",
-    "pannable": "pannable__091cf",
-    "panning": "panning__091cf"
   },
   "593047": {
     "art": "art__0668f"
@@ -16923,6 +16928,7 @@
     "hamburger": "hamburger__9293f",
     "container": "container__9293f",
     "transparent": "transparent__9293f",
+    "showToolbar": "showToolbar__9293f",
     "upperContainer": "upperContainer__9293f",
     "children": "children__9293f",
     "scrollable": "scrollable__9293f",
@@ -26437,8 +26443,6 @@
   },
   "986261": {
     "dimensionlessImage": "dimensionlessImage_a22bfd",
-    "wrapper": "wrapper_a22bfd",
-    "zoomed": "zoomed_a22bfd",
     "media": "media_a22bfd"
   },
   "986335": {
