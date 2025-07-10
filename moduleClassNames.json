@@ -3610,6 +3610,7 @@
     "checkerboard": "checkerboard__4d307",
     "previewPlaceholder": "previewPlaceholder__4d307",
     "aside": "aside__4d307",
+    "input": "input__4d307",
     "preview": "preview__4d307",
     "reactions": "reactions__4d307",
     "jumbo": "jumbo__4d307",
@@ -3618,8 +3619,8 @@
     "heading": "heading__4d307",
     "editor": "editor__4d307",
     "backButton": "backButton__4d307",
-    "backButtonInnner": "backButtonInnner__4d307",
     "closeButton": "closeButton__4d307",
+    "backButtonInnner": "backButtonInnner__4d307",
     "guildSelectorContainer": "guildSelectorContainer__4d307"
   },
   "140847": {
@@ -4221,6 +4222,7 @@
   "162337": {
     "emptyState": "emptyState__43278",
     "dropZone": "dropZone__43278",
+    "textContainer": "textContainer__43278",
     "imagePlusIcon": "imagePlusIcon__43278"
   },
   "162509": {
@@ -15208,7 +15210,8 @@
     "text": "text_f494f4",
     "value": "value_f494f4 iconTextWrap_f494f4",
     "icon": "icon_f494f4",
-    "option": "option_f494f4 iconTextWrap_f494f4"
+    "option": "option_f494f4 iconTextWrap_f494f4",
+    "optionLabelContainer": "optionLabelContainer_f494f4"
   },
   "588799": {
     "container": "container_f4b016",
@@ -24340,12 +24343,14 @@
     "imageEditor": "imageEditor_ab2592",
     "editingContainer": "editingContainer_ab2592",
     "image": "image_ab2592",
+    "isDragging": "isDragging_ab2592",
     "overlay": "overlay_ab2592",
+    "panHint": "panHint_ab2592",
     "animatedInfoContainer": "animatedInfoContainer_ab2592",
     "toolsContainer": "toolsContainer_ab2592",
     "zoomControls": "zoomControls_ab2592",
     "slider": "slider_ab2592",
-    "rotateButton": "rotateButton_ab2592"
+    "toolButton": "toolButton_ab2592"
   },
   "917356": {
     "panel": "panel_ef5082",
