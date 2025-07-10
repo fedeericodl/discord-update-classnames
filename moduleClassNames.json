@@ -530,7 +530,6 @@
     "dismissAllText": "dismissAllText__514d8",
     "recommendedChannels": "recommendedChannels__514d8",
     "channelRow": "channelRow__514d8",
-    "addChannelCTA": "addChannelCTA__514d8",
     "topic": "topic__514d8",
     "largeSeparator": "largeSeparator__514d8",
     "channelBrowser": "channelBrowser__514d8",
@@ -540,8 +539,6 @@
     "channelInfo": "channelInfo__514d8",
     "channelName": "channelName__514d8",
     "separator": "separator__514d8",
-    "lockedPill": "lockedPill__514d8",
-    "lockedPillInner": "lockedPillInner__514d8",
     "advancedModeToggle": "advancedModeToggle__514d8",
     "prejoinHeader": "prejoinHeader__514d8",
     "prejoinSubHeader": "prejoinSubHeader__514d8"
@@ -4674,9 +4671,7 @@
     "educationUpsellArrow": "educationUpsellArrow__4a4f2",
     "actions": "actions__4a4f2",
     "next": "next__4a4f2",
-    "button": "button__4a4f2",
     "hidden": "hidden__4a4f2",
-    "arrow": "arrow__4a4f2",
     "noticeRegion": "noticeRegion__4a4f2"
   },
   "179742": {
@@ -6947,7 +6942,6 @@
     "warning": "warning__28e57",
     "statusText": "statusText__28e57",
     "cta": "cta__28e57",
-    "ctaInner": "ctaInner__28e57",
     "inlineSwitch": "inlineSwitch__28e57"
   },
   "271387": {
@@ -11487,9 +11481,7 @@
     "channelName": "channelName__1ea09",
     "separator": "separator__1ea09",
     "checkbox": "checkbox__1ea09",
-    "checkboxInner": "checkboxInner__1ea09",
-    "lockedPill": "lockedPill__1ea09",
-    "lockedPillInner": "lockedPillInner__1ea09"
+    "checkboxInner": "checkboxInner__1ea09"
   },
   "448078": {
     "notification": "notification_e1e832",
@@ -20135,9 +20127,6 @@
     "iconWrapper": "iconWrapper_d2b0e4",
     "icon": "icon_d2b0e4",
     "actionItemEditButton": "actionItemEditButton_d2b0e4",
-    "resourceChannelEditButton": "resourceChannelEditButton_d2b0e4",
-    "actionItemEditButtonInner": "actionItemEditButtonInner_d2b0e4",
-    "resourceChannelEditButtonInner": "resourceChannelEditButtonInner_d2b0e4",
     "addActionItem": "addActionItem_d2b0e4",
     "sectionHeader": "sectionHeader_d2b0e4",
     "boostIndicator": "boostIndicator_d2b0e4",
@@ -20158,7 +20147,6 @@
     "suggestedChannel": "suggestedChannel_d2b0e4",
     "suggestedChannelIcon": "suggestedChannelIcon_d2b0e4",
     "suggestedChannelText": "suggestedChannelText_d2b0e4",
-    "suggestedChannelButton": "suggestedChannelButton_d2b0e4",
     "suggestedSeparator": "suggestedSeparator_d2b0e4",
     "suggestedChannelsDismiss": "suggestedChannelsDismiss_d2b0e4",
     "suggestedChannelsDismissCheck": "suggestedChannelsDismissCheck_d2b0e4"
