@@ -14355,8 +14355,7 @@
   },
   "561197": {
     "priceTagsContainer": "priceTagsContainer_f73e93",
-    "price": "price_f73e93",
-    "striked": "striked_f73e93"
+    "price": "price_f73e93"
   },
   "561234": {
     "container": "container__14992",
@@ -22127,6 +22126,9 @@
   },
   "843716": {
     "required": "required__287ee"
+  },
+  "843819": {
+    "striked": "striked_e77b99"
   },
   "843856": {
     "back": "back_e125f1"
