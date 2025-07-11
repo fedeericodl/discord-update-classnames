@@ -18229,6 +18229,14 @@
     "targetItem": "targetItem__3297f",
     "footer": "footer__3297f"
   },
+  "698921": {
+    "countDownWrapper": "countDownWrapper__66ce2",
+    "fullScreenWrapper": "fullScreenWrapper__66ce2",
+    "mobileWrapper": "mobileWrapper__66ce2",
+    "countdownLabel": "countdownLabel__66ce2",
+    "countdownBody": "countdownBody__66ce2",
+    "countdown": "countdown__66ce2"
+  },
   "699343": {
     "content": "content__7c233",
     "header": "header__7c233",
@@ -23643,17 +23651,6 @@
     "premiumBrandRefreshTier0Card": "premiumBrandRefreshTier0Card__9e160",
     "tier0MarketingCard": "tier0MarketingCard__9e160",
     "tier2MarketingCard": "tier2MarketingCard__9e160"
-  },
-  "894948": {
-    "countDownWrapper": "countDownWrapper_a1b7b8",
-    "fullScreenWrapper": "fullScreenWrapper_a1b7b8",
-    "mobileWrapper": "mobileWrapper_a1b7b8",
-    "countdownIcon": "countdownIcon_a1b7b8",
-    "countdownLabel": "countdownLabel_a1b7b8",
-    "countdown": "countdown_a1b7b8",
-    "sparkles": "sparkles_a1b7b8",
-    "left": "left_a1b7b8",
-    "right": "right_a1b7b8"
   },
   "895080": {
     "container": "container_ee8e87",
