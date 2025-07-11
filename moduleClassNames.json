@@ -216,7 +216,6 @@
     "container": "container__3849c",
     "contentContainer": "contentContainer__3849c",
     "marketingPageTextContainer": "marketingPageTextContainer__3849c",
-    "marketingPageHeading": "marketingPageHeading__3849c",
     "buttonContainer": "buttonContainer__3849c",
     "gradientBackground": "gradientBackground__3849c"
   },
@@ -7018,6 +7017,9 @@
     "headerLine": "headerLine_ae2544",
     "tooltipContainer": "tooltipContainer_ae2544",
     "infoIcon": "infoIcon_ae2544"
+  },
+  "273651": {
+    "header": "header__61e0e"
   },
   "273810": {
     "scroller": "scroller__5d7c9",
