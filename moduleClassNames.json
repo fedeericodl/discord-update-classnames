@@ -1900,10 +1900,7 @@
     "testimonialHeroContainer": "testimonialHeroContainer__3e7e2",
     "animatedContainer": "animatedContainer__3e7e2",
     "testimonial": "testimonial__3e7e2",
-    "testimonialsControls": "testimonialsControls__3e7e2",
-    "testimonialControl": "testimonialControl__3e7e2",
-    "testimonialControlIcon": "testimonialControlIcon__3e7e2",
-    "testimonialControlInner": "testimonialControlInner__3e7e2"
+    "testimonialsControls": "testimonialsControls__3e7e2"
   },
   "73711": {
     "customStatusLabelSelector": "customStatusLabelSelector__1adf1",
@@ -3546,7 +3543,8 @@
   "137991": {
     "container": "container__0a560",
     "iconError": "iconError__0a560",
-    "buttons": "buttons__0a560"
+    "buttons": "buttons__0a560",
+    "iconInput": "iconInput__0a560"
   },
   "138134": {
     "errorNotificationContainer": "errorNotificationContainer_e13eda",
@@ -11628,6 +11626,9 @@
     "selectorButtonSelected": "selectorButtonSelected__0907c selectorButton__0907c",
     "contentContainer": "contentContainer__0907c"
   },
+  "454507": {
+    "modalHeaderPreview": "modalHeaderPreview__4671c"
+  },
   "455459": {
     "panelHeader": "panelHeader__6edf0",
     "panelInner": "panelInner__6edf0",
@@ -13023,8 +13024,7 @@
   "517603": {
     "root": "root__9c3be",
     "disabled": "disabled__9c3be",
-    "floatingTitle": "floatingTitle__9c3be",
-    "closeModalButton": "closeModalButton__9c3be",
+    "previewBar": "previewBar__9c3be",
     "toast": "toast__9c3be",
     "backdrop": "backdrop__9c3be",
     "backgroundImage": "backgroundImage__9c3be",
@@ -15019,6 +15019,14 @@
     "closeButton": "closeButton__40059",
     "header": "header__40059",
     "footer": "footer__40059"
+  },
+  "584794": {
+    "modalHeader": "modalHeader__39813",
+    "modalContent": "modalContent__39813",
+    "previewSection": "previewSection__39813",
+    "selectionSection": "selectionSection__39813",
+    "selectionSubSection": "selectionSubSection__39813",
+    "footer": "footer__39813"
   },
   "585523": {
     "containerDefault": "containerDefault__29444",
@@ -23833,15 +23841,11 @@
     "helpText": "helpText_fe70ca",
     "helpTextItem": "helpTextItem_fe70ca",
     "navButtons": "navButtons_fe70ca",
-    "finishEmoji": "finishEmoji_fe70ca",
     "termsFieldBody": "termsFieldBody_fe70ca",
     "termsRow": "termsRow_fe70ca",
     "termsRowContent": "termsRowContent_fe70ca",
     "leftButtons": "leftButtons_fe70ca",
     "rightButtons": "rightButtons_fe70ca",
-    "button": "button_fe70ca",
-    "buttonInner": "buttonInner_fe70ca",
-    "arrow": "arrow_fe70ca",
     "overlay": "overlay_fe70ca"
   },
   "905457": {
