@@ -8793,7 +8793,7 @@
     "icon": "icon__2d0ab"
   },
   "343074": {
-    "textarea": "textarea__9daae inputDefault__0f084 input__0f084"
+    "textarea": "textarea__9daae (+953100.inputDefault)"
   },
   "344580": {
     "container": "container__4e338",
@@ -15003,7 +15003,7 @@
     "footerContent": "footerContent__083ae",
     "collapsedFooterContent": "collapsedFooterContent__083ae",
     "buttonContainer": "buttonContainer__083ae",
-    "hideDetailsButtonInner": "hideDetailsButtonInner__083ae"
+    "hideDetailsButtonContainer": "hideDetailsButtonContainer__083ae"
   },
   "583512": {
     "applicationName": "applicationName__9e50d",
@@ -19169,8 +19169,8 @@
   "739587": {
     "modal": "modal_e59759",
     "container": "container_e59759",
+    "header": "header_e59759",
     "headerIcon": "headerIcon_e59759",
-    "modalCloseButton": "modalCloseButton_e59759",
     "verifiedRoles": "verifiedRoles_e59759",
     "verifiedRole": "verifiedRole_e59759",
     "verifiedRoleNameDescriptionContainer": "verifiedRoleNameDescriptionContainer_e59759",
@@ -22573,10 +22573,7 @@
     "mainContent": "mainContent__8641f",
     "roleIconContainer": "roleIconContainer__8641f",
     "roleName": "roleName__8641f",
-    "truncatingText": "truncatingText__8641f",
-    "ctaButton": "ctaButton__8641f",
-    "ctaButtonContent": "ctaButtonContent__8641f",
-    "boosterBadge": "boosterBadge__8641f"
+    "truncatingText": "truncatingText__8641f"
   },
   "855112": {
     "preview": "preview__5d148",
@@ -23786,7 +23783,7 @@
   },
   "900170": {
     "containerExpanded": "containerExpanded__7ff28",
-    "button": "button__7ff28",
+    "stickerExpanded": "stickerExpanded__7ff28",
     "containerCompact": "containerCompact__7ff28",
     "compactButton": "compactButton__7ff28",
     "compactButtonDisabled": "compactButtonDisabled__7ff28",
@@ -25428,9 +25425,6 @@
     "error": "error__0f084",
     "disabled": "disabled__0f084",
     "editable": "editable__0f084",
-    "inputDefault": "inputDefault__0f084 input__0f084",
-    "inputMini": "inputMini__0f084 input__0f084",
-    "inputPrefix": "inputPrefix__0f084",
     "inputError": "inputError__0f084"
   },
   "953408": {
@@ -26540,8 +26534,7 @@
     "authorizedSuccessExternal": "authorizedSuccessExternal_b76614",
     "authorizedSuccessExternalCopy": "authorizedSuccessExternalCopy_b76614",
     "authorizedSuccessExternalIcon": "authorizedSuccessExternalIcon_b76614",
-    "authorizedExternalCta": "authorizedExternalCta_b76614",
-    "authorizedExternalCtaInner": "authorizedExternalCtaInner_b76614"
+    "authorizedExternalCta": "authorizedExternalCta_b76614"
   },
   "986449": {
     "toast": "toast__3fde7",
