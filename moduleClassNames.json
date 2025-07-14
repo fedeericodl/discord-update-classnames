@@ -138,6 +138,9 @@
     "emptySearchTitle": "emptySearchTitle__83bd4",
     "emptySearchSubtitle": "emptySearchSubtitle__83bd4"
   },
+  "1899": {
+    "pictureInPictureVideo": "pictureInPictureVideo__29048"
+  },
   "3504": {
     "circleContainer": "circleContainer_c1b44f",
     "childrenContainer": "childrenContainer_c1b44f",
@@ -17734,7 +17737,6 @@
   },
   "683560": {
     "ping": "ping__06d62",
-    "smallPing": "smallPing__06d62",
     "largePing": "largePing__06d62",
     "rtcConnectionStatus": "rtcConnectionStatus__06d62",
     "rtcConnectionStatusLabel": "rtcConnectionStatusLabel__06d62",
