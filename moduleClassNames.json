@@ -614,7 +614,6 @@
     "caughtUpContent": "caughtUpContent_ea5470",
     "caughtUpText": "caughtUpText_ea5470",
     "caughtUpCloseIcon": "caughtUpCloseIcon_ea5470",
-    "headerButton": "headerButton_ea5470",
     "filterHeaderWrap": "filterHeaderWrap_ea5470"
   },
   "21821": {
@@ -9786,7 +9785,8 @@
     "selected": "selected_c485a2",
     "moreButtonIcon": "moreButtonIcon_c485a2",
     "tabBar": "tabBar_c485a2",
-    "filterMenuItem": "filterMenuItem_c485a2"
+    "filterMenuItem": "filterMenuItem_c485a2",
+    "headerButton": "headerButton_c485a2"
   },
   "381528": {
     "root": "root_debd93",
@@ -24435,9 +24435,7 @@
     "invitesRefresh": "invitesRefresh_f37cb1",
     "guildDropdown": "guildDropdown_f37cb1",
     "guildBadgeAndName": "guildBadgeAndName_f37cb1",
-    "inviteButton": "inviteButton_f37cb1",
-    "settingsButton": "settingsButton_f37cb1",
-    "settingsButtonIcon": "settingsButtonIcon_f37cb1"
+    "inviteButton": "inviteButton_f37cb1"
   },
   "917764": {
     "headerContainer": "headerContainer__095fe",
