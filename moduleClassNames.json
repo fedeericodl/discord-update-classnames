@@ -3656,9 +3656,9 @@
     "guildSelectorContainer": "guildSelectorContainer__4d307"
   },
   "140847": {
+    "diversitySelector": "diversitySelector_a45a2a",
     "diversitySelectorButton": "diversitySelectorButton_a45a2a",
     "diversitySelectorOptions": "diversitySelectorOptions_a45a2a",
-    "diversitySelectorOptionsHasTabWrapper": "diversitySelectorOptionsHasTabWrapper_a45a2a",
     "diversityEmojiItem": "diversityEmojiItem_a45a2a",
     "diversityEmojiItemImage": "diversityEmojiItemImage_a45a2a"
   },
@@ -11789,9 +11789,7 @@
     "stickersNavItem": "stickersNavItem__08434",
     "soundboardContainer": "soundboardContainer__08434",
     "soundboardHeader": "soundboardHeader__08434",
-    "soundmojiLabelContainer": "soundmojiLabelContainer__08434",
-    "addEmojiButton": "addEmojiButton__08434",
-    "emojiStudioActive": "emojiStudioActive__08434"
+    "soundmojiLabelContainer": "soundmojiLabelContainer__08434"
   },
   "461238": {
     "container": "container_c6ad88",
@@ -13654,8 +13652,7 @@
     "categoryList": "categoryList_c0e32c",
     "bodyWrapper": "bodyWrapper_c0e32c",
     "emojiPickerListWrapper": "emojiPickerListWrapper_c0e32c",
-    "inspector": "inspector_c0e32c",
-    "burstToggle": "burstToggle_c0e32c"
+    "inspector": "inspector_c0e32c"
   },
   "539499": {
     "channelName": "channelName_cb862a",
