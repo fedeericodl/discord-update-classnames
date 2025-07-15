@@ -2592,10 +2592,6 @@
     "closeButton": "closeButton__9536c"
   },
   "98847": {
-    "modal": "modal__0651b",
-    "description": "description__0651b",
-    "body": "body__0651b",
-    "modalContent": "modalContent__0651b",
     "addItemContainer": "addItemContainer__0651b",
     "addItemButton": "addItemButton__0651b",
     "dragging": "dragging__0651b",
@@ -24368,14 +24364,12 @@
   "916199": {
     "container": "container_b962dc",
     "guildSidebar": "guildSidebar_b962dc",
-    "sidebarCard": "sidebarCard_b962dc",
     "modal": "modal_b962dc",
     "sequencer": "sequencer_b962dc",
     "modalContent": "modalContent_b962dc",
     "mainContentWrapper": "mainContentWrapper_b962dc",
     "content": "content_b962dc",
     "closeButton": "closeButton_b962dc",
-    "closeButtonInner": "closeButtonInner_b962dc",
     "applicationIconContainer": "applicationIconContainer_b962dc",
     "applicationIcon": "applicationIcon_b962dc",
     "header": "header_b962dc",
