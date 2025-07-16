@@ -10138,6 +10138,13 @@
     "playButton": "playButton_f4adbd",
     "mutedLabel": "mutedLabel_f4adbd"
   },
+  "394575": {
+    "surveyContainer": "surveyContainer__21663",
+    "imageContainer": "imageContainer__21663",
+    "header": "header__21663",
+    "ctaContainer": "ctaContainer__21663",
+    "bodyContainer": "bodyContainer__21663"
+  },
   "395494": {
     "iconContainer": "iconContainer__8310d",
     "icon": "icon__8310d",
@@ -11651,9 +11658,6 @@
     "selectorButton": "selectorButton__0907c",
     "selectorButtonSelected": "selectorButtonSelected__0907c selectorButton__0907c",
     "contentContainer": "contentContainer__0907c"
-  },
-  "454507": {
-    "modalHeaderPreview": "modalHeaderPreview__4671c"
   },
   "455459": {
     "panelHeader": "panelHeader__6edf0",
@@ -15052,14 +15056,6 @@
     "header": "header__40059",
     "footer": "footer__40059"
   },
-  "584794": {
-    "modalHeader": "modalHeader__39813",
-    "modalContent": "modalContent__39813",
-    "previewSection": "previewSection__39813",
-    "selectionSection": "selectionSection__39813",
-    "selectionSubSection": "selectionSubSection__39813",
-    "footer": "footer__39813"
-  },
   "585523": {
     "containerDefault": "containerDefault__29444",
     "containerDragAfter": "containerDragAfter__29444",
@@ -18292,6 +18288,10 @@
     "container": "container_f284f6",
     "nitroIcon": "nitroIcon_f284f6"
   },
+  "700109": {
+    "wrapper": "wrapper_d38e00",
+    "buttonContainer": "buttonContainer_d38e00"
+  },
   "700195": {
     "container": "container__8ab7e",
     "noticeIcon": "noticeIcon__8ab7e",
@@ -19067,9 +19067,6 @@
     "winnerImage": "winnerImage__91600"
   },
   "735077": {
-    "container": "container_d97f89",
-    "header": "header_d97f89",
-    "headerText": "headerText_d97f89",
     "content": "content_d97f89",
     "questionInput": "questionInput_d97f89",
     "hasError": "hasError_d97f89",
@@ -19085,10 +19082,7 @@
     "addAnswerIconImageOnly": "addAnswerIconImageOnly_d97f89",
     "duration": "duration_d97f89",
     "durationSelect": "durationSelect_d97f89",
-    "footer": "footer_d97f89",
     "checkbox": "checkbox_d97f89",
-    "postButton": "postButton_d97f89",
-    "postButtonText": "postButtonText_d97f89",
     "apiErrorBlock": "apiErrorBlock_d97f89"
   },
   "735167": {
@@ -23020,9 +23014,7 @@
     "viewPremiumPerksButtonShine": "viewPremiumPerksButtonShine__5997d"
   },
   "869322": {
-    "header": "header__01c8c",
-    "question": "question__01c8c",
-    "close": "close__01c8c",
+    "body": "body__01c8c",
     "content": "content__01c8c",
     "panel": "panel__01c8c",
     "scroller": "scroller__01c8c",
@@ -23807,12 +23799,13 @@
   },
   "900054": {
     "friendWrapper": "friendWrapper_bbd192",
+    "disabled": "disabled_bbd192",
+    "avatar": "avatar_bbd192",
+    "nickname": "nickname_bbd192",
     "friend": "friend_bbd192",
     "twoRows": "twoRows_bbd192",
-    "avatar": "avatar_bbd192",
     "checkbox": "checkbox_bbd192",
     "match": "match_bbd192",
-    "nickname": "nickname_bbd192",
     "discordTag": "discordTag_bbd192",
     "friendSelected": "friendSelected_bbd192"
   },
