@@ -3395,9 +3395,7 @@
     "voiceFiltersHeader": "voiceFiltersHeader_e2f668",
     "voiceFiltersFooter": "voiceFiltersFooter_e2f668",
     "hasActiveVoice": "hasActiveVoice_e2f668",
-    "voiceFiltersFooterButton": "voiceFiltersFooterButton_e2f668",
     "resizeHandle": "resizeHandle_e2f668",
-    "voiceFiltersFooterButtonInner": "voiceFiltersFooterButtonInner_e2f668",
     "resizePill": "resizePill_e2f668",
     "upsell": "upsell_e2f668",
     "subscribeButton": "subscribeButton_e2f668",
@@ -8716,6 +8714,7 @@
     "disabled": "disabled__001a7",
     "collapsibleItem": "collapsibleItem__001a7",
     "tooltipWrapper": "tooltipWrapper__001a7",
+    "container": "container__001a7",
     "info": "info__001a7",
     "icon": "icon__001a7",
     "radioIndicator": "radioIndicator__001a7",
@@ -18799,7 +18798,8 @@
     "neutralFace": "neutralFace__5c58b emoji__5c58b",
     "happyFace": "happyFace__5c58b emoji__5c58b",
     "thumbsDown": "thumbsDown__5c58b emoji__5c58b",
-    "thumbsUp": "thumbsUp__5c58b emoji__5c58b"
+    "thumbsUp": "thumbsUp__5c58b emoji__5c58b",
+    "animatedFace": "animatedFace__5c58b emoji__5c58b"
   },
   "722838": {
     "pill": "pill_e7b36e",
