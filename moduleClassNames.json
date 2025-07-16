@@ -10999,6 +10999,7 @@
     "muted": "muted__972a0",
     "interactive": "interactive__972a0",
     "overflowTooltip": "overflowTooltip__972a0",
+    "withDisplayNameStyles": "withDisplayNameStyles__972a0",
     "clanTag": "clanTag__972a0",
     "clanTagMuted": "clanTagMuted__972a0",
     "interactiveSelected": "interactiveSelected__972a0",
@@ -11994,19 +11995,6 @@
     "headerText": "headerText__5bc4e",
     "tipsSection": "tipsSection__5bc4e"
   },
-  "471865": {
-    "popoutContainer": "popoutContainer__7169b",
-    "image": "image__7169b",
-    "infoContainerParent": "infoContainerParent__7169b",
-    "infoContainer": "infoContainer__7169b",
-    "infoText": "infoText__7169b",
-    "closeButton": "closeButton__7169b",
-    "closeIcon": "closeIcon__7169b",
-    "hidden": "hidden__7169b",
-    "heading": "heading__7169b",
-    "buttonContainer": "buttonContainer__7169b",
-    "button": "button__7169b"
-  },
   "472088": {
     "root": "root_ccf174"
   },
@@ -12234,10 +12222,13 @@
     "buttonHighlighted": "buttonHighlighted_fd47ae"
   },
   "482695": {
+    "container": "container_dfb989",
+    "forceAnimate": "forceAnimate_dfb989",
     "gradient": "gradient_dfb989",
     "neon": "neon_dfb989",
     "pop": "pop_dfb989",
     "toon": "toon_dfb989",
+    "showEffect": "showEffect_dfb989",
     "animated": "animated_dfb989"
   },
   "482893": {
@@ -17298,20 +17289,6 @@
     "decorationsContainer": "decorationsContainer__11014",
     "usernameContainer": "usernameContainer__11014"
   },
-  "668275": {
-    "modal": "modal_de9b99",
-    "heading": "heading_de9b99",
-    "divider": "divider_de9b99",
-    "image": "image_de9b99",
-    "body": "body_de9b99",
-    "applyingTo": "applyingTo_de9b99",
-    "footer": "footer_de9b99",
-    "anomaly": "anomaly_de9b99",
-    "error": "error_de9b99",
-    "spinner": "spinner_de9b99",
-    "buttonCopy": "buttonCopy_de9b99",
-    "tooltip": "tooltip_de9b99"
-  },
   "669018": {
     "contents": "contents_ce2e74",
     "badgeImage": "badgeImage_ce2e74",
@@ -19742,10 +19719,6 @@
     "selectMessage": "selectMessage__73f2a message__73f2a",
     "hasQuery": "hasQuery__73f2a"
   },
-  "763010": {
-    "channel": "channel__8f92d",
-    "channelLeft": "channelLeft__8f92d"
-  },
   "763147": {
     "member": "member__122b7",
     "heading": "heading__122b7",
@@ -20625,9 +20598,6 @@
     "padded": "padded_bf1984",
     "interactive": "interactive_bf1984",
     "active": "active_bf1984"
-  },
-  "787508": {
-    "avatars": "avatars_c37975"
   },
   "787791": {
     "modal": "modal__59133",
@@ -24936,12 +24906,6 @@
     "name": "name__5d473",
     "clanTag": "clanTag__5d473",
     "flatBottom": "flatBottom__5d473"
-  },
-  "938219": {
-    "modal": "modal__36aad",
-    "img": "img__36aad",
-    "body": "body__36aad",
-    "footer": "footer__36aad"
   },
   "938243": {
     "spaceBetweenTiles": "spaceBetweenTiles_fa73d7",
