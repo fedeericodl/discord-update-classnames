@@ -4579,7 +4579,7 @@
     "channelName": "channelName_e4503a",
     "topic": "topic_e4503a",
     "separator": "separator_e4503a",
-    "viewChannelButton": "viewChannelButton_e4503a",
+    "viewChannelButtonWrapper": "viewChannelButtonWrapper_e4503a",
     "checkboxInner": "checkboxInner_e4503a",
     "scrollerInner": "scrollerInner_e4503a"
   },
@@ -8661,9 +8661,6 @@
     "pageBody": "pageBody__41ed7",
     "header": "header__41ed7",
     "search": "search__41ed7",
-    "createButton": "createButton__41ed7",
-    "createButtonInner": "createButtonInner__41ed7",
-    "createIcon": "createIcon__41ed7",
     "browser": "browser__41ed7"
   },
   "335426": {
@@ -10360,8 +10357,8 @@
     "closeButton": "closeButton_bc0d35",
     "image": "image_bc0d35",
     "heading": "heading_bc0d35",
-    "tip": "tip_bc0d35",
-    "checkItOut": "checkItOut_bc0d35"
+    "description": "description_bc0d35",
+    "tip": "tip_bc0d35"
   },
   "403122": {
     "emojiContainer": "emojiContainer__0524a",
@@ -16387,9 +16384,7 @@
   "636184": {
     "chatHeaderBar": "chatHeaderBar_dc83f5",
     "chatHeaderBarText": "chatHeaderBarText_dc83f5",
-    "narrow": "narrow_dc83f5",
-    "chatHeaderBarButton": "chatHeaderBarButton_dc83f5",
-    "chatHeaderBarButtonInner": "chatHeaderBarButtonInner_dc83f5"
+    "narrow": "narrow_dc83f5"
   },
   "636424": {
     "ellipsis": "ellipsis__2ef49",
