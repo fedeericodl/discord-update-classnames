@@ -616,7 +616,6 @@
     "hide": "hide_ea5470",
     "caughtUpContent": "caughtUpContent_ea5470",
     "caughtUpText": "caughtUpText_ea5470",
-    "caughtUpCloseIcon": "caughtUpCloseIcon_ea5470",
     "filterHeaderWrap": "filterHeaderWrap_ea5470"
   },
   "21821": {
@@ -3370,15 +3369,11 @@
     "inheritTextColor": "inheritTextColor_fe5e5d"
   },
   "129458": {
-    "closeButton": "closeButton__9cef2",
-    "modalContent": "modalContent__9cef2",
     "emojiContainer": "emojiContainer__9cef2",
     "emojiRow": "emojiRow__9cef2",
     "emojiLabel": "emojiLabel__9cef2",
     "emojiImage": "emojiImage__9cef2",
-    "emojiAlias": "emojiAlias__9cef2",
-    "modalFooter": "modalFooter__9cef2",
-    "cancelButton": "cancelButton__9cef2"
+    "emojiAlias": "emojiAlias__9cef2"
   },
   "129826": {
     "categories": "categories__97499",
