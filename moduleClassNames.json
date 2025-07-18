@@ -1458,6 +1458,7 @@
   "60503": {
     "navBar": "navBar__88ef1",
     "nitroWheelIcon": "nitroWheelIcon__88ef1",
+    "nitroWheelIconColor": "nitroWheelIconColor__88ef1",
     "navBarContent": "navBarContent__88ef1",
     "navBarSectionContentContainer": "navBarSectionContentContainer__88ef1",
     "navBarSectionContent": "navBarSectionContent__88ef1",
@@ -6956,7 +6957,6 @@
     "description": "description_f69538",
     "victorAnswer": "victorAnswer_f69538",
     "victorAnswerText": "victorAnswerText_f69538",
-    "button": "button_f69538",
     "victorIcon": "victorIcon_f69538"
   },
   "271818": {
@@ -7675,8 +7675,7 @@
     "emojiImage": "emojiImage_f53c21",
     "emojiAlias": "emojiAlias_f53c21",
     "deleteButton": "deleteButton_f53c21",
-    "disabled": "disabled_f53c21",
-    "trashIcon": "trashIcon_f53c21"
+    "disabled": "disabled_f53c21"
   },
   "295491": {
     "header": "header_cd8d1b",
@@ -12333,13 +12332,9 @@
     "question": "question__0be77",
     "prompt": "prompt__0be77",
     "detailsText": "detailsText__0be77",
-    "detailsTextButton": "detailsTextButton__0be77",
-    "interactive": "interactive__0be77",
     "bottomBar": "bottomBar__0be77",
     "secondaryAction": "secondaryAction__0be77",
-    "tertiaryAction": "tertiaryAction__0be77",
-    "buttonPresentation": "buttonPresentation__0be77",
-    "secondaryButtonPresentation": "secondaryButtonPresentation__0be77"
+    "tertiaryAction": "tertiaryAction__0be77"
   },
   "485312": {
     "body": "body_fe75b7",
@@ -19239,8 +19234,6 @@
     "tooltip": "tooltip__0d242",
     "tooltipContainer": "tooltipContainer__0d242",
     "nitroWheel": "nitroWheel__0d242",
-    "shine": "shine__0d242",
-    "Shine": "Shine__0d242",
     "label": "label__0d242",
     "labelChecked": "labelChecked__0d242",
     "icon": "icon__0d242"
@@ -20638,7 +20631,8 @@
     "medium": "medium_b0db00",
     "small": "small_b0db00",
     "boxContainer": "boxContainer_b0db00",
-    "textBox": "textBox_b0db00"
+    "textBox": "textBox_b0db00",
+    "gradientBackground": "gradientBackground_b0db00"
   },
   "791119": {
     "wrapper": "wrapper__834f5",
@@ -22039,8 +22033,7 @@
   },
   "843120": {
     "description": "description_d286c5",
-    "buttonContainer": "buttonContainer_d286c5",
-    "disableButton": "disableButton_d286c5"
+    "buttonContainer": "buttonContainer_d286c5"
   },
   "843196": {
     "prompt": "prompt__2e257",
@@ -25272,6 +25265,7 @@
     "caretTopCenter": "caretTopCenter__53b23",
     "imageContainer": "imageContainer__53b23",
     "image": "image__53b23",
+    "messageContainer": "messageContainer__53b23",
     "close": "close__53b23",
     "innerClose": "innerClose__53b23"
   },
@@ -26132,7 +26126,8 @@
     "gradientColumnBorder": "gradientColumnBorder_cbfae2 backgroundGradient_cbfae2",
     "pill": "pill_cbfae2",
     "gradientBackgroundContainer": "gradientBackgroundContainer_cbfae2",
-    "gradientBackgroundPosition": "gradientBackgroundPosition_cbfae2"
+    "gradientBackgroundPosition": "gradientBackgroundPosition_cbfae2",
+    "nitroWheelIconColor": "nitroWheelIconColor_cbfae2"
   },
   "975985": {
     "root": "root__14990",
