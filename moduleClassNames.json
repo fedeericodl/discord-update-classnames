@@ -223,6 +223,7 @@
     "singleButtonContainer": "singleButtonContainer__3849c",
     "offerPillContainer": "offerPillContainer__3849c",
     "gradientBackground": "gradientBackground__3849c",
+    "affinitiesContainer": "affinitiesContainer__3849c",
     "referrerAttributionContainer": "referrerAttributionContainer__3849c"
   },
   "6318": {
@@ -14107,6 +14108,7 @@
   },
   "556921": {
     "container": "container__61733",
+    "premiumBrandRefreshContainer": "premiumBrandRefreshContainer__61733",
     "v2Container": "v2Container__61733",
     "iconContainer": "iconContainer__61733",
     "icon": "icon__61733",
@@ -20119,7 +20121,8 @@
   "775274": {
     "floatingNitroUpsell": "floatingNitroUpsell__39749",
     "floatingNitroButton": "floatingNitroButton__39749",
-    "floatingNitroButtonInner": "floatingNitroButtonInner__39749"
+    "floatingNitroButtonInner": "floatingNitroButtonInner__39749",
+    "nameplatePreview": "nameplatePreview__39749"
   },
   "775486": {
     "body": "body__96722"
@@ -21251,11 +21254,7 @@
     "emptyBody": "emptyBody_febe19"
   },
   "815461": {
-    "modalHeader": "modalHeader_da1bc3",
-    "subtitle": "subtitle_da1bc3",
-    "buttonRow": "buttonRow_da1bc3",
-    "removeButton": "removeButton_da1bc3",
-    "button": "button_da1bc3"
+    "buttonRow": "buttonRow_da1bc3"
   },
   "815646": {
     "neverShow": "neverShow__6480d",
@@ -26701,11 +26700,8 @@
     "shopIcon": "shopIcon_bf1b4a"
   },
   "997926": {
-    "column": "column__5a2c6",
     "container": "container__5a2c6",
-    "header": "header__5a2c6",
-    "nameplatePreviewSection": "nameplatePreviewSection__5a2c6",
-    "nameplate": "nameplate__5a2c6"
+    "header": "header__5a2c6"
   },
   "998587": {
     "subtext": "subtext_beaa93"
