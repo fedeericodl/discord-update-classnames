@@ -1555,10 +1555,8 @@
     "container": "container__77347",
     "headingContainer": "headingContainer__77347",
     "previewToggleContainer": "previewToggleContainer__77347",
-    "instructionsButton": "instructionsButton__77347",
     "uploadedFileListItem": "uploadedFileListItem__77347",
     "ignoredFileListItem": "ignoredFileListItem__77347",
-    "removeFileButtonInnerContents": "removeFileButtonInnerContents__77347",
     "previewSelector": "previewSelector__77347",
     "panelModeControl": "panelModeControl__77347",
     "panelModeControlOption": "panelModeControlOption__77347",
@@ -5216,7 +5214,8 @@
     "questTile": "questTile__60f82",
     "selected": "selected__60f82",
     "unselected": "unselected__60f82",
-    "spinner": "spinner__60f82"
+    "spinner": "spinner__60f82",
+    "emptyStateContainer": "emptyStateContainer__60f82"
   },
   "205721": {
     "modalRoot": "modalRoot_a13acd",
@@ -20463,8 +20462,6 @@
     "titleImageContainer": "titleImageContainer_c50f62",
     "titleImage": "titleImage_c50f62",
     "description": "description_c50f62",
-    "button": "button_c50f62",
-    "primaryButton": "primaryButton_c50f62",
     "disclaimer": "disclaimer_c50f62",
     "disclaimerLight": "disclaimerLight_c50f62",
     "learnMoreLink": "learnMoreLink_c50f62",
@@ -20476,7 +20473,8 @@
     "checkoutButtonsRow": "checkoutButtonsRow_c50f62",
     "variantsSwitch": "variantsSwitch_c50f62",
     "headerButtonContainer": "headerButtonContainer_c50f62",
-    "externalProductProfilePreview": "externalProductProfilePreview_c50f62"
+    "externalProductProfilePreview": "externalProductProfilePreview_c50f62",
+    "orbIconAligned": "orbIconAligned_c50f62"
   },
   "785847": {
     "errorCodeMessage": "errorCodeMessage__85414"
