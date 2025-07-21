@@ -4666,7 +4666,6 @@
     "linkIcon": "linkIcon_ebf183"
   },
   "181517": {
-    "iconUploaderContainer": "iconUploaderContainer_b4d1aa",
     "previewContainer": "previewContainer_b4d1aa",
     "messageContainer": "messageContainer_b4d1aa"
   },
@@ -13101,10 +13100,6 @@
     "learnMoreButton": "learnMoreButton_f5401d",
     "emojiIconContainer": "emojiIconContainer_f5401d"
   },
-  "521361": {
-    "selector": "selector_e1dc93",
-    "selectedDevice": "selectedDevice_e1dc93"
-  },
   "521545": {
     "checkboxRow": "checkboxRow_d1f0f0"
   },
@@ -14903,6 +14898,10 @@
     "collapsedFooterContent": "collapsedFooterContent__083ae",
     "buttonContainer": "buttonContainer__083ae",
     "hideDetailsButtonContainer": "hideDetailsButtonContainer__083ae"
+  },
+  "583453": {
+    "selector": "selector__12eef",
+    "selectedDevice": "selectedDevice__12eef"
   },
   "583512": {
     "applicationName": "applicationName__9e50d",
