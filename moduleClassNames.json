@@ -7139,8 +7139,9 @@
     "potionBadge": "potionBadge__18061"
   },
   "277640": {
-    "searchAnswer": "searchAnswer_bd8186",
-    "searchFilter": "searchFilter_bd8186"
+    "searchToken": "searchToken_bd8186",
+    "searchAnswer": "searchAnswer_bd8186 searchToken_bd8186",
+    "searchFilter": "searchFilter_bd8186 searchToken_bd8186"
   },
   "277841": {
     "checkbox": "checkbox_cc7654"
