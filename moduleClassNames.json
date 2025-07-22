@@ -4218,6 +4218,15 @@
   "164526": {
     "counter": "counter__90981"
   },
+  "165005": {
+    "inputWrapper": "inputWrapper__0ed4f",
+    "input": "input__0ed4f",
+    "focused": "focused__0ed4f",
+    "error": "error__0ed4f",
+    "disabled": "disabled__0ed4f",
+    "editable": "editable__0ed4f",
+    "inputError": "inputError__0ed4f"
+  },
   "165089": {
     "message": "message_d450d1",
     "imageUnverified": "imageUnverified_d450d1"
@@ -8700,7 +8709,7 @@
     "icon": "icon__2d0ab"
   },
   "343074": {
-    "textarea": "textarea__9daae input__0f084"
+    "textarea": "textarea__9daae input__0ed4f"
   },
   "344580": {
     "container": "container__4e338",
@@ -25245,15 +25254,6 @@
     "preview": "preview_d804ff",
     "questionMark": "questionMark_d804ff"
   },
-  "953100": {
-    "inputWrapper": "inputWrapper__0f084",
-    "input": "input__0f084",
-    "focused": "focused__0f084",
-    "error": "error__0f084",
-    "disabled": "disabled__0f084",
-    "editable": "editable__0f084",
-    "inputError": "inputError__0f084"
-  },
   "953408": {
     "combobox": "combobox__97e86",
     "list": "list__97e86",
@@ -25293,6 +25293,7 @@
     "queryContainer": "queryContainer__55c99",
     "queryShortcut": "queryShortcut__55c99",
     "queryText": "queryText__55c99",
+    "searchDMQueryText": "searchDMQueryText__55c99",
     "keyCombo": "keyCombo__55c99",
     "focused": "focused__55c99",
     "inChannelOptionContainer": "inChannelOptionContainer__55c99",
