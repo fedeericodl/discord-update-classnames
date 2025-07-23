@@ -489,6 +489,7 @@
     "title": "title__89307",
     "whatYouLoseItemContainer": "whatYouLoseItemContainer__89307",
     "premiumRebrand": "premiumRebrand__89307",
+    "noMargin": "noMargin__89307",
     "whatYouLoseItem": "whatYouLoseItem__89307",
     "whatYouLoseItemLeftColumn": "whatYouLoseItemLeftColumn__89307",
     "whatYouLoseItemLearnMore": "whatYouLoseItemLearnMore__89307",
@@ -3962,10 +3963,8 @@
     "playerInfo": "playerInfo__655fa"
   },
   "152906": {
-    "modalRoot": "modalRoot__5d321",
-    "modalHeader": "modalHeader__5d321",
-    "modalContent": "modalContent__5d321",
-    "instructionsList": "instructionsList__5d321"
+    "instructionsList": "instructionsList__5d321",
+    "modalContent": "modalContent__5d321"
   },
   "152965": {
     "root": "root__32fe1",
@@ -15766,8 +15765,8 @@
   },
   "614147": {
     "repositionLayerSidebarPopout": "repositionLayerSidebarPopout_fc71d3",
+    "repositionLayerTitlebarPopout": "repositionLayerTitlebarPopout_fc71d3",
     "container": "container_fc71d3",
-    "titleBarEntrypointVariant": "titleBarEntrypointVariant_fc71d3",
     "backgroundContainer": "backgroundContainer_fc71d3",
     "background": "background_fc71d3"
   },
@@ -20633,8 +20632,7 @@
     "inner": "inner_dae93f",
     "instructions": "instructions_dae93f",
     "questionIcon": "questionIcon_dae93f",
-    "uploadModalShake": "uploadModalShake_dae93f",
-    "errorModal": "errorModal_dae93f"
+    "uploadModalShake": "uploadModalShake_dae93f"
   },
   "792461": {
     "keyComboInner": "keyComboInner__15c82",
