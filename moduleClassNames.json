@@ -3003,6 +3003,7 @@
     "active": "active__98cbd",
     "buttonContainer": "buttonContainer__98cbd",
     "labelContainer": "labelContainer__98cbd",
+    "rollbackInactive": "rollbackInactive__98cbd",
     "boostProgressBackground": "boostProgressBackground__98cbd",
     "warning": "warning__98cbd",
     "contentContainer": "contentContainer__98cbd",
@@ -3011,6 +3012,7 @@
     "image": "image__98cbd",
     "labelContainerEnd": "labelContainerEnd__98cbd",
     "inline": "inline__98cbd",
+    "rollbackInline": "rollbackInline__98cbd",
     "price": "price__98cbd",
     "inlineBoost": "inlineBoost__98cbd",
     "new": "new__98cbd"
@@ -8237,15 +8239,6 @@
   "317997": {
     "markdownContainer": "markdownContainer__48344",
     "containerSizedText": "containerSizedText__48344"
-  },
-  "318098": {
-    "container": "container__81977",
-    "containerEnabled": "containerEnabled__81977",
-    "buttonClose": "buttonClose__81977",
-    "buttonCTA": "buttonCTA__81977",
-    "dismissIcon": "dismissIcon__81977",
-    "errorWarningIcon": "errorWarningIcon__81977",
-    "keyCombo": "keyCombo__81977"
   },
   "318135": {
     "container": "container__09ccc"
@@ -21066,6 +21059,7 @@
     "heroBlockContent": "heroBlockContent__08415",
     "mainContent": "mainContent__08415",
     "heroHeaderContainer": "heroHeaderContainer__08415",
+    "responsive": "responsive__08415",
     "heroHeaderBadgeLogoSummaryContainer": "heroHeaderBadgeLogoSummaryContainer__08415",
     "heroLogoNameContainer": "heroLogoNameContainer__08415",
     "heroHeaderLogo": "heroHeaderLogo__08415",
@@ -21100,8 +21094,7 @@
     "wideBannerTextContainer": "wideBannerTextContainer__08415",
     "wideBannerContentContainer": "wideBannerContentContainer__08415",
     "shelfBlockContainer": "shelfBlockContainer__08415",
-    "heroBannerSheenContainer": "heroBannerSheenContainer__08415",
-    "responsive": "responsive__08415"
+    "heroBannerSheenContainer": "heroBannerSheenContainer__08415"
   },
   "806802": {
     "content": "content__3ff0e",
