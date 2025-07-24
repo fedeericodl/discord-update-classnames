@@ -3903,12 +3903,6 @@
   "148520": {
     "container": "container__5f4c1"
   },
-  "148571": {
-    "list": "list_c441f0",
-    "activeThreadsList": "activeThreadsList_c441f0",
-    "sectionHeader": "sectionHeader_c441f0",
-    "spinner": "spinner_c441f0"
-  },
   "149388": {
     "header": "header__75b62",
     "closeButton": "closeButton__75b62",
@@ -6449,6 +6443,12 @@
     "disabledTooltipWrapper": "disabledTooltipWrapper_f0c2ea",
     "disabledTooltipTarget": "disabledTooltipTarget_f0c2ea"
   },
+  "258033": {
+    "list": "list_c441f0",
+    "activeThreadsList": "activeThreadsList_c441f0",
+    "sectionHeader": "sectionHeader_c441f0",
+    "spinner": "spinner_c441f0"
+  },
   "258163": {
     "header": "header__3633a",
     "icon": "icon__3633a",
@@ -6959,7 +6959,8 @@
     "infoIcon": "infoIcon_ae2544"
   },
   "273651": {
-    "header": "header__61e0e"
+    "header": "header__61e0e",
+    "responsive": "responsive__61e0e"
   },
   "273810": {
     "scroller": "scroller__5d7c9",
@@ -7605,6 +7606,15 @@
   "294117": {
     "container": "container_ea9851",
     "icon": "icon_ea9851"
+  },
+  "294242": {
+    "flyingWumpusContainer": "flyingWumpusContainer__08987",
+    "flyingWumpusAsset": "flyingWumpusAsset__08987",
+    "bolt": "bolt__08987",
+    "car": "car__08987",
+    "hammer": "hammer__08987",
+    "key": "key__08987",
+    "star": "star__08987"
   },
   "294649": {
     "root": "root__81345",
@@ -18194,20 +18204,6 @@
     "expandButton": "expandButton_fccfdf pill_fccfdf",
     "collapseButton": "collapseButton_fccfdf pill_fccfdf"
   },
-  "702013": {
-    "flyingWumpusContainer": "flyingWumpusContainer__12720",
-    "flyingWumpusAsset": "flyingWumpusAsset__12720",
-    "boltContainer": "boltContainer__12720",
-    "carContainer": "carContainer__12720",
-    "hammerContainer": "hammerContainer__12720",
-    "keyContainer": "keyContainer__12720",
-    "starContainer": "starContainer__12720",
-    "boltTrinket": "boltTrinket__12720",
-    "carTrinket": "carTrinket__12720",
-    "hammerTrinket": "hammerTrinket__12720",
-    "keyTrinket": "keyTrinket__12720",
-    "starTrinket": "starTrinket__12720"
-  },
   "702107": {
     "dismissButton": "dismissButton_dd40b0",
     "dismissIcon": "dismissIcon_dd40b0"
@@ -18738,12 +18734,7 @@
   },
   "727409": {
     "container": "container__15b9a",
-    "contentContainer": "contentContainer__15b9a",
-    "jumpingWumpus": "jumpingWumpus__15b9a",
-    "footerFlag": "footerFlag__15b9a",
-    "footerBattery": "footerBattery__15b9a",
-    "footerBox": "footerBox__15b9a",
-    "footerKey": "footerKey__15b9a"
+    "contentContainer": "contentContainer__15b9a"
   },
   "727615": {
     "container": "container__4cb8a",
@@ -22323,6 +22314,18 @@
   "851005": {
     "toggle": "toggle__6467f"
   },
+  "851345": {
+    "boltContainer": "boltContainer__2cd1f",
+    "carContainer": "carContainer__2cd1f",
+    "hammerContainer": "hammerContainer__2cd1f",
+    "keyContainer": "keyContainer__2cd1f",
+    "starContainer": "starContainer__2cd1f",
+    "boltTrinket": "boltTrinket__2cd1f",
+    "carTrinket": "carTrinket__2cd1f",
+    "hammerTrinket": "hammerTrinket__2cd1f",
+    "keyTrinket": "keyTrinket__2cd1f",
+    "starTrinket": "starTrinket__2cd1f"
+  },
   "852266": {
     "container": "container__50c27",
     "list": "list__50c27"
@@ -22993,6 +22996,15 @@
     "errorContainer": "errorContainer_f86e69",
     "errorText": "errorText_f86e69",
     "previewLoadingSpinner": "previewLoadingSpinner_f86e69"
+  },
+  "874773": {
+    "jumpingWumpusContainer": "jumpingWumpusContainer_dc510c",
+    "jumpingWumpus": "jumpingWumpus_dc510c",
+    "bolt": "bolt_dc510c",
+    "car": "car_dc510c",
+    "hammer": "hammer_dc510c",
+    "key": "key_dc510c",
+    "star": "star_dc510c"
   },
   "875231": {
     "video": "video__1689b",
