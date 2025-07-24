@@ -3130,9 +3130,6 @@
     "cursors": "cursors__3f929",
     "cursor": "cursor__3f929"
   },
-  "125865": {
-    "container": "container__6f250"
-  },
   "125978": {
     "container": "container__70151",
     "loading": "loading__70151",
@@ -6260,6 +6257,10 @@
     "modalBody": "modalBody__47910",
     "closeButton": "closeButton__47910"
   },
+  "249274": {
+    "item": "item_caf372",
+    "active": "active_caf372"
+  },
   "249433": {
     "cardContainer": "cardContainer__8833c",
     "card": "card__8833c",
@@ -6368,10 +6369,11 @@
   "254204": {
     "container": "container_abd9a8",
     "topBar": "topBar_abd9a8",
-    "sidebar": "sidebar_abd9a8",
     "content": "content_abd9a8",
     "mobile": "mobile_abd9a8",
     "mobileNavigationOpen": "mobileNavigationOpen_abd9a8",
+    "contentInner": "contentInner_abd9a8",
+    "contentScroller": "contentScroller_abd9a8",
     "contentHeader": "contentHeader_abd9a8",
     "contentHeaderLeft": "contentHeaderLeft_abd9a8",
     "contentHeaderButton": "contentHeaderButton_abd9a8",
@@ -9728,6 +9730,7 @@
     "iconSelector": "iconSelector_cba592",
     "channelNameLabel": "channelNameLabel_cba592",
     "channelNameInput": "channelNameInput_cba592",
+    "channelNameInputInner": "channelNameInputInner_cba592",
     "subtitleWarning": "subtitleWarning_cba592",
     "scroller": "scroller_cba592",
     "scrollerInner": "scrollerInner_cba592",
@@ -11999,6 +12002,13 @@
     "upsellButton": "upsellButton__71816",
     "premiumUpsellBadge": "premiumUpsellBadge__71816"
   },
+  "476523": {
+    "sidebar": "sidebar__409aa",
+    "search": "search__409aa",
+    "navScroller": "navScroller__409aa",
+    "nav": "nav__409aa",
+    "footer": "footer__409aa"
+  },
   "476767": {
     "tooltip": "tooltip__382e7",
     "tooltipDisablePointerEvents": "tooltipDisablePointerEvents__382e7",
@@ -12151,7 +12161,7 @@
     "image": "image__03b47",
     "inlineText": "inlineText__03b47",
     "footer": "footer__03b47",
-    "button": "button__03b47"
+    "textButtonWrapper": "textButtonWrapper__03b47"
   },
   "483112": {
     "container": "container__0ab2c",
@@ -15456,6 +15466,7 @@
     "pickerGrid": "pickerGrid__69ef9",
     "pickerItem": "pickerItem__69ef9",
     "pickerItemSelected": "pickerItemSelected__69ef9",
+    "lockedPickerItem": "lockedPickerItem__69ef9",
     "disabledForm": "disabledForm__69ef9",
     "sidebarContainer": "sidebarContainer__69ef9"
   },
@@ -15722,6 +15733,12 @@
     "item": "item__133bf",
     "addFriend": "addFriend__133bf",
     "tabBody": "tabBody__133bf"
+  },
+  "610844": {
+    "subnav": "subnav__9d489",
+    "active": "active__9d489",
+    "track": "track__9d489",
+    "thumb": "thumb__9d489"
   },
   "610902": {
     "button": "button_f42dca",
@@ -16373,35 +16390,6 @@
     "innerGiftButton": "innerGiftButton__82222",
     "buttonText": "buttonText__82222",
     "giftIcon": "giftIcon__82222"
-  },
-  "638128": {
-    "inFront": "inFront__4d3fa",
-    "invite": "invite__4d3fa",
-    "fullHeight": "fullHeight__4d3fa",
-    "coverImageWrapper": "coverImageWrapper__4d3fa",
-    "coverImage": "coverImage__4d3fa",
-    "coverImageActionable": "coverImageActionable__4d3fa coverImage__4d3fa",
-    "blurred": "blurred__4d3fa",
-    "coverImageNotActionable": "coverImageNotActionable__4d3fa coverImage__4d3fa",
-    "artwork": "artwork__4d3fa",
-    "artworkActionable": "artworkActionable__4d3fa artwork__4d3fa",
-    "artworkNotActionable": "artworkNotActionable__4d3fa artwork__4d3fa",
-    "artworkSpotifySessionEnded": "artworkSpotifySessionEnded__4d3fa artwork__4d3fa",
-    "header": "header__4d3fa inFront__4d3fa",
-    "partyStatus": "partyStatus__4d3fa inFront__4d3fa",
-    "actionAndParty": "actionAndParty__4d3fa",
-    "actionButton": "actionButton__4d3fa inFront__4d3fa",
-    "name": "name__4d3fa inFront__4d3fa",
-    "partyMembers": "partyMembers__4d3fa",
-    "partyMember": "partyMember__4d3fa inFront__4d3fa",
-    "partyMemberKnown": "partyMemberKnown__4d3fa partyMember__4d3fa inFront__4d3fa",
-    "partyAvatar": "partyAvatar__4d3fa",
-    "partyMemberEmpty": "partyMemberEmpty__4d3fa partyMember__4d3fa inFront__4d3fa partyAvatar__4d3fa",
-    "moreUsers": "moreUsers__4d3fa inFront__4d3fa",
-    "helpIcon": "helpIcon__4d3fa",
-    "details": "details__4d3fa",
-    "state": "state__4d3fa",
-    "textLink": "textLink__4d3fa"
   },
   "638414": {
     "header": "header__7f9c0",
