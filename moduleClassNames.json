@@ -10046,13 +10046,6 @@
     "playButton": "playButton_f4adbd",
     "mutedLabel": "mutedLabel_f4adbd"
   },
-  "394575": {
-    "surveyContainer": "surveyContainer__21663",
-    "imageContainer": "imageContainer__21663",
-    "header": "header__21663",
-    "ctaContainer": "ctaContainer__21663",
-    "bodyContainer": "bodyContainer__21663"
-  },
   "395494": {
     "iconContainer": "iconContainer__8310d",
     "icon": "icon__8310d",
@@ -16817,14 +16810,6 @@
     "text": "text_ba21b4",
     "scheduledMessageBarLabel": "scheduledMessageBarLabel_ba21b4",
     "actions": "actions_ba21b4"
-  },
-  "653072": {
-    "card": "card_a8610c",
-    "participants": "participants_a8610c",
-    "disabled": "disabled_a8610c",
-    "actions": "actions_a8610c",
-    "button": "button_a8610c",
-    "buttonInner": "buttonInner_a8610c"
   },
   "654715": {
     "icon": "icon__761e5",
