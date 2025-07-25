@@ -551,9 +551,7 @@
     "usagePill": "usagePill__74f72"
   },
   "20080": {
-    "art": "art__3f6fc",
-    "contentOverlay": "contentOverlay__3f6fc",
-    "pointerClassName": "pointerClassName__3f6fc"
+    "art": "art__3f6fc"
   },
   "20484": {
     "clipItem": "clipItem__1d12e",
@@ -14826,10 +14824,6 @@
     "learnMore": "learnMore__75df3"
   },
   "580297": {
-    "header": "header_d93468",
-    "subheader": "subheader_d93468",
-    "closeButton": "closeButton_d93468",
-    "button": "button_d93468",
     "image": "image_d93468",
     "video": "video_d93468",
     "media": "media_d93468",
