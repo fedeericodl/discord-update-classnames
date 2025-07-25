@@ -12804,12 +12804,6 @@
     "confetti": "confetti__22c64",
     "confettiWrapper": "confettiWrapper__22c64"
   },
-  "514211": {
-    "header": "header__11268",
-    "content": "content__11268",
-    "footer": "footer__11268",
-    "root": "root__11268"
-  },
   "514299": {
     "avatar": "avatar__1327d",
     "userPreview": "userPreview__1327d",
@@ -14594,14 +14588,6 @@
   "572511": {
     "arrow": "arrow__6c50b",
     "up": "up__6c50b"
-  },
-  "572583": {
-    "content": "content_e55088",
-    "title": "title_e55088",
-    "subtitle": "subtitle_e55088",
-    "icon": "icon_e55088",
-    "iconBackground": "iconBackground_e55088",
-    "cancelButton": "cancelButton_e55088"
   },
   "572590": {
     "container": "container__33d66",
@@ -19229,9 +19215,7 @@
     "fullEmojisContainer": "fullEmojisContainer__2485e",
     "emoji": "emoji__2485e",
     "extraEmojiCount": "extraEmojiCount__2485e",
-    "viewServerButton": "viewServerButton__2485e",
-    "viewServerButtonText": "viewServerButtonText__2485e",
-    "roundedEdges": "roundedEdges__2485e"
+    "viewServerButtonContainer": "viewServerButtonContainer__2485e"
   },
   "749044": {
     "container": "container_a9b435",
