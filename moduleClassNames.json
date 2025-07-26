@@ -15408,10 +15408,7 @@
   "601781": {
     "ctaContainer": "ctaContainer_d6d601 card_fc2e20",
     "heroBanner": "heroBanner_d6d601",
-    "ctaContent": "ctaContent_d6d601",
-    "ctaButton": "ctaButton_d6d601",
-    "ineligibleButton": "ineligibleButton_d6d601 ctaButton_d6d601",
-    "ineligibleButtonContent": "ineligibleButtonContent_d6d601"
+    "ctaContent": "ctaContent_d6d601"
   },
   "602192": {
     "background": "background__09691",
@@ -18524,8 +18521,7 @@
     "checklistIcon": "checklistIcon__54e17",
     "checklistItemName": "checklistItemName__54e17",
     "ineligibleRow": "ineligibleRow__54e17",
-    "eligibilityActionContainer": "eligibilityActionContainer__54e17",
-    "eligibilityActionButton": "eligibilityActionButton__54e17"
+    "eligibilityActionContainer": "eligibilityActionContainer__54e17"
   },
   "719877": {
     "container": "container__60fa3",
