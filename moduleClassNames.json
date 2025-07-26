@@ -6902,12 +6902,7 @@
   },
   "272219": {
     "container": "container__93db4",
-    "iconContainer": "iconContainer__93db4",
-    "icon": "icon__93db4",
-    "stars": "stars__93db4",
-    "header": "header__93db4",
-    "cta": "cta__93db4",
-    "button": "button__93db4"
+    "header": "header__93db4"
   },
   "272997": {
     "card": "card_b44011",
@@ -13782,6 +13777,19 @@
     "title": "title__296bb",
     "cancelButton": "cancelButton__296bb"
   },
+  "549405": {
+    "lockedPickerItem": "lockedPickerItem_ba8b8d",
+    "guildBadge": "guildBadge_ba8b8d",
+    "previewBadge": "previewBadge_ba8b8d",
+    "lockIconOverlay": "lockIconOverlay_ba8b8d",
+    "lockedPreviewContainer": "lockedPreviewContainer_ba8b8d",
+    "showAllBadges": "showAllBadges_ba8b8d",
+    "showAllBadgesOverlay": "showAllBadgesOverlay_ba8b8d",
+    "hideAllBadges": "hideAllBadges_ba8b8d",
+    "badgesUpsellContainer": "badgesUpsellContainer_ba8b8d",
+    "badgesUpsellText": "badgesUpsellText_ba8b8d",
+    "badgesUpsellButton": "badgesUpsellButton_ba8b8d"
+  },
   "549607": {
     "classificationContainer": "classificationContainer_a48d6b",
     "classificationHeader": "classificationHeader_a48d6b",
@@ -15435,7 +15443,6 @@
     "pickerGrid": "pickerGrid__69ef9",
     "pickerItem": "pickerItem__69ef9",
     "pickerItemSelected": "pickerItemSelected__69ef9",
-    "lockedPickerItem": "lockedPickerItem__69ef9",
     "disabledForm": "disabledForm__69ef9",
     "sidebarContainer": "sidebarContainer__69ef9"
   },
@@ -19873,15 +19880,12 @@
     "buttonRow": "buttonRow_e766f2"
   },
   "772335": {
-    "bangers": "bangers__89a31",
     "bioRhyme": "bioRhyme__89a31",
     "cherryBomb": "cherryBomb__89a31",
     "chicle": "chicle__89a31",
-    "compagnon": "compagnon__89a31",
     "museoModerno": "museoModerno__89a31",
     "neoCastel": "neoCastel__89a31",
     "pixelify": "pixelify__89a31",
-    "ribes": "ribes__89a31",
     "sinistre": "sinistre__89a31"
   },
   "772526": {
@@ -21243,6 +21247,16 @@
     "tilePrice": "tilePrice__0bef9",
     "tilePriceWithVisibleBuyButton": "tilePriceWithVisibleBuyButton__0bef9 tilePrice__0bef9"
   },
+  "817219": {
+    "close": "close__178fd",
+    "modal": "modal__178fd",
+    "modalContentContainer": "modalContentContainer__178fd",
+    "container": "container__178fd",
+    "contentContainer": "contentContainer__178fd",
+    "buttonContainer": "buttonContainer__178fd",
+    "description": "description__178fd",
+    "button": "button__178fd"
+  },
   "817447": {
     "wrapper": "wrapper_b76891",
     "copy": "copy_b76891",
@@ -21946,11 +21960,15 @@
   },
   "844136": {
     "modalRoot": "modalRoot_de2fa0",
+    "modalRootPortrait": "modalRootPortrait_de2fa0",
+    "modalRootLandscape": "modalRootLandscape_de2fa0",
     "modalBody": "modalBody_de2fa0",
     "modalBg": "modalBg_de2fa0",
     "modalContent": "modalContent_de2fa0",
     "videoCont": "videoCont_de2fa0",
     "videoContInnerRelative": "videoContInnerRelative_de2fa0",
+    "videoContInnerRelativePortrait": "videoContInnerRelativePortrait_de2fa0",
+    "videoContInnerRelativeLandscape": "videoContInnerRelativeLandscape_de2fa0",
     "videoContOverlay": "videoContOverlay_de2fa0",
     "animate-fade-in": "animate-fade-in_de2fa0",
     "hidden": "hidden_de2fa0",
