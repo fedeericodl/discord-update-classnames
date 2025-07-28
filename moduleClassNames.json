@@ -5055,8 +5055,7 @@
     "appIcon": "appIcon__727be",
     "description": "description__727be",
     "openStoreButton": "openStoreButton__727be",
-    "skuPurchaseButtons": "skuPurchaseButtons__727be",
-    "viewDetailsButton": "viewDetailsButton__727be"
+    "skuPurchaseButtons": "skuPurchaseButtons__727be"
   },
   "199462": {
     "container": "container__26669",
@@ -9211,7 +9210,8 @@
     "invoiceTable": "invoiceTable__968a4",
     "cancelImage": "cancelImage__968a4",
     "invoiceCancelRow": "invoiceCancelRow__968a4",
-    "error": "error__968a4"
+    "error": "error__968a4",
+    "textButton": "textButton__968a4"
   },
   "363987": {
     "voiceCallWrapper": "voiceCallWrapper_a21736",
@@ -19169,6 +19169,11 @@
     "singleSelect": "singleSelect__81a06",
     "hidden": "hidden__81a06"
   },
+  "750165": {
+    "accordion": "accordion_a1f93f",
+    "icon": "icon_a1f93f",
+    "iconClosed": "iconClosed_a1f93f"
+  },
   "750540": {
     "switch": "switch__9d40d",
     "panel": "panel__9d40d",
@@ -22283,6 +22288,10 @@
     "ttsSliderMarker": "ttsSliderMarker__5d148",
     "syncProfileThemeWithUserTheme": "syncProfileThemeWithUserTheme__5d148",
     "reducedMotion": "reducedMotion__5d148"
+  },
+  "855256": {
+    "settingButtonContainer": "settingButtonContainer__75483",
+    "settingButtonContent": "settingButtonContent__75483"
   },
   "856045": {
     "badgeContainer": "badgeContainer_fc0249"
@@ -26329,15 +26338,6 @@
     "listItemWrapper": "listItemWrapper__91816",
     "listItemTooltip": "listItemTooltip__91816",
     "selected": "selected__91816"
-  },
-  "991405": {
-    "container": "container__71af4",
-    "content": "content__71af4",
-    "avatarBackground": "avatarBackground__71af4",
-    "avatar": "avatar__71af4",
-    "rect": "rect__71af4",
-    "bottomOverlay": "bottomOverlay__71af4",
-    "bodyText": "bodyText__71af4"
   },
   "991992": {
     "buttonContainer": "buttonContainer_ffab0d"
