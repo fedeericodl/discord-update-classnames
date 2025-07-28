@@ -6210,10 +6210,6 @@
     "errorToolbar": "errorToolbar_a81334"
   },
   "248910": {
-    "modal": "modal__56d1c",
-    "header": "header__56d1c",
-    "subheaderText": "subheaderText__56d1c",
-    "actions": "actions__56d1c",
     "infoMessage": "infoMessage__56d1c"
   },
   "248999": {
@@ -7147,14 +7143,6 @@
   "279900": {
     "wrapper": "wrapper__4e6ce"
   },
-  "280086": {
-    "eligibilityModal": "eligibilityModal__17e0d",
-    "eligibilityHeader": "eligibilityHeader__17e0d",
-    "eligibilityHeaderText": "eligibilityHeaderText__17e0d",
-    "eligibilityHeaderImage": "eligibilityHeaderImage__17e0d",
-    "eligibilityHeaderCloseButton": "eligibilityHeaderCloseButton__17e0d",
-    "paddedContainer": "paddedContainer__17e0d"
-  },
   "280306": {
     "invalidBody": "invalidBody__164c9"
   },
@@ -7719,10 +7707,7 @@
     "selectItemRow": "selectItemRow_d81ffd"
   },
   "298746": {
-    "container": "container_ac6cb0",
-    "mobileContainer": "mobileContainer_ac6cb0",
     "quickswitcher": "quickswitcher_ac6cb0",
-    "mobileQuickswitcher": "mobileQuickswitcher_ac6cb0",
     "input": "input_ac6cb0",
     "autocompleteQuerySymbol": "autocompleteQuerySymbol_ac6cb0",
     "scroller": "scroller_ac6cb0",
@@ -11859,12 +11844,7 @@
   },
   "472645": {
     "mainLoginContainer": "mainLoginContainer__86e92",
-    "title": "title__86e92",
-    "subtitle": "subtitle__86e92",
-    "loginForm": "loginForm__86e92",
-    "needAccount": "needAccount__86e92",
-    "navRow": "navRow__86e92",
-    "continueButton": "continueButton__86e92"
+    "card": "card__86e92"
   },
   "472840": {
     "container": "container__183c2",
@@ -14674,7 +14654,8 @@
     "userActions": "userActions__920b8",
     "username": "username__920b8",
     "textOverflow": "textOverflow__920b8",
-    "hintText": "hintText__920b8"
+    "hintText": "hintText__920b8",
+    "spinner": "spinner__920b8"
   },
   "576073": {
     "dot": "dot__148e9",
@@ -14767,10 +14748,6 @@
     "roleRemoveIconFocused": "roleRemoveIconFocused_dfa8b6",
     "roleVerifiedIcon": "roleVerifiedIcon_dfa8b6",
     "roleCircle": "roleCircle_dfa8b6"
-  },
-  "577658": {
-    "container": "container_f04ae9",
-    "card": "card_f04ae9"
   },
   "578148": {
     "container": "container_a154bf",
