@@ -11472,10 +11472,6 @@
     "upsellImage": "upsellImage__0f7dc",
     "upsellTextContainer": "upsellTextContainer__0f7dc"
   },
-  "452209": {
-    "header": "header_bd9db3",
-    "video": "video_bd9db3"
-  },
   "453091": {
     "clipContainer": "clipContainer__841c8",
     "container": "container__841c8",
@@ -14844,10 +14840,6 @@
     "xsmall": "xsmall__58525",
     "small": "small__58525",
     "large": "large__58525"
-  },
-  "580949": {
-    "header": "header__078ac",
-    "video": "video__078ac"
   },
   "581278": {
     "body": "body_af4c15"
@@ -22963,17 +22955,13 @@
     "ticketIcon": "ticketIcon__0557e"
   },
   "875485": {
-    "footer": "footer__1c948",
-    "content": "content__1c948",
-    "buttons": "buttons__1c948",
     "inputContainer": "inputContainer__1c948",
     "emojiButtonContainer": "emojiButtonContainer__1c948",
     "emojiButton": "emojiButton__1c948",
     "emoji": "emoji__1c948",
     "input": "input__1c948",
     "clearButton": "clearButton__1c948",
-    "clearIcon": "clearIcon__1c948",
-    "moderatedCheckbox": "moderatedCheckbox__1c948"
+    "clearIcon": "clearIcon__1c948"
   },
   "875606": {
     "headerContainer": "headerContainer__56d15",
