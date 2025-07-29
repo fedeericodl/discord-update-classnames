@@ -4854,7 +4854,6 @@
     "regionSelectName": "regionSelectName__5621e"
   },
   "190434": {
-    "addButton": "addButton__9c74b",
     "listContainer": "listContainer__9c74b",
     "tooltip": "tooltip__9c74b",
     "requiredPermissionsBanner": "requiredPermissionsBanner__9c74b",
@@ -14429,13 +14428,6 @@
     "captchaContainer": "captchaContainer_deee3a",
     "manaDesktopModal": "manaDesktopModal_deee3a",
     "gradientBorder": "gradientBorder_deee3a"
-  },
-  "566670": {
-    "headerDescription": "headerDescription_ababa2",
-    "modalRoot": "modalRoot_ababa2",
-    "modalBody": "modalBody_ababa2",
-    "modalFooter": "modalFooter_ababa2",
-    "modalHeader": "modalHeader_ababa2"
   },
   "566825": {
     "connectedAccountVanityMetadata": "connectedAccountVanityMetadata_fffe42",
@@ -25121,6 +25113,12 @@
     "newBadge": "newBadge_d804ff",
     "preview": "preview_d804ff",
     "questionMark": "questionMark_d804ff"
+  },
+  "953100": {
+    "text-md/normal": "text-md/normal__0f084",
+    "container": "container__0f084",
+    "wrapper": "wrapper__0f084",
+    "input": "input__0f084 text-md/normal__0f084"
   },
   "953408": {
     "combobox": "combobox__97e86",
