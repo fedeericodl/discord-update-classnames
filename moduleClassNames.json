@@ -410,6 +410,9 @@
     "container": "container_fb2e73",
     "acceptButton": "acceptButton_fb2e73"
   },
+  "15322": {
+    "cardList": "cardList__2357e"
+  },
   "15537": {
     "levelContainer": "levelContainer__3dcc3",
     "perkContainer": "perkContainer__3dcc3",
@@ -5544,8 +5547,10 @@
     "customButton": "customButton__39ec2",
     "badges": "badges__39ec2",
     "clickableContainer": "clickableContainer__39ec2",
-    "clickableImage": "clickableImage__39ec2",
     "image": "image__39ec2",
+    "hangStatusIcon": "hangStatusIcon__39ec2",
+    "small": "small__39ec2",
+    "clickableImage": "clickableImage__39ec2",
     "clickableText": "clickableText__39ec2",
     "inline": "inline__39ec2",
     "gameState": "gameState__39ec2",
@@ -10620,6 +10625,13 @@
     "boostImage": "boostImage_b30d08",
     "footer": "footer_b30d08"
   },
+  "418718": {
+    "card": "card_e1364f",
+    "clickableCard": "clickableCard_e1364f",
+    "details": "details_e1364f",
+    "icon": "icon_e1364f",
+    "socialProof": "socialProof_e1364f"
+  },
   "418822": {
     "root": "root__2a5c7",
     "heroAsset": "heroAsset__2a5c7",
@@ -11331,8 +11343,8 @@
   },
   "445689": {
     "media": "media__9c640",
-    "inlineVideo": "inlineVideo__9c640",
-    "videoContainer": "videoContainer__9c640",
+    "inlineAsset": "inlineAsset__9c640",
+    "assetContainer": "assetContainer__9c640",
     "playButton": "playButton__9c640"
   },
   "448021": {
@@ -15771,7 +15783,8 @@
     "allPerksScroller": "allPerksScroller_ca1a02",
     "open": "open_ca1a02",
     "openCloseReduceMotion": "openCloseReduceMotion_ca1a02",
-    "cardCarousel": "cardCarousel_ca1a02"
+    "cardCarousel": "cardCarousel_ca1a02",
+    "loading": "loading_ca1a02"
   },
   "615133": {
     "inviteContainer": "inviteContainer__23437",
@@ -21319,8 +21332,7 @@
     "switchGroup": "switchGroup_f0aa37",
     "error": "error_f0aa37",
     "roleSelector": "roleSelector_f0aa37",
-    "roleCircle": "roleCircle_f0aa37",
-    "button": "button_f0aa37"
+    "roleCircle": "roleCircle_f0aa37"
   },
   "822566": {
     "header": "header_f476f9",
@@ -21516,11 +21528,6 @@
     "achievementIcon": "achievementIcon__79a24",
     "tooltip": "tooltip__79a24",
     "header": "header__79a24"
-  },
-  "832339": {
-    "header": "header__2f4ff",
-    "permissionList": "permissionList__2f4ff",
-    "footer": "footer__2f4ff"
   },
   "832721": {
     "subtext": "subtext__65a39",
