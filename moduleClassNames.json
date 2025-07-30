@@ -3439,7 +3439,6 @@
     "giftRecipientSection": "giftRecipientSection_cd2ff7",
     "giftRecipientInputWrapper": "giftRecipientInputWrapper_cd2ff7",
     "giftRecipientInputError": "giftRecipientInputError_cd2ff7",
-    "sendToRecipientButton": "sendToRecipientButton_cd2ff7",
     "confirmation": "confirmation_cd2ff7",
     "seasonalConfirmationPadding": "seasonalConfirmationPadding_cd2ff7",
     "giftCodeSection": "giftCodeSection_cd2ff7"
@@ -7714,6 +7713,10 @@
     "join": "join_f17563",
     "customizeGuildTitle": "customizeGuildTitle_f17563",
     "joinCTA": "joinCTA_f17563"
+  },
+  "300695": {
+    "tagList": "tagList__25a50",
+    "tag": "tag__25a50"
   },
   "301150": {
     "empty": "empty__9d78f",
