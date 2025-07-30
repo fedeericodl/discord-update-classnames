@@ -1049,9 +1049,7 @@
     "sectionTitle": "sectionTitle_ac72c6",
     "foreground": "foreground_ac72c6",
     "inputWrapper": "inputWrapper_ac72c6",
-    "inputWrapperWithEmojiPicker": "inputWrapperWithEmojiPicker_ac72c6",
     "inputInner": "inputInner_ac72c6",
-    "inputInnerWithEmojiPicker": "inputInnerWithEmojiPicker_ac72c6",
     "inputPrefix": "inputPrefix_ac72c6",
     "switchIcon": "switchIcon_ac72c6",
     "channelTypeDescription": "channelTypeDescription_ac72c6",
@@ -5038,8 +5036,8 @@
     "defaultImageView": "defaultImageView__0511a",
     "nameInput": "nameInput__0511a",
     "emojiButton": "emojiButton__0511a",
-    "nameInputWrapperWithEmojiPicker": "nameInputWrapperWithEmojiPicker__0511a",
-    "nameInputInnerWithEmojiPicker": "nameInputInnerWithEmojiPicker__0511a"
+    "nameInputWrapper": "nameInputWrapper__0511a",
+    "nameInputInner": "nameInputInner__0511a"
   },
   "196773": {
     "container": "container__5662e"
