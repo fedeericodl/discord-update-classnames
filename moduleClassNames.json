@@ -10390,6 +10390,24 @@
     "unavailableBody": "unavailableBody__24654",
     "button": "button__24654"
   },
+  "409403": {
+    "container": "container__5a2df",
+    "containerInner": "containerInner__5a2df",
+    "editorBody": "editorBody__5a2df",
+    "headerContainer": "headerContainer__5a2df",
+    "closeButton": "closeButton__5a2df",
+    "sliderContainer": "sliderContainer__5a2df",
+    "gradientDirectionSliderContainer": "gradientDirectionSliderContainer__5a2df",
+    "surpriseMeButton": "surpriseMeButton__5a2df",
+    "footerContainer": "footerContainer__5a2df",
+    "subscribeButton": "subscribeButton__5a2df",
+    "coachmarkHeaderContainer": "coachmarkHeaderContainer__5a2df",
+    "coachmarkHeaderTextContainer": "coachmarkHeaderTextContainer__5a2df",
+    "badgeAndCloseRow": "badgeAndCloseRow__5a2df",
+    "subtitle": "subtitle__5a2df",
+    "coachmarkFooterContainer": "coachmarkFooterContainer__5a2df",
+    "nitroIcon": "nitroIcon__5a2df"
+  },
   "409667": {
     "heading": "heading__4169d",
     "subheading": "subheading__4169d",
@@ -12527,9 +12545,6 @@
     "pageIndicator": "pageIndicator__2d021"
   },
   "501867": {
-    "wrapper": "wrapper__3add8",
-    "heading": "heading__3add8",
-    "topPerksCards": "topPerksCards__3add8",
     "topPerksCard": "topPerksCard__3add8",
     "animatedTopPerksCard": "animatedTopPerksCard__3add8",
     "animate": "animate__3add8",
@@ -18141,7 +18156,9 @@
     "mobileWrapper": "mobileWrapper__66ce2",
     "countdownLabel": "countdownLabel__66ce2",
     "countdownBody": "countdownBody__66ce2",
-    "countdown": "countdown__66ce2"
+    "timerNumContainer": "timerNumContainer__66ce2",
+    "timerNum": "timerNum__66ce2",
+    "timerDelineator": "timerDelineator__66ce2"
   },
   "699343": {
     "content": "content__7c233",
