@@ -6385,8 +6385,7 @@
   },
   "257025": {
     "container": "container_ca98d9",
-    "footer": "footer_ca98d9",
-    "footerButton": "footerButton_ca98d9"
+    "footer": "footer_ca98d9"
   },
   "257356": {
     "container": "container__07ec5",
@@ -15938,7 +15937,6 @@
   },
   "621164": {
     "wrapperStyle": "wrapperStyle__04bb8",
-    "settingsButton": "settingsButton__04bb8",
     "reportFalsePositiveText": "reportFalsePositiveText__04bb8",
     "reportFalsePositiveButton": "reportFalsePositiveButton__04bb8"
   },
@@ -17890,8 +17888,7 @@
     "giftRecipientTag": "giftRecipientTag__57118"
   },
   "692056": {
-    "modalHeader": "modalHeader_c7d96d",
-    "footerLink": "footerLink_c7d96d"
+    "modalHeader": "modalHeader_c7d96d"
   },
   "692369": {
     "header": "header__647a7",
@@ -24841,9 +24838,6 @@
   },
   "948582": {
     "buttonContainer": "buttonContainer__3e6b4",
-    "button": "button__3e6b4",
-    "buttonInner": "buttonInner__3e6b4",
-    "buttonIcon": "buttonIcon__3e6b4",
     "body": "body__3e6b4",
     "textContainer": "textContainer__3e6b4",
     "description": "description__3e6b4",
@@ -26437,10 +26431,6 @@
     "spineWithGuildIcon": "spineWithGuildIcon__5b40b spine__5b40b",
     "spineBorderWithGuildIcon": "spineBorderWithGuildIcon__5b40b spineBorder__5b40b",
     "invertedSpine": "invertedSpine__5b40b"
-  },
-  "995605": {
-    "modalContent": "modalContent_d3d8e0",
-    "modalDescription": "modalDescription_d3d8e0"
   },
   "995717": {
     "container": "container__0ed20",
