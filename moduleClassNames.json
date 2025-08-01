@@ -2563,10 +2563,8 @@
     "commandContainer": "commandContainer_c94584",
     "command": "command_c94584",
     "commandFocusBlock": "commandFocusBlock_c94584",
-    "commandSentCTAButton": "commandSentCTAButton_c94584",
     "commandTextContainer": "commandTextContainer_c94584",
-    "commandTextContainerPlaceholder": "commandTextContainerPlaceholder_c94584",
-    "commandSentCTAButtonInner": "commandSentCTAButtonInner_c94584"
+    "commandTextContainerPlaceholder": "commandTextContainerPlaceholder_c94584"
   },
   "100658": {
     "chat": "chat_f75fb0",
@@ -12097,6 +12095,9 @@
     "lottieIconColors": "lottieIconColors__5eb9b",
     "lottieIcon": "lottieIcon__5eb9b"
   },
+  "481916": {
+    "subtitle": "subtitle_e15fb1"
+  },
   "482107": {
     "text": "text__87e56"
   },
@@ -12135,10 +12136,10 @@
     "neon-flicker-animation": "neon-flicker-animation_dfb989",
     "neon-glow-flicker-animation": "neon-glow-flicker-animation_dfb989",
     "toon-animation": "toon-animation_dfb989",
-    "pop-text-movement": "pop-text-movement_dfb989",
-    "pop-shadow-movement": "pop-shadow-movement_dfb989",
-    "pop-shadow-color": "pop-shadow-color_dfb989",
-    "gradientUsernameAnimation": "gradientUsernameAnimation_dfb989"
+    "pop-animation-main": "pop-animation-main_dfb989",
+    "pop-animation-shadow": "pop-animation-shadow_dfb989",
+    "gradientUsernameAnimation": "gradientUsernameAnimation_dfb989",
+    "singleIteration": "singleIteration_dfb989"
   },
   "482893": {
     "icon": "icon__80514"
