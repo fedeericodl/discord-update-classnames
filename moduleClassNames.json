@@ -6279,6 +6279,7 @@
     "body": "body_c6f1a4",
     "sliderBody": "sliderBody_c6f1a4",
     "reviewStep": "reviewStep_c6f1a4",
+    "addPaymentStepForPremium": "addPaymentStepForPremium_c6f1a4",
     "sliderBodyLarge": "sliderBodyLarge_c6f1a4"
   },
   "251027": {
@@ -23464,6 +23465,19 @@
     "disabled": "disabled__920ab",
     "optionals": "optionals__920ab",
     "optionalNames": "optionalNames__920ab"
+  },
+  "893986": {
+    "container": "container__247cf",
+    "loader": "loader__247cf",
+    "headerContainer": "headerContainer__247cf",
+    "gradientBar": "gradientBar__247cf",
+    "colorCircle": "colorCircle__247cf",
+    "colorCircleInner": "colorCircleInner__247cf",
+    "colorCircleSelectedTriangle": "colorCircleSelectedTriangle__247cf",
+    "hexInputContainer": "hexInputContainer__247cf",
+    "hexInput": "hexInput__247cf",
+    "trailingIcons": "trailingIcons__247cf",
+    "eyeDropperTooltip": "eyeDropperTooltip__247cf"
   },
   "894838": {
     "premiumBrandRefreshTier0Card": "premiumBrandRefreshTier0Card__9e160",
