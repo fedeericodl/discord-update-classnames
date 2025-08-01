@@ -9354,7 +9354,8 @@
     "inline": "inline__99afd",
     "footer": "footer__99afd",
     "content": "content__99afd",
-    "button": "button__99afd"
+    "button": "button__99afd",
+    "textButtonWrapper": "textButtonWrapper__99afd"
   },
   "365664": {
     "smallCarousel": "smallCarousel__03498",
@@ -12148,13 +12149,13 @@
     "pop": "pop_dfb989",
     "solid": "solid_dfb989",
     "animated": "animated_dfb989",
+    "loop": "loop_dfb989",
     "neon-flicker-animation": "neon-flicker-animation_dfb989",
     "neon-glow-flicker-animation": "neon-glow-flicker-animation_dfb989",
     "toon-animation": "toon-animation_dfb989",
     "pop-animation-main": "pop-animation-main_dfb989",
     "pop-animation-shadow": "pop-animation-shadow_dfb989",
-    "gradientUsernameAnimation": "gradientUsernameAnimation_dfb989",
-    "singleIteration": "singleIteration_dfb989"
+    "gradientUsernameAnimation": "gradientUsernameAnimation_dfb989"
   },
   "482893": {
     "icon": "icon__80514"
@@ -20245,7 +20246,6 @@
     "content": "content_d0b769",
     "icon": "icon_d0b769",
     "divider": "divider_d0b769",
-    "button": "button_d0b769",
     "iconButton": "iconButton_d0b769"
   },
   "781793": {
