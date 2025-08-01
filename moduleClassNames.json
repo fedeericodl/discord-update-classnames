@@ -861,6 +861,15 @@
     "goalText": "goalText_eff079",
     "progressText": "progressText_eff079"
   },
+  "30517": {
+    "textArea": "textArea__89a34",
+    "resizeable": "resizeable__89a34",
+    "inputMaxLength": "inputMaxLength__89a34",
+    "flex": "flex__89a34",
+    "maxLength": "maxLength__89a34",
+    "errorOverflow": "errorOverflow__89a34",
+    "errorMessage": "errorMessage__89a34"
+  },
   "30754": {
     "container": "container__74f3e",
     "image": "image__74f3e",
@@ -4751,6 +4760,12 @@
     "shopButton": "shopButton__7ac97",
     "cursorPointer": "cursorPointer__7ac97",
     "buttonText": "buttonText__7ac97"
+  },
+  "184614": {
+    "text-md/normal": "text-md/normal__5a092",
+    "textArea": "textArea__5a092",
+    "maxLength": "maxLength__5a092",
+    "errorOverflow": "errorOverflow__5a092"
   },
   "184744": {
     "streamerModeEnabled": "streamerModeEnabled_aa3ffd",
@@ -26637,15 +26652,6 @@
   },
   "998587": {
     "subtext": "subtext_beaa93"
-  },
-  "999249": {
-    "textArea": "textArea__7aff3",
-    "resizeable": "resizeable__7aff3",
-    "inputMaxLength": "inputMaxLength__7aff3",
-    "flex": "flex__7aff3",
-    "maxLength": "maxLength__7aff3",
-    "errorOverflow": "errorOverflow__7aff3",
-    "errorMessage": "errorMessage__7aff3"
   },
   "999384": {
     "menu": "menu_e1bef1"
