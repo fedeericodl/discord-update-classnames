@@ -4254,9 +4254,6 @@
   "165674": {
     "textWithIcon": "textWithIcon__6e421"
   },
-  "165862": {
-    "image": "image__9adaf"
-  },
   "166011": {
     "hoverButtonGroup": "hoverButtonGroup__06ab4",
     "forceShowHover": "forceShowHover__06ab4",
@@ -14079,6 +14076,17 @@
     "cardDescription": "cardDescription__72fa0",
     "cardSummary": "cardSummary__72fa0"
   },
+  "556591": {
+    "container": "container__20ba8",
+    "aspect-ratio-21/9": "aspect-ratio-21/9__20ba8",
+    "aspect-ratio-16/9": "aspect-ratio-16/9__20ba8",
+    "aspect-ratio-6/4": "aspect-ratio-6/4__20ba8",
+    "aspect-ratio-1/1": "aspect-ratio-1/1__20ba8",
+    "image": "image__20ba8",
+    "video": "video__20ba8",
+    "lottie": "lottie__20ba8",
+    "rive": "rive__20ba8"
+  },
   "556707": {
     "recorderContainer": "recorderContainer__2636e container_f89b2c",
     "containerDisabled": "containerDisabled__2636e disabled_f89b2c",
@@ -16995,16 +17003,6 @@
     "spinner": "spinner__9ae4f",
     "title": "title__9ae4f",
     "description": "description__9ae4f"
-  },
-  "661682": {
-    "modalRoot": "modalRoot__9c82a",
-    "birbContainer": "birbContainer__9c82a",
-    "announcementBirb": "announcementBirb__9c82a",
-    "modalContent": "modalContent__9c82a",
-    "eyebrow": "eyebrow__9c82a",
-    "header": "header__9c82a",
-    "subHeader": "subHeader__9c82a",
-    "buttonContainer": "buttonContainer__9c82a"
   },
   "661711": {
     "header": "header__78f69",
@@ -22000,7 +21998,8 @@
     "striked": "striked_e77b99"
   },
   "843856": {
-    "back": "back_e125f1"
+    "back": "back_e125f1",
+    "modalFooter": "modalFooter_e125f1"
   },
   "843990": {
     "errorPageContainer": "errorPageContainer__5a176",
@@ -24917,7 +24916,6 @@
     "headerLayout": "headerLayout__53cea",
     "headerGradient": "headerGradient__53cea",
     "headerGraphic": "headerGraphic__53cea",
-    "lottie": "lottie__53cea",
     "headerLeading": "headerLeading__53cea",
     "headerLeadingSpacer": "headerLeadingSpacer__53cea",
     "headerTrailing": "headerTrailing__53cea",
@@ -25948,10 +25946,6 @@
   "972308": {
     "container": "container__0b7fc",
     "actions": "actions__0b7fc"
-  },
-  "972478": {
-    "nitroIcon": "nitroIcon__9f4f9",
-    "innerButton": "innerButton__9f4f9"
   },
   "972849": {
     "modal": "modal__7f8f5",
