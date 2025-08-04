@@ -9947,8 +9947,7 @@
     "safetyShieldIcon": "safetyShieldIcon__51e4d",
     "buttons": "buttons__51e4d",
     "shieldAndHeading": "shieldAndHeading__51e4d",
-    "closeButton": "closeButton__51e4d",
-    "ctaButton": "ctaButton__51e4d"
+    "closeButton": "closeButton__51e4d"
   },
   "393023": {
     "avatarContainer": "avatarContainer_efaad4",
@@ -10384,6 +10383,8 @@
     "container": "container__5a2df",
     "containerInner": "containerInner__5a2df",
     "editorBody": "editorBody__5a2df",
+    "section": "section__5a2df",
+    "resetButton": "resetButton__5a2df",
     "headerContainer": "headerContainer__5a2df",
     "closeButton": "closeButton__5a2df",
     "sliderContainer": "sliderContainer__5a2df",
@@ -13795,14 +13796,6 @@
     "container": "container__58c96",
     "pointer": "pointer__58c96"
   },
-  "548726": {
-    "content": "content__296bb",
-    "iconBackground": "iconBackground__296bb",
-    "headerIcon": "headerIcon__296bb",
-    "subtitle": "subtitle__296bb",
-    "title": "title__296bb",
-    "cancelButton": "cancelButton__296bb"
-  },
   "549405": {
     "lockedPickerItem": "lockedPickerItem_ba8b8d",
     "guildBadge": "guildBadge_ba8b8d",
@@ -14659,8 +14652,7 @@
   "571031": {
     "messageContainer": "messageContainer__7796e",
     "saveNoticeContainer": "saveNoticeContainer__7796e",
-    "buttonContainer": "buttonContainer__7796e",
-    "clearButton": "clearButton__7796e"
+    "buttonContainer": "buttonContainer__7796e"
   },
   "571658": {
     "popout": "popout__76f04",
@@ -16249,9 +16241,7 @@
     "searchHeaderContainer": "searchHeaderContainer__98d1c",
     "searchHeader": "searchHeader__98d1c",
     "searchInput": "searchInput__98d1c",
-    "tableOptions": "tableOptions__98d1c",
-    "sortButton": "sortButton__98d1c",
-    "sortText": "sortText__98d1c"
+    "tableOptions": "tableOptions__98d1c"
   },
   "631587": {
     "wrapper": "wrapper__3ba3b",
@@ -22029,8 +22019,10 @@
     "accentOnHover": "accentOnHover_de2fa0",
     "questHeading": "questHeading_de2fa0",
     "contentFooter": "contentFooter_de2fa0",
+    "contentFooterPortrait": "contentFooterPortrait_de2fa0",
     "contentFooterButtonCont": "contentFooterButtonCont_de2fa0",
     "claimBtn": "claimBtn_de2fa0",
+    "portraitCtaBtn": "portraitCtaBtn_de2fa0",
     "progressCont": "progressCont_de2fa0",
     "questProgressRewardTile": "questProgressRewardTile_de2fa0",
     "transcriptOverlay": "transcriptOverlay_de2fa0",
@@ -23450,7 +23442,6 @@
   "893986": {
     "container": "container__247cf",
     "loader": "loader__247cf",
-    "headerContainer": "headerContainer__247cf",
     "gradientBar": "gradientBar__247cf",
     "colorCircle": "colorCircle__247cf",
     "colorCircleInner": "colorCircleInner__247cf",
