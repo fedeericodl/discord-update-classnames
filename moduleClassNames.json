@@ -3840,10 +3840,6 @@
     "caret--custom": "caret--custom__6ec79"
   },
   "147612": {
-    "headerContainer": "headerContainer__7e1d8",
-    "headerText": "headerText__7e1d8",
-    "closeIcon": "closeIcon__7e1d8",
-    "options": "options__7e1d8",
     "optionContainer": "optionContainer__7e1d8",
     "optionContainerOther": "optionContainerOther__7e1d8",
     "optionText": "optionText__7e1d8",
@@ -5434,13 +5430,10 @@
     "controlButtonWrapper": "controlButtonWrapper__49676"
   },
   "221166": {
-    "modalContent": "modalContent__837b7",
     "radioGroup": "radioGroup__837b7",
     "radioItem": "radioItem__837b7",
-    "footer": "footer__837b7",
     "title": "title__837b7",
     "error": "error__837b7",
-    "closeIcon": "closeIcon__837b7",
     "reasonFreeText": "reasonFreeText__837b7",
     "hidden": "hidden__837b7"
   },
@@ -15841,7 +15834,6 @@
     "thumbIcon": "thumbIcon__3aab5"
   },
   "613915": {
-    "headerContainer": "headerContainer_c38e9f",
     "mainContainer": "mainContainer_c38e9f",
     "pauseContainer": "pauseContainer_c38e9f",
     "pauseText": "pauseText_c38e9f",
