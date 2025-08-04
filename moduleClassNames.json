@@ -474,9 +474,6 @@
     "tooltipContent": "tooltipContent__5f158",
     "tooltipCounter": "tooltipCounter__5f158"
   },
-  "18537": {
-    "actionButton": "actionButton__5d9ef"
-  },
   "18804": {
     "canvas": "canvas__7bc2c"
   },
@@ -5244,11 +5241,7 @@
     "gifTag": "gifTag_f60819"
   },
   "209564": {
-    "header": "header__4b6c5",
-    "countdown": "countdown__4b6c5",
-    "closeButton": "closeButton__4b6c5",
-    "closeIcon": "closeIcon__4b6c5",
-    "cta": "cta__4b6c5"
+    "countdown": "countdown__4b6c5"
   },
   "209643": {
     "memberSinceWrapper": "memberSinceWrapper_c4eb81",
@@ -7935,8 +7928,7 @@
   "305086": {
     "container": "container__2c3b4",
     "header": "header__2c3b4",
-    "upsellsContainer": "upsellsContainer__2c3b4",
-    "navLinkButton": "navLinkButton__2c3b4"
+    "upsellsContainer": "upsellsContainer__2c3b4"
   },
   "305623": {
     "header": "header__8f3be",
@@ -11534,13 +11526,10 @@
     "mention": "mention__23463"
   },
   "454489": {
-    "closeButton": "closeButton__0907c",
-    "selectorHeader": "selectorHeader__0907c",
     "selectorText": "selectorText__0907c",
     "selectorTextSelected": "selectorTextSelected__0907c",
     "selectorButton": "selectorButton__0907c",
-    "selectorButtonSelected": "selectorButtonSelected__0907c selectorButton__0907c",
-    "contentContainer": "contentContainer__0907c"
+    "selectorButtonSelected": "selectorButtonSelected__0907c selectorButton__0907c"
   },
   "454507": {
     "previewSection": "previewSection__4671c",
