@@ -10363,11 +10363,7 @@
     "messageTextButton": "messageTextButton__24502",
     "messageIconButton": "messageIconButton__24502",
     "body": "body__24502",
-    "username": "username__24502",
-    "bannerContainer": "bannerContainer__24502",
-    "friendRequestBanner": "friendRequestBanner__24502",
-    "backdrop": "backdrop__24502",
-    "toast": "toast__24502"
+    "username": "username__24502"
   },
   "405751": {
     "wrapper": "wrapper_da5890"
@@ -21585,14 +21581,6 @@
     "redemptionFailedMessage": "redemptionFailedMessage__996b0",
     "redemptionFailedMessageCopy": "redemptionFailedMessageCopy__996b0"
   },
-  "829441": {
-    "root": "root__1f3e3",
-    "preview": "preview__1f3e3",
-    "container": "container__1f3e3",
-    "headerContainer": "headerContainer__1f3e3",
-    "body": "body__1f3e3",
-    "safetyTable": "safetyTable__1f3e3"
-  },
   "830129": {
     "guildIcon": "guildIcon__0fa6d",
     "mask": "mask__0fa6d",
@@ -23329,9 +23317,6 @@
     "selected": "selected_da21bd",
     "disabled": "disabled_da21bd",
     "hidden": "hidden_da21bd"
-  },
-  "887910": {
-    "container": "container__9e42c"
   },
   "888090": {
     "presets": "presets_a00e6e",
