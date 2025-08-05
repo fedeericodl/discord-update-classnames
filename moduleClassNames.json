@@ -20642,6 +20642,15 @@
     "messageContent": "messageContent__2facc",
     "alertIcon": "alertIcon__2facc"
   },
+  "794503": {
+    "videoContainer": "videoContainer__1bd8a",
+    "video": "video__1bd8a",
+    "hidden": "hidden__1bd8a",
+    "visible": "visible__1bd8a",
+    "entryAnimationContainer": "entryAnimationContainer__1bd8a",
+    "wowMomentScaleIn": "wowMomentScaleIn__1bd8a",
+    "wowMomentScaleSettle": "wowMomentScaleSettle__1bd8a"
+  },
   "794913": {
     "flex": "flex__7c0ba",
     "horizontal": "horizontal__7c0ba",
