@@ -2369,6 +2369,13 @@
     "settingsScroller": "settingsScroller_b454a6 customScroller__23e6b contentRegionScroller__23e6b",
     "settingsContent": "settingsContent_b454a6 contentColumnDefault__23e6b settingsColumn_b454a6 customColumn__23e6b"
   },
+  "94091": {
+    "content": "content_ad8b04",
+    "cell": "cell_ad8b04",
+    "channelName": "channelName_ad8b04",
+    "loadState": "loadState_ad8b04",
+    "channelId": "channelId_ad8b04"
+  },
   "94308": {
     "select": "select_d48ec6",
     "error": "error_d48ec6",
@@ -3961,6 +3968,16 @@
     "emptyState": "emptyState__32fe1",
     "emptyHeader": "emptyHeader__32fe1",
     "emptyIcon": "emptyIcon__32fe1"
+  },
+  "153013": {
+    "perkCard": "perkCard_a1e8da",
+    "disabled": "disabled_a1e8da",
+    "perkCardImage": "perkCardImage_a1e8da",
+    "active": "active_a1e8da",
+    "toggleButton": "toggleButton_a1e8da",
+    "footerContainer": "footerContainer_a1e8da",
+    "footerDetails": "footerDetails_a1e8da",
+    "statusContainer": "statusContainer_a1e8da"
   },
   "154142": {
     "container": "container__3f864",
@@ -12006,6 +12023,10 @@
     "valuePropDivider": "valuePropDivider__4b2e7",
     "slideContainer": "slideContainer__4b2e7"
   },
+  "475338": {
+    "description": "description__509fe",
+    "image": "image__509fe"
+  },
   "475779": {
     "guildIconImage": "guildIconImage_d28ae0",
     "acronym": "acronym_d28ae0"
@@ -12634,12 +12655,9 @@
   },
   "503945": {
     "container": "container__6f9f7",
-    "tooltipContainer": "tooltipContainer__6f9f7",
     "primaryButton": "primaryButton__6f9f7",
-    "secondaryButton": "secondaryButton__6f9f7",
     "buttonInner": "buttonInner__6f9f7",
-    "buttonWrapper": "buttonWrapper__6f9f7",
-    "dot": "dot__6f9f7"
+    "buttonWrapper": "buttonWrapper__6f9f7"
   },
   "504185": {
     "wrapper": "wrapper__99020",
@@ -17614,6 +17632,12 @@
     "vertical": "vertical_ad58e7",
     "tileContainer": "tileContainer_ad58e7"
   },
+  "679051": {
+    "modalContentContainer": "modalContentContainer__7ee2f",
+    "perkCardsContainer": "perkCardsContainer__7ee2f",
+    "footerContainer": "footerContainer__7ee2f",
+    "footerInfoContainer": "footerInfoContainer__7ee2f"
+  },
   "679335": {
     "closeButton": "closeButton__6ee2f",
     "title": "title__6ee2f",
@@ -22156,6 +22180,13 @@
     "tier1AccountCreditHeader": "tier1AccountCreditHeader__94f72",
     "fractionalUnactivatedPill": "fractionalUnactivatedPill__94f72",
     "fractionalUnactivatedPillText": "fractionalUnactivatedPillText__94f72"
+  },
+  "847625": {
+    "tooltipContainer": "tooltipContainer__652ee",
+    "secondaryButton": "secondaryButton__652ee",
+    "buttonInner": "buttonInner__652ee",
+    "buttonWrapper": "buttonWrapper__652ee",
+    "dot": "dot__652ee"
   },
   "847800": {
     "iconPlaceholder": "iconPlaceholder__1729d",
