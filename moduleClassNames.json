@@ -8377,7 +8377,11 @@
     "label": "label__95e0a",
     "sublabel": "sublabel__95e0a",
     "clearFilters": "clearFilters__95e0a",
-    "filterSection": "filterSection__95e0a"
+    "filterSection": "filterSection__95e0a",
+    "dateFilter": "dateFilter__95e0a",
+    "dateFilterSelect": "dateFilterSelect__95e0a",
+    "removeDateFilterButton": "removeDateFilterButton__95e0a",
+    "trashIcon": "trashIcon__95e0a"
   },
   "326319": {
     "systemMessageContainer": "systemMessageContainer_df65b5",
@@ -10448,7 +10452,9 @@
     "badgeAndCloseRow": "badgeAndCloseRow__5a2df",
     "subtitle": "subtitle__5a2df",
     "coachmarkFooterContainer": "coachmarkFooterContainer__5a2df",
-    "nitroIcon": "nitroIcon__5a2df"
+    "nitroIcon": "nitroIcon__5a2df",
+    "controlLabelContainer": "controlLabelContainer__5a2df",
+    "controlLabelInput": "controlLabelInput__5a2df"
   },
   "409667": {
     "heading": "heading__4169d",
