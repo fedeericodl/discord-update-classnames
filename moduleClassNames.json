@@ -11899,9 +11899,10 @@
   },
   "467514": {
     "gameCover": "gameCover__1a3d6",
+    "coverContainer": "coverContainer__1a3d6 gameCover__1a3d6",
+    "clickable": "clickable__1a3d6",
     "gameCoverImage": "gameCoverImage__1a3d6 gameCover__1a3d6",
-    "fallback": "fallback__1a3d6 gameCover__1a3d6",
-    "clickable": "clickable__1a3d6"
+    "fallback": "fallback__1a3d6 gameCover__1a3d6"
   },
   "468590": {
     "payment": "payment_e9cb00",
@@ -21087,10 +21088,8 @@
     "acceptButton": "acceptButton__50dcd"
   },
   "807069": {
-    "content": "content_d7fb2d",
     "card": "card_d7fb2d",
-    "error": "error_d7fb2d",
-    "footer": "footer_d7fb2d"
+    "error": "error_d7fb2d"
   },
   "807201": {
     "noScroll": "noScroll_afb566",
@@ -25462,9 +25461,6 @@
     "list": "list__3b260",
     "loadingMutualFriend": "loadingMutualFriend__3b260"
   },
-  "954775": {
-    "overflowButton": "overflowButton_fc1255"
-  },
   "954859": {
     "formText": "formText_ddd181",
     "default": "default_ddd181 formText_ddd181",
@@ -26458,7 +26454,8 @@
   },
   "987278": {
     "container": "container_a62a28",
-    "socialProof": "socialProof_a62a28"
+    "socialProof": "socialProof_a62a28",
+    "socialProofBackdrop": "socialProofBackdrop_a62a28"
   },
   "989073": {
     "calendarContainer": "calendarContainer__9bb02",
