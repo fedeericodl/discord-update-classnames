@@ -11935,7 +11935,8 @@
     "coverContainer": "coverContainer__1a3d6 gameCover__1a3d6",
     "clickable": "clickable__1a3d6",
     "gameCoverImage": "gameCoverImage__1a3d6 gameCover__1a3d6",
-    "fallback": "fallback__1a3d6 gameCover__1a3d6"
+    "fallback": "fallback__1a3d6 gameCover__1a3d6",
+    "loadingCover": "loadingCover__1a3d6 gameCover__1a3d6"
   },
   "468590": {
     "payment": "payment_e9cb00",
@@ -12207,7 +12208,8 @@
     "description": "description__076c1"
   },
   "481916": {
-    "subtitle": "subtitle_e15fb1"
+    "subtitle": "subtitle_e15fb1",
+    "asset": "asset_e15fb1"
   },
   "482107": {
     "text": "text__87e56"
@@ -17366,6 +17368,7 @@
     "assetPlaceholder": "assetPlaceholder_d6f39b",
     "asset--sm": "asset--sm_d6f39b",
     "asset--md": "asset--md_d6f39b",
+    "asset--lg": "asset--lg_d6f39b",
     "asset--video": "asset--video_d6f39b",
     "videoAsset": "videoAsset_d6f39b",
     "assetInline": "assetInline_d6f39b",
