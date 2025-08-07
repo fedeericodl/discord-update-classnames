@@ -7764,8 +7764,13 @@
     "joinCTA": "joinCTA_f17563"
   },
   "300695": {
+    "tagListContainer": "tagListContainer__25a50",
     "tagList": "tagList__25a50",
-    "tag": "tag__25a50"
+    "tag": "tag__25a50",
+    "buttonContainer": "buttonContainer__25a50",
+    "expandButton": "expandButton__25a50 tag__25a50",
+    "collapseButton": "collapseButton__25a50 tag__25a50",
+    "caret": "caret__25a50"
   },
   "301150": {
     "empty": "empty__9d78f",
@@ -17371,6 +17376,7 @@
     "multistepActionLayout": "multistepActionLayout_d6f39b",
     "caretIcon": "caretIcon_d6f39b",
     "caretFill": "caretFill_d6f39b",
+    "caretGradient": "caretGradient_d6f39b",
     "caretStroke": "caretStroke_d6f39b"
   },
   "669792": {
@@ -24580,11 +24586,35 @@
   },
   "931207": {
     "panel": "panel_b6e84c",
+    "panelContainer": "panelContainer_b6e84c",
+    "tableContainer": "tableContainer_b6e84c",
+    "subPanel": "subPanel_b6e84c",
+    "toolbar": "toolbar_b6e84c",
+    "filtersToolbar": "filtersToolbar_b6e84c",
+    "searchBar": "searchBar_b6e84c",
+    "paneOption": "paneOption_b6e84c",
+    "activePaneOption": "activePaneOption_b6e84c",
+    "copyAll": "copyAll_b6e84c",
+    "filter": "filter_b6e84c",
+    "activeFilter": "activeFilter_b6e84c",
+    "pollBreadcrumbs": "pollBreadcrumbs_b6e84c",
     "scroller": "scroller_b6e84c",
     "panelGroup": "panelGroup_b6e84c",
     "panelHeader": "panelHeader_b6e84c",
     "panelButton": "panelButton_b6e84c",
-    "copyId": "copyId_b6e84c"
+    "stackTraceFunction": "stackTraceFunction_b6e84c",
+    "stackTraceLocation": "stackTraceLocation_b6e84c",
+    "copyId": "copyId_b6e84c",
+    "subPanelHeaderBar": "subPanelHeaderBar_b6e84c",
+    "subPanelScroller": "subPanelScroller_b6e84c",
+    "commonProperties": "commonProperties_b6e84c",
+    "rightColumn": "rightColumn_b6e84c",
+    "nameColumn": "nameColumn_b6e84c",
+    "tableBarColumn": "tableBarColumn_b6e84c",
+    "headerIcon": "headerIcon_b6e84c",
+    "tableBar": "tableBar_b6e84c",
+    "headerTitle": "headerTitle_b6e84c",
+    "copyEventButton": "copyEventButton_b6e84c"
   },
   "931251": {
     "container": "container__1fad5",
