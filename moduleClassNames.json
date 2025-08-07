@@ -14896,7 +14896,6 @@
     "hasActionMaxWidth": "hasActionMaxWidth__920b8",
     "userActions": "userActions__920b8",
     "username": "username__920b8",
-    "textOverflow": "textOverflow__920b8",
     "hintText": "hintText__920b8",
     "spinner": "spinner__920b8"
   },
@@ -23636,6 +23635,14 @@
     "text": "text__7ff28",
     "error": "error__7ff28"
   },
+  "900365": {
+    "container": "container_a58267",
+    "visible": "visible_a58267",
+    "content": "content_a58267",
+    "emphasized": "emphasized_a58267",
+    "message": "message_a58267",
+    "actions": "actions_a58267"
+  },
   "900388": {
     "waitlist": "waitlist__24d4e",
     "waitlistCtaButton": "waitlistCtaButton__24d4e"
@@ -24989,6 +24996,8 @@
     "headerLayout": "headerLayout__53cea",
     "headerGradient": "headerGradient__53cea",
     "headerGraphic": "headerGraphic__53cea",
+    "headerGraphicContainer": "headerGraphicContainer__53cea",
+    "headerGraphicAnimated": "headerGraphicAnimated__53cea",
     "headerLeading": "headerLeading__53cea",
     "headerLeadingSpacer": "headerLeadingSpacer__53cea",
     "headerTrailing": "headerTrailing__53cea",
@@ -24996,6 +25005,9 @@
     "headerLeadingAbsolute": "headerLeadingAbsolute__53cea",
     "headerTrailingAbsolute": "headerTrailingAbsolute__53cea",
     "headerMain": "headerMain__53cea",
+    "headerSubtitle": "headerSubtitle__53cea",
+    "headerTitle": "headerTitle__53cea",
+    "headerBadge": "headerBadge__53cea",
     "body": "body__53cea",
     "bodySpacerTop": "bodySpacerTop__53cea",
     "bodySpacerTopBorder": "bodySpacerTopBorder__53cea",
@@ -25799,10 +25811,7 @@
   "963650": {
     "title": "title_efe2ea",
     "subtitle": "subtitle_efe2ea",
-    "contentContainer": "contentContainer_efe2ea",
-    "button": "button_efe2ea",
-    "buttonWithIcon": "buttonWithIcon_efe2ea",
-    "externalArrow": "externalArrow_efe2ea"
+    "contentContainer": "contentContainer_efe2ea"
   },
   "963748": {
     "wrapper": "wrapper_a230e0",
