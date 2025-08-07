@@ -838,7 +838,8 @@
     "locationContainer": "locationContainer_e88f3f",
     "location": "location_e88f3f",
     "locationIcon": "locationIcon_e88f3f",
-    "avatar": "avatar_e88f3f"
+    "avatar": "avatar_e88f3f",
+    "key": "key_e88f3f"
   },
   "30009": {
     "progressPulse": "progressPulse_eff079",
@@ -9585,8 +9586,7 @@
   },
   "373283": {
     "spacing": "spacing__7d739",
-    "title": "title__7d739",
-    "closeButton": "closeButton__7d739"
+    "title": "title__7d739"
   },
   "374336": {
     "qualityIndicator": "qualityIndicator__30845",
@@ -15412,6 +15412,9 @@
   "590824": {
     "previewPanel": "previewPanel__6dc2e",
     "divider": "divider__6dc2e"
+  },
+  "591334": {
+    "gameSearchCombobox": "gameSearchCombobox__36be8"
   },
   "591837": {
     "chat": "chat_ee72fa"
