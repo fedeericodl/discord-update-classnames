@@ -3958,6 +3958,7 @@
   "153013": {
     "perkCard": "perkCard_a1e8da",
     "disabled": "disabled_a1e8da",
+    "activeCard": "activeCard_a1e8da",
     "perkCardImage": "perkCardImage_a1e8da",
     "active": "active_a1e8da",
     "toggleButton": "toggleButton_a1e8da",
@@ -6260,6 +6261,9 @@
     "content": "content_fdf9c0",
     "textContainer": "textContainer_fdf9c0",
     "safetyTable": "safetyTable_fdf9c0"
+  },
+  "247992": {
+    "shopTakeOver": "shopTakeOver__6c6a6"
   },
   "248520": {
     "panel": "panel_a81334",
@@ -12239,6 +12243,7 @@
     "container": "container_dfb989",
     "innerContainer": "innerContainer_dfb989",
     "glowContainer": "glowContainer_dfb989",
+    "emoji": "emoji_dfb989",
     "forceAnimate": "forceAnimate_dfb989",
     "solid": "solid_dfb989",
     "showEffect": "showEffect_dfb989",
