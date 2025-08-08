@@ -6262,9 +6262,6 @@
     "textContainer": "textContainer_fdf9c0",
     "safetyTable": "safetyTable_fdf9c0"
   },
-  "247992": {
-    "shopTakeOver": "shopTakeOver__6c6a6"
-  },
   "248520": {
     "panel": "panel_a81334",
     "toolbar": "toolbar_a81334",
@@ -7764,7 +7761,6 @@
   },
   "300695": {
     "tagListContainer": "tagListContainer__25a50",
-    "tagList": "tagList__25a50",
     "tag": "tag__25a50",
     "buttonContainer": "buttonContainer__25a50",
     "expandButton": "expandButton__25a50 tag__25a50",
@@ -7994,6 +7990,9 @@
     "desktopMenuMore": "desktopMenuMore__15d0e",
     "iconArrow": "iconArrow__15d0e",
     "listItemSocialMedia": "listItemSocialMedia__15d0e"
+  },
+  "306414": {
+    "shopTakeOver": "shopTakeOver__5e632"
   },
   "306447": {
     "inputWrapper": "inputWrapper_a97616",
@@ -22262,6 +22261,7 @@
     "messageContent": "messageContent_c19a55",
     "gradient": "gradient_c19a55",
     "header": "header_c19a55",
+    "withDisplayNameStyles": "withDisplayNameStyles_c19a55",
     "buttonContainer": "buttonContainer_c19a55",
     "avatar": "avatar_c19a55",
     "avatarDecoration": "avatarDecoration_c19a55",
