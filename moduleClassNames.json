@@ -13302,7 +13302,6 @@
     "warningIcon": "warningIcon_e80b85",
     "incidentTiming": "incidentTiming_e80b85",
     "noticeBody": "noticeBody_e80b85",
-    "detailsButton": "detailsButton_e80b85",
     "footerContainer": "footerContainer_e80b85"
   },
   "524468": {
@@ -21515,18 +21514,6 @@
     "error": "error_f0aa37",
     "roleSelector": "roleSelector_f0aa37",
     "roleCircle": "roleCircle_f0aa37"
-  },
-  "822566": {
-    "header": "header_f476f9",
-    "content": "content_f476f9",
-    "footer": "footer_f476f9",
-    "root": "root_f476f9",
-    "table": "table_f476f9",
-    "anotherOption": "anotherOption_f476f9",
-    "optionEyebrow": "optionEyebrow_f476f9",
-    "cancelButton": "cancelButton_f476f9",
-    "listContent": "listContent_f476f9",
-    "learnMore": "learnMore_f476f9"
   },
   "823123": {
     "container": "container__0f711",
