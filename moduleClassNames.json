@@ -9265,6 +9265,7 @@
   "361488": {
     "container": "container__75558",
     "header": "header__75558",
+    "textContainer": "textContainer__75558",
     "nameplatePreviewContainer": "nameplatePreviewContainer__75558",
     "footer": "footer__75558",
     "nameplateGlow": "nameplateGlow__75558",
@@ -12212,7 +12213,8 @@
   },
   "481916": {
     "subtitle": "subtitle_e15fb1",
-    "asset": "asset_e15fb1"
+    "asset": "asset_e15fb1",
+    "betaTag": "betaTag_e15fb1"
   },
   "482107": {
     "text": "text__87e56"
@@ -12241,6 +12243,7 @@
   },
   "482695": {
     "container": "container_dfb989",
+    "inProfile": "inProfile_dfb989",
     "innerContainer": "innerContainer_dfb989",
     "glowContainer": "glowContainer_dfb989",
     "emoji": "emoji_dfb989",
@@ -14995,10 +14998,6 @@
     "splashText": "splashText_a154bf"
   },
   "578305": {
-    "modal": "modal_a47d61",
-    "coverImageContainer": "coverImageContainer_a47d61",
-    "header": "header_a47d61",
-    "content": "content_a47d61",
     "description": "description_a47d61"
   },
   "578504": {
@@ -18392,7 +18391,8 @@
     "immersiveBannerContent": "immersiveBannerContent__43ce9",
     "immersiveBannerTextContainer": "immersiveBannerTextContainer__43ce9",
     "banner": "banner__43ce9",
-    "title": "title__43ce9"
+    "title": "title__43ce9",
+    "learnMoreLink": "learnMoreLink__43ce9"
   },
   "706442": {
     "chatWallpaperDMListCoachmarkArt": "chatWallpaperDMListCoachmarkArt_f36944"
@@ -25006,6 +25006,7 @@
     "headerTitle": "headerTitle__53cea",
     "headerBadge": "headerBadge__53cea",
     "body": "body__53cea",
+    "bodyList": "bodyList__53cea",
     "bodySpacerTop": "bodySpacerTop__53cea",
     "bodySpacerTopBorder": "bodySpacerTopBorder__53cea",
     "bodySpacerBottom": "bodySpacerBottom__53cea",
