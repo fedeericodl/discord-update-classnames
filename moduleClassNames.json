@@ -5985,7 +5985,9 @@
     "containerQuestBarVisible": "containerQuestBarVisible__37e49",
     "containerRtcOpened": "containerRtcOpened__37e49",
     "iconForeground": "iconForeground__37e49",
-    "plated": "plated__37e49"
+    "plated": "plated__37e49",
+    "accountButtonsTooltip": "accountButtonsTooltip__37e49",
+    "accountButtonsTooltipContent": "accountButtonsTooltipContent__37e49"
   },
   "239721": {
     "container": "container_bebc5b",
@@ -8390,10 +8392,7 @@
     "fullScreenWrapper": "fullScreenWrapper__46b37",
     "mobileWrapper": "mobileWrapper__46b37",
     "countdownLabel": "countdownLabel__46b37",
-    "countdownBody": "countdownBody__46b37",
-    "timerNumContainer": "timerNumContainer__46b37",
-    "timerNum": "timerNum__46b37",
-    "timerDelineator": "timerDelineator__46b37"
+    "countdownBody": "countdownBody__46b37"
   },
   "326319": {
     "systemMessageContainer": "systemMessageContainer_df65b5",
@@ -24852,6 +24851,11 @@
   },
   "940221": {
     "actionBarButton": "actionBarButton__18c2e"
+  },
+  "940326": {
+    "container": "container__4d61a",
+    "number": "number__4d61a",
+    "delineator": "delineator__4d61a"
   },
   "940649": {
     "containerTop": "containerTop__45edc",
