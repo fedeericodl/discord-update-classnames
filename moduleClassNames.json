@@ -17525,6 +17525,13 @@
     "colorPickerDropperDark": "colorPickerDropperDark__488d9",
     "disabled": "disabled__488d9"
   },
+  "675690": {
+    "flatContainer": "flatContainer_a2f4dc",
+    "flatImage": "flatImage_a2f4dc",
+    "flatContent": "flatContent_a2f4dc",
+    "flatContainerTooltipContent": "flatContainerTooltipContent_a2f4dc",
+    "flatContainerTooltip": "flatContainerTooltip_a2f4dc"
+  },
   "675968": {
     "container": "container__8475b"
   },
