@@ -4779,8 +4779,7 @@
     "serverShopLabelText": "serverShopLabelText__86fa6",
     "guildShopEmbedFooter": "guildShopEmbedFooter__86fa6",
     "guildShopSummary": "guildShopSummary__86fa6",
-    "guildShopEmbedCta": "guildShopEmbedCta__86fa6",
-    "guildShopEmbedCtaContent": "guildShopEmbedCtaContent__86fa6"
+    "guildShopEmbedCta": "guildShopEmbedCta__86fa6"
   },
   "164294": {
     "avatarBackground": "avatarBackground_eb2508",
@@ -6419,9 +6418,6 @@
     "row": "row__3dc42",
     "pill": "pill__3dc42",
     "ctaContent": "ctaContent__3dc42",
-    "getStartedButton": "getStartedButton__3dc42",
-    "getStartedButtonContents": "getStartedButtonContents__3dc42",
-    "getStartedArrow": "getStartedArrow__3dc42",
     "muralImageContainer": "muralImageContainer__3dc42",
     "muralImage": "muralImage__3dc42",
     "muralImageReducedWidth": "muralImageReducedWidth__3dc42",
@@ -8911,9 +8907,7 @@
     "ruleNameInput": "ruleNameInput__2f210"
   },
   "336984": {
-    "guildProductRoleIcon": "guildProductRoleIcon__77573",
-    "shine": "shine__77573",
-    "Shine": "Shine__77573"
+    "guildProductRoleIcon": "guildProductRoleIcon__77573"
   },
   "337022": {
     "popoutWrapper": "popoutWrapper__7fe3a",
@@ -18604,8 +18598,7 @@
   },
   "707753": {
     "previewNotice": "previewNotice__60f3f",
-    "previewNoticeText": "previewNoticeText__60f3f",
-    "removePreviewButton": "removePreviewButton__60f3f"
+    "previewNoticeText": "previewNoticeText__60f3f"
   },
   "708075": {
     "clipItem": "clipItem__1d12e",
