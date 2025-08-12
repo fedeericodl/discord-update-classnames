@@ -398,6 +398,9 @@
     "safetySettingsNotice": "safetySettingsNotice__9536c",
     "closeButton": "closeButton__9536c"
   },
+  "15392": {
+    "clickable": "clickable__65fc9"
+  },
   "16550": {
     "spinner": "spinner__4d95d",
     "container": "container__4d95d",
@@ -9451,7 +9454,8 @@
     "clickableText": "clickableText_e1364f",
     "details": "details_e1364f",
     "icon": "icon_e1364f",
-    "socialProof": "socialProof_e1364f"
+    "socialProof": "socialProof_e1364f",
+    "removeGameButton": "removeGameButton_e1364f"
   },
   "358346": {
     "hoverCard": "hoverCard__26e8b"
@@ -13139,6 +13143,10 @@
     "title": "title_a2241a",
     "body": "body_a2241a",
     "container": "container_a2241a"
+  },
+  "501406": {
+    "gameInfo": "gameInfo__37e6f",
+    "hintText": "hintText__37e6f"
   },
   "501558": {
     "text-sm/normal": "text-sm/normal__6ec1a",
@@ -17664,7 +17672,11 @@
   },
   "663161": {
     "options": "options_c4e5d7",
-    "addButton": "addButton_c4e5d7"
+    "addButtonContainer": "addButtonContainer_c4e5d7",
+    "addButton": "addButton_c4e5d7",
+    "disabled": "disabled_c4e5d7",
+    "widgetAdded": "widgetAdded_c4e5d7",
+    "disabledWidget": "disabledWidget_c4e5d7"
   },
   "663458": {
     "fixClipping": "fixClipping_efbae7"
@@ -24426,7 +24438,8 @@
     "positionTop": "positionTop_d5ae15"
   },
   "915642": {
-    "addWidgetButton": "addWidgetButton__97442"
+    "addWidgetButton": "addWidgetButton__97442",
+    "disabled": "disabled__97442"
   },
   "915803": {
     "root": "root_ead72e",
