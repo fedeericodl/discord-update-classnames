@@ -10661,6 +10661,7 @@
     "familyCenterLinkButton": "familyCenterLinkButton__35e86",
     "friendsButtonContainer": "friendsButtonContainer__35e86",
     "friendsBadge": "friendsBadge__35e86",
+    "createDMButtonContainer": "createDMButtonContainer__35e86",
     "confetti": "confetti__35e86",
     "themedHeaderMobile": "themedHeaderMobile__35e86",
     "familyCenterButtonContainer": "familyCenterButtonContainer__35e86",
@@ -14138,6 +14139,7 @@
     "empty": "empty__99e7c",
     "headerText": "headerText__99e7c",
     "privateChannelsHeaderContainer": "privateChannelsHeaderContainer__99e7c",
+    "tall": "tall__99e7c",
     "privateChannelRecipientsInviteButtonIcon": "privateChannelRecipientsInviteButtonIcon__99e7c",
     "privateChannelRecipientsInviteButtonIconContainer": "privateChannelRecipientsInviteButtonIconContainer__99e7c",
     "scroller": "scroller__99e7c"
