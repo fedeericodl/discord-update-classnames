@@ -15820,6 +15820,9 @@
   "606966": {
     "icon": "icon__33e19"
   },
+  "607813": {
+    "addWidgetButton": "addWidgetButton__97442"
+  },
   "608308": {
     "container": "container__38524",
     "connectedCounter": "connectedCounter__38524",
@@ -20590,6 +20593,10 @@
     "baseControlItemTitle": "baseControlItemTitle_dbfbe0",
     "baseControlItemContent": "baseControlItemContent_dbfbe0",
     "secondaryTitle": "secondaryTitle_dbfbe0"
+  },
+  "789101": {
+    "options": "options_c4e5d7",
+    "addButton": "addButton_c4e5d7"
   },
   "789123": {
     "scroller": "scroller__629e4",
