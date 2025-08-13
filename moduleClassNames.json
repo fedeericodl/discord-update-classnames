@@ -275,6 +275,7 @@
   },
   "8902": {
     "tagListContainer": "tagListContainer__25a50",
+    "tagList": "tagList__25a50",
     "tag": "tag__25a50",
     "buttonContainer": "buttonContainer__25a50",
     "expandButton": "expandButton__25a50 tag__25a50",
@@ -8548,6 +8549,7 @@
     "showOnFocus": "showOnFocus__27f77"
   },
   "320994": {
+    "staticGlow": "staticGlow__1bd8a",
     "videoContainer": "videoContainer__1bd8a",
     "video": "video__1bd8a",
     "hidden": "hidden__1bd8a",
@@ -8557,6 +8559,7 @@
     "wowMomentScaleSettle": "wowMomentScaleSettle__1bd8a",
     "exitAnimationContainer": "exitAnimationContainer__1bd8a",
     "wowMomentExit": "wowMomentExit__1bd8a",
+    "staticWumpusWithTrinkets": "staticWumpusWithTrinkets__1bd8a",
     "wowAnimation": "wowAnimation__1bd8a"
   },
   "321325": {
