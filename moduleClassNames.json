@@ -8092,7 +8092,7 @@
     "inlineTimestamp": "inlineTimestamp__230d2"
   },
   "299190": {
-    "entryPointAppCommandButton": "entryPointAppCommandButton_a83188"
+    "entryPointAppCommandButtonContainer": "entryPointAppCommandButtonContainer_a83188"
   },
   "299305": {
     "toggle": "toggle__6467f"
@@ -8939,8 +8939,6 @@
     "statusPickerModalMenu": "statusPickerModalMenu_ce8328",
     "statusItem": "statusItem_ce8328",
     "expiringStatusMenuItem": "expiringStatusMenuItem_ce8328",
-    "durationButtons": "durationButtons_ce8328",
-    "durationButton": "durationButton_ce8328",
     "status": "status_ce8328",
     "icon": "icon_ce8328",
     "description": "description_ce8328",
@@ -25066,10 +25064,6 @@
     "tableHeaderCell": "tableHeaderCell__9dd6b",
     "filterIcon": "filterIcon__9dd6b",
     "filterIconButton": "filterIconButton__9dd6b"
-  },
-  "940536": {
-    "container": "container__6bab6",
-    "pointer": "pointer__6bab6"
   },
   "940672": {
     "fadeIn": "fadeIn__5cd44",
