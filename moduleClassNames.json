@@ -14075,6 +14075,8 @@
   },
   "538778": {
     "title": "title__85643",
+    "fastTravel": "fastTravel__85643",
+    "navigationTooltip": "navigationTooltip__85643",
     "icon": "icon__85643",
     "appIcon": "appIcon__85643",
     "guildIcon": "guildIcon__85643",
@@ -21559,6 +21561,13 @@
     "clear": "clear_d727b3",
     "clearIcon": "clearIcon_d727b3",
     "searchIcon": "searchIcon_d727b3"
+  },
+  "817066": {
+    "backForwardButtons": "backForwardButtons__63abb",
+    "button": "button__63abb",
+    "back": "back__63abb",
+    "forward": "forward__63abb",
+    "navigationTooltip": "navigationTooltip__63abb"
   },
   "817700": {
     "content": "content__60d39",
