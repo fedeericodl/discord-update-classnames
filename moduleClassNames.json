@@ -4480,8 +4480,6 @@
     "tooltipContainer": "tooltipContainer__5cc6a"
   },
   "153084": {
-    "container": "container__2692d recentMentionsPopout__95796",
-    "widerInbox": "widerInbox__2692d widerInbox__95796",
     "spinner": "spinner__2692d",
     "tutorial": "tutorial__2692d",
     "tutorialIcon": "tutorialIcon__2692d",
@@ -7982,7 +7980,6 @@
     "headerAnimation": "headerAnimation_b54a5b"
   },
   "294802": {
-    "container": "container__03885 recentMentionsPopout__95796",
     "invitesContainer": "invitesContainer__03885",
     "headerContainer": "headerContainer__03885",
     "headerTitle": "headerTitle__03885",
@@ -8601,8 +8598,6 @@
     "trialRecipientContainer": "trialRecipientContainer__2441a",
     "trialRecipientRow": "trialRecipientRow__2441a",
     "trialRecipientRowDisplayName": "trialRecipientRowDisplayName__2441a",
-    "trialRecipientRowDMContainer": "trialRecipientRowDMContainer__2441a",
-    "trialRecipientRowDMCTA": "trialRecipientRowDMCTA__2441a",
     "errorDisplayName": "errorDisplayName__2441a",
     "userName": "userName__2441a",
     "erroredAvatar": "erroredAvatar__2441a"
@@ -10387,8 +10382,6 @@
     "messageState": "messageState_f6bd5f",
     "cancelMessageButton": "cancelMessageButton_f6bd5f",
     "message": "message_f6bd5f",
-    "container": "container_f6bd5f recentMentionsPopout__95796",
-    "widerInbox": "widerInbox_f6bd5f widerInbox__95796",
     "channelRow": "channelRow_f6bd5f",
     "loadingPlaceholder": "loadingPlaceholder_f6bd5f"
   },
@@ -11798,6 +11791,7 @@
     "guildBadge": "guildBadge_ba8b8d",
     "previewBadge": "previewBadge_ba8b8d",
     "lockIconOverlay": "lockIconOverlay_ba8b8d",
+    "lockedBadgesSection": "lockedBadgesSection_ba8b8d",
     "lockedPreviewContainer": "lockedPreviewContainer_ba8b8d",
     "showAllBadges": "showAllBadges_ba8b8d",
     "showAllBadgesOverlay": "showAllBadgesOverlay_ba8b8d",
@@ -18917,7 +18911,8 @@
   },
   "726656": {
     "mainLoginContainer": "mainLoginContainer__86e92",
-    "card": "card__86e92"
+    "card": "card__86e92",
+    "buttonsContainer": "buttonsContainer__86e92"
   },
   "726773": {
     "shopCard": "shopCard_c3d04b",
