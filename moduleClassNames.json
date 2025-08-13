@@ -11291,13 +11291,6 @@
     "starLeft": "starLeft__98c7b",
     "starRight": "starRight__98c7b"
   },
-  "430238": {
-    "root": "root_e2a426",
-    "userHeader": "userHeader_e2a426",
-    "activityList": "activityList_e2a426",
-    "activityRow": "activityRow_e2a426",
-    "activityRowContent": "activityRowContent_e2a426"
-  },
   "431008": {
     "category": "category__41c03",
     "categoryDivider": "categoryDivider__41c03",
@@ -14035,6 +14028,13 @@
     "hidden": "hidden_ceece4",
     "cardElementContainer": "cardElementContainer_ceece4",
     "customPaymentElementContainer": "customPaymentElementContainer_ceece4"
+  },
+  "538516": {
+    "root": "root__92958",
+    "userHeader": "userHeader__92958",
+    "activityList": "activityList__92958",
+    "activityRow": "activityRow__92958",
+    "activityRowContent": "activityRowContent__92958"
   },
   "538668": {
     "pictureInPictureVideo": "pictureInPictureVideo_e4cb9a",
