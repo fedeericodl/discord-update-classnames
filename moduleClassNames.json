@@ -15988,7 +15988,9 @@
   "598439": {
     "container": "container_a62a28",
     "socialProof": "socialProof_a62a28",
-    "socialProofBackdrop": "socialProofBackdrop_a62a28"
+    "socialProofBackdrop": "socialProofBackdrop_a62a28",
+    "removeGameButton": "removeGameButton_a62a28",
+    "hoverOverlay": "hoverOverlay_a62a28"
   },
   "598797": {
     "errors": "errors__7962e",
@@ -23949,9 +23951,10 @@
   "896270": {
     "gameCover": "gameCover__1a3d6",
     "coverContainer": "coverContainer__1a3d6 gameCover__1a3d6",
-    "clickable": "clickable__1a3d6",
+    "hoverEffect": "hoverEffect__1a3d6",
     "gameCoverImage": "gameCoverImage__1a3d6 gameCover__1a3d6",
     "fallback": "fallback__1a3d6 gameCover__1a3d6",
+    "clickable": "clickable__1a3d6",
     "loadingCover": "loadingCover__1a3d6 gameCover__1a3d6"
   },
   "896576": {
