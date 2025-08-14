@@ -3061,7 +3061,6 @@
   },
   "107009": {
     "bar": "bar_c38106",
-    "shortBar": "shortBar_c38106",
     "systemBar": "systemBar_c38106",
     "show": "show_c38106",
     "fixed": "fixed_c38106",
@@ -12708,10 +12707,7 @@
     "unavailableTooltip": "unavailableTooltip__9be63"
   },
   "463116": {
-    "CTAMessage": "CTAMessage_e887d4",
-    "CTAMessageButtonOuter": "CTAMessageButtonOuter_e887d4",
-    "CTAMessageButton": "CTAMessageButton_e887d4",
-    "CTAMessageSticker": "CTAMessageSticker_e887d4"
+    "CTAMessage": "CTAMessage_e887d4"
   },
   "463299": {
     "animation": "animation__2d5dc",
@@ -17009,10 +17005,7 @@
     "channelIcon": "channelIcon__75906"
   },
   "628800": {
-    "welcomeCTA": "welcomeCTA_f5d1e2",
-    "welcomeCTAButtonOuter": "welcomeCTAButtonOuter_f5d1e2",
-    "welcomeCTAButton": "welcomeCTAButton_f5d1e2",
-    "welcomeCTASticker": "welcomeCTASticker_f5d1e2"
+    "welcomeCTA": "welcomeCTA_f5d1e2"
   },
   "628903": {
     "row": "row_f0aa37",
@@ -24780,10 +24773,10 @@
     "inputPrefix": "inputPrefix_f9ff5f"
   },
   "921667": {
-    "search": "search_a92646",
-    "searchBar": "searchBar_a92646",
-    "searchPopout": "searchPopout_a92646",
-    "searchBarContainer": "searchBarContainer_a92646"
+    "appTitleSearch": "appTitleSearch_a92646",
+    "appTitleSearchBar": "appTitleSearchBar_a92646",
+    "appTitleSearchPopout": "appTitleSearchPopout_a92646",
+    "appTitleSearchBarContainer": "appTitleSearchBarContainer_a92646"
   },
   "922013": {
     "left": "left_caab99",
