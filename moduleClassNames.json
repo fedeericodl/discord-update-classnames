@@ -964,8 +964,7 @@
     "giftBoxIcon": "giftBoxIcon_c0c49a",
     "trinketsIcon": "trinketsIcon_c0c49a",
     "trinketsDecoration": "trinketsDecoration_c0c49a",
-    "trinketsGlow": "trinketsGlow_c0c49a",
-    "trinketsGlowMask": "trinketsGlowMask_c0c49a"
+    "trinketsGlow": "trinketsGlow_c0c49a"
   },
   "31441": {
     "progressBar": "progressBar_c44edb",
@@ -5282,7 +5281,11 @@
     "variantsSwitch": "variantsSwitch_c50f62",
     "headerButtonContainer": "headerButtonContainer_c50f62",
     "externalProductProfilePreview": "externalProductProfilePreview_c50f62",
-    "orbIconAligned": "orbIconAligned_c50f62"
+    "orbIconAligned": "orbIconAligned_c50f62",
+    "modalFooter": "modalFooter_c50f62",
+    "modalFooterText": "modalFooterText_c50f62",
+    "modalFooterBackgroundImg": "modalFooterBackgroundImg_c50f62",
+    "modalFooterContentContainer": "modalFooterContentContainer_c50f62"
   },
   "188399": {
     "container": "container__5682d",
