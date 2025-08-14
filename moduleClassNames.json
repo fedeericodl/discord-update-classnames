@@ -6403,10 +6403,6 @@
     "roleCircle": "roleCircle__4f569 desaturateUserColors__41f68",
     "dotBorderBase": "dotBorderBase__4f569"
   },
-  "219693": {
-    "updateAvailable": "updateAvailable__9f94c",
-    "spin": "spin__9f94c"
-  },
   "219923": {
     "actionContainer": "actionContainer_adfd31",
     "small": "small_adfd31",
@@ -14197,8 +14193,7 @@
     "description": "description__24585",
     "syncedRole": "syncedRole__24585",
     "emoji": "emoji__24585",
-    "expandIcon": "expandIcon__24585",
-    "disableButton": "disableButton__24585"
+    "expandIcon": "expandIcon__24585"
   },
   "517269": {
     "buttonsContainer": "buttonsContainer__5989f"
@@ -19111,10 +19106,6 @@
     "buttons": "buttons__0a560",
     "iconInput": "iconInput__0a560"
   },
-  "713620": {
-    "gameInfo": "gameInfo__37e6f",
-    "hintText": "hintText__37e6f"
-  },
   "713970": {
     "header": "header__8422a",
     "formItem": "formItem__8422a"
@@ -21664,6 +21655,7 @@
     "spinner": "spinner__09fde"
   },
   "806539": {
+    "dnsFont": "dnsFont__89a31",
     "cherryBomb": "cherryBomb__89a31",
     "chicle": "chicle__89a31",
     "museoModerno": "museoModerno__89a31",
@@ -22824,6 +22816,13 @@
     "baseControlItemContent": "baseControlItemContent_dbfbe0",
     "secondaryTitle": "secondaryTitle_dbfbe0"
   },
+  "845859": {
+    "container": "container__203bc",
+    "header": "header__203bc",
+    "dismissButton": "dismissButton__203bc",
+    "addButtonWrapper": "addButtonWrapper__203bc",
+    "addButton": "addButton__203bc"
+  },
   "846602": {
     "headerContainer": "headerContainer__0aebc",
     "opacityHeader": "opacityHeader__0aebc header_ee4d7e",
@@ -23246,8 +23245,6 @@
     "clickable": "clickable__350af",
     "dismissButton": "dismissButton__350af",
     "dismissIcon": "dismissIcon__350af",
-    "buttonContainer": "buttonContainer__350af",
-    "button": "button__350af",
     "avatar": "avatar__350af",
     "title": "title__350af",
     "body": "body__350af",
@@ -23255,8 +23252,7 @@
     "keybindMessage": "keybindMessage__350af",
     "keybind": "keybind__350af",
     "hintSubtleText": "hintSubtleText__350af",
-    "themePrimary": "themePrimary__350af",
-    "innerText": "innerText__350af"
+    "themePrimary": "themePrimary__350af"
   },
   "866579": {
     "table": "table_c3fe25",
