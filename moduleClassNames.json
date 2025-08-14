@@ -181,20 +181,6 @@
     "voiceChannelEffectsContainer": "voiceChannelEffectsContainer__2f4f7",
     "stopStreamForeground": "stopStreamForeground__2f4f7"
   },
-  "7568": {
-    "closeButton": "closeButton_eb89ff",
-    "modalContents": "modalContents_eb89ff",
-    "headerText": "headerText_eb89ff",
-    "formDescription": "formDescription_eb89ff",
-    "emojiTitleContainer": "emojiTitleContainer_eb89ff",
-    "emojiSectionContainer": "emojiSectionContainer_eb89ff",
-    "emojiButton": "emojiButton_eb89ff",
-    "emoji": "emoji_eb89ff",
-    "input": "input_eb89ff",
-    "footer": "footer_eb89ff",
-    "tooltip": "tooltip_eb89ff",
-    "channelTitleIcon": "channelTitleIcon_eb89ff"
-  },
   "7826": {
     "button": "button__7d567",
     "buttonSize": "buttonSize__7d567"
@@ -3448,9 +3434,7 @@
     "headerGuildBadge": "headerGuildBadge__5579e",
     "flowerStar": "flowerStar__5579e",
     "descriptionWrapper": "descriptionWrapper__5579e",
-    "descriptionInput": "descriptionInput__5579e",
     "divider": "divider__5579e",
-    "addChannelButton": "addChannelButton__5579e",
     "addChannelSubtext": "addChannelSubtext__5579e",
     "welcomeChannel": "welcomeChannel__5579e",
     "dragging": "dragging__5579e",
@@ -25312,17 +25296,6 @@
     "gameTile": "gameTile_d5ee5c",
     "copy": "copy_d5ee5c",
     "subheading": "subheading_d5ee5c"
-  },
-  "949530": {
-    "welcomeDescription": "welcomeDescription_b34334",
-    "exampleContainer": "exampleContainer_b34334",
-    "header": "header_b34334",
-    "exampleModal": "exampleModal_b34334",
-    "optionContainer": "optionContainer_b34334",
-    "exampleWumpus": "exampleWumpus_b34334",
-    "wumpus": "wumpus_b34334",
-    "tooltip": "tooltip_b34334",
-    "tooltipPointer": "tooltipPointer_b34334"
   },
   "949678": {
     "guildScroller": "guildScroller__1dfb8",
