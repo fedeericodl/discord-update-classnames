@@ -7118,23 +7118,10 @@
     "modalRoot": "modalRoot__01dab",
     "button": "button__01dab",
     "header": "header__01dab",
-    "alignCenter": "alignCenter__01dab",
     "headerSubtitle": "headerSubtitle__01dab",
     "headerSubtitleIcon": "headerSubtitleIcon__01dab",
     "content": "content__01dab",
-    "searchBox": "searchBox__01dab",
-    "roleMemberList": "roleMemberList__01dab",
-    "addMemberRow": "addMemberRow__01dab",
-    "selectedRow": "selectedRow__01dab",
-    "rowBody": "rowBody__01dab",
-    "checkboxLabel": "checkboxLabel__01dab",
-    "rowHeight": "rowHeight__01dab",
-    "rowLabel": "rowLabel__01dab",
-    "rowLabelSubText": "rowLabelSubText__01dab",
-    "sectionTitle": "sectionTitle__01dab",
-    "noResultIcon": "noResultIcon__01dab",
-    "description": "description__01dab",
-    "scrollSeparator": "scrollSeparator__01dab"
+    "description": "description__01dab"
   },
   "257914": {
     "button": "button_aec7ab",
@@ -15355,10 +15342,9 @@
   },
   "565870": {
     "authorize": "authorize__3d3b0",
-    "fakeHeader": "fakeHeader__3d3b0",
-    "moveUp": "moveUp__3d3b0",
     "loadingContainer": "loadingContainer__3d3b0",
     "spinner": "spinner__3d3b0",
+    "contentWrapper": "contentWrapper__3d3b0",
     "content": "content__3d3b0",
     "noPadding": "noPadding__3d3b0",
     "contentBackground": "contentBackground__3d3b0",
@@ -17563,6 +17549,23 @@
   "663895": {
     "containerTop": "containerTop__45edc",
     "containerBottom": "containerBottom__45edc"
+  },
+  "663961": {
+    "alignCenter": "alignCenter__2b868",
+    "searchBox": "searchBox__2b868",
+    "hintText": "hintText__2b868",
+    "roleMemberList": "roleMemberList__2b868",
+    "addMemberRow": "addMemberRow__2b868",
+    "selectedRow": "selectedRow__2b868",
+    "rowBody": "rowBody__2b868",
+    "checkboxLabel": "checkboxLabel__2b868",
+    "rowHeight": "rowHeight__2b868",
+    "rowLabel": "rowLabel__2b868",
+    "rowLabelSubText": "rowLabelSubText__2b868",
+    "sectionTitle": "sectionTitle__2b868",
+    "noResults": "noResults__2b868",
+    "noResultIcon": "noResultIcon__2b868",
+    "scrollSeparator": "scrollSeparator__2b868"
   },
   "664597": {
     "balanceCounterMargin": "balanceCounterMargin__98f64",
@@ -23449,8 +23452,6 @@
     "spinner": "spinner__920b8"
   },
   "878713": {
-    "modalRoot": "modalRoot__7169d",
-    "header": "header__7169d",
     "headerSubtitle": "headerSubtitle__7169d",
     "headerSubtitleIcon": "headerSubtitleIcon__7169d",
     "error": "error__7169d"
