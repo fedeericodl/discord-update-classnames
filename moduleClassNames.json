@@ -5961,6 +5961,7 @@
     "editorBody": "editorBody_cf6da1",
     "selectionGroup": "selectionGroup_cf6da1",
     "editorFooter": "editorFooter_cf6da1",
+    "editorFooterV2": "editorFooterV2_cf6da1",
     "closeCircleButton": "closeCircleButton_cf6da1",
     "closeCircle": "closeCircle_cf6da1",
     "bannerUpsell": "bannerUpsell_cf6da1",
@@ -13862,6 +13863,7 @@
   },
   "505575": {
     "tryItOutButtons": "tryItOutButtons_fbfab6",
+    "tryItOutButtonsV2": "tryItOutButtonsV2_fbfab6",
     "premiumCta": "premiumCta_fbfab6",
     "basicThemeSelectors": "basicThemeSelectors_fbfab6",
     "featureBorder": "featureBorder_fbfab6",
@@ -26234,6 +26236,7 @@
   },
   "980676": {
     "tryItOutButtons": "tryItOutButtons__6b52d",
+    "tryItOutButtonsV2": "tryItOutButtonsV2__6b52d",
     "selectionGroup": "selectionGroup__6b52d",
     "divider": "divider__6b52d",
     "tryItOutButton": "tryItOutButton__6b52d"
