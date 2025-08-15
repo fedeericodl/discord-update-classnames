@@ -6149,9 +6149,7 @@
     "tagContainer": "tagContainer__95856",
     "descriptionContainer": "descriptionContainer__95856",
     "primaryEntryPointWarningMessage": "primaryEntryPointWarningMessage__95856",
-    "entrypointContainer": "entrypointContainer__95856",
     "developerShelfControlsContainer": "developerShelfControlsContainer__95856",
-    "entryPointContainerFlexChild": "entryPointContainerFlexChild__95856",
     "expandableDescriptionClickable": "expandableDescriptionClickable__95856",
     "overflowHidden": "overflowHidden__95856",
     "developerShelfControls": "developerShelfControls__95856",
@@ -18075,11 +18073,6 @@
     "closeButtonSolid": "closeButtonSolid_c2b141",
     "closeButtonBold": "closeButtonBold_c2b141"
   },
-  "676651": {
-    "buttonColor": "buttonColor__7b3e8",
-    "textButton": "textButton__7b3e8",
-    "iconButton": "iconButton__7b3e8"
-  },
   "676766": {
     "paymentNote": "paymentNote__56a21"
   },
@@ -21689,6 +21682,7 @@
   "806539": {
     "dnsFont": "dnsFont__89a31",
     "cherryBomb": "cherryBomb__89a31",
+    "safari": "safari__89a31",
     "chicle": "chicle__89a31",
     "museoModerno": "museoModerno__89a31",
     "neoCastel": "neoCastel__89a31",
@@ -21914,6 +21908,11 @@
     "iconSectionDescription": "iconSectionDescription__4ecd1",
     "iconUploader": "iconUploader__4ecd1",
     "tierSymbolUploaderInner": "tierSymbolUploaderInner__4ecd1"
+  },
+  "811130": {
+    "buttonColor": "buttonColor__7b3e8",
+    "textButton": "textButton__7b3e8",
+    "iconButton": "iconButton__7b3e8"
   },
   "811270": {
     "guildSeparator": "guildSeparator__252b6",
@@ -22853,6 +22852,7 @@
     "header": "header__203bc",
     "dismissButton": "dismissButton__203bc",
     "addButtonWrapper": "addButtonWrapper__203bc",
+    "coverContainer": "coverContainer__203bc",
     "addButton": "addButton__203bc"
   },
   "846602": {
