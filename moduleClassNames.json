@@ -6171,14 +6171,6 @@
     "SeparatorUpper": "SeparatorUpper__92b20",
     "container": "container__92b20"
   },
-  "213658": {
-    "closeButton": "closeButton__8a472",
-    "content": "content__8a472",
-    "iconContainer": "iconContainer__8a472",
-    "heading": "heading__8a472",
-    "infoText": "infoText__8a472",
-    "button": "button__8a472"
-  },
   "214779": {
     "content": "content_e9e3ed",
     "mobile": "mobile_e9e3ed",
@@ -11966,10 +11958,6 @@
     "checkboxInner": "checkboxInner_e4503a",
     "scrollerInner": "scrollerInner_e4503a"
   },
-  "444766": {
-    "closeButton": "closeButton_f21a24",
-    "content": "content_f21a24"
-  },
   "445075": {
     "mobileMenuItem": "mobileMenuItem__43cad",
     "mobileHeaderSubMenu": "mobileHeaderSubMenu__43cad",
@@ -12423,7 +12411,8 @@
   },
   "455734": {
     "tabBar": "tabBar_d6f9e9",
-    "tabBarItem": "tabBarItem_d6f9e9"
+    "tabBarItem": "tabBarItem_d6f9e9",
+    "guildTabBarItem": "guildTabBarItem_d6f9e9"
   },
   "456645": {
     "box": "box_ee23ac",
@@ -22631,8 +22620,8 @@
     "container": "container__203bc",
     "header": "header__203bc",
     "dismissButton": "dismissButton__203bc",
+    "cover": "cover__203bc coverContainer__1a3d6 gameCover__1a3d6",
     "addButtonWrapper": "addButtonWrapper__203bc",
-    "coverContainer": "coverContainer__203bc",
     "addButton": "addButton__203bc"
   },
   "846602": {
