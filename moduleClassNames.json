@@ -338,7 +338,6 @@
     "container": "container__9b0f4",
     "contentWrapper": "contentWrapper__9b0f4",
     "noThanksButton": "noThanksButton__9b0f4",
-    "stage": "stage__9b0f4",
     "inviteContent": "inviteContent__9b0f4",
     "inviteSplash": "inviteSplash__9b0f4",
     "buttonGroup": "buttonGroup__9b0f4",
@@ -10813,23 +10812,11 @@
     "themes": "themes__7f2be"
   },
   "407749": {
-    "flex": "flex__708d1",
-    "header": "header__708d1",
-    "embed": "embed__708d1",
-    "listeners": "listeners__708d1",
-    "live": "live__708d1",
-    "speakers": "speakers__708d1",
-    "members": "members__708d1",
     "speaker": "speaker__708d1",
-    "joinButton": "joinButton__708d1",
-    "background": "background__708d1",
-    "icon": "icon__708d1",
     "guild": "guild__708d1",
     "guildInfo": "guildInfo__708d1",
     "dot": "dot__708d1",
-    "alignStart": "alignStart__708d1",
-    "avatar": "avatar__708d1",
-    "username": "username__708d1"
+    "alignStart": "alignStart__708d1"
   },
   "407780": {
     "fadeInAvatarImg": "fadeInAvatarImg_d71c71",
@@ -12390,7 +12377,7 @@
     "managePlanButton": "managePlanButton_a45ed3",
     "giftCard": "giftCard_a45ed3",
     "giftCardPromotion": "giftCardPromotion_a45ed3",
-    "giftImagePromotion": "giftImagePromotion_a45ed3",
+    "videoAsset": "videoAsset_a45ed3",
     "giftInfoPromotion": "giftInfoPromotion_a45ed3",
     "giftInfoTitlePromotion": "giftInfoTitlePromotion_a45ed3",
     "giftCardPromotionBannerImage": "giftCardPromotionBannerImage_a45ed3",
