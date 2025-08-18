@@ -4933,7 +4933,6 @@
     "countText": "countText__5808f",
     "tagContainer": "tagContainer__5808f",
     "tag": "tag__5808f",
-    "clear": "clear__5808f",
     "row": "row__5808f",
     "separator": "separator__5808f"
   },
@@ -13656,6 +13655,7 @@
     "premiumTier2Divider": "premiumTier2Divider_fbfab6",
     "divider": "divider_fbfab6",
     "title": "title_fbfab6",
+    "colorThemesBackground": "colorThemesBackground_fbfab6",
     "darkSidebarToggle": "darkSidebarToggle_fbfab6"
   },
   "505723": {
@@ -24440,6 +24440,7 @@
     "appTitleSearch": "appTitleSearch_a92646",
     "appTitleSearchBar": "appTitleSearchBar_a92646",
     "appTitleSearchPopout": "appTitleSearchPopout_a92646",
+    "appTitleSearchPopoutDatePicker": "appTitleSearchPopoutDatePicker_a92646",
     "appTitleSearchBarContainer": "appTitleSearchBarContainer_a92646"
   },
   "922013": {
