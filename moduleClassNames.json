@@ -24,6 +24,7 @@
     "tier2ApplicationHomeSubheader": "tier2ApplicationHomeSubheader__6df1a",
     "applicationHomeCard": "applicationHomeCard__6df1a",
     "card": "card__6df1a",
+    "withGiftBanner": "withGiftBanner__6df1a",
     "tier0": "tier0__6df1a",
     "pillMargin": "pillMargin__6df1a",
     "wordmark": "wordmark__6df1a",
@@ -13651,8 +13652,7 @@
     "externalRowHeader": "externalRowHeader__01014",
     "externalRowBody": "externalRowBody__01014",
     "bottomDivider": "bottomDivider__01014",
-    "verticalFit": "verticalFit__01014",
-    "paginator": "paginator__01014"
+    "verticalFit": "verticalFit__01014"
   },
   "504964": {
     "chatWheelMouseInput": "chatWheelMouseInput_adfa30",
@@ -15691,7 +15691,9 @@
     "rewardHighlightLogotype": "rewardHighlightLogotype_a86e4f"
   },
   "580309": {
-    "badge": "badge_dca3ba"
+    "badge": "badge_dca3ba",
+    "default": "default_dca3ba",
+    "expressive": "expressive_dca3ba"
   },
   "580792": {
     "profilePreviewContainer": "profilePreviewContainer__8771c",
@@ -19373,11 +19375,7 @@
   },
   "729020": {
     "pageActions": "pageActions__2d021",
-    "pageButtonNext": "pageButtonNext__2d021",
-    "pageButtonPrev": "pageButtonPrev__2d021",
-    "disabled": "disabled__2d021",
-    "pageButtonIcon": "pageButtonIcon__2d021",
-    "pageIndicator": "pageIndicator__2d021"
+    "buttons": "buttons__2d021"
   },
   "729392": {
     "section": "section_bf424d",
@@ -26089,7 +26087,6 @@
   },
   "982710": {
     "payment": "payment_e9cb00",
-    "hoverablePayment": "hoverablePayment_e9cb00 payment_e9cb00",
     "summaryInfo": "summaryInfo_e9cb00",
     "expandedInfo": "expandedInfo_e9cb00",
     "paymentHeader": "paymentHeader_e9cb00",
