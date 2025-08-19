@@ -1207,7 +1207,8 @@
     "media": "media__9c640",
     "inlineAsset": "inlineAsset__9c640",
     "assetContainer": "assetContainer__9c640",
-    "playButton": "playButton__9c640"
+    "playButton": "playButton__9c640",
+    "closeButton": "closeButton__9c640"
   },
   "38242": {
     "root": "root__70ee5",
@@ -6161,12 +6162,14 @@
     "spinner-opacity-out": "spinner-opacity-out__6af3a",
     "spinner-transform-in": "spinner-transform-in__6af3a",
     "spinner-transform-out": "spinner-transform-out__6af3a",
-    "sm": "sm__6af3a",
+    "xs": "xs__6af3a",
     "hasText": "hasText__6af3a",
+    "sm": "sm__6af3a",
     "md": "md__6af3a",
     "spinnerItem": "spinnerItem__6af3a",
     "spinner": "spinner__6af3a",
     "spinner-sm": "spinner-sm__6af3a",
+    "spinner-xs": "spinner-xs__6af3a",
     "spinner-md": "spinner-md__6af3a",
     "spinner-lg": "spinner-lg__6af3a",
     "primary": "primary__6af3a",
@@ -8496,13 +8499,6 @@
     "subscribedText": "subscribedText__2a3ed",
     "actionButtons": "actionButtons__2a3ed",
     "ended": "ended__2a3ed"
-  },
-  "326898": {
-    "headerImg": "headerImg__3b9cf",
-    "modalBody": "modalBody__3b9cf",
-    "modalInteriorHeader": "modalInteriorHeader__3b9cf",
-    "modalHeader": "modalHeader__3b9cf",
-    "buttonContainer": "buttonContainer__3b9cf"
   },
   "328110": {
     "cardIcon": "cardIcon__29abc",
@@ -11489,12 +11485,14 @@
     "spinner-opacity-out": "spinner-opacity-out__0f084",
     "spinner-transform-in": "spinner-transform-in__0f084",
     "spinner-transform-out": "spinner-transform-out__0f084",
-    "sm": "sm__0f084 text-sm/normal__0f084",
+    "xs": "xs__0f084",
     "hasText": "hasText__0f084",
+    "sm": "sm__0f084 text-sm/normal__0f084",
     "md": "md__0f084 text-md/normal__0f084",
     "spinnerItem": "spinnerItem__0f084",
     "spinner": "spinner__0f084",
     "spinner-sm": "spinner-sm__0f084",
+    "spinner-xs": "spinner-xs__0f084",
     "spinner-md": "spinner-md__0f084",
     "spinner-lg": "spinner-lg__0f084",
     "primary": "primary__0f084",
@@ -17126,6 +17124,13 @@
     "subscribeButton": "subscribeButton_e2f668",
     "upsellCountdownContainer": "upsellCountdownContainer_e2f668",
     "upsellContainer": "upsellContainer_e2f668"
+  },
+  "640744": {
+    "container": "container_a1d343",
+    "iconContainer": "iconContainer_a1d343",
+    "bannerImage": "bannerImage_a1d343",
+    "textContent": "textContent_a1d343",
+    "buttonContainer": "buttonContainer_a1d343"
   },
   "640749": {
     "headerImage": "headerImage__25f6c",
