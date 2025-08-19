@@ -890,12 +890,6 @@
     "badgeImage": "badgeImage_b9bf3b"
   },
   "30408": {
-    "modal": "modal__39466",
-    "modalCloseButton": "modalCloseButton__39466",
-    "modalContent": "modalContent__39466",
-    "selectHeaderContainer": "selectHeaderContainer__39466",
-    "selectHeader": "selectHeader__39466",
-    "selectSearch": "selectSearch__39466",
     "selectGuild": "selectGuild__39466",
     "selectGuildIcon": "selectGuildIcon__39466",
     "selectGuildName": "selectGuildName__39466",
@@ -3634,12 +3628,6 @@
     "customGiftBox": "customGiftBox_d50aac",
     "customGiftBoxHighlighted": "customGiftBoxHighlighted_d50aac",
     "button": "button_d50aac"
-  },
-  "130198": {
-    "content": "content__04926",
-    "modal": "modal__04926",
-    "image": "image__04926",
-    "text": "text__04926"
   },
   "130370": {
     "akaBadge": "akaBadge__488b1",
@@ -6951,16 +6939,12 @@
     "blockedIgnoredSettingsNotice": "blockedIgnoredSettingsNotice__6811a"
   },
   "252633": {
-    "modal": "modal__0f8ce",
-    "selectContent": "selectContent__0f8ce",
     "confirmImage": "confirmImage__0f8ce",
     "transferConfirmImage": "transferConfirmImage__0f8ce",
     "quantitySelectorBody": "quantitySelectorBody__0f8ce",
     "quantitySelectorDescription": "quantitySelectorDescription__0f8ce",
-    "quantitySelectorHeader": "quantitySelectorHeader__0f8ce",
     "quantitySelectorWrapper": "quantitySelectorWrapper__0f8ce",
-    "quantitySelectorLabel": "quantitySelectorLabel__0f8ce",
-    "modalCloseButton": "modalCloseButton__0f8ce"
+    "quantitySelectorLabel": "quantitySelectorLabel__0f8ce"
   },
   "252917": {
     "videoBackgroundArt": "videoBackgroundArt__2b87f"
@@ -14623,7 +14607,8 @@
     "error": "error__2cbe8",
     "pendingCancellation": "pendingCancellation__2cbe8",
     "pendingCancellationIcon": "pendingCancellationIcon__2cbe8",
-    "pendingCancellationMessage": "pendingCancellationMessage__2cbe8"
+    "pendingCancellationMessage": "pendingCancellationMessage__2cbe8",
+    "footer": "footer__2cbe8"
   },
   "543879": {
     "description": "description_d286c5",
@@ -22195,7 +22180,8 @@
     "micTestButton": "micTestButton__169b3"
   },
   "830202": {
-    "scroller": "scroller__3b923"
+    "scroller": "scroller__3b923",
+    "ukTeenDisclaimer": "ukTeenDisclaimer__3b923"
   },
   "830260": {
     "heading": "heading__6f81c",
