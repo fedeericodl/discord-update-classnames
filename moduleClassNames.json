@@ -7886,14 +7886,7 @@
     "modalContent": "modalContent__39813",
     "selectionSection": "selectionSection__39813",
     "sectionHeader": "sectionHeader__39813",
-    "selectionSubSection": "selectionSubSection__39813",
-    "footer": "footer__39813",
-    "subscriberButtonContainer": "subscriberButtonContainer__39813",
-    "upsell": "upsell__39813",
-    "descriptionContainer": "descriptionContainer__39813",
-    "description": "description__39813",
-    "buttonContainer": "buttonContainer__39813",
-    "nitroIcon": "nitroIcon__39813"
+    "selectionSubSection": "selectionSubSection__39813"
   },
   "300179": {
     "shopCard": "shopCard_c3d04b",
@@ -11145,6 +11138,23 @@
     "thankYouCard": "thankYouCard_b851f5",
     "thankYouText": "thankYouText_b851f5",
     "userAvatar": "userAvatar_b851f5"
+  },
+  "418956": {
+    "tutorial": "tutorial__73f2a",
+    "shown": "shown__73f2a",
+    "arrowGroup": "arrowGroup__73f2a",
+    "right": "right__73f2a",
+    "arrowContainer": "arrowContainer__73f2a",
+    "horizontal": "horizontal__73f2a",
+    "diag1": "diag1__73f2a",
+    "diag2": "diag2__73f2a",
+    "arrowIcon": "arrowIcon__73f2a",
+    "arrow-pulse": "arrow-pulse__73f2a",
+    "tutorialMessages": "tutorialMessages__73f2a",
+    "message": "message__73f2a",
+    "searchMessage": "searchMessage__73f2a message__73f2a",
+    "selectMessage": "selectMessage__73f2a message__73f2a",
+    "hasQuery": "hasQuery__73f2a"
   },
   "419246": {
     "hamBanner": "hamBanner__6a41e",
@@ -17942,6 +17952,14 @@
     "buttonSection": "buttonSection_a83780",
     "panelRow": "panelRow_a83780",
     "inCall": "inCall_a83780"
+  },
+  "679101": {
+    "footer": "footer__57c71",
+    "subscriberButtonContainer": "subscriberButtonContainer__57c71",
+    "upsell": "upsell__57c71",
+    "descriptionContainer": "descriptionContainer__57c71",
+    "description": "description__57c71",
+    "buttonContainer": "buttonContainer__57c71"
   },
   "679865": {
     "wrapper": "wrapper__70f7f",
@@ -26153,23 +26171,6 @@
   },
   "992171": {
     "banner": "banner__9ed41"
-  },
-  "992261": {
-    "tutorial": "tutorial__73f2a",
-    "shown": "shown__73f2a",
-    "arrowGroup": "arrowGroup__73f2a",
-    "right": "right__73f2a",
-    "arrowContainer": "arrowContainer__73f2a",
-    "horizontal": "horizontal__73f2a",
-    "diag1": "diag1__73f2a",
-    "diag2": "diag2__73f2a",
-    "arrowIcon": "arrowIcon__73f2a",
-    "arrow-pulse": "arrow-pulse__73f2a",
-    "tutorialMessages": "tutorialMessages__73f2a",
-    "message": "message__73f2a",
-    "searchMessage": "searchMessage__73f2a message__73f2a",
-    "selectMessage": "selectMessage__73f2a message__73f2a",
-    "hasQuery": "hasQuery__73f2a"
   },
   "992878": {
     "rowIcon": "rowIcon_cb32c7",
