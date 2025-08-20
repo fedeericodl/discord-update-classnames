@@ -11833,9 +11833,6 @@
     "textContainer": "textContainer__43278",
     "imagePlusIcon": "imagePlusIcon__43278"
   },
-  "443933": {
-    "coverList": "coverList__1094b"
-  },
   "444630": {
     "categoryRow": "categoryRow_e4503a",
     "uncategorized": "uncategorized_e4503a",
@@ -22500,8 +22497,8 @@
     "header": "header__203bc",
     "dismissButton": "dismissButton__203bc",
     "cover": "cover__203bc coverContainer__1a3d6 gameCover__1a3d6",
-    "addButtonWrapper": "addButtonWrapper__203bc",
-    "addButton": "addButton__203bc"
+    "addButton": "addButton__203bc",
+    "addIcon": "addIcon__203bc"
   },
   "846602": {
     "headerContainer": "headerContainer__0aebc",
@@ -24581,7 +24578,7 @@
     "gameCoverImage": "gameCoverImage__1a3d6 gameCover__1a3d6",
     "fallback": "fallback__1a3d6 gameCover__1a3d6",
     "clickable": "clickable__1a3d6",
-    "loadingCover": "loadingCover__1a3d6 gameCover__1a3d6"
+    "loadingCover": "loadingCover__1a3d6 coverContainer__1a3d6 gameCover__1a3d6"
   },
   "932616": {
     "header": "header__75b62",
@@ -25117,6 +25114,9 @@
     "speaker": "speaker__9db96",
     "last": "last__9db96",
     "lastButton": "lastButton__9db96"
+  },
+  "956636": {
+    "coverList": "coverList__9a5c3"
   },
   "957717": {
     "emptyWrapper": "emptyWrapper_f12222",
