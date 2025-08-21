@@ -16837,6 +16837,16 @@
     "heading": "heading__8e08c",
     "wave": "wave__8e08c"
   },
+  "632939": {
+    "shopCard": "shopCard_bab2bc",
+    "shopCardDark": "shopCardDark_bab2bc shopCard_bab2bc",
+    "shopCardHighlighted": "shopCardHighlighted_bab2bc",
+    "shopCardDarkHighlighted": "shopCardDarkHighlighted_bab2bc",
+    "shopCardAnimation": "shopCardAnimation_bab2bc",
+    "shopCardSelected": "shopCardSelected_bab2bc",
+    "preview": "preview_bab2bc",
+    "productName": "productName_bab2bc"
+  },
   "633290": {
     "guildPickerContainer": "guildPickerContainer__99854",
     "breadcrumbs": "breadcrumbs__99854",
@@ -24923,7 +24933,9 @@
     "guildArrow": "guildArrow__1dfb8"
   },
   "950174": {
-    "giftSelectItem": "giftSelectItem_d64c23",
+    "cardsGrid": "cardsGrid_d64c23",
+    "title": "title_d64c23",
+    "subtitle": "subtitle_d64c23",
     "modalFooter": "modalFooter_d64c23",
     "container": "container_d64c23"
   },
