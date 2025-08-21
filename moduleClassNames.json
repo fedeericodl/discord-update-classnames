@@ -718,6 +718,7 @@
     "micButtonParent": "micButtonParent__37e49",
     "buttonChevron": "buttonChevron__37e49",
     "micButtonWithMenu": "micButtonWithMenu__37e49",
+    "popoutOpen": "popoutOpen__37e49",
     "hasColorGlow": "hasColorGlow__37e49",
     "buttonChevronIcon": "buttonChevronIcon__37e49",
     "voiceFilterWarning": "voiceFilterWarning__37e49",
@@ -13091,6 +13092,7 @@
     "summaryContainer": "summaryContainer__15328",
     "clickable": "clickable__15328",
     "gameIcon": "gameIcon__15328",
+    "gameIconFallback": "gameIconFallback__15328",
     "container": "container__15328",
     "error": "error__15328",
     "actionButtonsContainer": "actionButtonsContainer__15328",
@@ -23973,7 +23975,8 @@
     "background": "background__14403"
   },
   "895634": {
-    "menu": "menu__43313"
+    "menu": "menu__43313",
+    "customMenuItem": "customMenuItem__43313"
   },
   "895758": {
     "rewardTileContainer": "rewardTileContainer__8a22c",
