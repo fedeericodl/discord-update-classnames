@@ -1021,12 +1021,7 @@
     "buttonSection": "buttonSection__1405b"
   },
   "32442": {
-    "options": "options_c4e5d7",
-    "addButtonContainer": "addButtonContainer_c4e5d7",
-    "addButton": "addButton_c4e5d7",
-    "disabled": "disabled_c4e5d7",
-    "widgetAdded": "widgetAdded_c4e5d7",
-    "disabledWidget": "disabledWidget_c4e5d7"
+    "options": "options_c4e5d7"
   },
   "32482": {
     "placeholderPulse": "placeholderPulse_c8ffbb",
@@ -6497,6 +6492,12 @@
     "iconContainer": "iconContainer__8a969",
     "actionable": "actionable__8a969",
     "flair": "flair__8a969"
+  },
+  "229870": {
+    "addButtonContainer": "addButtonContainer__4a011",
+    "sizeSmall": "sizeSmall__4a011",
+    "overlay": "overlay__4a011",
+    "addButton": "addButton__4a011"
   },
   "229928": {
     "roleTag": "roleTag__9cd44",
@@ -23284,11 +23285,7 @@
     "emojiSettings": "emojiSettings_e7d73e",
     "emojiUploadContainer": "emojiUploadContainer_e7d73e",
     "editEmojiRolesIcon": "editEmojiRolesIcon_e7d73e",
-    "editEmojiRolesButton": "editEmojiRolesButton_e7d73e",
-    "newlyAddedHighlightContainer": "newlyAddedHighlightContainer_e7d73e",
-    "newlyAddedHighlight": "newlyAddedHighlight_e7d73e",
-    "newlyAddedBadge": "newlyAddedBadge_e7d73e",
-    "newlyAddedBadgeStar": "newlyAddedBadgeStar_e7d73e"
+    "editEmojiRolesButton": "editEmojiRolesButton_e7d73e"
   },
   "878375": {
     "headerDivider": "headerDivider__97dd8",
@@ -25148,18 +25145,7 @@
   "958461": {
     "empty": "empty__7ff05",
     "textContainer": "textContainer__7ff05",
-    "widgetGrid": "widgetGrid__7ff05",
-    "widgetPromptContainer": "widgetPromptContainer__7ff05",
-    "widgetPromptOverlay": "widgetPromptOverlay__7ff05",
-    "addButton": "addButton__7ff05",
-    "placeholderDetailCard": "placeholderDetailCard__7ff05",
-    "placeholderCover": "placeholderCover__7ff05",
-    "placeholderGameImage": "placeholderGameImage__7ff05",
-    "placeholderGameFallback": "placeholderGameFallback__7ff05",
-    "placeholderCoverItem": "placeholderCoverItem__7ff05",
-    "placeholderText": "placeholderText__7ff05",
-    "placeholderBar": "placeholderBar__7ff05",
-    "placeholderCoverGrid": "placeholderCoverGrid__7ff05"
+    "widgetGrid": "widgetGrid__7ff05"
   },
   "959032": {
     "body": "body_b9f95d",
@@ -25779,6 +25765,15 @@
   "978134": {
     "container": "container__0ccef",
     "selector": "selector__0ccef"
+  },
+  "978276": {
+    "container": "container__7a78a",
+    "sizeSmall": "sizeSmall__7a78a",
+    "placeholderDetailsCard": "placeholderDetailsCard__7a78a",
+    "placeholderText": "placeholderText__7a78a",
+    "placeholderBar": "placeholderBar__7a78a",
+    "placeholderCoverGrid": "placeholderCoverGrid__7a78a",
+    "placeholderCover": "placeholderCover__7a78a"
   },
   "978291": {
     "actionMenuButton": "actionMenuButton_d84e0f"
