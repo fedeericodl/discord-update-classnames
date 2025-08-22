@@ -5098,8 +5098,6 @@
     "priceTagContainer": "priceTagContainer_c50f62",
     "headingWithItemTypePill": "headingWithItemTypePill_c50f62",
     "disabledReason": "disabledReason_c50f62",
-    "buttonsContainer": "buttonsContainer_c50f62",
-    "checkoutButtonsRow": "checkoutButtonsRow_c50f62",
     "variantsSwitch": "variantsSwitch_c50f62",
     "externalProductProfilePreview": "externalProductProfilePreview_c50f62",
     "orbIconAligned": "orbIconAligned_c50f62",
@@ -7838,7 +7836,6 @@
     "darkCardBackground": "darkCardBackground_c3d04b",
     "lightCardBackground": "lightCardBackground_c3d04b",
     "priceTag": "priceTag_c3d04b",
-    "buttonsContainer": "buttonsContainer_c3d04b",
     "premiumWheelTooltipContent": "premiumWheelTooltipContent_c3d04b",
     "premiumWheelBadge": "premiumWheelBadge_c3d04b",
     "premiumWheel": "premiumWheel_c3d04b",
@@ -26301,8 +26298,7 @@
     "root": "root__2055a",
     "rewardTileWrapper": "rewardTileWrapper__2055a",
     "rewardTileExpired": "rewardTileExpired__2055a",
-    "rewardTileExpirationTooltip": "rewardTileExpirationTooltip__2055a",
-    "removeStackWidth": "removeStackWidth__2055a"
+    "rewardTileExpirationTooltip": "rewardTileExpirationTooltip__2055a"
   },
   "997285": {
     "modal": "modal_a8217b",
