@@ -15895,9 +15895,9 @@
     "hubContainer": "hubContainer__09691 background__09691",
     "verified": "verified__09691 background__09691",
     "staff": "staff__09691 background__09691",
-    "icon": "icon__09691",
     "partnered": "partnered__09691 background__09691",
     "hub": "hub__09691 hubContainer__09691 background__09691",
+    "icon": "icon__09691",
     "verifiedHub": "verifiedHub__09691 hubContainer__09691 background__09691"
   },
   "599684": {
@@ -16986,8 +16986,8 @@
   },
   "638758": {
     "catalogBanner": "catalogBanner__3f82e",
-    "animationAsset": "animationAsset__3f82e",
     "catalogBannerImage": "catalogBannerImage__3f82e",
+    "animationAsset": "animationAsset__3f82e",
     "limitedTimeBadge": "limitedTimeBadge__3f82e"
   },
   "638912": {
@@ -22446,6 +22446,7 @@
     "navScroller": "navScroller__409aa",
     "nav": "nav__409aa",
     "section": "section__409aa",
+    "label": "label__409aa",
     "footer": "footer__409aa"
   },
   "845442": {
