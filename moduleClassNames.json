@@ -182,10 +182,6 @@
     "voiceChannelEffectsContainer": "voiceChannelEffectsContainer__2f4f7",
     "stopStreamForeground": "stopStreamForeground__2f4f7"
   },
-  "7826": {
-    "button": "button__7d567",
-    "buttonSize": "buttonSize__7d567"
-  },
   "7994": {
     "scroller": "scroller_ac477d",
     "activityList": "activityList_ac477d"
@@ -4223,9 +4219,6 @@
     "flexGutterSmall": "flexGutterSmall__48a9c",
     "flexGutterLarge": "flexGutterLarge__48a9c"
   },
-  "156859": {
-    "button": "button__6e0e0"
-  },
   "157448": {
     "closeButton": "closeButton_b425c1",
     "closeButtonInner": "closeButtonInner_b425c1",
@@ -5182,11 +5175,6 @@
     "customRoleIcon": "customRoleIcon_f4b9b5",
     "stage": "stage_f4b9b5",
     "soundboard": "soundboard_f4b9b5"
-  },
-  "191242": {
-    "playButtonInner": "playButtonInner__2024e",
-    "syncButton": "syncButton__2024e",
-    "syncButtonInner": "syncButtonInner__2024e"
   },
   "191581": {
     "inspector": "inspector_aeaaeb",
@@ -16066,12 +16054,6 @@
     "icon": "icon__54ab7",
     "warningBody": "warningBody__54ab7"
   },
-  "603634": {
-    "streamIcon": "streamIcon__43481",
-    "iconButton": "iconButton__43481",
-    "iconButtonSize": "iconButtonSize__43481",
-    "iconSize": "iconSize__43481"
-  },
   "604483": {
     "header": "header__03630",
     "currentUser": "currentUser__03630",
@@ -22309,8 +22291,7 @@
     "previewImage": "previewImage__6da2d",
     "activityActions": "activityActions__6da2d",
     "protip": "protip__6da2d",
-    "white": "white__6da2d",
-    "watchButton": "watchButton__6da2d"
+    "white": "white__6da2d"
   },
   "839249": {
     "staticGlow": "staticGlow__1bd8a",
@@ -24468,10 +24449,6 @@
   },
   "925262": {
     "link": "link_d9ba3e"
-  },
-  "925499": {
-    "flex": "flex__08d32",
-    "platformIcon": "platformIcon__08d32"
   },
   "925568": {
     "tooltip": "tooltip__0f074"
