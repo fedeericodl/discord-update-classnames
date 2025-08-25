@@ -19763,5 +19763,9 @@
   "loadingCover__1a3d6 gameCover__1a3d6": "loadingCover__1a3d6 coverContainer__1a3d6 gameCover__1a3d6",
   "channelLocation__88264": "channelLocation__88264",
   "label__88264": "label",
-  "externalLocation__88264": "externalLocation__88264"
+  "externalLocation__88264": "externalLocation__88264",
+  "expandButton__25a50 tag__25a50": "expandButton__25a50 tag__25a50 button__25a50",
+  "collapseButton__25a50 tag__25a50": "collapseButton__25a50 tag__25a50 button__25a50",
+  "addButton__25a50 tag__25a50": "addButton__25a50 tag__25a50 button__25a50",
+  "cover__203bc coverContainer__1a3d6 gameCover__1a3d6": "cover__203bc coverContainer__1a3d6 gameCover__1a3d6 hoverActiveEffect__1a3d6"
 }
