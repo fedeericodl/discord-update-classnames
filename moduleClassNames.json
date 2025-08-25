@@ -4480,11 +4480,6 @@
     "content": "content__8f3be"
   },
   "167739": {
-    "headerContainer": "headerContainer__6d90b",
-    "titleContainer": "titleContainer__6d90b",
-    "headerTitle": "headerTitle__6d90b",
-    "modalCloseButton": "modalCloseButton__6d90b",
-    "headerSubtitle": "headerSubtitle__6d90b",
     "answerChoicesContainer": "answerChoicesContainer__6d90b",
     "otherField": "otherField__6d90b",
     "footer": "footer__6d90b"
@@ -7939,10 +7934,6 @@
     "dangerFooterContainer": "dangerFooterContainer__86361"
   },
   "304495": {
-    "modal": "modal__339fa",
-    "content": "content__339fa",
-    "footer": "footer__339fa",
-    "goBackButton": "goBackButton__339fa",
     "slideContainer": "slideContainer__339fa"
   },
   "304946": {
@@ -16126,7 +16117,6 @@
     "headerContent": "headerContent__4909b",
     "appIcon": "appIcon__4909b",
     "headerButtons": "headerButtons__4909b",
-    "secondaryBtn": "secondaryBtn__4909b",
     "details": "details__4909b",
     "row": "row__4909b",
     "rowContent": "rowContent__4909b",
@@ -18304,7 +18294,6 @@
     "gradientPreset": "gradientPreset__459fb",
     "disabled": "disabled__459fb",
     "colorPickerDropper": "colorPickerDropper__459fb",
-    "colorPickerDropperFg": "colorPickerDropperFg__459fb",
     "suggestedColors": "suggestedColors__459fb",
     "suggestedColor": "suggestedColor__459fb",
     "noColor": "noColor__459fb"
@@ -19854,8 +19843,6 @@
     "threadNameContainer": "threadNameContainer_fb64c9"
   },
   "758590": {
-    "contentContainer": "contentContainer_f0889e",
-    "title": "title_f0889e",
     "subtitle": "subtitle_f0889e"
   },
   "758746": {
