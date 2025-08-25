@@ -4531,12 +4531,7 @@
     "coachtipTextContainer": "coachtipTextContainer_b61b37"
   },
   "170538": {
-    "header": "header__28362",
-    "content": "content__28362",
-    "teamBodyText": "teamBodyText__28362",
-    "teamSetup": "teamSetup__28362",
-    "footer": "footer__28362",
-    "buttons": "buttons__28362"
+    "teamSetup": "teamSetup__28362"
   },
   "171609": {
     "paymentSourceLabel": "paymentSourceLabel_f38e43",
@@ -10768,7 +10763,6 @@
     "headingCopy": "headingCopy__960df",
     "instructions": "instructions__960df",
     "ctas": "ctas__960df",
-    "cta": "cta__960df",
     "rewardTileWithInstructions": "rewardTileWithInstructions__960df"
   },
   "409077": {
@@ -11610,7 +11604,6 @@
     "questTitle": "questTitle_e9b191",
     "gameTile": "gameTile_e9b191",
     "ctas": "ctas_e9b191",
-    "cta": "cta_e9b191",
     "submenuWrapper": "submenuWrapper_e9b191",
     "submenuIcon": "submenuIcon_e9b191"
   },
