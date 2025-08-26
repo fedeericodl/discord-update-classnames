@@ -4188,11 +4188,6 @@
     "flexGutterSmall": "flexGutterSmall__48a9c",
     "flexGutterLarge": "flexGutterLarge__48a9c"
   },
-  "157448": {
-    "closeButton": "closeButton_b425c1",
-    "closeButtonInner": "closeButtonInner_b425c1",
-    "closeButtonIcon": "closeButtonIcon_b425c1"
-  },
   "157684": {
     "recommendationActivity": "recommendationActivity__450d3",
     "players": "players__450d3",
@@ -4258,18 +4253,6 @@
     "createButton": "createButton_fd23fc",
     "header": "header_fd23fc",
     "formContainer": "formContainer_fd23fc"
-  },
-  "161093": {
-    "container": "container__4d8b6",
-    "orbAsset": "orbAsset__4d8b6",
-    "centerContent": "centerContent__4d8b6",
-    "contentContainer": "contentContainer__4d8b6",
-    "textContainer": "textContainer__4d8b6",
-    "coachmarkTitle": "coachmarkTitle__4d8b6",
-    "coachmarkDescription": "coachmarkDescription__4d8b6",
-    "coachmarkTailSpine": "coachmarkTailSpine__4d8b6",
-    "coachmarkTailTargetInner": "coachmarkTailTargetInner__4d8b6",
-    "coachmarkModalContainer": "coachmarkModalContainer__4d8b6"
   },
   "161270": {
     "modalContent": "modalContent__23488",
@@ -14724,16 +14707,6 @@
     "contentCollapsedExpanded": "contentCollapsedExpanded__5f897",
     "divider": "divider__5f897"
   },
-  "557766": {
-    "tail": "tail__6e9b4",
-    "tailPositionNormal": "tailPositionNormal__6e9b4",
-    "tailPositionInverted": "tailPositionInverted__6e9b4",
-    "tailSpine": "tailSpine__6e9b4",
-    "tailTargetPositionNormal": "tailTargetPositionNormal__6e9b4",
-    "tailTargetPositionInverted": "tailTargetPositionInverted__6e9b4",
-    "tailTargetOuter": "tailTargetOuter__6e9b4",
-    "tailTargetInner": "tailTargetInner__6e9b4"
-  },
   "557806": {
     "title": "title__97dce",
     "icon": "icon__97dce",
@@ -16638,6 +16611,8 @@
     "shopCardDarkHighlighted": "shopCardDarkHighlighted_bab2bc",
     "shopCardAnimation": "shopCardAnimation_bab2bc",
     "shopCardSelected": "shopCardSelected_bab2bc",
+    "shopCardClaimed": "shopCardClaimed_bab2bc",
+    "claimedIcon": "claimedIcon_bab2bc",
     "preview": "preview_bab2bc",
     "productName": "productName_bab2bc"
   },
