@@ -20787,7 +20787,8 @@
   },
   "796914": {
     "paymentModalLockIcon": "paymentModalLockIcon__9a648",
-    "lockIcon": "lockIcon__9a648"
+    "lockIcon": "lockIcon__9a648",
+    "lockIconText": "lockIconText__9a648"
   },
   "796959": {
     "wrapper": "wrapper__71152"
