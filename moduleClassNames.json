@@ -6017,7 +6017,8 @@
     "mobile": "mobile_e9e3ed",
     "mobileNavigationOpen": "mobileNavigationOpen_e9e3ed",
     "contentHeader": "contentHeader_e9e3ed",
-    "contentHeaderLeft": "contentHeaderLeft_e9e3ed"
+    "contentHeaderLeft": "contentHeaderLeft_e9e3ed",
+    "contentBody": "contentBody_e9e3ed"
   },
   "214785": {
     "button": "button__6af3a",
@@ -12168,7 +12169,6 @@
     "videoAsset": "videoAsset_a45ed3",
     "giftInfoPromotion": "giftInfoPromotion_a45ed3",
     "giftInfoTitlePromotion": "giftInfoTitlePromotion_a45ed3",
-    "giftCardPromotionBannerImage": "giftCardPromotionBannerImage_a45ed3",
     "giftInfo": "giftInfo_a45ed3",
     "giftImage": "giftImage_a45ed3",
     "giftTitle": "giftTitle_a45ed3",
@@ -22897,7 +22897,8 @@
   },
   "873395": {
     "item": "item_caf372",
-    "active": "active_caf372"
+    "active": "active_caf372",
+    "itemContent": "itemContent_caf372"
   },
   "874341": {
     "emojiWrapper": "emojiWrapper__21d2d",
