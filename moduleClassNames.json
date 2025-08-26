@@ -1414,16 +1414,6 @@
     "headingContainer": "headingContainer__71cd5",
     "buttonContainer": "buttonContainer__71cd5"
   },
-  "49777": {
-    "container": "container__53b23",
-    "caretLeftTop": "caretLeftTop__53b23",
-    "caretTopCenter": "caretTopCenter__53b23",
-    "imageContainer": "imageContainer__53b23",
-    "image": "image__53b23",
-    "messageContainer": "messageContainer__53b23",
-    "close": "close__53b23",
-    "innerClose": "innerClose__53b23"
-  },
   "49792": {
     "paymentInfoGroup": "paymentInfoGroup_c0544c",
     "metricsContainer": "metricsContainer_c0544c",
@@ -2221,9 +2211,7 @@
   },
   "82917": {
     "productListingsHeader": "productListingsHeader_f5cb44",
-    "productListings": "productListings_f5cb44",
-    "addButton": "addButton_f5cb44",
-    "addButtonInner": "addButtonInner_f5cb44"
+    "productListings": "productListings_f5cb44"
   },
   "83120": {
     "channelAttachmentArea": "channelAttachmentArea_b77158"
@@ -2310,6 +2298,7 @@
     "gameSection": "gameSection__00943",
     "gameSectionIcon": "gameSectionIcon__00943",
     "activitySection": "activitySection__00943",
+    "activitySectionWithButtons": "activitySectionWithButtons__00943",
     "activitySectionAssets": "activitySectionAssets__00943",
     "largeImageMask": "largeImageMask__00943",
     "largeImage": "largeImage__00943",
@@ -2323,7 +2312,9 @@
     "embeddedActivityImage": "embeddedActivityImage__00943",
     "embeddedActivityImageOverlay": "embeddedActivityImageOverlay__00943",
     "embeddedActivityJoinWrapper": "embeddedActivityJoinWrapper__00943",
-    "embeddedActivityIcon": "embeddedActivityIcon__00943"
+    "embeddedActivityIcon": "embeddedActivityIcon__00943",
+    "cloudPlaySectionSeparator": "cloudPlaySectionSeparator__00943",
+    "cloudPlaySection": "cloudPlaySection__00943"
   },
   "84933": {
     "container": "container__8a003",
@@ -8671,8 +8662,7 @@
     "attachedRoleClose": "attachedRoleClose_e3f977",
     "attachedRoleCloseIcon": "attachedRoleCloseIcon_e3f977",
     "detachWarningHeading": "detachWarningHeading_e3f977",
-    "reattachRoleRow": "reattachRoleRow_e3f977",
-    "restoreDetachedRoleButtonInner": "restoreDetachedRoleButtonInner_e3f977"
+    "reattachRoleRow": "reattachRoleRow_e3f977"
   },
   "340669": {
     "container": "container_a51e6d",
@@ -16145,6 +16135,17 @@
     "playButton": "playButton__76084",
     "playIcon": "playIcon__76084"
   },
+  "613007": {
+    "alignCenter": "alignCenter__9ecf6",
+    "clickableRow": "clickableRow__9ecf6",
+    "selectedRow": "selectedRow__9ecf6",
+    "rowBody": "rowBody__9ecf6",
+    "checkbox": "checkbox__9ecf6",
+    "rowHeight": "rowHeight__9ecf6",
+    "rowLabel": "rowLabel__9ecf6",
+    "rowLabelSubText": "rowLabelSubText__9ecf6",
+    "sectionTitle": "sectionTitle__9ecf6"
+  },
   "613322": {
     "guildHeader": "guildHeader_b81b18",
     "guildHeaderInner": "guildHeaderInner_b81b18",
@@ -19578,14 +19579,10 @@
     "formItem": "formItem_bfbb55"
   },
   "750404": {
+    "outerContainer": "outerContainer_b6a3c4",
     "container": "container_b6a3c4",
     "publishable": "publishable_b6a3c4",
     "explanationColumn": "explanationColumn_b6a3c4",
-    "publishButton": "publishButton_b6a3c4",
-    "disabledPublishButton": "disabledPublishButton_b6a3c4",
-    "button": "button_b6a3c4",
-    "buttonContents": "buttonContents_b6a3c4",
-    "buttonIcon": "buttonIcon_b6a3c4",
     "wasEverPublished": "wasEverPublished_b6a3c4"
   },
   "750441": {
@@ -22023,14 +22020,6 @@
     "pill": "pill__4524c",
     "buttonGradient": "buttonGradient__4524c"
   },
-  "838708": {
-    "container": "container_cba0a7",
-    "image": "image_cba0a7",
-    "close": "close_cba0a7",
-    "innerClose": "innerClose_cba0a7",
-    "description": "description_cba0a7",
-    "button": "button_cba0a7"
-  },
   "839021": {
     "body": "body__6da2d",
     "streamPreviewWrapper": "streamPreviewWrapper__6da2d",
@@ -23026,11 +23015,10 @@
     "spinner": "spinner__920b8"
   },
   "878713": {
-    "modalRoot": "modalRoot__7169d",
-    "header": "header__7169d",
-    "headerSubtitle": "headerSubtitle__7169d",
-    "headerSubtitleIcon": "headerSubtitleIcon__7169d",
-    "error": "error__7169d"
+    "channelName": "channelName__7169d",
+    "channelIcon": "channelIcon__7169d",
+    "description": "description__7169d",
+    "subtext": "subtext__7169d"
   },
   "879488": {
     "header": "header__6dc27",
