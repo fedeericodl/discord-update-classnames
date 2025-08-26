@@ -2400,12 +2400,6 @@
     "descriptionWidth": "descriptionWidth_bfddf1",
     "submitText": "submitText_bfddf1"
   },
-  "86054": {
-    "content": "content__33e3e",
-    "header": "header__33e3e",
-    "warningIcon": "warningIcon__33e3e",
-    "dangerIcon": "dangerIcon__33e3e"
-  },
   "86318": {
     "upsellContainer": "upsellContainer_c0eeaa",
     "upsellHeader": "upsellHeader_c0eeaa",
@@ -7307,6 +7301,10 @@
     "mutedText": "mutedText__85f5c",
     "loadingText": "loadingText__85f5c"
   },
+  "277923": {
+    "footer": "footer_bb3ce8",
+    "buttonGroup": "buttonGroup_bb3ce8"
+  },
   "278355": {
     "upsell": "upsell__0969c"
   },
@@ -8997,7 +8995,8 @@
     "icons": "icons_c2a763",
     "icon": "icon_c2a763",
     "displayCount": "displayCount_c2a763",
-    "displayCountText": "displayCountText_c2a763"
+    "displayCountText": "displayCountText_c2a763",
+    "displayCountTextColor": "displayCountTextColor_c2a763"
   },
   "351768": {
     "container": "container__12f17",
@@ -10118,6 +10117,11 @@
     "scroller": "scroller__4fb8c",
     "showScroller": "showScroller__4fb8c",
     "buttonContainer": "buttonContainer__4fb8c"
+  },
+  "393201": {
+    "container": "container__5667e",
+    "heading": "heading__5667e",
+    "footerSpacer": "footerSpacer__5667e"
   },
   "393272": {
     "selected": "selected_dcc822",
@@ -17950,11 +17954,6 @@
     "muralImageReducedWidth": "muralImageReducedWidth__3dc42",
     "responsive": "responsive__3dc42"
   },
-  "690558": {
-    "content": "content__1c69f",
-    "header": "header__1c69f",
-    "warningIcon": "warningIcon__1c69f"
-  },
   "690629": {
     "sectionContainer": "sectionContainer_f8758b",
     "contentContainer": "contentContainer_f8758b"
@@ -20832,15 +20831,9 @@
     "cloudPlaySectionTextContainer": "cloudPlaySectionTextContainer__1692d"
   },
   "800372": {
-    "container": "container_fe72c8",
-    "modal": "modal_fe72c8",
-    "header": "header_fe72c8",
-    "close": "close_fe72c8",
     "purchaseSummaryContainer": "purchaseSummaryContainer_fe72c8",
     "purchaseSummarInfo": "purchaseSummarInfo_fe72c8",
     "purchaseSummaryImage": "purchaseSummaryImage_fe72c8",
-    "productTypeContainer": "productTypeContainer_fe72c8",
-    "dotSeparator": "dotSeparator_fe72c8",
     "purchaseSummaryPrice": "purchaseSummaryPrice_fe72c8",
     "divider": "divider_fe72c8",
     "benefitsContainer": "benefitsContainer_fe72c8",
