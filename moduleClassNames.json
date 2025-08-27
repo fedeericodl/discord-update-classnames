@@ -7873,7 +7873,8 @@
     "colorPreview": "colorPreview__7473d",
     "sharedByContainer": "sharedByContainer__7473d",
     "sharedTitle": "sharedTitle__7473d",
-    "sharedBy": "sharedBy__7473d"
+    "sharedBy": "sharedBy__7473d",
+    "avatarContainer": "avatarContainer__7473d"
   },
   "306762": {
     "rightTrayIcon": "rightTrayIcon__2cdb8",
@@ -12539,6 +12540,9 @@
     "voiceEffectsActionBar": "voiceEffectsActionBar__68198",
     "divider": "divider__68198"
   },
+  "475495": {
+    "rowContainer": "rowContainer__4dfe0"
+  },
   "475608": {
     "header": "header__21615",
     "closeButton": "closeButton__21615",
@@ -14445,16 +14449,6 @@
   "548564": {
     "counter": "counter__90981",
     "counterText": "counterText__90981"
-  },
-  "549306": {
-    "modalHeader": "modalHeader__3fee9",
-    "modalHeaderText": "modalHeaderText__3fee9",
-    "modalContent": "modalContent__3fee9",
-    "closeButton": "closeButton__3fee9",
-    "closeButtonInner": "closeButtonInner__3fee9",
-    "closeIcon": "closeIcon__3fee9",
-    "moreHeading": "moreHeading__3fee9",
-    "mainSection": "mainSection__3fee9"
   },
   "549518": {
     "tooltip": "tooltip__5a41d"
@@ -20098,11 +20092,12 @@
     "clickableText": "clickableText_e1364f",
     "details": "details_e1364f",
     "commentIcon": "commentIcon_e1364f",
+    "tags": "tags_e1364f",
     "socialProof": "socialProof_e1364f",
+    "textAreaContainer": "textAreaContainer_e1364f text-sm/normal_e1364f",
     "editableCommentContainer": "editableCommentContainer_e1364f",
     "editableCommentText": "editableCommentText_e1364f",
-    "placeholder": "placeholder_e1364f",
-    "textAreaContainer": "textAreaContainer_e1364f text-sm/normal_e1364f"
+    "placeholder": "placeholder_e1364f"
   },
   "776421": {
     "wrapper": "wrapper__06283",
@@ -20358,6 +20353,9 @@
   },
   "784506": {
     "canvas": "canvas__0efdf"
+  },
+  "784562": {
+    "messageInput": "messageInput__8ff3e"
   },
   "785114": {
     "eyebrow": "eyebrow__2b1f5",
