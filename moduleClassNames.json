@@ -787,9 +787,6 @@
     "deviceColumns": "deviceColumns_fe5040",
     "column": "column_fe5040"
   },
-  "28151": {
-    "wrapper": "wrapper__87c70"
-  },
   "28517": {
     "container": "container__81a06",
     "select": "select__81a06",
@@ -2720,7 +2717,7 @@
     "clickableChannelTextArea": "clickableChannelTextArea_d8b277"
   },
   "98678": {
-    "list": "list__38262"
+    "errorText": "errorText__38262"
   },
   "99372": {
     "getXboxApp": "getXboxApp__7ba5f",
@@ -4761,12 +4758,6 @@
     "botTagRemix": "botTagRemix__82f07",
     "botTagVerified": "botTagVerified__82f07",
     "botText": "botText__82f07"
-  },
-  "182213": {
-    "customStatusLabelSelector": "customStatusLabelSelector__1adf1",
-    "customStatusLabelSelectorItem": "customStatusLabelSelectorItem__1adf1",
-    "customStatusLabelSelectorItemIcon": "customStatusLabelSelectorItemIcon__1adf1",
-    "customStatusLabelSelectorItemSelected": "customStatusLabelSelectorItemSelected__1adf1"
   },
   "182279": {
     "inviteDetailsContainer": "inviteDetailsContainer_da5e8d",
@@ -6911,26 +6902,10 @@
     "uploaderIcon": "uploaderIcon__99486"
   },
   "257803": {
-    "modalRoot": "modalRoot__01dab",
-    "button": "button__01dab",
-    "header": "header__01dab",
-    "alignCenter": "alignCenter__01dab",
-    "headerSubtitle": "headerSubtitle__01dab",
-    "headerSubtitleIcon": "headerSubtitleIcon__01dab",
-    "content": "content__01dab",
-    "searchBox": "searchBox__01dab",
-    "roleMemberList": "roleMemberList__01dab",
-    "addMemberRow": "addMemberRow__01dab",
-    "selectedRow": "selectedRow__01dab",
-    "rowBody": "rowBody__01dab",
-    "checkboxLabel": "checkboxLabel__01dab",
-    "rowHeight": "rowHeight__01dab",
-    "rowLabel": "rowLabel__01dab",
-    "rowLabelSubText": "rowLabelSubText__01dab",
-    "sectionTitle": "sectionTitle__01dab",
-    "noResultIcon": "noResultIcon__01dab",
+    "channelName": "channelName__01dab",
+    "channelIcon": "channelIcon__01dab",
     "description": "description__01dab",
-    "scrollSeparator": "scrollSeparator__01dab"
+    "subtext": "subtext__01dab"
   },
   "257914": {
     "button": "button_aec7ab",
@@ -8735,11 +8710,8 @@
     "hiddenPlaceholder": "hiddenPlaceholder_dbc4b7",
     "emojiButton": "emojiButton_dbc4b7",
     "emojiButtonContainer": "emojiButtonContainer_dbc4b7",
-    "buttonContainerWithLabel": "buttonContainerWithLabel_dbc4b7",
-    "emojiButtonContainerWithLabel": "emojiButtonContainerWithLabel_dbc4b7",
     "emoji": "emoji_dbc4b7",
     "input": "input_dbc4b7",
-    "inputWithLabel": "inputWithLabel_dbc4b7",
     "clearButtonWrapper": "clearButtonWrapper_dbc4b7",
     "clearButton": "clearButton_dbc4b7",
     "clearIcon": "clearIcon_dbc4b7",
@@ -8747,10 +8719,7 @@
     "clearAfterSelectOption": "clearAfterSelectOption_dbc4b7",
     "disabled": "disabled_dbc4b7",
     "clearAfterSelectOptionLabel": "clearAfterSelectOptionLabel_dbc4b7",
-    "profilePreview": "profilePreview_dbc4b7",
-    "labelSelectorContainer": "labelSelectorContainer_dbc4b7",
-    "inputCustomStatusLabelRow": "inputCustomStatusLabelRow_dbc4b7",
-    "labelSelectorTooltip": "labelSelectorTooltip_dbc4b7"
+    "profilePreview": "profilePreview_dbc4b7"
   },
   "343357": {
     "header": "header__3633a",
@@ -10993,10 +10962,13 @@
     "modalFooter": "modalFooter_ac72c6",
     "name": "name_ac72c6",
     "type": "type_ac72c6",
+    "description": "description_ac72c6",
     "emojiButton": "emojiButton_ac72c6",
     "channelNameNote": "channelNameNote_ac72c6",
     "icon": "icon_ac72c6",
     "error": "error_ac72c6",
+    "searchHelpText": "searchHelpText_ac72c6",
+    "membersList": "membersList_ac72c6",
     "header": "header_ac72c6",
     "title": "title_ac72c6",
     "subtitle": "subtitle_ac72c6",
@@ -13694,17 +13666,14 @@
     "editable": "editable_ab8609",
     "hoisted": "hoisted_ab8609",
     "referenceContainer": "referenceContainer_ab8609",
-    "withLabel": "withLabel_ab8609",
     "outer": "outer_ab8609",
     "inner": "inner_ab8609",
     "content": "content_ab8609",
     "unclamped": "unclamped_ab8609",
     "clickable": "clickable_ab8609",
-    "singleLineTextClamp": "singleLineTextClamp_ab8609",
     "ring": "ring_ab8609",
     "statusText": "statusText_ab8609",
     "statusEmoji": "statusEmoji_ab8609",
-    "labelRow": "labelRow_ab8609",
     "addStatusPrompt": "addStatusPrompt_ab8609",
     "italicPrompt": "italicPrompt_ab8609",
     "addStatusIcon": "addStatusIcon_ab8609",
@@ -17310,13 +17279,6 @@
   "667180": {
     "title": "title__0396e"
   },
-  "669134": {
-    "container": "container__7e777",
-    "body": "body__7e777",
-    "content": "content__7e777",
-    "pointer": "pointer__7e777",
-    "dismissIcon": "dismissIcon__7e777"
-  },
   "669255": {
     "card": "card__6bc46",
     "subText": "subText__6bc46",
@@ -20344,10 +20306,6 @@
     "waveformCanvas": "waveformCanvas__864dc",
     "loading": "loading__864dc"
   },
-  "782591": {
-    "labelRow": "labelRow__1fdc8",
-    "labelText": "labelText__1fdc8"
-  },
   "784016": {
     "container": "container__61733",
     "premiumBrandRefreshContainer": "premiumBrandRefreshContainer__61733",
@@ -20440,11 +20398,7 @@
     "container": "container__7116a",
     "group": "group__7116a",
     "separator": "separator__7116a",
-    "item": "item__7116a",
-    "isSelected": "isSelected__7116a",
-    "itemText": "itemText__7116a",
-    "icon": "icon__7116a",
-    "closeIcon": "closeIcon__7116a"
+    "icon": "icon__7116a"
   },
   "788457": {
     "nitroTopDividerContainer": "nitroTopDividerContainer_b3fb5f",
@@ -24586,6 +24540,12 @@
     "copy": "copy_d5ee5c",
     "subheading": "subheading_d5ee5c"
   },
+  "948790": {
+    "container": "container__8c6be",
+    "isSelected": "isSelected__8c6be",
+    "itemText": "itemText__8c6be",
+    "closeIcon": "closeIcon__8c6be"
+  },
   "949678": {
     "guildScroller": "guildScroller__1dfb8",
     "guildRow": "guildRow__1dfb8",
@@ -25227,6 +25187,9 @@
   "971631": {
     "container": "container__58c96",
     "pointer": "pointer__58c96"
+  },
+  "972526": {
+    "container": "container__912a0"
   },
   "972663": {
     "wrapper": "wrapper_a230e0",
