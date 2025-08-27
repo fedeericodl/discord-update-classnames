@@ -7790,20 +7790,10 @@
     "searchResultsHeader": "searchResultsHeader_d08938"
   },
   "301889": {
-    "modalRoot": "modalRoot__5b400",
-    "modalHeader": "modalHeader__5b400",
-    "modalTop": "modalTop__5b400",
-    "iconFrame": "iconFrame__5b400",
-    "icon": "icon__5b400",
-    "closeBtn": "closeBtn__5b400",
-    "modalContent": "modalContent__5b400",
     "contentHeader": "contentHeader__5b400",
     "refreshWrapper": "refreshWrapper__5b400",
     "disabled": "disabled__5b400",
-    "upperBodyText": "upperBodyText__5b400",
-    "footer": "footer__5b400",
     "colorTransition": "colorTransition__5b400",
-    "footerCloseButton": "footerCloseButton__5b400",
     "accountsWrapper": "accountsWrapper__5b400",
     "connectionRow": "connectionRow__5b400",
     "connectionRowHeader": "connectionRowHeader__5b400",
@@ -9703,7 +9693,6 @@
   "378658": {
     "modal": "modal_cf1d1c",
     "closeBtn": "closeBtn_cf1d1c",
-    "orbsTermsButton": "orbsTermsButton_cf1d1c",
     "spinnerContainer": "spinnerContainer_cf1d1c",
     "errorContainer": "errorContainer_cf1d1c",
     "errorImage": "errorImage_cf1d1c",
@@ -9716,7 +9705,7 @@
     "hidden": "hidden_cf1d1c",
     "title": "title_cf1d1c",
     "subtext": "subtext_cf1d1c",
-    "ctaBtn": "ctaBtn_cf1d1c",
+    "buttonContainer": "buttonContainer_cf1d1c",
     "orbsBalance": "orbsBalance_cf1d1c",
     "orbsBalanceIcon": "orbsBalanceIcon_cf1d1c"
   },
@@ -11346,6 +11335,7 @@
     "contentFooterButtonCont": "contentFooterButtonCont_de2fa0",
     "claimBtn": "claimBtn_de2fa0",
     "portraitCtaBtn": "portraitCtaBtn_de2fa0",
+    "portraitCtaBtnWrapper": "portraitCtaBtnWrapper_de2fa0",
     "progressCont": "progressCont_de2fa0",
     "questProgressRewardTile": "questProgressRewardTile_de2fa0",
     "transcriptOverlay": "transcriptOverlay_de2fa0",
@@ -11374,9 +11364,7 @@
     "play": "play_de2fa0",
     "playPauseAnimation": "playPauseAnimation_de2fa0",
     "transcriptBodySpinner": "transcriptBodySpinner_de2fa0",
-    "pauseText": "pauseText_de2fa0",
-    "copyLinkBtn": "copyLinkBtn_de2fa0",
-    "footerBtn": "footerBtn_de2fa0"
+    "pauseText": "pauseText_de2fa0"
   },
   "430864": {
     "markup": "markup__75297",
@@ -18592,6 +18580,11 @@
     "trialOfferText": "trialOfferText_b66356",
     "tier0TrialOffer": "tier0TrialOffer_b66356",
     "trialBadgeSparkles": "trialBadgeSparkles_b66356"
+  },
+  "716651": {
+    "churnDiscountBadge": "churnDiscountBadge_b65b20",
+    "churnDiscountAcknowledgedBadge": "churnDiscountAcknowledgedBadge_b65b20",
+    "churnDiscountBadgeIcon": "churnDiscountBadgeIcon_b65b20"
   },
   "716754": {
     "pill": "pill_a2c9e8",
