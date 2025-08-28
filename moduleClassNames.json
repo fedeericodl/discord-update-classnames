@@ -10793,6 +10793,10 @@
   },
   "415734": {
     "container": "container__62dd3",
+    "dragClick": "dragClick__62dd3",
+    "hitbox": "hitbox__62dd3",
+    "opacity": "opacity__62dd3",
+    "isDragging": "isDragging__62dd3",
     "suggestedGames": "suggestedGames__62dd3"
   },
   "416439": {
@@ -20162,6 +20166,9 @@
   "778234": {
     "key": "key__1728a"
   },
+  "778364": {
+    "dragClickTooltipText": "dragClickTooltipText__5cee9"
+  },
   "779485": {
     "countDownWrapper": "countDownWrapper__46b37",
     "fullScreenWrapper": "fullScreenWrapper__46b37",
@@ -21766,6 +21773,7 @@
   },
   "830202": {
     "scroller": "scroller__3b923",
+    "widgets": "widgets__3b923",
     "ukTeenDisclaimer": "ukTeenDisclaimer__3b923"
   },
   "830260": {
@@ -21916,6 +21924,9 @@
   },
   "836636": {
     "description": "description_cd2e37"
+  },
+  "836717": {
+    "container": "container__05e63"
   },
   "836859": {
     "radioGroup": "radioGroup__72ad8",
@@ -23108,7 +23119,8 @@
     "container": "container__37bfc",
     "scroller": "scroller__37bfc",
     "tabBarItem": "tabBarItem__37bfc",
-    "tabBarPanel": "tabBarPanel__37bfc"
+    "tabBarPanel": "tabBarPanel__37bfc",
+    "noGutter": "noGutter__37bfc"
   },
   "883307": {
     "breadcrumb": "breadcrumb__67607"
