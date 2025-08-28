@@ -175,7 +175,6 @@
     "blockedAvatar": "blockedAvatar__2f4f7",
     "small": "small__2f4f7",
     "stopStreamIcon": "stopStreamIcon__2f4f7",
-    "darkCircle": "darkCircle__2f4f7",
     "streamUnavailable": "streamUnavailable__2f4f7",
     "streamUnavailableText": "streamUnavailableText__2f4f7",
     "voiceChannelEffectsContainer": "voiceChannelEffectsContainer__2f4f7",
@@ -1329,7 +1328,6 @@
     "tagList": "tagList__25a50",
     "tag": "tag__25a50",
     "button": "button__25a50",
-    "buttonContainer": "buttonContainer__25a50",
     "expandButton": "expandButton__25a50 tag__25a50 button__25a50",
     "collapseButton": "collapseButton__25a50 tag__25a50 button__25a50",
     "addButton": "addButton__25a50 tag__25a50 button__25a50",
@@ -2239,7 +2237,6 @@
     "children": "children__29444",
     "collapsed": "collapsed__29444",
     "muted": "muted__29444",
-    "dismissWrapper": "dismissWrapper__29444",
     "dismissButton": "dismissButton__29444",
     "dismiss": "dismiss__29444",
     "voiceChannelsToggleIcon": "voiceChannelsToggleIcon__29444",
@@ -2849,7 +2846,6 @@
     "infoTitle": "infoTitle_ae2544",
     "infoBadge": "infoBadge_ae2544",
     "headerLine": "headerLine_ae2544",
-    "tooltipContainer": "tooltipContainer_ae2544",
     "infoIcon": "infoIcon_ae2544"
   },
   "105433": {
@@ -3553,7 +3549,6 @@
     "nicknames": "nicknames__488b1",
     "avatars": "avatars__488b1",
     "avatar": "avatar__488b1",
-    "tooltip": "tooltip__488b1",
     "spacer": "spacer__488b1",
     "divider": "divider__488b1",
     "moreAvatars": "moreAvatars__488b1",
@@ -9397,7 +9392,6 @@
     "thumbIcon": "thumbIcon__3aab5"
   },
   "363862": {
-    "clipsEnabledIndicator": "clipsEnabledIndicator__8c88a",
     "clipBadgeText": "clipBadgeText__8c88a liveLarge_a7acae",
     "clipBadgeIcon": "clipBadgeIcon__8c88a"
   },
@@ -9479,8 +9473,6 @@
     "selected": "selected__07f91",
     "optionsButton": "optionsButton__07f91",
     "optionsActive": "optionsActive__07f91",
-    "optionsButtonContainer": "optionsButtonContainer__07f91",
-    "optionsContainerActive": "optionsContainerActive__07f91",
     "clanTag": "clanTag__07f91",
     "isOverlay": "isOverlay__07f91",
     "usernameSpeaking": "usernameSpeaking__07f91",
@@ -10134,7 +10126,6 @@
     "statusTextContainer": "statusTextContainer__1051d",
     "incompleteButtonsContainer": "incompleteButtonsContainer__1051d",
     "confirmationButtonRow": "confirmationButtonRow__1051d",
-    "confirmationButton": "confirmationButton__1051d",
     "rejectionReasonLabel": "rejectionReasonLabel__1051d"
   },
   "394369": {
@@ -10685,7 +10676,6 @@
     "rowLabel": "rowLabel__1a4ef",
     "rowBotTag": "rowBotTag__1a4ef",
     "rowLabelSubText": "rowLabelSubText__1a4ef",
-    "removeIconContainer": "removeIconContainer__1a4ef",
     "removeIcon": "removeIcon__1a4ef",
     "disabledRemoveIcon": "disabledRemoveIcon__1a4ef"
   },
@@ -11737,7 +11727,8 @@
     "line": "line__2debe",
     "appArch": "appArch__2debe",
     "os": "os__2debe",
-    "versionHash": "versionHash__2debe"
+    "versionHash": "versionHash__2debe",
+    "compactInfo": "compactInfo__2debe"
   },
   "447661": {
     "streamInfoContainer": "streamInfoContainer__0f85c",
@@ -12466,7 +12457,6 @@
   "473059": {
     "card": "card_dc2e44",
     "caret": "caret_dc2e44",
-    "feature": "feature_dc2e44",
     "featureIcon": "featureIcon_dc2e44",
     "clickable": "clickable_dc2e44"
   },
@@ -16378,7 +16368,6 @@
     "title": "title_dca679"
   },
   "625571": {
-    "iconContainer": "iconContainer__7ee90",
     "statusIcon": "statusIcon__7ee90",
     "checkmark": "checkmark__7ee90 statusIcon__7ee90",
     "xmark": "xmark__7ee90 statusIcon__7ee90",
@@ -17054,11 +17043,6 @@
   },
   "649093": {
     "soundButton": "soundButton_d9cf5f"
-  },
-  "649926": {
-    "soundRow": "soundRow__90637",
-    "soundIcon": "soundIcon__90637",
-    "icon": "icon__90637"
   },
   "650072": {
     "svgContentRight": "svgContentRight__7b484",
@@ -19058,7 +19042,6 @@
   "734623": {
     "popover": "popover__2d0ab",
     "visible": "visible__2d0ab",
-    "tooltipContainer": "tooltipContainer__2d0ab",
     "button": "button__2d0ab",
     "activityPopover": "activityPopover__2d0ab",
     "statusPopover": "statusPopover__2d0ab",
@@ -19466,6 +19449,11 @@
   "745343": {
     "cameraWrapper": "cameraWrapper__11e1f",
     "camera": "camera__11e1f"
+  },
+  "745734": {
+    "soundRow": "soundRow_b4b0bb",
+    "soundIcon": "soundIcon_b4b0bb",
+    "icon": "icon_b4b0bb"
   },
   "745993": {
     "colorPicker": "colorPicker_cd4367",
@@ -21340,7 +21328,6 @@
     "options": "options__5d756",
     "buttons": "buttons__5d756",
     "checkboxes": "checkboxes__5d756",
-    "removeButton": "removeButton__5d756",
     "closeIcon": "closeIcon__5d756",
     "collapseButton": "collapseButton__5d756"
   },
@@ -21772,7 +21759,6 @@
     "notice": "notice_c9e42f",
     "noticeContents": "noticeContents_c9e42f",
     "noticeText": "noticeText_c9e42f",
-    "previewWarning": "previewWarning_c9e42f",
     "button": "button_c9e42f",
     "buttonInner": "buttonInner_c9e42f",
     "backArrow": "backArrow_c9e42f",
@@ -24693,7 +24679,6 @@
     "tags": "tags__63ed3",
     "pronouns": "pronouns__63ed3",
     "userTag": "userTag__63ed3",
-    "pronounsTooltip": "pronounsTooltip__63ed3",
     "pronounsText": "pronounsText__63ed3 userTag__63ed3",
     "userTagDiscriminator": "userTagDiscriminator__63ed3",
     "dotSpacer": "dotSpacer__63ed3",
@@ -25692,6 +25677,9 @@
     "rowRight": "rowRight__4a43b",
     "previewImage": "previewImage__4a43b",
     "acronym": "acronym__4a43b"
+  },
+  "989281": {
+    "links": "links__7aac8"
   },
   "989295": {
     "icon": "icon__2a871",
