@@ -10538,8 +10538,7 @@
     "confirmationContainer": "confirmationContainer_e64651",
     "confirmationHeader": "confirmationHeader_e64651",
     "confirmationSubtitle": "confirmationSubtitle_e64651",
-    "openDiscordButton": "openDiscordButton_e64651",
-    "doneButton": "doneButton_e64651"
+    "actions": "actions_e64651"
   },
   "407067": {
     "header": "header_ab6641",
@@ -13924,6 +13923,10 @@
     "actionBarTrailing": "actionBarTrailing__53cea",
     "actionButtonWrapper": "actionButtonWrapper__53cea",
     "actionBarTrailingFullWidth": "actionBarTrailingFullWidth__53cea"
+  },
+  "525876": {
+    "roleDot": "roleDot__41e17",
+    "roleDotInline": "roleDotInline__41e17"
   },
   "526265": {
     "section": "section__25879"
@@ -20603,13 +20606,10 @@
     "containerWithRightCaret": "containerWithRightCaret_c2c6a6"
   },
   "791873": {
-    "modal": "modal__6fa2e",
     "body": "body__6fa2e",
     "seperator": "seperator__6fa2e",
     "description": "description__6fa2e",
-    "footer": "footer__6fa2e",
-    "headerImage": "headerImage__6fa2e",
-    "closeButton": "closeButton__6fa2e"
+    "headerImage": "headerImage__6fa2e"
   },
   "792323": {
     "combobox": "combobox__97e86",
