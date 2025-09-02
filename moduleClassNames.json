@@ -16814,14 +16814,7 @@
     "buttonContainer": "buttonContainer_a1d343"
   },
   "640749": {
-    "headerImage": "headerImage__25f6c",
-    "closeButton": "closeButton__25f6c",
-    "content": "content__25f6c",
-    "title": "title__25f6c",
-    "description": "description__25f6c",
-    "benefits": "benefits__25f6c",
-    "footer": "footer__25f6c",
-    "goBackButton": "goBackButton__25f6c"
+    "benefits": "benefits__25f6c"
   },
   "640775": {
     "icon": "icon_d2d51d",
@@ -25029,10 +25022,6 @@
     "acronym": "acronym_f34534",
     "noIcon": "noIcon_f34534",
     "noAcronym": "noAcronym_f34534"
-  },
-  "965193": {
-    "closeButton": "closeButton__09684",
-    "content": "content__09684"
   },
   "965365": {
     "goLiveGridContainer": "goLiveGridContainer__466c6"
