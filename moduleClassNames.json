@@ -25562,16 +25562,7 @@
     "draggingMax": "draggingMax_c48ade"
   },
   "981038": {
-    "container": "container_f08fc1",
-    "content": "content_f08fc1",
-    "iconBackground": "iconBackground_f08fc1",
-    "icon": "icon_f08fc1",
-    "header": "header_f08fc1",
-    "description": "description_f08fc1",
-    "channel": "channel_f08fc1",
-    "channelIcon": "channelIcon_f08fc1",
-    "channelName": "channelName_f08fc1",
-    "buttons": "buttons_f08fc1"
+    "channelIcon": "channelIcon_f08fc1"
   },
   "982086": {
     "container": "container__4a4f2",
