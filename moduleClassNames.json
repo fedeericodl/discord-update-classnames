@@ -5904,10 +5904,6 @@
     "checkboxLabel": "checkboxLabel__553e7",
     "finePrint": "finePrint__553e7"
   },
-  "209863": {
-    "label": "label__33095",
-    "iconWrapper": "iconWrapper__33095"
-  },
   "211870": {
     "dividerContainer": "dividerContainer__1abf5",
     "dividerIconContainer": "dividerIconContainer__1abf5",
@@ -11931,15 +11927,6 @@
     "childText": "childText__3ed08",
     "childIcon": "childIcon__3ed08",
     "externalLinkWrapper": "externalLinkWrapper__3ed08"
-  },
-  "452956": {
-    "tooltip": "tooltip_e12757",
-    "body": "body_e12757",
-    "header": "header_e12757",
-    "buttonContainer": "buttonContainer_e12757",
-    "content": "content_e12757",
-    "pointer": "pointer_e12757",
-    "pointerBottom": "pointerBottom_e12757"
   },
   "453510": {
     "priceLine": "priceLine__132c6",
@@ -21983,32 +21970,6 @@
     "staticWumpusWithTrinkets": "staticWumpusWithTrinkets__1bd8a",
     "wowAnimation": "wowAnimation__1bd8a"
   },
-  "839449": {
-    "draggableContainer": "draggableContainer_f86e69",
-    "container": "container_f86e69",
-    "closeContainer": "closeContainer_f86e69",
-    "headerContainer": "headerContainer_f86e69",
-    "coachmarkHeaderContainer": "coachmarkHeaderContainer_f86e69",
-    "coachmarkHeaderTextContainer": "coachmarkHeaderTextContainer_f86e69",
-    "coachmarkCloseIcon": "coachmarkCloseIcon_f86e69",
-    "subtitle": "subtitle_f86e69",
-    "divider": "divider_f86e69",
-    "wallpapersContainer": "wallpapersContainer_f86e69",
-    "wallpaper": "wallpaper_f86e69",
-    "wallpaperSelectionClickableContainer": "wallpaperSelectionClickableContainer_f86e69",
-    "wallpaperRemoveSelection": "wallpaperRemoveSelection_f86e69",
-    "wallpaperSelected": "wallpaperSelected_f86e69",
-    "wallpaperImage": "wallpaperImage_f86e69",
-    "badgeAndCloseRow": "badgeAndCloseRow_f86e69",
-    "footerContainerStack": "footerContainerStack_f86e69",
-    "nonTier2FooterText": "nonTier2FooterText_f86e69",
-    "getNitroButton": "getNitroButton_f86e69",
-    "getNitroButtonText": "getNitroButtonText_f86e69",
-    "loadingContainer": "loadingContainer_f86e69",
-    "errorContainer": "errorContainer_f86e69",
-    "errorText": "errorText_f86e69",
-    "previewLoadingSpinner": "previewLoadingSpinner_f86e69"
-  },
   "839468": {
     "empty": "empty_e766f2",
     "textContainer": "textContainer_e766f2",
@@ -22522,9 +22483,6 @@
     "checkmark": "checkmark__84aed",
     "selected": "selected__84aed",
     "guildIcon": "guildIcon__84aed"
-  },
-  "865696": {
-    "chatWallpaperDMListCoachmarkArt": "chatWallpaperDMListCoachmarkArt_f36944"
   },
   "866497": {
     "container": "container__350af",
