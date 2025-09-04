@@ -12437,7 +12437,6 @@
   "473059": {
     "card": "card_dc2e44",
     "caret": "caret_dc2e44",
-    "featureIcon": "featureIcon_dc2e44",
     "clickable": "clickable_dc2e44"
   },
   "473385": {
@@ -24803,7 +24802,6 @@
     "maxTags": "maxTags_c615b7"
   },
   "961174": {
-    "wrapper": "wrapper__4a3a5",
     "header": "header__4a3a5",
     "secondaryHeader": "secondaryHeader__4a3a5",
     "icon": "icon__4a3a5",
