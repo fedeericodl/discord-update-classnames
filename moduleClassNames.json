@@ -8310,12 +8310,6 @@
   "329072": {
     "roleDot": "roleDot__57082"
   },
-  "329114": {
-    "container": "container__3639b",
-    "title": "title__3639b",
-    "img": "img__3639b",
-    "subtitle": "subtitle__3639b"
-  },
   "329352": {
     "cardContainer": "cardContainer__3cf14",
     "cardInnerContainer": "cardInnerContainer__3cf14",
@@ -11016,15 +11010,6 @@
     "auto": "auto_c8b5c7 scrollerBase_c8b5c7",
     "fade": "fade_c8b5c7"
   },
-  "425816": {
-    "container": "container__6faef",
-    "title": "title__6faef",
-    "img": "img__6faef",
-    "birthday": "birthday__6faef",
-    "confirmContainer": "confirmContainer__6faef",
-    "confirmTitle": "confirmTitle__6faef",
-    "confirmFooter": "confirmFooter__6faef"
-  },
   "426633": {
     "toggle": "toggle_a63120"
   },
@@ -11513,7 +11498,8 @@
     "selectControl": "selectControl__3b8e9"
   },
   "441900": {
-    "panel": "panel__777bf"
+    "panel": "panel__777bf",
+    "container": "container__777bf"
   },
   "441997": {
     "spaceBetweenTiles": "spaceBetweenTiles_fa73d7",
@@ -18960,7 +18946,10 @@
     "tabs": "tabs__955a3",
     "orbsGradient": "orbsGradient__955a3",
     "bannerContainer": "bannerContainer__955a3",
-    "orbsContainer": "orbsContainer__955a3"
+    "orbsContainer": "orbsContainer__955a3",
+    "redirectNoticeBannerAsset": "redirectNoticeBannerAsset__955a3",
+    "redirectNoticeBannerContainer": "redirectNoticeBannerContainer__955a3",
+    "redirectNoticeContainer": "redirectNoticeContainer__955a3"
   },
   "729020": {
     "pageActions": "pageActions__2d021",
@@ -19614,12 +19603,6 @@
     "newBadge": "newBadge_d804ff",
     "preview": "preview_d804ff",
     "questionMark": "questionMark_d804ff"
-  },
-  "754912": {
-    "container": "container__46ab5",
-    "title": "title__46ab5",
-    "img": "img__46ab5",
-    "subtitle": "subtitle__46ab5"
   },
   "754921": {
     "mirror": "mirror__948a4",
@@ -23473,8 +23456,10 @@
     "defaultKeybindGroupWithDescription": "defaultKeybindGroupWithDescription__740f2",
     "defaultKeybindGroupDescription": "defaultKeybindGroupDescription__740f2",
     "browserNotice": "browserNotice__740f2",
-    "row": "row__740f2",
-    "systemServiceUpsell": "systemServiceUpsell__740f2"
+    "systemServiceUpsell": "systemServiceUpsell__740f2",
+    "ctaContainer": "ctaContainer__740f2",
+    "warning": "warning__740f2",
+    "addButton": "addButton__740f2"
   },
   "894723": {
     "member": "member__5d473",
