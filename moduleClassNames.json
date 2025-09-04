@@ -6197,6 +6197,9 @@
     "muted": "muted_bf202d",
     "selected": "selected_bf202d"
   },
+  "223399": {
+    "mobileContainer": "mobileContainer__26f4a"
+  },
   "224757": {
     "sliderContainer": "sliderContainer__65039",
     "slider": "slider__65039"
@@ -12148,8 +12151,10 @@
   },
   "461917": {
     "container": "container__68a18",
+    "mobileContainer": "mobileContainer__68a18",
     "containerInner": "containerInner__68a18",
     "editorBody": "editorBody__68a18",
+    "mobileEditorBody": "mobileEditorBody__68a18",
     "headerContainer": "headerContainer__68a18",
     "closeButton": "closeButton__68a18",
     "sliderContainer": "sliderContainer__68a18",
@@ -23036,6 +23041,7 @@
   },
   "882741": {
     "container": "container__5a2df",
+    "mobileContainer": "mobileContainer__5a2df",
     "editorBody": "editorBody__5a2df",
     "section": "section__5a2df",
     "resetButton": "resetButton__5a2df",
