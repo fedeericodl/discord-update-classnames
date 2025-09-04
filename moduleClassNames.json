@@ -5201,6 +5201,14 @@
     "title": "title_d520fc",
     "addQuestionsContainer": "addQuestionsContainer_d520fc"
   },
+  "195623": {
+    "timerContainer": "timerContainer__7cfe3",
+    "timeUnitsOuterContainer": "timeUnitsOuterContainer__7cfe3",
+    "timeUnitInnerContainer": "timeUnitInnerContainer__7cfe3",
+    "time": "time__7cfe3",
+    "timeBoxOutline": "timeBoxOutline__7cfe3",
+    "unitDivider": "unitDivider__7cfe3"
+  },
   "196073": {
     "container": "container_e9ef78",
     "content": "content_e9ef78",
@@ -16879,6 +16887,7 @@
     "containerV2": "containerV2__3ce43",
     "trialPill": "trialPill__3ce43",
     "content": "content__3ce43",
+    "churnDiscountContent": "churnDiscountContent__3ce43 content__3ce43",
     "contentV2": "contentV2__3ce43",
     "hidden": "hidden__3ce43",
     "heroHeadingOriginalButtonContainer": "heroHeadingOriginalButtonContainer__3ce43",
@@ -16897,7 +16906,8 @@
     "referralBanner": "referralBanner__3ce43",
     "churnEntrypointButtons": "churnEntrypointButtons__3ce43",
     "churnEntrypointDescriptionBrandRefresh": "churnEntrypointDescriptionBrandRefresh__3ce43",
-    "churnEntrypointDescription": "churnEntrypointDescription__3ce43"
+    "churnEntrypointDescription": "churnEntrypointDescription__3ce43",
+    "churnDiscountHeader": "churnDiscountHeader__3ce43"
   },
   "645765": {
     "imageEditor": "imageEditor_ab2592",
@@ -16983,10 +16993,7 @@
     "container": "container__97499"
   },
   "647876": {
-    "doubleInput": "doubleInput__6dc4b",
-    "link": "link__6dc4b",
-    "addIcon": "addIcon__6dc4b",
-    "removeIcon": "removeIcon__6dc4b"
+    "doubleInput": "doubleInput__6dc4b"
   },
   "647917": {
     "clickable": "clickable_a3e8db",
@@ -24489,11 +24496,10 @@
     "guildArrow": "guildArrow__1dfb8"
   },
   "950174": {
-    "cardsGrid": "cardsGrid_d64c23",
+    "giftRewardShopCardsGrid": "giftRewardShopCardsGrid_d64c23",
     "title": "title_d64c23",
     "subtitle": "subtitle_d64c23",
-    "modalFooter": "modalFooter_d64c23",
-    "container": "container_d64c23"
+    "modalFooter": "modalFooter_d64c23"
   },
   "950671": {
     "tooltipContainer": "tooltipContainer__7bebc",
