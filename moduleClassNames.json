@@ -7534,6 +7534,7 @@
     "root": "root__9c3be",
     "disabled": "disabled__9c3be",
     "previewBar": "previewBar__9c3be",
+    "editingToolbar": "editingToolbar__9c3be",
     "toast": "toast__9c3be",
     "interactionToast": "interactionToast__9c3be",
     "backdrop": "backdrop__9c3be",
@@ -7938,8 +7939,10 @@
     "mainContent": "mainContent__08415",
     "heroHeaderContainer": "heroHeaderContainer__08415",
     "responsive": "responsive__08415",
+    "heroHeaderContainerStacked": "heroHeaderContainerStacked__08415",
     "heroHeaderBadgeLogoSummaryContainer": "heroHeaderBadgeLogoSummaryContainer__08415",
     "heroLogoNameContainer": "heroLogoNameContainer__08415",
+    "heroLogoNameContainerStacked": "heroLogoNameContainerStacked__08415",
     "heroHeaderLogo": "heroHeaderLogo__08415",
     "popularPicksSection": "popularPicksSection__08415",
     "blockHeader": "blockHeader__08415",
@@ -7953,6 +7956,7 @@
     "subHeaderTextDark": "subHeaderTextDark__08415",
     "orbsSubHeaderText": "orbsSubHeaderText__08415",
     "heroHeaderButtonContainer": "heroHeaderButtonContainer__08415",
+    "heroHeaderButtonContainerStacked": "heroHeaderButtonContainerStacked__08415",
     "limitedTimeBadge": "limitedTimeBadge__08415",
     "feed": "feed__08415",
     "sortChangedIntro": "sortChangedIntro__08415",
@@ -8984,6 +8988,11 @@
     "sidebarScrollable": "sidebarScrollable__53543",
     "content": "content__53543",
     "scroller": "scroller__53543"
+  },
+  "352614": {
+    "container": "container__9fc7d",
+    "dndKeyboardHelpBar": "dndKeyboardHelpBar__9fc7d",
+    "pendingChangesNotice": "pendingChangesNotice__9fc7d"
   },
   "352677": {
     "detailContainer": "detailContainer__871ff",
@@ -12123,8 +12132,6 @@
     "textGrid": "textGrid_f8dc05"
   },
   "461671": {
-    "container": "container_a58267",
-    "visible": "visible_a58267",
     "content": "content_a58267",
     "emphasized": "emphasized_a58267",
     "message": "message_a58267",
@@ -21717,6 +21724,7 @@
   },
   "830202": {
     "scroller": "scroller__3b923",
+    "hasToolbar": "hasToolbar__3b923",
     "ukTeenDisclaimer": "ukTeenDisclaimer__3b923"
   },
   "830260": {
