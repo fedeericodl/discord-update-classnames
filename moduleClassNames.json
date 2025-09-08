@@ -2462,6 +2462,11 @@
   "88036": {
     "container": "container_cec934"
   },
+  "88651": {
+    "profileCustomizationTab": "profileCustomizationTab__99464",
+    "textContainer": "textContainer__99464",
+    "editProfilesRow": "editProfilesRow__99464"
+  },
   "88785": {
     "spinner": "spinner_ced2f2",
     "modal": "modal_ced2f2",
