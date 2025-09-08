@@ -6968,15 +6968,6 @@
     "newBadge": "newBadge_f84418",
     "separator": "separator_f84418"
   },
-  "261385": {
-    "tooltip": "tooltip__93f15",
-    "tooltipContent": "tooltipContent__93f15",
-    "iconContainer": "iconContainer__93f15",
-    "inviteImage": "inviteImage__93f15",
-    "offsetAvatarContainer": "offsetAvatarContainer__93f15",
-    "inviterImage": "inviterImage__93f15",
-    "titleContainer": "titleContainer__93f15"
-  },
   "262381": {
     "upsellOuter": "upsellOuter__50e68",
     "upsellInner": "upsellInner__50e68",
@@ -19277,7 +19268,10 @@
     "actions": "actions_ba21b4"
   },
   "741047": {
-    "recentsIcon": "recentsIcon_c99c29"
+    "clickable": "clickable_c99c29",
+    "withHighlight": "withHighlight_c99c29",
+    "badge": "badge_c99c29",
+    "smol": "smol_c99c29"
   },
   "741463": {
     "modalHeader": "modalHeader_c28af8",
