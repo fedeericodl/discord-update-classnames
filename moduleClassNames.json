@@ -6965,7 +6965,6 @@
   },
   "261334": {
     "popover": "popover_f84418",
-    "popoverReactionHoverBar": "popoverReactionHoverBar_f84418",
     "hoverBarButton": "hoverBarButton_f84418",
     "icon": "icon_f84418",
     "buttonContent": "buttonContent_f84418",
@@ -8746,9 +8745,7 @@
   },
   "343447": {
     "pageDescription": "pageDescription__8f372",
-    "subscriptionsContainer": "subscriptionsContainer__8f372",
-    "backButtonContents": "backButtonContents__8f372",
-    "arrowIcon": "arrowIcon__8f372"
+    "subscriptionsContainer": "subscriptionsContainer__8f372"
   },
   "343696": {
     "container": "container__35859",
@@ -11488,6 +11485,11 @@
     "threadIcon": "threadIcon_fec266",
     "personWavingIcon": "personWavingIcon_fec266"
   },
+  "441728": {
+    "container": "container_f7ccdb",
+    "image": "image_f7ccdb",
+    "body": "body_f7ccdb"
+  },
   "441849": {
     "inputItem": "inputItem__3b8e9",
     "inputItemText": "inputItemText__3b8e9",
@@ -12805,7 +12807,6 @@
   "489838": {
     "selectTeamContainer": "selectTeamContainer__7b175",
     "teamSelect": "teamSelect__7b175",
-    "enableTicketingButton": "enableTicketingButton__7b175",
     "error": "error__7b175",
     "description": "description__7b175",
     "nonOwnerNotice": "nonOwnerNotice__7b175",
@@ -18043,7 +18044,6 @@
   "699533": {
     "sectionDescription": "sectionDescription__8d742",
     "card": "card__8d742",
-    "manageSubscriptionsButton": "manageSubscriptionsButton__8d742",
     "handImage": "handImage__8d742",
     "textContainer": "textContainer__8d742",
     "header": "header__8d742",
@@ -20321,7 +20321,8 @@
     "container": "container__7116a",
     "group": "group__7116a",
     "separator": "separator__7116a",
-    "icon": "icon__7116a"
+    "icon": "icon__7116a",
+    "input": "input__7116a"
   },
   "788457": {
     "nitroTopDividerContainer": "nitroTopDividerContainer_b3fb5f",
@@ -24488,6 +24489,10 @@
     "nameplatePreview": "nameplatePreview__9baf3",
     "nameplate": "nameplate__9baf3",
     "giftAnimation": "giftAnimation__9baf3"
+  },
+  "948172": {
+    "container": "container_cb3ea3",
+    "body": "body_cb3ea3"
   },
   "948558": {
     "wrapper": "wrapper_d5ee5c",
