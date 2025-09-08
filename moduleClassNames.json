@@ -789,9 +789,6 @@
     "inactive": "inactive_d75751"
   },
   "28025": {
-    "deviceOptionCertified": "deviceOptionCertified_fe5040",
-    "deviceOption": "deviceOption_fe5040",
-    "deviceOptionLabel": "deviceOptionLabel_fe5040",
     "devices": "devices_fe5040",
     "deviceColumns": "deviceColumns_fe5040",
     "column": "column_fe5040"
@@ -3196,7 +3193,14 @@
     "wrapper": "wrapper__28a87"
   },
   "118896": {
-    "selectedDevice": "selectedDevice__12eef"
+    "singleSelectOption": "singleSelectOption__12eef",
+    "deviceContainer": "deviceContainer__12eef",
+    "withIcon": "withIcon__12eef",
+    "multiLine": "multiLine__12eef",
+    "deviceSubLabel": "deviceSubLabel__12eef",
+    "deviceIcon": "deviceIcon__12eef",
+    "deviceLabel": "deviceLabel__12eef",
+    "deviceCertifiedPill": "deviceCertifiedPill__12eef"
   },
   "119189": {
     "categorySubGroup": "categorySubGroup__65726"
@@ -10888,7 +10892,6 @@
     "demo": "demo__89401",
     "baseUrl": "baseUrl__89401",
     "vanityCode": "vanityCode__89401",
-    "vanityUrlInput": "vanityUrlInput__89401",
     "previewCard": "previewCard__89401",
     "avatar": "avatar__89401",
     "previewCardMessage": "previewCardMessage__89401",
@@ -11339,13 +11342,6 @@
     "promotionalFooterBanner": "promotionalFooterBanner_e68795",
     "bannerText": "bannerText_e68795",
     "avatar": "avatar_e68795"
-  },
-  "433028": {
-    "prefixInput": "prefixInput__9d137",
-    "focused": "focused__9d137",
-    "error": "error__9d137",
-    "prefixInputInput": "prefixInputInput__9d137",
-    "prefixInputPrefix": "prefixInputPrefix__9d137"
   },
   "433155": {
     "topSpacing": "topSpacing__5273b",
