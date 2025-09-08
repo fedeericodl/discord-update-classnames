@@ -2150,28 +2150,6 @@
     "subText": "subText__91a9d",
     "children": "children__91a9d"
   },
-  "81818": {
-    "checkboxWrapper": "checkboxWrapper_f525d3",
-    "row": "row_f525d3",
-    "checked": "checked_f525d3",
-    "inputDefault": "inputDefault_f525d3 input_f525d3",
-    "checkboxWrapperDisabled": "checkboxWrapperDisabled_f525d3 checkboxWrapper_f525d3",
-    "checkbox": "checkbox_f525d3",
-    "alignTop": "alignTop_f525d3",
-    "alignCenter": "alignCenter_f525d3",
-    "input": "input_f525d3",
-    "inputDisabled": "inputDisabled_f525d3 input_f525d3",
-    "inputReadonly": "inputReadonly_f525d3 input_f525d3",
-    "box": "box_f525d3",
-    "smallBox": "smallBox_f525d3",
-    "round": "round_f525d3",
-    "checkboxDisabled": "checkboxDisabled_f525d3",
-    "label": "label_f525d3",
-    "labelClickable": "labelClickable_f525d3",
-    "labelDisabled": "labelDisabled_f525d3",
-    "labelForward": "labelForward_f525d3",
-    "labelReversed": "labelReversed_f525d3"
-  },
   "82364": {
     "wrapper": "wrapper__58105",
     "item": "item__58105"
@@ -11614,6 +11592,7 @@
     "appArch": "appArch__2debe",
     "os": "os__2debe",
     "versionHash": "versionHash__2debe",
+    "compact": "compact__2debe",
     "compactInfo": "compactInfo__2debe"
   },
   "447661": {
@@ -15968,6 +15947,11 @@
     "moreListItemActive": "moreListItemActive_f18716 moreListItem_f18716",
     "moreListLinkCopy": "moreListLinkCopy_f18716"
   },
+  "615730": {
+    "checkboxWrapper": "checkboxWrapper__8972a",
+    "checkbox": "checkbox__8972a",
+    "label": "label__8972a"
+  },
   "616132": {
     "gradientButtonContainer": "gradientButtonContainer__488d9",
     "colorSelectorPopoutContainer": "colorSelectorPopoutContainer__488d9",
@@ -18633,7 +18617,7 @@
     "userJoinSystemMessageIcon": "userJoinSystemMessageIcon_c19a55",
     "commandIcon": "commandIcon_c19a55",
     "commandName": "commandName_c19a55",
-    "username": "username_c19a55 desaturateUserColors__41f68",
+    "username": "username_c19a55",
     "roleDot": "roleDot_c19a55",
     "botTag": "botTag_c19a55",
     "appsIcon": "appsIcon_c19a55",
@@ -18668,6 +18652,7 @@
     "timestampTooltip": "timestampTooltip_c19a55",
     "timestampVisibleOnHover": "timestampVisibleOnHover_c19a55",
     "nitroAuthorBadgeTootip": "nitroAuthorBadgeTootip_c19a55",
+    "usernameColorOnName": "usernameColorOnName_c19a55 desaturateUserColors__41f68",
     "headerText": "headerText_c19a55",
     "hasRoleIcon": "hasRoleIcon_c19a55",
     "hasBadges": "hasBadges_c19a55",
@@ -18775,6 +18760,28 @@
     "gradientBackgroundContainer": "gradientBackgroundContainer_cbfae2",
     "gradientBackgroundPosition": "gradientBackgroundPosition_cbfae2",
     "nitroWheelIconColor": "nitroWheelIconColor_cbfae2"
+  },
+  "728122": {
+    "checkboxWrapper": "checkboxWrapper_c4538f",
+    "row": "row_c4538f",
+    "checked": "checked_c4538f",
+    "inputDefault": "inputDefault_c4538f input_c4538f",
+    "checkboxWrapperDisabled": "checkboxWrapperDisabled_c4538f checkboxWrapper_c4538f",
+    "checkbox": "checkbox_c4538f",
+    "alignTop": "alignTop_c4538f",
+    "alignCenter": "alignCenter_c4538f",
+    "input": "input_c4538f",
+    "inputDisabled": "inputDisabled_c4538f input_c4538f",
+    "inputReadonly": "inputReadonly_c4538f input_c4538f",
+    "box": "box_c4538f",
+    "smallBox": "smallBox_c4538f",
+    "round": "round_c4538f",
+    "checkboxDisabled": "checkboxDisabled_c4538f",
+    "label": "label_c4538f",
+    "labelClickable": "labelClickable_c4538f",
+    "labelDisabled": "labelDisabled_c4538f",
+    "labelForward": "labelForward_c4538f",
+    "labelReversed": "labelReversed_c4538f"
   },
   "728276": {
     "popIn": "popIn_c7da74"
@@ -21951,7 +21958,7 @@
     "nav": "nav__409aa",
     "section": "section__409aa",
     "label": "label__409aa",
-    "footer": "footer__409aa"
+    "fixedContent": "fixedContent__409aa"
   },
   "845442": {
     "baseControlItem": "baseControlItem_dbfbe0",
@@ -22615,6 +22622,7 @@
   "873395": {
     "item": "item_caf372",
     "active": "active_caf372",
+    "icon": "icon_caf372",
     "itemContent": "itemContent_caf372"
   },
   "874341": {
@@ -25499,7 +25507,10 @@
     "acronym": "acronym__4a43b"
   },
   "989281": {
-    "links": "links__7aac8"
+    "links": "links__7aac8",
+    "bullet": "bullet__7aac8",
+    "moreButton": "moreButton__7aac8",
+    "active": "active__7aac8"
   },
   "989295": {
     "icon": "icon__2a871",
