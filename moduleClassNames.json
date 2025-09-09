@@ -6986,7 +6986,9 @@
     "body": "body__7560f",
     "closeButton": "closeButton__7560f",
     "seasonalGiftIcon": "seasonalGiftIcon__7560f",
-    "modal": "modal__7560f"
+    "modal": "modal__7560f",
+    "gameItemImageGiftUnopened": "gameItemImageGiftUnopened__7560f",
+    "gameItemImageGiftOpened": "gameItemImageGiftOpened__7560f"
   },
   "269143": {
     "invalidWrapper": "invalidWrapper__076c1",
@@ -8111,9 +8113,7 @@
     "stepBody": "stepBody_fa6a46",
     "bodyColumnLeft": "bodyColumnLeft_fa6a46",
     "bodyColumnRight": "bodyColumnRight_fa6a46",
-    "title": "title_fa6a46",
-    "sendTo": "sendTo_fa6a46",
-    "subtitle": "subtitle_fa6a46",
+    "skuImage": "skuImage_fa6a46",
     "customGiftMessageWrapper": "customGiftMessageWrapper_fa6a46",
     "customGiftMessage": "customGiftMessage_fa6a46"
   },
@@ -14302,6 +14302,9 @@
     "recommendedTierHighlightTag": "recommendedTierHighlightTag__686cf",
     "perkPreviewImage": "perkPreviewImage__686cf"
   },
+  "551760": {
+    "skuImage": "skuImage__464a0"
+  },
   "551850": {
     "image": "image__97ca1",
     "text": "text__97ca1"
@@ -20379,6 +20382,10 @@
     "bannerArt": "bannerArt_d9914b",
     "maxConnectionInfo": "maxConnectionInfo_d9914b",
     "supportHeader": "supportHeader_d9914b"
+  },
+  "790793": {
+    "headerContainerGift": "headerContainerGift__7a4dc",
+    "closeButtonGift": "closeButtonGift__7a4dc"
   },
   "790952": {
     "circleIconButton": "circleIconButton__5bc7e",
