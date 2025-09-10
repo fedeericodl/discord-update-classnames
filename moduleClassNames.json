@@ -671,8 +671,7 @@
     "list": "list__6980e",
     "nameplateItem": "nameplateItem__6980e",
     "nameplateItemOverlay": "nameplateItemOverlay__6980e",
-    "selected": "selected__6980e",
-    "iconBadge": "iconBadge__6980e"
+    "selected": "selected__6980e"
   },
   "24445": {
     "ragingDemon": "ragingDemon_ac6454",
@@ -12963,9 +12962,8 @@
     "formResponseContainer": "formResponseContainer__143a4"
   },
   "496526": {
-    "backButtonInner": "backButtonInner__84419",
-    "backButton": "backButton__84419",
-    "backNotice": "backNotice__84419"
+    "backNotice": "backNotice__84419",
+    "closeButton": "closeButton__84419"
   },
   "496563": {
     "header": "header__1f657",
