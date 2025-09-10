@@ -1870,6 +1870,9 @@
     "pulseForeground": "pulseForeground__11664",
     "pulseGradient": "pulseGradient__11664"
   },
+  "70402": {
+    "dataAssurance": "dataAssurance__2a048"
+  },
   "71264": {
     "sidebar": "sidebar__9835e",
     "children": "children__9835e",
@@ -4549,8 +4552,7 @@
   "176179": {
     "container": "container__879ae",
     "image": "image__879ae",
-    "close": "close__879ae",
-    "innerClose": "innerClose__879ae"
+    "close": "close__879ae"
   },
   "176870": {
     "dragHandleButton": "dragHandleButton__7f511",
@@ -4606,6 +4608,10 @@
     "successNoticeContainer": "successNoticeContainer__7fffd",
     "successNotice": "successNotice__7fffd",
     "successNoticeMessage": "successNoticeMessage__7fffd"
+  },
+  "179835": {
+    "floatingFooter": "floatingFooter__49d5b",
+    "footerButtons": "footerButtons__49d5b"
   },
   "180002": {
     "chipletFlexContainer": "chipletFlexContainer__3b3ff",
@@ -6632,9 +6638,7 @@
   "248319": {
     "root": "root__10a0c",
     "content": "content__10a0c",
-    "fullbleed": "fullbleed__10a0c",
-    "iframe": "iframe__10a0c",
-    "footer": "footer__10a0c"
+    "iframe": "iframe__10a0c"
   },
   "248494": {
     "container": "container__92910"
@@ -17401,10 +17405,6 @@
     "cardCarousel": "cardCarousel_ca1a02",
     "loading": "loading_ca1a02"
   },
-  "678189": {
-    "requestContainer": "requestContainer_a2e66b",
-    "learnMoreButton": "learnMoreButton_a2e66b"
-  },
   "678249": {
     "qrCodeOverlay": "qrCodeOverlay_c28498",
     "size-40": "size-40_c28498",
@@ -19434,6 +19434,7 @@
   "753599": {
     "row": "row__19fd1",
     "clickable": "clickable__19fd1",
+    "disabled": "disabled__19fd1",
     "noInset": "noInset__19fd1",
     "iconContainer": "iconContainer__19fd1",
     "icon": "icon__19fd1",
@@ -22785,6 +22786,15 @@
     "channelIcon": "channelIcon__7169d",
     "description": "description__7169d",
     "subtext": "subtext__7169d"
+  },
+  "879048": {
+    "container": "container_e0f8ae",
+    "headerContainer": "headerContainer_e0f8ae",
+    "headerContent": "headerContent_e0f8ae",
+    "gameGrid": "gameGrid_e0f8ae",
+    "gameClickable": "gameClickable_e0f8ae",
+    "coverArt": "coverArt_e0f8ae",
+    "closeButton": "closeButton_e0f8ae"
   },
   "879488": {
     "header": "header__6dc27",
