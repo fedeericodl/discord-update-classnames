@@ -12383,7 +12383,13 @@
     "previewPlayButtonCont": "previewPlayButtonCont__636a2",
     "previewPlayButton": "previewPlayButton__636a2",
     "contentCollapsedBackgroundWrapper": "contentCollapsedBackgroundWrapper__636a2",
-    "contentCollapsedBackground": "contentCollapsedBackground__636a2"
+    "contentCollapsedBackground": "contentCollapsedBackground__636a2",
+    "blur": "blur__636a2",
+    "blur100": "blur100__636a2",
+    "blur60": "blur60__636a2",
+    "blur30": "blur30__636a2",
+    "shine": "shine__636a2",
+    "Shine": "Shine__636a2"
   },
   "475915": {
     "container": "container__251d4",
@@ -15079,7 +15085,7 @@
     "clickable": "clickable_a86e4f",
     "promotedBadge": "promotedBadge_a86e4f",
     "promotedBadgeIcon": "promotedBadgeIcon_a86e4f",
-    "rewardHighlightLogotype": "rewardHighlightLogotype_a86e4f"
+    "partnerBranding": "partnerBranding_a86e4f"
   },
   "580229": {
     "container": "container__6f89e",
@@ -23453,8 +23459,8 @@
   },
   "895758": {
     "rewardTileContainer": "rewardTileContainer__8a22c",
-    "rewardTileSpacer": "rewardTileSpacer__8a22c",
     "rewardHighlightLogoCTA": "rewardHighlightLogoCTA__8a22c",
+    "rewardHighlightLogoCTAHeightBoost": "rewardHighlightLogoCTAHeightBoost__8a22c",
     "partnerBranding": "partnerBranding__8a22c",
     "rewardHighlightCTA": "rewardHighlightCTA__8a22c"
   },
