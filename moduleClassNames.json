@@ -7645,7 +7645,8 @@
     "fadeOut": "fadeOut_c3d04b",
     "externalProductDimmed": "externalProductDimmed_c3d04b",
     "orbIconAligned": "orbIconAligned_c3d04b",
-    "thumbnailVariant": "thumbnailVariant_c3d04b"
+    "thumbnailVariant": "thumbnailVariant_c3d04b",
+    "badgeLeftAligned": "badgeLeftAligned_c3d04b"
   },
   "300849": {
     "container": "container_a2b4d3",
@@ -8304,14 +8305,9 @@
     "content": "content_b6bcee"
   },
   "333669": {
-    "close": "close__178fd",
-    "modal": "modal__178fd",
-    "modalContentContainer": "modalContentContainer__178fd",
     "container": "container__178fd",
     "contentContainer": "contentContainer__178fd",
-    "buttonContainer": "buttonContainer__178fd",
-    "description": "description__178fd",
-    "button": "button__178fd"
+    "description": "description__178fd"
   },
   "334090": {
     "newMemberBadge": "newMemberBadge_f80704"
