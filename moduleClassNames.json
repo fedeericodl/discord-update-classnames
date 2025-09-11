@@ -7646,7 +7646,8 @@
     "externalProductDimmed": "externalProductDimmed_c3d04b",
     "orbIconAligned": "orbIconAligned_c3d04b",
     "thumbnailVariant": "thumbnailVariant_c3d04b",
-    "badgeLeftAligned": "badgeLeftAligned_c3d04b"
+    "badgeLeftAligned": "badgeLeftAligned_c3d04b",
+    "wishlistButton": "wishlistButton_c3d04b"
   },
   "300849": {
     "container": "container_a2b4d3",
@@ -23153,6 +23154,11 @@
     "messageContainer": "messageContainer__95796",
     "jumpMessageButton": "jumpMessageButton__95796 jumpButton_ed0c8c",
     "message": "message__95796"
+  },
+  "890088": {
+    "wishlistButton": "wishlistButton__979b1",
+    "normalIconColor": "normalIconColor__979b1",
+    "wishlistedOrHoveredIconColor": "wishlistedOrHoveredIconColor__979b1"
   },
   "890332": {
     "container": "container_e131a9",
