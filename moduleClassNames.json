@@ -3456,9 +3456,6 @@
     "tierTopIndicator": "tierTopIndicator__3efc4",
     "tierInfoContainer": "tierInfoContainer__3efc4",
     "tierDescriptionTruncate": "tierDescriptionTruncate__3efc4",
-    "toggleTruncationButton": "toggleTruncationButton__3efc4",
-    "toggleTruncationButtonInner": "toggleTruncationButtonInner__3efc4",
-    "toggleTruncationButtonIcon": "toggleTruncationButtonIcon__3efc4",
     "subscriptionPerks": "subscriptionPerks__3efc4",
     "roleMessagePreview": "roleMessagePreview__3efc4",
     "sectionHeader": "sectionHeader__3efc4",
@@ -3466,7 +3463,8 @@
     "benefitsList": "benefitsList__3efc4",
     "emojiList": "emojiList__3efc4",
     "emojiListEmoji": "emojiListEmoji__3efc4",
-    "divider": "divider__3efc4"
+    "divider": "divider__3efc4",
+    "helpMessage": "helpMessage__3efc4"
   },
   "127181": {
     "container": "container__6c253",
@@ -5002,6 +5000,7 @@
     "variantsSwitch": "variantsSwitch_c50f62",
     "variantsThumbnail": "variantsThumbnail_c50f62",
     "externalProductProfilePreview": "externalProductProfilePreview_c50f62",
+    "wishlistButton": "wishlistButton_c50f62",
     "orbIconAligned": "orbIconAligned_c50f62",
     "modalFooter": "modalFooter_c50f62",
     "modalFooterText": "modalFooterText_c50f62",
@@ -7342,7 +7341,6 @@
   "290136": {
     "planSelectStep": "planSelectStep__65b48",
     "externalErrorBlock": "externalErrorBlock__65b48",
-    "helpMessageWrapper": "helpMessageWrapper__65b48",
     "footerRight": "footerRight__65b48",
     "backStep": "backStep__65b48",
     "copy": "copy__65b48",
@@ -19574,13 +19572,15 @@
   },
   "756555": {
     "container": "container_ce5f0d",
-    "bannerContainer": "bannerContainer_ce5f0d",
     "bannerContent": "bannerContent_ce5f0d",
     "bannerContentText": "bannerContentText_ce5f0d",
-    "reminderContainer": "reminderContainer_ce5f0d",
-    "remindersSentContainer": "remindersSentContainer_ce5f0d",
-    "reminderAvatar": "reminderAvatar_ce5f0d",
-    "reminderAvatarText": "reminderAvatarText_ce5f0d"
+    "referredFriendAvatar": "referredFriendAvatar_ce5f0d",
+    "availableReferralSlot": "availableReferralSlot_ce5f0d",
+    "progressContainer": "progressContainer_ce5f0d",
+    "progressCircle": "progressCircle_ce5f0d",
+    "progressCircleBackground": "progressCircleBackground_ce5f0d",
+    "progressCircleRing": "progressCircleRing_ce5f0d",
+    "glow": "glow_ce5f0d"
   },
   "757212": {
     "container": "container_fb64c9",
@@ -23221,6 +23221,7 @@
   },
   "890088": {
     "wishlistButton": "wishlistButton__979b1",
+    "withHover": "withHover__979b1",
     "normalIconColor": "normalIconColor__979b1",
     "wishlistedOrHoveredIconColor": "wishlistedOrHoveredIconColor__979b1",
     "toastIcon": "toastIcon__979b1"
