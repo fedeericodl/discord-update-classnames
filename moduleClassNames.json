@@ -2265,7 +2265,8 @@
     "embeddedActivityJoinWrapper": "embeddedActivityJoinWrapper__00943",
     "embeddedActivityIcon": "embeddedActivityIcon__00943",
     "cloudPlaySectionSeparator": "cloudPlaySectionSeparator__00943",
-    "cloudPlaySection": "cloudPlaySection__00943"
+    "cloudPlaySection": "cloudPlaySection__00943",
+    "cloudPlaySectionTextContainer": "cloudPlaySectionTextContainer__00943"
   },
   "84933": {
     "container": "container__8a003",
@@ -5780,9 +5781,6 @@
     "templateNameRow": "templateNameRow__6f8c0",
     "unselectedTemplateName": "unselectedTemplateName__6f8c0",
     "templateCardImage": "templateCardImage__6f8c0",
-    "createFromStratchButton": "createFromStratchButton__6f8c0",
-    "createFromStratchButtonInner": "createFromStratchButtonInner__6f8c0",
-    "editIcon": "editIcon__6f8c0",
     "blackoutOverlay": "blackoutOverlay__6f8c0"
   },
   "207911": {
@@ -7344,6 +7342,7 @@
   "290136": {
     "planSelectStep": "planSelectStep__65b48",
     "externalErrorBlock": "externalErrorBlock__65b48",
+    "helpMessageWrapper": "helpMessageWrapper__65b48",
     "footerRight": "footerRight__65b48",
     "backStep": "backStep__65b48",
     "copy": "copy__65b48",
@@ -9407,8 +9406,7 @@
     "description": "description__9ae4f"
   },
   "370511": {
-    "waitlist": "waitlist__24d4e",
-    "waitlistCtaButton": "waitlistCtaButton__24d4e"
+    "waitlist": "waitlist__24d4e"
   },
   "371882": {
     "container": "container_c66e86",
@@ -17301,10 +17299,7 @@
     "statusWarningBlockWithCta": "statusWarningBlockWithCta__1066d",
     "horizontalStatusWarningBlock": "horizontalStatusWarningBlock__1066d",
     "verticalStatusWarningBlock": "verticalStatusWarningBlock__1066d",
-    "ctaButtonContainer": "ctaButtonContainer__1066d",
-    "ctaButton": "ctaButton__1066d",
-    "ctaBlackButton": "ctaBlackButton__1066d",
-    "ctaButtonText": "ctaButtonText__1066d"
+    "ctaButtonContainer": "ctaButtonContainer__1066d"
   },
   "673176": {
     "container": "container_ea2f50"
@@ -18880,11 +18875,6 @@
     "icon": "icon__6d8e5",
     "titleWithBeta": "titleWithBeta__6d8e5"
   },
-  "728756": {
-    "button": "button__36b87",
-    "buttonContents": "buttonContents__36b87",
-    "icon": "icon__36b87"
-  },
   "728963": {
     "container": "container__955a3",
     "dragRegion": "dragRegion__955a3",
@@ -19183,8 +19173,7 @@
     "textContainer": "textContainer__37475",
     "warningIcon": "warningIcon__37475",
     "info": "info__37475",
-    "error": "error__37475",
-    "undoButton": "undoButton__37475"
+    "error": "error__37475"
   },
   "740328": {
     "upsellButton": "upsellButton__5abaa",
@@ -19721,9 +19710,6 @@
   },
   "766817": {
     "item": "item__52575"
-  },
-  "766958": {
-    "container": "container_d843c9"
   },
   "767248": {
     "progress": "progress__61462",
@@ -20308,7 +20294,6 @@
   "787267": {
     "container": "container__7116a",
     "group": "group__7116a",
-    "separator": "separator__7116a",
     "icon": "icon__7116a",
     "input": "input__7116a"
   },
@@ -21402,10 +21387,6 @@
     "footerSeparator": "footerSeparator__49fc1",
     "separator": "separator__49fc1",
     "rootWithShadow": "rootWithShadow__49fc1"
-  },
-  "818235": {
-    "container": "container_cbb93a",
-    "body": "body_cbb93a"
   },
   "818398": {
     "container": "container_d404a3",
@@ -22684,13 +22665,6 @@
     "keybindKey": "keybindKey_f061f6",
     "keyboardShortcutSection": "keyboardShortcutSection_f061f6",
     "keyboardShortcutListGroup": "keyboardShortcutListGroup_f061f6"
-  },
-  "870670": {
-    "container": "container_e2461d",
-    "innerContainer": "innerContainer_e2461d",
-    "iconWrapper": "iconWrapper_e2461d",
-    "star": "star_e2461d",
-    "sparkle": "sparkle_e2461d"
   },
   "871017": {
     "header": "header__693f1",
