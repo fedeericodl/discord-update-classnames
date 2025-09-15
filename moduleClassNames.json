@@ -2531,7 +2531,10 @@
     "content": "content_d77702",
     "radioGroup": "radioGroup_d77702",
     "gameIcon": "gameIcon_d77702",
-    "searchNoToggle": "searchNoToggle_d77702"
+    "searchNoToggle": "searchNoToggle_d77702",
+    "detectedGameFrame": "detectedGameFrame_d77702",
+    "detectedGameIcon": "detectedGameIcon_d77702",
+    "detectedGameIconPlaceholder": "detectedGameIconPlaceholder_d77702"
   },
   "90274": {
     "attachWrapper": "attachWrapper__0923f",
@@ -14940,6 +14943,16 @@
     "cardBenefitIcon": "cardBenefitIcon_f18f64",
     "benefitsSummary": "benefitsSummary_f18f64"
   },
+  "571818": {
+    "container": "container__0b003",
+    "contentVertical": "contentVertical__0b003",
+    "buttonsVertical": "buttonsVertical__0b003",
+    "buttonVertical": "buttonVertical__0b003",
+    "contentHorizontal": "contentHorizontal__0b003",
+    "buttonsHorizontal": "buttonsHorizontal__0b003",
+    "prompt": "prompt__0b003",
+    "thankYouText": "thankYouText__0b003"
+  },
   "572065": {
     "badgeUpgrade": "badgeUpgrade_fbcaba"
   },
@@ -16526,6 +16539,8 @@
     "tags": "tags__41ea0",
     "altTag": "altTag__41ea0",
     "spoilerContainer": "spoilerContainer__41ea0",
+    "sizeXSmall": "sizeXSmall__41ea0",
+    "sizeXXSmall": "sizeXXSmall__41ea0",
     "spoilerWrapper": "spoilerWrapper__41ea0",
     "media": "media__41ea0",
     "sizeClip": "sizeClip__41ea0",
@@ -25199,6 +25214,23 @@
   },
   "974101": {
     "loader": "loader__82471"
+  },
+  "975279": {
+    "container": "container_e21ed7",
+    "dropping": "dropping_e21ed7",
+    "error": "error_e21ed7",
+    "mainWrapper": "mainWrapper_e21ed7",
+    "mainBody": "mainBody_e21ed7",
+    "hidden": "hidden_e21ed7",
+    "absolutelyPositioned": "absolutelyPositioned_e21ed7",
+    "files": "files_e21ed7",
+    "file": "file_e21ed7",
+    "miniPopover": "miniPopover_e21ed7",
+    "singleFileInput": "singleFileInput_e21ed7",
+    "filename": "filename_e21ed7",
+    "action": "action_e21ed7",
+    "actionIcon": "actionIcon_e21ed7",
+    "fileInput": "fileInput_e21ed7"
   },
   "975290": {
     "container": "container_db6581",
