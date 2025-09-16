@@ -3511,6 +3511,13 @@
     "sparkles": "sparkles_f8896c",
     "burstGlow": "burstGlow_f8896c"
   },
+  "129034": {
+    "contentContainer": "contentContainer_ca4984",
+    "previewContainer": "previewContainer_ca4984",
+    "copyContainer": "copyContainer_ca4984",
+    "heading": "heading_ca4984",
+    "text": "text_ca4984"
+  },
   "129649": {
     "customGiftBox": "customGiftBox_d50aac",
     "customGiftBoxHighlighted": "customGiftBoxHighlighted_d50aac",
@@ -19789,15 +19796,16 @@
   "769212": {
     "blurb": "blurb_cd2ff7",
     "giftSentMessage": "giftSentMessage_cd2ff7",
-    "giftRecipient": "giftRecipient_cd2ff7",
-    "giftRecipientName": "giftRecipientName_cd2ff7",
     "giftRecipientTag": "giftRecipientTag_cd2ff7",
+    "giftRecipientContainer": "giftRecipientContainer_cd2ff7",
+    "giftRecipientTextContainer": "giftRecipientTextContainer_cd2ff7",
     "divider": "divider_cd2ff7",
     "subtext": "subtext_cd2ff7",
     "subtextError": "subtextError_cd2ff7 subtext_cd2ff7",
     "header": "header_cd2ff7",
     "headerCustomGifting": "headerCustomGifting_cd2ff7",
     "giftRecipientSection": "giftRecipientSection_cd2ff7",
+    "giftRecipient": "giftRecipient_cd2ff7",
     "giftRecipientInputWrapper": "giftRecipientInputWrapper_cd2ff7",
     "giftRecipientInputError": "giftRecipientInputError_cd2ff7",
     "confirmation": "confirmation_cd2ff7",
