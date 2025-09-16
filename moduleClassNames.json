@@ -9927,6 +9927,13 @@
     "footer": "footer__50a54",
     "deauthorizeButton": "deauthorizeButton__50a54"
   },
+  "393146": {
+    "settings": "settings__0e683",
+    "panelContainer": "panelContainer__0e683",
+    "buttonContainer": "buttonContainer__0e683",
+    "button": "button__0e683",
+    "recent": "recent__0e683"
+  },
   "393181": {
     "recurrences": "recurrences__4fb8c",
     "heading": "heading__4fb8c",
@@ -10579,16 +10586,15 @@
     "sectionHeader": "sectionHeader__61424",
     "sectionTitle": "sectionTitle__61424",
     "sectionHeaderContent": "sectionHeaderContent__61424",
-    "notFirstSectionHeader": "notFirstSectionHeader__61424",
     "smallPaddingFooter": "smallPaddingFooter__61424",
     "lastSectionFooter": "lastSectionFooter__61424",
     "nitroLocked": "nitroLocked__61424",
     "headerIcon": "headerIcon__61424",
     "soundRow": "soundRow__61424",
     "soundRowNitroLocked": "soundRowNitroLocked__61424",
-    "lastSoundRow": "lastSoundRow__61424",
     "settingsClickArea": "settingsClickArea__61424",
     "settingsSoundmojiClickArea": "settingsSoundmojiClickArea__61424",
+    "premiumSectionDivider": "premiumSectionDivider__61424",
     "settingsIcon": "settingsIcon__61424"
   },
   "412850": {
@@ -15875,6 +15881,12 @@
     "nuxDivider": "nuxDivider__9d98d",
     "systemServiceWarning": "systemServiceWarning__9d98d"
   },
+  "607669": {
+    "panelContainer": "panelContainer_fe44d5",
+    "candidatesTable": "candidatesTable_fe44d5",
+    "candidatesTableContainer": "candidatesTableContainer_fe44d5",
+    "info": "info_fe44d5"
+  },
   "607878": {
     "title": "title_ace4f5",
     "disabled": "disabled_ace4f5",
@@ -19704,6 +19716,11 @@
     "scroller": "scroller__6131a",
     "notice": "notice__6131a"
   },
+  "764668": {
+    "container": "container__540a3",
+    "textContainer": "textContainer__540a3",
+    "text": "text__540a3"
+  },
   "765179": {
     "container": "container_ef0711",
     "powerupsContainer": "powerupsContainer_ef0711",
@@ -23039,14 +23056,6 @@
     "nitroIcon": "nitroIcon__5a2df",
     "controlLabelContainer": "controlLabelContainer__5a2df",
     "controlLabelInput": "controlLabelInput__5a2df"
-  },
-  "882754": {
-    "panelContainer": "panelContainer__0dbe4",
-    "buttonContainer": "buttonContainer__0dbe4",
-    "button": "button__0dbe4",
-    "candidatesTable": "candidatesTable__0dbe4",
-    "candidatesTableContainer": "candidatesTableContainer__0dbe4",
-    "info": "info__0dbe4"
   },
   "882771": {
     "desktopTooltip": "desktopTooltip_fed3a2",
