@@ -15205,11 +15205,6 @@
     "input": "input__6f89e",
     "slider": "slider__6f89e"
   },
-  "580309": {
-    "badge": "badge_dca3ba",
-    "default": "default_dca3ba",
-    "expressive": "expressive_dca3ba"
-  },
   "580792": {
     "profilePreviewContainer": "profilePreviewContainer__8771c",
     "usernameContainer": "usernameContainer__8771c",
@@ -24724,6 +24719,11 @@
   },
   "956636": {
     "coverList": "coverList__9a5c3"
+  },
+  "957618": {
+    "badge": "badge_c2b88c",
+    "default": "default_c2b88c",
+    "expressive": "expressive_c2b88c"
   },
   "957717": {
     "emptyWrapper": "emptyWrapper_f12222",
