@@ -1745,6 +1745,11 @@
     "infoGroup": "infoGroup_f549e5",
     "infoRow": "infoRow_f549e5"
   },
+  "65448": {
+    "root": "root__373b5",
+    "rolesHeading": "rolesHeading__373b5",
+    "rolesList": "rolesList__373b5"
+  },
   "65573": {
     "wrapper": "wrapper_b1e4f3",
     "list": "list_b1e4f3",
@@ -16657,8 +16662,8 @@
   },
   "638758": {
     "catalogBanner": "catalogBanner__3f82e",
-    "catalogBannerImage": "catalogBannerImage__3f82e",
     "animationAsset": "animationAsset__3f82e",
+    "catalogBannerImage": "catalogBannerImage__3f82e",
     "limitedTimeBadge": "limitedTimeBadge__3f82e"
   },
   "638912": {
