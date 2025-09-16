@@ -3949,7 +3949,7 @@
     "unknownCreatorName": "unknownCreatorName__54b20"
   },
   "149671": {
-    "title": "title__8303d",
+    "container": "container__8303d",
     "contentContainer": "contentContainer__8303d",
     "settingsContainer": "settingsContainer__8303d",
     "sectionContainer": "sectionContainer__8303d",
@@ -25008,9 +25008,9 @@
     "divider": "divider__7c7a6",
     "graph": "graph__7c7a6",
     "videoWrapper": "videoWrapper__7c7a6",
-    "sectionHeader": "sectionHeader__7c7a6",
     "allowSelection": "allowSelection__7c7a6",
-    "avatar": "avatar__7c7a6"
+    "avatar": "avatar__7c7a6",
+    "tabBar": "tabBar__7c7a6"
   },
   "966677": {
     "countDown": "countDown__61bcd",
