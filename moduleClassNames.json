@@ -6333,22 +6333,6 @@
     "selected": "selected__5e616",
     "purchasedIndicator": "purchasedIndicator__5e616"
   },
-  "234112": {
-    "embedCard": "embedCard__7b03f",
-    "embedHeading": "embedHeading__7b03f",
-    "embedHelper": "embedHelper__7b03f",
-    "helperText": "helperText__7b03f",
-    "embedWrapper": "embedWrapper__7b03f",
-    "embedSection": "embedSection__7b03f",
-    "sectionHeading": "sectionHeading__7b03f",
-    "fixedEmbed": "fixedEmbed__7b03f",
-    "fixedEmbedWrapper": "fixedEmbedWrapper__7b03f",
-    "desktopEmbed": "desktopEmbed__7b03f",
-    "tabletEmbed": "tabletEmbed__7b03f",
-    "mobileEmbed": "mobileEmbed__7b03f",
-    "sizeLabel": "sizeLabel__7b03f",
-    "questsEmbed": "questsEmbed__7b03f"
-  },
   "234865": {
     "subscription": "subscription_d970da",
     "subscriptionInfo": "subscriptionInfo_d970da",
@@ -11265,6 +11249,12 @@
     "developerPortalCtaText": "developerPortalCtaText_bf485f",
     "notEnoughMembersError": "notEnoughMembersError_bf485f",
     "streamerMode": "streamerMode_bf485f"
+  },
+  "434366": {
+    "barCard": "barCard_b767b5",
+    "barHeading": "barHeading_b767b5",
+    "fixedBarContainer": "fixedBarContainer_b767b5",
+    "fixedBarWrapper": "fixedBarWrapper_b767b5"
   },
   "435215": {
     "eyebrow": "eyebrow_a7acae",
@@ -16953,6 +16943,22 @@
   },
   "649093": {
     "soundButton": "soundButton_d9cf5f"
+  },
+  "649504": {
+    "embedCard": "embedCard__027d4",
+    "embedHeading": "embedHeading__027d4",
+    "embedHelper": "embedHelper__027d4",
+    "helperText": "helperText__027d4",
+    "embedWrapper": "embedWrapper__027d4",
+    "embedSection": "embedSection__027d4",
+    "sectionHeading": "sectionHeading__027d4",
+    "fixedEmbed": "fixedEmbed__027d4",
+    "fixedEmbedWrapper": "fixedEmbedWrapper__027d4",
+    "desktopEmbed": "desktopEmbed__027d4",
+    "tabletEmbed": "tabletEmbed__027d4",
+    "mobileEmbed": "mobileEmbed__027d4",
+    "sizeLabel": "sizeLabel__027d4",
+    "questsEmbed": "questsEmbed__027d4"
   },
   "649926": {
     "soundRow": "soundRow__90637",
