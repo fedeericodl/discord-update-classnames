@@ -4367,10 +4367,7 @@
   "165016": {
     "ctaButtons": "ctaButtons_a77fde",
     "cta": "cta_a77fde",
-    "shine": "shine_a77fde",
-    "backButton": "backButton_a77fde",
-    "backButtonInner": "backButtonInner_a77fde",
-    "backIcon": "backIcon_a77fde"
+    "shine": "shine_a77fde"
   },
   "165121": {
     "editCard": "editCard_a25a68",
@@ -7807,10 +7804,6 @@
     "shop": "shop__08415",
     "banner": "banner__08415",
     "rivBanner": "rivBanner__08415",
-    "bannerShadow": "bannerShadow__08415",
-    "left": "left__08415",
-    "right": "right__08415",
-    "darker": "darker__08415",
     "featuredBlock": "featuredBlock__08415",
     "featuredBlockTextContainer": "featuredBlockTextContainer__08415",
     "featuredBlockTitleText": "featuredBlockTitleText__08415",
@@ -7862,7 +7855,6 @@
     "wideBannerTextContainer": "wideBannerTextContainer__08415",
     "wideBannerContentContainer": "wideBannerContentContainer__08415",
     "shelfBlockContainer": "shelfBlockContainer__08415",
-    "heroBannerSheenContainer": "heroBannerSheenContainer__08415",
     "shopScroll": "shopScroll__08415"
   },
   "310696": {
@@ -12626,24 +12618,6 @@
     "emptyTierImage": "emptyTierImage_d87d30",
     "unlockTierCtaHeading": "unlockTierCtaHeading_d87d30",
     "tooltip": "tooltip_d87d30"
-  },
-  "486384": {
-    "formGroup": "formGroup__9b8f6",
-    "formDivider": "formDivider__9b8f6",
-    "modalFooter": "modalFooter__9b8f6",
-    "modalRoot": "modalRoot__9b8f6",
-    "inputContainer": "inputContainer__9b8f6",
-    "modalCloseButton": "modalCloseButton__9b8f6",
-    "headerText": "headerText__9b8f6",
-    "emojiButton": "emojiButton__9b8f6",
-    "emojiButtonContainer": "emojiButtonContainer__9b8f6",
-    "emoji": "emoji__9b8f6",
-    "headerContainer": "headerContainer__9b8f6",
-    "header": "header__9b8f6",
-    "art": "art__9b8f6",
-    "cancelButton": "cancelButton__9b8f6",
-    "statusOptionItem": "statusOptionItem__9b8f6",
-    "statusIcon": "statusIcon__9b8f6"
   },
   "486663": {
     "container": "container__49668",
@@ -23966,6 +23940,13 @@
     "leaveActionWrapper": "leaveActionWrapper__964b4",
     "leaveButton": "leaveButton__964b4",
     "error": "error__964b4"
+  },
+  "919686": {
+    "modal": "modal_ab9bdf",
+    "sizeSmall": "sizeSmall_ab9bdf",
+    "sizeMedium": "sizeMedium_ab9bdf",
+    "sizeLarge": "sizeLarge_ab9bdf",
+    "fullscreenOnMobile": "fullscreenOnMobile_ab9bdf"
   },
   "920178": {
     "content": "content__7c233",
