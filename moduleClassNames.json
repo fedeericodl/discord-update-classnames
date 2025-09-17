@@ -3961,9 +3961,11 @@
     "sectionContainer": "sectionContainer__8303d",
     "sectionHeader": "sectionHeader__8303d",
     "sectionHeaderIcon": "sectionHeaderIcon__8303d",
+    "refresh": "refresh__8303d",
     "footerContainer": "footerContainer__8303d",
     "gameDetailsContainer": "gameDetailsContainer__8303d",
     "optionContainer": "optionContainer__8303d",
+    "disabled": "disabled__8303d",
     "labelContainer": "labelContainer__8303d",
     "pingCircle": "pingCircle__8303d",
     "pingCircleLoading": "pingCircleLoading__8303d",
@@ -6410,7 +6412,8 @@
     "modalContentContainer": "modalContentContainer_b30d08",
     "contentContainer": "contentContainer_b30d08",
     "boostImage": "boostImage_b30d08",
-    "footer": "footer_b30d08"
+    "footer": "footer_b30d08",
+    "disabled": "disabled_b30d08"
   },
   "238377": {
     "popoutWrapper": "popoutWrapper_d6b206",
@@ -9909,7 +9912,7 @@
   "393146": {
     "settings": "settings__0e683",
     "panelContainer": "panelContainer__0e683",
-    "buttonContainer": "buttonContainer__0e683",
+    "dailyCapContainer": "dailyCapContainer__0e683",
     "button": "button__0e683",
     "recent": "recent__0e683"
   },
@@ -21399,6 +21402,7 @@
     "messageButton": "messageButton__8d6f9",
     "previewCard": "previewCard__8d6f9",
     "heading": "heading__8d6f9",
+    "questChannelCallHeaderWrapper": "questChannelCallHeaderWrapper__8d6f9",
     "questTile": "questTile__8d6f9"
   },
   "819286": {
@@ -22258,10 +22262,6 @@
   },
   "856773": {
     "icon": "icon__3173f"
-  },
-  "856945": {
-    "container": "container_ec8ca9",
-    "disabled": "disabled_ec8ca9"
   },
   "856960": {
     "wrapper": "wrapper__926d7",
