@@ -8291,13 +8291,6 @@
     "avatar": "avatar_b1f01d",
     "customProfileTheme": "customProfileTheme_b1f01d"
   },
-  "337076": {
-    "modal": "modal__7f8f5",
-    "sizeSmall": "sizeSmall__7f8f5",
-    "sizeMedium": "sizeMedium__7f8f5",
-    "sizeLarge": "sizeLarge__7f8f5",
-    "fullscreenOnMobile": "fullscreenOnMobile__7f8f5"
-  },
   "337234": {
     "defaultColor": "defaultColor__4bd52",
     "lineClamp1": "lineClamp1__4bd52",
@@ -14802,6 +14795,7 @@
     "tier2": "tier2__84995",
     "toolsButtons": "toolsButtons__84995",
     "toolsButton": "toolsButton__84995",
+    "secondaryBannerTextButtonContainerWithPause": "secondaryBannerTextButtonContainerWithPause__84995",
     "secondaryBannerTextButtonContainer": "secondaryBannerTextButtonContainer__84995",
     "detailsContainer": "detailsContainer__84995",
     "discountPill": "discountPill__84995",
