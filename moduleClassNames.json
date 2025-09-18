@@ -4981,7 +4981,7 @@
     "combinedPreviewContent": "combinedPreviewContent_c50f62",
     "profileEffectPreviewsContainerInner": "profileEffectPreviewsContainerInner_c50f62 previewsContainerInner_c50f62",
     "nameplatePreviewContainerInner": "nameplatePreviewContainerInner_c50f62 previewsContainerInner_c50f62",
-    "categoryBanner": "categoryBanner_c50f62",
+    "previewContainer": "previewContainer_c50f62",
     "collectiblePreviewsContainerNoChat": "collectiblePreviewsContainerNoChat_c50f62 collectiblePreviewsContainer_c50f62",
     "collectiblePreviewsContainerWithChat": "collectiblePreviewsContainerWithChat_c50f62 collectiblePreviewsContainer_c50f62",
     "fractionalNitroPreviewContainer": "fractionalNitroPreviewContainer_c50f62 collectiblePreviewsContainer_c50f62",
@@ -5362,7 +5362,9 @@
   },
   "198501": {
     "placeholderPulse": "placeholderPulse__72fa0",
+    "skeletonsContainer": "skeletonsContainer__72fa0",
     "skeleton": "skeleton__72fa0",
+    "bannerSkeleton": "bannerSkeleton__72fa0",
     "bannerBody": "bannerBody__72fa0",
     "cardBody": "cardBody__72fa0",
     "cardAvatar": "cardAvatar__72fa0",
@@ -7846,7 +7848,6 @@
     "title": "title__08415",
     "informationIcon": "informationIcon__08415",
     "subHeaderText": "subHeaderText__08415",
-    "subHeaderTextDark": "subHeaderTextDark__08415",
     "orbsSubHeaderText": "orbsSubHeaderText__08415",
     "heroHeaderButtonContainer": "heroHeaderButtonContainer__08415",
     "heroHeaderButtonContainerStacked": "heroHeaderButtonContainerStacked__08415",
@@ -23160,7 +23161,6 @@
     "categoriesNoFilter": "categoriesNoFilter__6db1d",
     "categories": "categories__6db1d",
     "products": "products__6db1d",
-    "skeletons": "skeletons__6db1d",
     "paginationContainer": "paginationContainer__6db1d",
     "bannerContainer": "bannerContainer__6db1d"
   },
@@ -24032,18 +24032,6 @@
   },
   "923656": {
     "libraryHeader": "libraryHeader__5a895"
-  },
-  "923732": {
-    "shopBanner": "shopBanner__7f856",
-    "animationAsset": "animationAsset__7f856",
-    "categoryLogo": "categoryLogo__7f856",
-    "discordLogo": "discordLogo__7f856",
-    "discordIcon": "discordIcon__7f856",
-    "discordWordmark": "discordWordmark__7f856",
-    "summary": "summary__7f856",
-    "blackSummary": "blackSummary__7f856",
-    "limitedTimeBadge": "limitedTimeBadge__7f856",
-    "getPremiumHook": "getPremiumHook__7f856"
   },
   "924304": {
     "container": "container__960ef",
@@ -25717,9 +25705,6 @@
     "bottomLeft": "bottomLeft__5c50b",
     "bottomRight": "bottomRight__5c50b",
     "notificationGroup": "notificationGroup__5c50b"
-  },
-  "992171": {
-    "banner": "banner__9ed41"
   },
   "992878": {
     "rowIcon": "rowIcon_cb32c7",
