@@ -3756,6 +3756,8 @@
   },
   "134977": {
     "container": "container_c18b09",
+    "heading": "heading_c18b09",
+    "gameContainerWrapper": "gameContainerWrapper_c18b09",
     "gameContainer": "gameContainer_c18b09",
     "game": "game_c18b09",
     "image": "image_c18b09",
@@ -20329,6 +20331,7 @@
   "787267": {
     "container": "container__7116a",
     "group": "group__7116a",
+    "scroller": "scroller__7116a",
     "separator": "separator__7116a",
     "icon": "icon__7116a",
     "input": "input__7116a",
@@ -25164,8 +25167,8 @@
     "pointer": "pointer__58c96"
   },
   "972526": {
-    "container": "container__912a0",
-    "icon": "icon__912a0"
+    "icon": "icon__912a0",
+    "separator": "separator__912a0"
   },
   "972663": {
     "wrapper": "wrapper_a230e0",
