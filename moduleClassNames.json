@@ -6457,6 +6457,15 @@
     "memberListItem": "memberListItem_d6b206",
     "popoutDisabled": "popoutDisabled_d6b206"
   },
+  "238905": {
+    "contentContainer": "contentContainer__42a46",
+    "rewardTileContainer": "rewardTileContainer__42a46",
+    "rewardTileAsset": "rewardTileAsset__42a46",
+    "copyContainer": "copyContainer__42a46",
+    "heading": "heading__42a46",
+    "text": "text__42a46",
+    "codeInputContainer": "codeInputContainer__42a46"
+  },
   "238937": {
     "systemMessageContainer": "systemMessageContainer_df65b5",
     "systemMessageContent": "systemMessageContent_df65b5",
