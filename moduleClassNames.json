@@ -4000,6 +4000,7 @@
   },
   "149671": {
     "container": "container__8303d",
+    "spinnerContainer": "spinnerContainer__8303d",
     "contentContainer": "contentContainer__8303d",
     "settingsContainer": "settingsContainer__8303d",
     "sectionContainer": "sectionContainer__8303d",
@@ -6464,7 +6465,9 @@
     "copyContainer": "copyContainer__42a46",
     "heading": "heading__42a46",
     "text": "text__42a46",
-    "codeInputContainer": "codeInputContainer__42a46"
+    "codeInputContainer": "codeInputContainer__42a46",
+    "claimInstructionsCodeInputTitle": "claimInstructionsCodeInputTitle__42a46",
+    "claimInstructionsText": "claimInstructionsText__42a46"
   },
   "238937": {
     "systemMessageContainer": "systemMessageContainer_df65b5",
