@@ -4390,6 +4390,10 @@
     "productSection": "productSection__29f4e",
     "subscriptionCardSubtext": "subscriptionCardSubtext__29f4e"
   },
+  "163838": {
+    "modal": "modal_e44912",
+    "modalContent": "modalContent_e44912"
+  },
   "164161": {
     "editorAnimate": "editorAnimate__2a891",
     "slidein": "slidein__2a891",
@@ -4822,6 +4826,18 @@
   "182719": {
     "background": "background_fb62e2",
     "avatarWrapper": "avatarWrapper_fb62e2"
+  },
+  "183132": {
+    "container": "container__5808f",
+    "header": "header__5808f",
+    "headerLeft": "headerLeft__5808f",
+    "headerText": "headerText__5808f",
+    "countContainer": "countContainer__5808f",
+    "countText": "countText__5808f",
+    "tagContainer": "tagContainer__5808f",
+    "tag": "tag__5808f",
+    "row": "row__5808f",
+    "separator": "separator__5808f"
   },
   "183190": {
     "tierNameColumn": "tierNameColumn_e431b0",
@@ -6968,6 +6984,10 @@
     "spinningCircleInner": "spinningCircleInner__46696 inner__46696",
     "path2": "path2__46696",
     "path3": "path3__46696"
+  },
+  "266585": {
+    "avatar": "avatar_f0960a",
+    "roleDot": "roleDot_f0960a"
   },
   "266631": {
     "flagContainer": "flagContainer__71c22",
@@ -13787,10 +13807,6 @@
     "actionButtonWrapper": "actionButtonWrapper__53cea",
     "actionBarTrailingFullWidth": "actionBarTrailingFullWidth__53cea"
   },
-  "525876": {
-    "roleDot": "roleDot__41e17",
-    "roleDotInline": "roleDotInline__41e17"
-  },
   "526265": {
     "section": "section__25879"
   },
@@ -14987,6 +15003,11 @@
     "cardBenefitIcon": "cardBenefitIcon_f18f64",
     "benefitsSummary": "benefitsSummary_f18f64"
   },
+  "571527": {
+    "tagGroup": "tagGroup_cfee8f",
+    "tagList": "tagList_cfee8f",
+    "tag": "tag_cfee8f"
+  },
   "572065": {
     "badgeUpgrade": "badgeUpgrade_fbcaba"
   },
@@ -16063,18 +16084,6 @@
     "channelList": "channelList_b81b18",
     "panels": "panels_b81b18"
   },
-  "613576": {
-    "container": "container__5808f",
-    "header": "header__5808f",
-    "headerLeft": "headerLeft__5808f",
-    "headerText": "headerText__5808f",
-    "countContainer": "countContainer__5808f",
-    "countText": "countText__5808f",
-    "tagContainer": "tagContainer__5808f",
-    "tag": "tag__5808f",
-    "row": "row__5808f",
-    "separator": "separator__5808f"
-  },
   "614537": {
     "divider": "divider_f18716",
     "moreList": "moreList_f18716",
@@ -16617,11 +16626,6 @@
     "text": "text_b66158",
     "pencilIcon": "pencilIcon_b66158",
     "hidden": "hidden_b66158"
-  },
-  "636280": {
-    "tagGroup": "tagGroup_ae0825",
-    "tagList": "tagList_ae0825",
-    "tag": "tag_ae0825"
   },
   "636428": {
     "container": "container_b7e1cb",
@@ -22718,10 +22722,6 @@
     "keyboardShortcutSection": "keyboardShortcutSection_f061f6",
     "keyboardShortcutListGroup": "keyboardShortcutListGroup_f061f6"
   },
-  "871017": {
-    "header": "header__693f1",
-    "closeButton": "closeButton__693f1"
-  },
   "871320": {
     "iconContainer": "iconContainer__45eb7",
     "content": "content__45eb7",
@@ -23747,6 +23747,9 @@
     "actionWrapper": "actionWrapper__98ba8",
     "buttonWithPossibleDisabledTextWrapper": "buttonWithPossibleDisabledTextWrapper__98ba8",
     "disabledReason": "disabledReason__98ba8"
+  },
+  "906406": {
+    "container": "container__44c48"
   },
   "906530": {
     "facepile": "facepile_aaa08b",
