@@ -277,6 +277,9 @@
     "refresh_sm": "refresh_sm_ede711",
     "sm": "sm_ede711"
   },
+  "11257": {
+    "title": "title__44482"
+  },
   "12370": {
     "subtitle": "subtitle__57c9c",
     "description": "description__57c9c",
@@ -8494,23 +8497,6 @@
     "tileActions": "tileActions_bd7f32",
     "actionButton": "actionButton_bd7f32"
   },
-  "350155": {
-    "akaBadge": "akaBadge__910e1",
-    "header": "header__910e1",
-    "subHeader": "subHeader__910e1",
-    "miniAvatar": "miniAvatar__910e1",
-    "miniGuildIcon": "miniGuildIcon__910e1",
-    "akaTransfer": "akaTransfer__910e1",
-    "guildTransfer": "guildTransfer__910e1",
-    "guildName": "guildName__910e1",
-    "nickname": "nickname__910e1",
-    "spacing": "spacing__910e1",
-    "fromToWrapper": "fromToWrapper__910e1 spacing__910e1",
-    "from": "from__910e1",
-    "to": "to__910e1",
-    "protectedText": "protectedText__910e1",
-    "roleSubscriptionText": "roleSubscriptionText__910e1"
-  },
   "350250": {
     "footer": "footer__6be55",
     "guildRow": "guildRow__6be55",
@@ -11471,7 +11457,6 @@
     "scroller": "scroller_bad290"
   },
   "459289": {
-    "container": "container__8ab7e",
     "noticeIcon": "noticeIcon__8ab7e",
     "sectionLabel": "sectionLabel__8ab7e"
   },
@@ -13057,6 +13042,23 @@
     "infoExpandedGuildContainer": "infoExpandedGuildContainer__14ad3",
     "infoExpandedGuildInfo": "infoExpandedGuildInfo__14ad3",
     "infoExpandedGuildTitle": "infoExpandedGuildTitle__14ad3"
+  },
+  "518086": {
+    "akaBadge": "akaBadge__5149c",
+    "header": "header__5149c",
+    "subHeader": "subHeader__5149c",
+    "miniAvatar": "miniAvatar__5149c",
+    "miniGuildIcon": "miniGuildIcon__5149c",
+    "akaTransfer": "akaTransfer__5149c",
+    "guildTransfer": "guildTransfer__5149c",
+    "guildName": "guildName__5149c",
+    "nickname": "nickname__5149c",
+    "spacing": "spacing__5149c",
+    "fromToWrapper": "fromToWrapper__5149c spacing__5149c",
+    "from": "from__5149c",
+    "to": "to__5149c",
+    "protectedText": "protectedText__5149c",
+    "roleSubscriptionText": "roleSubscriptionText__5149c"
   },
   "518520": {
     "premiumCards": "premiumCards__6df1a",
@@ -22020,10 +22022,6 @@
     "avatarContainer": "avatarContainer__7dffe",
     "avatar": "avatar__7dffe"
   },
-  "848496": {
-    "container": "container_bba364",
-    "reportButton": "reportButton_bba364"
-  },
   "849726": {
     "tagGroup": "tagGroup_cfee8f",
     "tagList": "tagList_cfee8f",
@@ -24441,6 +24439,10 @@
     "premiumIndicator": "premiumIndicator__43963 indicator__43963",
     "invalidIndicator": "invalidIndicator__43963 indicator__43963",
     "description": "description__43963"
+  },
+  "942970": {
+    "container": "container_a03e40",
+    "reportButton": "reportButton_a03e40"
   },
   "943231": {
     "icon": "icon_b9588c"
