@@ -3837,12 +3837,6 @@
     "helperText": "helperText_b5ecb2",
     "embedWrapper": "embedWrapper_b5ecb2",
     "embedSection": "embedSection_b5ecb2",
-    "sectionHeading": "sectionHeading_b5ecb2",
-    "fixedEmbed": "fixedEmbed_b5ecb2",
-    "desktopEmbed": "desktopEmbed_b5ecb2",
-    "tabletEmbed": "tabletEmbed_b5ecb2",
-    "mobileEmbed": "mobileEmbed_b5ecb2",
-    "sizeLabel": "sizeLabel_b5ecb2",
     "questsEmbed": "questsEmbed_b5ecb2"
   },
   "142768": {
@@ -12425,7 +12419,6 @@
   "473846": {
     "container": "container_ba8a2f",
     "controlsBarContainer": "controlsBarContainer_ba8a2f",
-    "tabBar": "tabBar_ba8a2f",
     "contentArea": "contentArea_ba8a2f",
     "content": "content_ba8a2f"
   },
@@ -17884,8 +17877,7 @@
   "695610": {
     "container": "container__85a13",
     "icon": "icon__85a13",
-    "close": "close__85a13",
-    "innerClose": "innerClose__85a13"
+    "close": "close__85a13"
   },
   "695681": {
     "giftRecipientInfo": "giftRecipientInfo__57118",
@@ -25488,16 +25480,12 @@
   },
   "982538": {
     "controlBar": "controlBar__04a02",
-    "topSection": "topSection__04a02",
-    "inputGroup": "inputGroup__04a02",
     "questInput": "questInput__04a02",
-    "currentQuestInfo": "currentQuestInfo__04a02",
-    "questName": "questName__04a02",
-    "questLabel": "questLabel__04a02",
-    "questTitle": "questTitle__04a02",
     "controlsSection": "controlsSection__04a02",
     "controlButtons": "controlButtons__04a02",
-    "questSelectorContainer": "questSelectorContainer__04a02"
+    "questSelectorContainer": "questSelectorContainer__04a02",
+    "copyInput": "copyInput__04a02",
+    "sharePopover": "sharePopover__04a02"
   },
   "982629": {
     "container": "container_cbd19d",
