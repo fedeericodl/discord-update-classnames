@@ -2568,7 +2568,6 @@
     "title": "title__44df5",
     "button": "button__44df5",
     "buttonContainer": "buttonContainer__44df5",
-    "innerButton": "innerButton__44df5",
     "countdown": "countdown__44df5"
   },
   "98538": {
@@ -13422,6 +13421,7 @@
   },
   "530785": {
     "links": "links__7aac8",
+    "devToolsEducation": "devToolsEducation__7aac8",
     "bullet": "bullet__7aac8",
     "moreButton": "moreButton__7aac8",
     "active": "active__7aac8"
@@ -16341,7 +16341,6 @@
     "rewardTileAsset": "rewardTileAsset__42a46",
     "copyContainer": "copyContainer__42a46",
     "heading": "heading__42a46",
-    "text": "text__42a46",
     "codeInputContainer": "codeInputContainer__42a46",
     "claimInstructionsCodeInputTitle": "claimInstructionsCodeInputTitle__42a46",
     "claimInstructionsText": "claimInstructionsText__42a46"
@@ -17648,8 +17647,7 @@
     "contentContainer": "contentContainer_ca4984",
     "previewContainer": "previewContainer_ca4984",
     "copyContainer": "copyContainer_ca4984",
-    "heading": "heading_ca4984",
-    "text": "text_ca4984"
+    "heading": "heading_ca4984"
   },
   "692060": {
     "container": "container__1ff2f",
@@ -21647,7 +21645,15 @@
     "tagText": "tagText__10651"
   },
   "834586": {
-    "heading": "heading__7eb2b"
+    "container": "container__7eb2b",
+    "heroDisplayContainer": "heroDisplayContainer__7eb2b",
+    "partnerLogotypeContainer": "partnerLogotypeContainer__7eb2b",
+    "partnerLogotype": "partnerLogotype__7eb2b",
+    "partnerContentContainer": "partnerContentContainer__7eb2b",
+    "partnerCopyContainer": "partnerCopyContainer__7eb2b",
+    "partnerGameTile": "partnerGameTile__7eb2b",
+    "partnerTitle": "partnerTitle__7eb2b",
+    "partnerCtaContainer": "partnerCtaContainer__7eb2b"
   },
   "834818": {
     "voiceEffectsActionBar": "voiceEffectsActionBar__68198",
