@@ -3953,20 +3953,15 @@
     "clickable": "clickable_fa952e"
   },
   "149372": {
-    "header": "header__66057",
-    "closeButton": "closeButton__66057",
     "tabBar": "tabBar__66057",
     "tabBarItem": "tabBarItem__66057",
     "selectedTab": "selectedTab__66057",
+    "scroller": "scroller__66057",
     "guildList": "guildList__66057",
-    "title": "title__66057",
-    "subtitle": "subtitle__66057",
     "guildRow": "guildRow__66057",
     "clickableGuildRow": "clickableGuildRow__66057 guildRow__66057",
     "guildName": "guildName__66057",
-    "footer": "footer__66057",
     "footerTitle": "footerTitle__66057",
-    "footerButton": "footerButton__66057",
     "emptyContainer": "emptyContainer__66057",
     "emptyImage": "emptyImage__66057",
     "emptyText": "emptyText__66057",
@@ -6698,9 +6693,6 @@
     "fullbleed": "fullbleed__10a0c",
     "iframe": "iframe__10a0c",
     "footer": "footer__10a0c"
-  },
-  "248494": {
-    "container": "container__92910"
   },
   "248881": {
     "animator": "animator__52de8",
@@ -12495,10 +12487,8 @@
     "rowContainer": "rowContainer__4dfe0"
   },
   "475608": {
-    "header": "header__21615",
-    "closeButton": "closeButton__21615",
-    "title": "title__21615",
-    "buttonRow": "buttonRow__21615"
+    "content": "content__21615",
+    "title": "title__21615"
   },
   "475823": {
     "listItemContents": "listItemContents_c72b78",
@@ -13092,13 +13082,9 @@
     "closeButton": "closeButton__84419"
   },
   "496563": {
-    "header": "header__1f657",
-    "closeButton": "closeButton__1f657",
-    "templatesList": "templatesList__1f657",
-    "title": "title__1f657",
-    "subtitle": "subtitle__1f657",
     "optionHeader": "optionHeader__1f657",
-    "footer": "footer__1f657"
+    "scroller": "scroller__1f657",
+    "templatesList": "templatesList__1f657"
   },
   "496758": {
     "venmoIcon": "venmoIcon__44362",
