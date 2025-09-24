@@ -318,8 +318,7 @@
     "upsellWrapper": "upsellWrapper_c7f964",
     "connectedAccountVanityMetadataCreatedAt": "connectedAccountVanityMetadataCreatedAt_c7f964",
     "connectionMetadataUpsellTag": "connectionMetadataUpsellTag_c7f964",
-    "connectionMetadataUpsellDescription": "connectionMetadataUpsellDescription_c7f964",
-    "infoBox": "infoBox_c7f964"
+    "connectionMetadataUpsellDescription": "connectionMetadataUpsellDescription_c7f964"
   },
   "12033": {
     "body": "body_c93be2",
@@ -7502,10 +7501,7 @@
     "mutualGuilds": "mutualGuilds_b50d96"
   },
   "292609": {
-    "container": "container__6f9f7",
-    "primaryButton": "primaryButton__6f9f7",
-    "buttonInner": "buttonInner__6f9f7",
-    "buttonWrapper": "buttonWrapper__6f9f7"
+    "container": "container__6f9f7"
   },
   "292660": {
     "container": "container_fb2e73",
@@ -9351,11 +9347,7 @@
     "strikethrough": "strikethrough__0fcb7"
   },
   "362320": {
-    "tooltipContainer": "tooltipContainer__652ee",
-    "secondaryButton": "secondaryButton__652ee",
-    "buttonInner": "buttonInner__652ee",
-    "buttonWrapper": "buttonWrapper__652ee",
-    "dot": "dot__652ee"
+    "tooltipContainer": "tooltipContainer__652ee"
   },
   "363350": {
     "summaryDivider": "summaryDivider__3aab5",
@@ -10000,7 +9992,7 @@
     "permission": "permission__50a54",
     "permissionCheckmark": "permissionCheckmark__50a54",
     "disclosureIcon": "disclosureIcon__50a54",
-    "infoBox": "infoBox__50a54",
+    "deleteModalBody": "deleteModalBody__50a54",
     "warningContainer": "warningContainer__50a54",
     "warningOuterContainer": "warningOuterContainer__50a54",
     "warningIcon": "warningIcon__50a54",
@@ -10185,7 +10177,6 @@
     "activeCard": "activeCard_a1e8da",
     "perkCardImage": "perkCardImage_a1e8da",
     "active": "active_a1e8da",
-    "toggleButton": "toggleButton_a1e8da",
     "footerContainer": "footerContainer_a1e8da",
     "footerDetails": "footerDetails_a1e8da",
     "statusContainer": "statusContainer_a1e8da"
@@ -12604,7 +12595,6 @@
     "container": "container__8fcbd",
     "contentContainer": "contentContainer__8fcbd",
     "description": "description__8fcbd",
-    "button": "button__8fcbd",
     "image": "image__8fcbd"
   },
   "477813": {
@@ -24809,8 +24799,7 @@
   "961820": {
     "game": "game__03b8d",
     "textContainer": "textContainer__03b8d",
-    "image": "image__03b8d",
-    "disableButton": "disableButton__03b8d"
+    "image": "image__03b8d"
   },
   "961850": {
     "buttonSparkleStar1": "buttonSparkleStar1_fc1723",
