@@ -196,6 +196,9 @@
     "trendDescription": "trendDescription_eeaef9",
     "labelTooltipIcon": "labelTooltipIcon_eeaef9"
   },
+  "8280": {
+    "keybindFlexboxLayout": "keybindFlexboxLayout_cbf20c"
+  },
   "8542": {
     "textArea": "textArea__89a34",
     "resizeable": "resizeable__89a34",
@@ -1459,13 +1462,6 @@
   "51708": {
     "clickable": "clickable__65fc9",
     "icon": "icon__65fc9"
-  },
-  "52461": {
-    "trophyCaseCard": "trophyCaseCard__37533",
-    "trophyCaseHeading": "trophyCaseHeading__37533",
-    "trophyCaseContainer": "trophyCaseContainer__37533",
-    "trophyCaseWrapper": "trophyCaseWrapper__37533",
-    "trophyCaseWrapperInner": "trophyCaseWrapperInner__37533"
   },
   "52726": {
     "ctaContainer": "ctaContainer_d6d601 card_fc2e20",
@@ -6514,7 +6510,7 @@
     "rewardTileAsset": "rewardTileAsset__42a46",
     "copyContainer": "copyContainer__42a46",
     "heading": "heading__42a46",
-    "codeInputContainer": "codeInputContainer__42a46",
+    "mainCodeInput": "mainCodeInput__42a46",
     "claimInstructionsCodeInputTitle": "claimInstructionsCodeInputTitle__42a46",
     "claimInstructionsText": "claimInstructionsText__42a46"
   },
@@ -9138,7 +9134,9 @@
     "datePickerContainer": "datePickerContainer_f1c5c9"
   },
   "356780": {
-    "key": "key__98feb"
+    "key": "key__98feb",
+    "keySpan": "keySpan__98feb",
+    "keyDiv": "keyDiv__98feb"
   },
   "357507": {
     "header": "header__7c901",
@@ -14606,8 +14604,6 @@
     "search": "search__97492",
     "searchBar": "searchBar__97492",
     "icon": "icon__97492",
-    "keybind": "keybind__97492",
-    "shortcut": "shortcut__97492",
     "focused": "focused__97492",
     "open": "open__97492"
   },
@@ -24842,6 +24838,7 @@
   },
   "962967": {
     "bgShade": "bgShade__6d791",
+    "keybind": "keybind__6d791",
     "titleWrapper": "titleWrapper__6d791 bgShade__6d791",
     "titleWrapperClickable": "titleWrapperClickable__6d791",
     "extrasEmptySpace": "extrasEmptySpace__6d791",
