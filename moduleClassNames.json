@@ -3269,14 +3269,6 @@
     "buttonIcon": "buttonIcon__5d39a"
   },
   "132358": {
-    "modal": "modal__62280",
-    "header": "header__62280",
-    "titleLine": "titleLine__62280",
-    "title": "title__62280",
-    "closeButton": "closeButton__62280",
-    "footerWithMessage": "footerWithMessage__62280",
-    "footerWarningWrapper": "footerWarningWrapper__62280",
-    "footerButtons": "footerButtons__62280",
     "destinationRow": "destinationRow__62280",
     "disabled": "disabled__62280",
     "identity": "identity__62280",
@@ -3292,9 +3284,8 @@
     "noResults": "noResults__62280",
     "noResultsImg": "noResultsImg__62280",
     "actions": "actions__62280",
-    "sendWithMessage": "sendWithMessage__62280",
     "messageInput": "messageInput__62280",
-    "forwardPreviewWrapper": "forwardPreviewWrapper__62280"
+    "slowmodeWarning": "slowmodeWarning__62280"
   },
   "132423": {
     "body": "body__01c8c",
@@ -3756,7 +3747,6 @@
   },
   "151576": {
     "forwardPreview": "forwardPreview__68334",
-    "quote": "quote__68334",
     "contentWrapper": "contentWrapper__68334",
     "attachmentRow": "attachmentRow__68334",
     "forwardPreviewMessage": "forwardPreviewMessage__68334",
@@ -8675,15 +8665,6 @@
     "unicodeShortcut": "unicodeShortcut_b9ee0c",
     "unicodeShortcutInvisible": "unicodeShortcutInvisible_b9ee0c"
   },
-  "357895": {
-    "container": "container__73454",
-    "purple": "purple__73454",
-    "blue": "blue__73454",
-    "green": "green__73454",
-    "pink": "pink__73454",
-    "nitro-pink": "nitro-pink__73454",
-    "nitro-green": "nitro-green__73454"
-  },
   "357898": {
     "container": "container__8cc9a",
     "circle": "circle__8cc9a",
@@ -13370,6 +13351,15 @@
     "step3Character": "step3Character__83a6b art__83a6b step24Animation__83a6b",
     "step4Character": "step4Character__83a6b art__83a6b step24Animation__83a6b",
     "step24Foreground": "step24Foreground__83a6b art__83a6b step12Animation__83a6b"
+  },
+  "530005": {
+    "container": "container_a62383",
+    "purple": "purple_a62383",
+    "blue": "blue_a62383",
+    "green": "green_a62383",
+    "pink": "pink_a62383",
+    "nitro-pink": "nitro-pink_a62383",
+    "nitro-green": "nitro-green_a62383"
   },
   "530448": {
     "description": "description_d286c5",
@@ -20497,6 +20487,7 @@
   "799427": {
     "card": "card_acb40e",
     "serverHeader": "serverHeader_acb40e",
+    "gameIcon": "gameIcon_acb40e",
     "gameImage": "gameImage_acb40e",
     "serverInfo": "serverInfo_acb40e",
     "serverDetails": "serverDetails_acb40e",
@@ -20506,6 +20497,13 @@
     "copyButton": "copyButton_acb40e",
     "statusContainer": "statusContainer_acb40e",
     "statusIndicator": "statusIndicator_acb40e",
+    "starting": "starting_acb40e",
+    "startup_failed": "startup_failed_acb40e",
+    "offline": "offline_acb40e",
+    "online": "online_acb40e",
+    "deleted": "deleted_acb40e",
+    "missing_stock": "missing_stock_acb40e",
+    "sleeping": "sleeping_acb40e",
     "serverActions": "serverActions_acb40e",
     "overflowMenu": "overflowMenu_acb40e"
   },
@@ -23148,6 +23146,7 @@
   "895652": {
     "widgetContainer": "widgetContainer__0ea1a",
     "header": "header__0ea1a",
+    "headerClickable": "headerClickable__0ea1a",
     "appIcon": "appIcon__0ea1a",
     "appIconPlaceholder": "appIconPlaceholder__0ea1a",
     "container": "container__0ea1a",
