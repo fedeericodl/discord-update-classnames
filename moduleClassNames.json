@@ -59,11 +59,11 @@
     "ellipsis": "ellipsis_b88801",
     "typingDots": "typingDots_b88801",
     "inTextChannel": "inTextChannel_b88801",
-    "activityInviteEducation": "activityInviteEducation_b88801 base_b88801",
-    "activityInviteEducationArrow": "activityInviteEducationArrow_b88801",
     "typing": "typing_b88801 base_b88801",
     "isComboing": "isComboing_b88801",
-    "activityInviteEducationFadeIn": "activityInviteEducationFadeIn_b88801"
+    "activityInviteEducation": "activityInviteEducation_b88801 base_b88801",
+    "activityInviteEducationFadeIn": "activityInviteEducationFadeIn_b88801",
+    "activityInviteEducationArrow": "activityInviteEducationArrow_b88801"
   },
   "4640": {
     "container": "container_abd9a8"
@@ -3964,9 +3964,9 @@
   "161655": {
     "chat": "chat_f75fb0",
     "threadSidebarOpen": "threadSidebarOpen_f75fb0",
-    "form": "form_f75fb0",
     "uploadArea": "uploadArea_f75fb0",
     "threadSidebarFloating": "threadSidebarFloating_f75fb0",
+    "form": "form_f75fb0",
     "formWithLoadedChatInput": "formWithLoadedChatInput_f75fb0",
     "chatContent": "chatContent_f75fb0",
     "cursorPointer": "cursorPointer_f75fb0",
@@ -5872,15 +5872,14 @@
   },
   "239545": {
     "container": "container_e131a9",
-    "wrapper": "wrapper_e131a9",
     "inner": "inner_e131a9",
-    "connection": "connection_e131a9",
     "channel": "channel_e131a9",
     "noiseCancellationPopout": "noiseCancellationPopout_e131a9",
     "noiseCancellationTooltip": "noiseCancellationTooltip_e131a9",
     "krispLogo": "krispLogo_e131a9",
     "krispLink": "krispLink_e131a9",
     "micTestButton": "micTestButton_e131a9",
+    "connection": "connection_e131a9",
     "voiceUsers": "voiceUsers_e131a9",
     "actionButtons": "actionButtons_e131a9",
     "button": "button_e131a9",
@@ -5895,6 +5894,7 @@
     "voicePanelIntroductionText": "voicePanelIntroductionText_e131a9",
     "voicePanelIntroductionButton": "voicePanelIntroductionButton_e131a9",
     "voicePanelIntroductionWrapper": "voicePanelIntroductionWrapper_e131a9",
+    "wrapper": "wrapper_e131a9",
     "viewAsRolesWarning": "viewAsRolesWarning_e131a9",
     "viewAsRolesWarningText": "viewAsRolesWarningText_e131a9",
     "viewAsRolesWarningButton": "viewAsRolesWarningButton_e131a9",
@@ -6003,6 +6003,7 @@
     "bgShade": "bgShade__6d791",
     "keybind": "keybind__6d791",
     "titleWrapper": "titleWrapper__6d791 bgShade__6d791",
+    "titleWrapperWithHint": "titleWrapperWithHint__6d791 titleWrapper__6d791 bgShade__6d791",
     "titleWrapperClickable": "titleWrapperClickable__6d791",
     "extrasEmptySpace": "extrasEmptySpace__6d791",
     "button": "button__6d791 bgShade__6d791",
@@ -6567,11 +6568,11 @@
     "messagesWrapper": "messagesWrapper__36d07",
     "scrollerContent": "scrollerContent__36d07",
     "scroller": "scroller__36d07",
+    "scrollerInner": "scrollerInner__36d07",
+    "scrollerAllowSticky": "scrollerAllowSticky__36d07",
     "scrollerSpacer": "scrollerSpacer__36d07",
     "empty": "empty__36d07",
     "emptyForum": "emptyForum__36d07",
-    "scrollerInner": "scrollerInner__36d07",
-    "scrollerAllowSticky": "scrollerAllowSticky__36d07",
     "navigationDescription": "navigationDescription__36d07",
     "chatGradientBase": "chatGradientBase__36d07",
     "chatGradient": "chatGradient__36d07 chatGradientBase__36d07",
@@ -11040,6 +11041,7 @@
   },
   "447304": {
     "container": "container__4bbc6",
+    "fitInAccount": "fitInAccount__4bbc6",
     "fadeIn": "fadeIn__4bbc6",
     "img": "img__4bbc6",
     "hover": "hover__4bbc6",
@@ -16073,7 +16075,9 @@
     "accountNameText": "accountNameText__9bfb9",
     "platformUrlAnchor": "platformUrlAnchor__9bfb9",
     "platformUrlIcon": "platformUrlIcon__9bfb9",
-    "metadata": "metadata__9bfb9"
+    "metadata": "metadata__9bfb9",
+    "connectedAppRoleAccountClickable": "connectedAppRoleAccountClickable__9bfb9",
+    "connectedAppRoleAccountPoweredBy": "connectedAppRoleAccountPoweredBy__9bfb9"
   },
   "639030": {
     "rootPopout": "rootPopout_b5970a"
@@ -19097,10 +19101,10 @@
     "textAreaCustomGift": "textAreaCustomGift__74017",
     "textAreaDisabled": "textAreaDisabled__74017 textArea__74017",
     "buttons": "buttons__74017",
-    "emojiButton": "emojiButton__74017 button__74017",
-    "stickerButton": "stickerButton__74017",
     "buttonContainer": "buttonContainer__74017",
     "button": "button__74017",
+    "emojiButton": "emojiButton__74017 button__74017",
+    "stickerButton": "stickerButton__74017",
     "messageConfettiButton": "messageConfettiButton__74017",
     "messageConfettiIcon": "messageConfettiIcon__74017",
     "active": "active__74017",
@@ -19451,8 +19455,8 @@
     "info": "info__5dec7",
     "sparkleContainer": "sparkleContainer__5dec7",
     "sparkles": "sparkles__5dec7",
-    "underlineOnHover": "underlineOnHover__5dec7",
     "channel": "channel__5dec7",
+    "underlineOnHover": "underlineOnHover__5dec7",
     "perksDemoContainer": "perksDemoContainer__5dec7",
     "perksDemoText": "perksDemoText__5dec7",
     "frameApplicationNameTitleClickable": "frameApplicationNameTitleClickable__5dec7"
@@ -21224,6 +21228,7 @@
     "uploadedImage": "uploadedImage_ec9088"
   },
   "823531": {
+    "outerContainer": "outerContainer_e44912",
     "modal": "modal_e44912",
     "modalContent": "modalContent_e44912"
   },
@@ -22770,17 +22775,17 @@
   "878109": {
     "wrapper": "wrapper_ef3116",
     "hidden": "hidden_ef3116",
-    "scroller": "scroller_ef3116",
-    "unreadMentionsFixedFooterBottomNotifCenterEntrypoint": "unreadMentionsFixedFooterBottomNotifCenterEntrypoint_ef3116",
     "tree": "tree_ef3116",
     "itemsContainer": "itemsContainer_ef3116",
+    "scroller": "scroller_ef3116",
     "scrolling": "scrolling_ef3116",
     "unreadMentionsIndicatorBottom": "unreadMentionsIndicatorBottom_ef3116",
     "unreadMentionsIndicatorTop": "unreadMentionsIndicatorTop_ef3116",
     "unreadMentionsBar": "unreadMentionsBar_ef3116",
     "unreadMentionsFixedFooter": "unreadMentionsFixedFooter_ef3116",
     "discoveryIcon": "discoveryIcon_ef3116",
-    "bottomRailNotifCenterButton": "bottomRailNotifCenterButton_ef3116"
+    "bottomRailNotifCenterButton": "bottomRailNotifCenterButton_ef3116",
+    "unreadMentionsFixedFooterBottomNotifCenterEntrypoint": "unreadMentionsFixedFooterBottomNotifCenterEntrypoint_ef3116"
   },
   "878305": {
     "header": "header__558b1",
