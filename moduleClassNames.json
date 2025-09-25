@@ -3523,6 +3523,7 @@
     "outer-circle-loop-high-priority": "outer-circle-loop-high-priority_ffc7aa"
   },
   "131662": {
+    "container": "container__89fe9",
     "datePicker": "datePicker__89fe9"
   },
   "131714": {
@@ -16173,7 +16174,18 @@
     "boostCardGem": "boostCardGem__89307",
     "boostCardCount": "boostCardCount__89307",
     "nonPersonalizedGraphic": "nonPersonalizedGraphic__89307",
-    "spinner": "spinner__89307"
+    "spinner": "spinner__89307",
+    "badgeGradientWrapper": "badgeGradientWrapper__89307",
+    "badgeGradientBronze": "badgeGradientBronze__89307",
+    "badgeGradientSilver": "badgeGradientSilver__89307",
+    "badgeGradientGold": "badgeGradientGold__89307",
+    "badgeGradientPlatinum": "badgeGradientPlatinum__89307",
+    "badgeGradientDiamond": "badgeGradientDiamond__89307",
+    "badgeGradientEmerald": "badgeGradientEmerald__89307",
+    "badgeGradientRuby": "badgeGradientRuby__89307",
+    "badgeGradientOpal": "badgeGradientOpal__89307",
+    "badgeImage": "badgeImage__89307",
+    "blurredBadgeImage": "blurredBadgeImage__89307"
   },
   "617296": {
     "container": "container__1fad5",
@@ -19550,8 +19562,7 @@
   "755429": {
     "friendsEmpty": "friendsEmpty_c7ea19",
     "button": "button_c7ea19",
-    "emptyStateContainer": "emptyStateContainer_c7ea19",
-    "spamButton": "spamButton_c7ea19"
+    "emptyStateContainer": "emptyStateContainer_c7ea19"
   },
   "756105": {
     "container": "container__50387",
@@ -22258,8 +22269,7 @@
   "856426": {
     "chatHeaderBar": "chatHeaderBar_a5700d",
     "narrow": "narrow_a5700d",
-    "chatHeaderBarText": "chatHeaderBarText_a5700d",
-    "chatHeaderBarButton": "chatHeaderBarButton_a5700d"
+    "chatHeaderBarText": "chatHeaderBarText_a5700d"
   },
   "856773": {
     "icon": "icon__3173f"
@@ -25527,8 +25537,7 @@
     "searchBar": "searchBar__5ec2f",
     "sectionTitle": "sectionTitle__5ec2f",
     "clearButton": "clearButton__5ec2f",
-    "viewSpamButton": "viewSpamButton__5ec2f",
-    "viewSpamButtonColor": "viewSpamButtonColor__5ec2f"
+    "viewSpamButton": "viewSpamButton__5ec2f"
   },
   "984392": {
     "phoneField": "phoneField_a0c54f"
