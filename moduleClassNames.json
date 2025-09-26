@@ -60,7 +60,6 @@
     "typingDots": "typingDots_b88801",
     "inTextChannel": "inTextChannel_b88801",
     "typing": "typing_b88801 base_b88801",
-    "isComboing": "isComboing_b88801",
     "activityInviteEducation": "activityInviteEducation_b88801 base_b88801",
     "activityInviteEducationFadeIn": "activityInviteEducationFadeIn_b88801",
     "activityInviteEducationArrow": "activityInviteEducationArrow_b88801"
@@ -3626,13 +3625,8 @@
     "giftIcon": "giftIcon__82222"
   },
   "146371": {
-    "modalClose": "modalClose__19236",
-    "modalRoot": "modalRoot__19236",
-    "header": "header__19236",
     "camera": "camera__19236",
-    "cameraPreview": "cameraPreview__19236",
-    "content": "content__19236",
-    "contentWithVideoBackgrounds": "contentWithVideoBackgrounds__19236 content__19236"
+    "cameraPreview": "cameraPreview__19236"
   },
   "146807": {
     "member": "member__122b7"
@@ -4909,7 +4903,6 @@
     "gameContainerWrapper": "gameContainerWrapper_c18b09",
     "disabled": "disabled_c18b09",
     "gameContainer": "gameContainer_c18b09",
-    "game": "game_c18b09",
     "image": "image_c18b09",
     "spinner": "spinner_c18b09"
   },
@@ -6029,8 +6022,7 @@
   },
   "247708": {
     "mainContainer": "mainContainer__844a1",
-    "compact": "compact__844a1",
-    "actions": "actions__844a1"
+    "compact": "compact__844a1"
   },
   "248602": {
     "guildInfoCard": "guildInfoCard__50dcd",
@@ -8715,10 +8707,6 @@
     "image": "image__577c3",
     "links": "links__577c3",
     "agreementDescription": "agreementDescription__577c3"
-  },
-  "361222": {
-    "container": "container__1fad5",
-    "progress": "progress__1fad5"
   },
   "361368": {
     "divider": "divider_c87e85"
@@ -18906,8 +18894,6 @@
     "settingsLeft": "settingsLeft__0511a",
     "settingsDefaultReaction": "settingsDefaultReaction__0511a",
     "settingsDefaultView": "settingsDefaultView__0511a",
-    "buttonRow": "buttonRow__0511a",
-    "removeButton": "removeButton__0511a",
     "defaultImageView": "defaultImageView__0511a",
     "emojiButton": "emojiButton__0511a"
   },
