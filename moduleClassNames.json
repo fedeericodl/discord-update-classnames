@@ -11261,15 +11261,6 @@
     "animationWrapper": "animationWrapper__41e0f",
     "lottieAnimation": "lottieAnimation__41e0f"
   },
-  "434215": {
-    "developerPortalCtaWrapper": "developerPortalCtaWrapper_bf485f",
-    "developerPortalCta": "developerPortalCta_bf485f",
-    "overviewData": "overviewData_bf485f",
-    "placeholderImage": "placeholderImage_bf485f",
-    "developerPortalCtaText": "developerPortalCtaText_bf485f",
-    "notEnoughMembersError": "notEnoughMembersError_bf485f",
-    "streamerMode": "streamerMode_bf485f"
-  },
   "435215": {
     "eyebrow": "eyebrow_a7acae",
     "live": "live_a7acae",
@@ -13064,6 +13055,15 @@
     "splashImage": "splashImage_a154bf",
     "splashHeader": "splashHeader_a154bf",
     "splashText": "splashText_a154bf"
+  },
+  "503562": {
+    "developerPortalCtaWrapper": "developerPortalCtaWrapper__540ed",
+    "developerPortalCta": "developerPortalCta__540ed",
+    "overviewData": "overviewData__540ed",
+    "placeholderImage": "placeholderImage__540ed",
+    "developerPortalCtaText": "developerPortalCtaText__540ed",
+    "notEnoughMembersError": "notEnoughMembersError__540ed",
+    "streamerMode": "streamerMode__540ed"
   },
   "503922": {
     "premiumRetentionNotice": "premiumRetentionNotice_a606ef",
