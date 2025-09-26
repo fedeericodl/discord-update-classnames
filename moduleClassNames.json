@@ -17293,6 +17293,9 @@
     "avatar": "avatar_fc8177",
     "compactTimestamp": "compactTimestamp_fc8177"
   },
+  "675042": {
+    "group": "group__66d91"
+  },
   "675758": {
     "icon20px": "icon20px__69362",
     "container": "container__69362",
@@ -20070,7 +20073,6 @@
     "loading": "loading__864dc"
   },
   "782991": {
-    "headingContainer": "headingContainer_b54cfd",
     "gameSection": "gameSection_b54cfd",
     "disabled": "disabled_b54cfd",
     "gameInstanceContainer": "gameInstanceContainer_b54cfd",
@@ -21623,9 +21625,7 @@
     "defaultColor": "defaultColor__5345c"
   },
   "831119": {
-    "modal": "modal_d2d95d",
-    "modalContent": "modalContent_d2d95d",
-    "closeButton": "closeButton_d2d95d"
+    "modalContent": "modalContent_d2d95d"
   },
   "831272": {
     "header": "header__4591d",
