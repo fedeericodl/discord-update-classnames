@@ -124,6 +124,9 @@
     "raisedHandIcon": "raisedHandIcon__15cd2",
     "raisedHandCount": "raisedHandCount__15cd2"
   },
+  "7034": {
+    "wrapper": "wrapper_a35ace"
+  },
   "7504": {
     "outgoing-call-pulse": "outgoing-call-pulse__2f4f7",
     "wrapper": "wrapper__2f4f7",
@@ -534,7 +537,8 @@
     "grid": "grid__0ea1a",
     "image": "image__0ea1a",
     "imagePlaceholder": "imagePlaceholder__0ea1a",
-    "socialProof": "socialProof__0ea1a"
+    "socialProof": "socialProof__0ea1a",
+    "stillSyncing": "stillSyncing__0ea1a"
   },
   "19672": {
     "microphoneUnit": "microphoneUnit_de2d78",
@@ -6950,6 +6954,9 @@
     "dropperIcon": "dropperIcon__24d0d",
     "disabled": "disabled__24d0d"
   },
+  "268831": {
+    "sparkles": "sparkles_f99d90"
+  },
   "269142": {
     "header": "header__7560f",
     "customGiftHeader": "customGiftHeader__7560f",
@@ -13013,9 +13020,6 @@
     "tabBarItem": "tabBarItem__4efb4",
     "container": "container__4efb4"
   },
-  "501423": {
-    "sparkles": "sparkles__64668"
-  },
   "501640": {
     "spacer": "spacer__5ecaa",
     "input": "input__5ecaa"
@@ -16319,9 +16323,6 @@
     "isMobileAndroid": "isMobileAndroid__23e6b",
     "mobileToolsCloseIcon": "mobileToolsCloseIcon__23e6b",
     "mobileSidebarHeader": "mobileSidebarHeader__23e6b"
-  },
-  "630317": {
-    "wrapper": "wrapper_fd4dd6"
   },
   "630564": {
     "topPerksCard": "topPerksCard__3add8",
