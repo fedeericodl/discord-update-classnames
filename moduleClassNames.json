@@ -8479,6 +8479,10 @@
     "text": "text__7ff28",
     "error": "error__7ff28"
   },
+  "352796": {
+    "container": "container__96cb9",
+    "guildAvatar": "guildAvatar__96cb9"
+  },
   "353311": {
     "wrapper": "wrapper_b76891",
     "copy": "copy_b76891",
@@ -10257,6 +10261,14 @@
   },
   "423193": {
     "customConfetti": "customConfetti__69c6c"
+  },
+  "423294": {
+    "container": "container__333b3",
+    "sectionHeader": "sectionHeader__333b3",
+    "avatarList": "avatarList__333b3",
+    "actionSection": "actionSection__333b3",
+    "guildRow": "guildRow__333b3",
+    "userRow": "userRow__333b3"
   },
   "423352": {
     "waitlist": "waitlist__24d4e"
@@ -13447,9 +13459,7 @@
     "container": "container__0d706",
     "descriptors": "descriptors__0d706",
     "header": "header__0d706",
-    "guildBadge": "guildBadge__0d706",
-    "childWrapper": "childWrapper__0d706",
-    "acronym": "acronym__0d706"
+    "guildBadge": "guildBadge__0d706"
   },
   "538271": {
     "accountProfileCard": "accountProfileCard__1fed1",
@@ -20536,6 +20546,9 @@
     "memberSpacing": "memberSpacing_db0ee9",
     "buttonsSpacing": "buttonsSpacing_db0ee9",
     "description": "description_db0ee9"
+  },
+  "804528": {
+    "container": "container__339c4"
   },
   "804660": {
     "popout": "popout_d5c2c4",
