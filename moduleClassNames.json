@@ -7797,7 +7797,8 @@
     "activityContainerNoMargin": "activityContainerNoMargin__49094",
     "footerButtons": "footerButtons__49094",
     "avatar": "avatar__49094",
-    "buttonSection": "buttonSection__49094"
+    "buttonSection": "buttonSection__49094",
+    "fortniteUpsellModalButton": "fortniteUpsellModalButton__49094"
   },
   "323056": {
     "container": "container__37bfc",
@@ -11467,6 +11468,13 @@
   },
   "463276": {
     "newBadgeRow": "newBadgeRow__46b5e"
+  },
+  "463431": {
+    "body": "body__1b87b",
+    "container": "container__1b87b",
+    "iconContainer": "iconContainer__1b87b",
+    "icon": "icon__1b87b",
+    "text": "text__1b87b"
   },
   "463736": {
     "description": "description_c8f246",
@@ -25784,9 +25792,12 @@
     "channelsTitle": "channelsTitle_dbd216"
   },
   "997562": {
-    "checkboxWrapper": "checkboxWrapper__714a9",
-    "checkbox": "checkbox__714a9",
-    "label": "label__714a9"
+    "checkboxItem": "checkboxItem__714a9",
+    "checkboxIndicator": "checkboxIndicator__714a9",
+    "leadingIcon": "leadingIcon__714a9",
+    "trailingIcon": "trailingIcon__714a9",
+    "label": "label__714a9",
+    "labelContent": "labelContent__714a9"
   },
   "997589": {
     "lockedPickerItem": "lockedPickerItem__5b8f4",
