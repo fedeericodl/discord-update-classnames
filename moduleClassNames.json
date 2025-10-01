@@ -5447,7 +5447,8 @@
     "tooltipContent": "tooltipContent__4e35b",
     "caretIcon": "caretIcon__4e35b",
     "caretFill": "caretFill__4e35b",
-    "caretStroke": "caretStroke__4e35b"
+    "caretStroke": "caretStroke__4e35b",
+    "tooltipWithShortcut": "tooltipWithShortcut__4e35b"
   },
   "220378": {
     "panelContainer": "panelContainer_a83780",
@@ -17723,9 +17724,7 @@
     "confirmation": "confirmation__2db04",
     "banner": "banner__2db04",
     "text": "text__2db04",
-    "button": "button__2db04",
-    "redirectConfirmation": "redirectConfirmation__2db04",
-    "redirectBody": "redirectBody__2db04"
+    "button": "button__2db04"
   },
   "694899": {
     "modal": "modal__487be",
@@ -24277,6 +24276,20 @@
     "qrCodeOverlay": "qrCodeOverlay__8a2c0",
     "visible": "visible__8a2c0",
     "reminder": "reminder__8a2c0"
+  },
+  "939030": {
+    "panel": "panel__1d8b2",
+    "sectionTitle": "sectionTitle__1d8b2",
+    "headerSection": "headerSection__1d8b2",
+    "resultsSection": "resultsSection__1d8b2",
+    "resultsContainer": "resultsContainer__1d8b2",
+    "resultsTable": "resultsTable__1d8b2",
+    "tableHeader": "tableHeader__1d8b2",
+    "tableRow": "tableRow__1d8b2",
+    "indexColumn": "indexColumn__1d8b2",
+    "wordColumn": "wordColumn__1d8b2",
+    "valueColumn": "valueColumn__1d8b2",
+    "emptyState": "emptyState__1d8b2"
   },
   "940277": {
     "planSelectStep": "planSelectStep__65b48",
