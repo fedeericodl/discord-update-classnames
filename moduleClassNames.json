@@ -2762,13 +2762,10 @@
     "button": "button_fb7f94",
     "icon": "icon_fb7f94",
     "banner": "banner_fb7f94",
-    "hover": "hover_fb7f94",
-    "visible": "visible_fb7f94",
     "buttonInner": "buttonInner_fb7f94",
     "themeColor": "themeColor_fb7f94",
     "primary": "primary_fb7f94",
     "secondary": "secondary_fb7f94",
-    "hoverColor": "hoverColor_fb7f94",
     "bannerColor": "bannerColor_fb7f94"
   },
   "107442": {
@@ -3095,6 +3092,9 @@
     "videoSizer": "videoSizer__38295",
     "hidden": "hidden__38295",
     "spinnerContainer": "spinnerContainer__38295"
+  },
+  "122926": {
+    "gameImage": "gameImage__6a235"
   },
   "123382": {
     "rowContainer": "rowContainer__8a920"
@@ -5029,7 +5029,8 @@
     "templatesList": "templatesList__1f657"
   },
   "205853": {
-    "tooltip": "tooltip__0f074"
+    "button": "button__0f074",
+    "visible": "visible__0f074"
   },
   "205941": {
     "successImg": "successImg_f05c94"
@@ -8748,7 +8749,8 @@
   "363725": {
     "headerRow": "headerRow__4fbcc",
     "emptyStateContainer": "emptyStateContainer__4fbcc",
-    "emptyStateText": "emptyStateText__4fbcc"
+    "emptyStateText": "emptyStateText__4fbcc",
+    "scroller": "scroller__4fbcc"
   },
   "364744": {
     "positionLayer": "positionLayer__08434",
