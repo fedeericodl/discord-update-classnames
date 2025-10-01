@@ -3632,6 +3632,11 @@
     "form": "form_a327d2",
     "modalTitle": "modalTitle_a327d2"
   },
+  "148374": {
+    "container": "container_a28278",
+    "switchIndicator": "switchIndicator_a28278",
+    "thumb": "thumb_a28278"
+  },
   "148906": {
     "clearText": "clearText_bb26d9"
   },
@@ -3827,9 +3832,6 @@
     "heading": "heading_da4aee",
     "giftCardButton": "giftCardButton_da4aee",
     "giftButtonCTA": "giftButtonCTA_da4aee"
-  },
-  "157461": {
-    "errorModalBody": "errorModalBody__9aa91"
   },
   "157979": {
     "icon": "icon__99ff4",
@@ -11749,7 +11751,6 @@
     "noTopPaddingOverride": "noTopPaddingOverride__94da4",
     "settingsHeroBogoHeight": "settingsHeroBogoHeight__94da4",
     "premiumTierCardsContainerSettings": "premiumTierCardsContainerSettings__94da4",
-    "promoBannerContainer": "promoBannerContainer__94da4",
     "giftPromoCard": "giftPromoCard__94da4",
     "perkCardsContainerSpacingSettings": "perkCardsContainerSpacingSettings__94da4",
     "planComparisonTable": "planComparisonTable__94da4",
@@ -16026,11 +16027,6 @@
     "contentExpandContainer": "contentExpandContainer__217b7",
     "showOverflow": "showOverflow__217b7"
   },
-  "639288": {
-    "container": "container_f7ccdb",
-    "image": "image_f7ccdb",
-    "body": "body_f7ccdb"
-  },
   "639337": {
     "container": "container_f53c21",
     "emojiRow": "emojiRow_f53c21",
@@ -18496,12 +18492,6 @@
     "spaceBetweenTiles": "spaceBetweenTiles_fa73d7",
     "tileSizer": "tileSizer_fa73d7"
   },
-  "724315": {
-    "premiumTrialBadge": "premiumTrialBadge__23e21",
-    "backgroundGradient": "backgroundGradient__23e21",
-    "premiumTrialAcknowledgedBadge": "premiumTrialAcknowledgedBadge__23e21",
-    "clockIcon": "clockIcon__23e21"
-  },
   "725412": {
     "avatarAnimation": "avatarAnimation_abf1df",
     "spinningAvatar": "spinningAvatar_abf1df"
@@ -20000,11 +19990,6 @@
     "header": "header__41ed7",
     "browser": "browser__41ed7"
   },
-  "781261": {
-    "container": "container__8ab7a",
-    "image": "image__8ab7a",
-    "body": "body__8ab7a"
-  },
   "781353": {
     "container": "container__14992",
     "button": "button__14992",
@@ -20308,10 +20293,6 @@
     "backgroundGradient": "backgroundGradient_e4ef22",
     "premiumTrialAcknowledgedBadge": "premiumTrialAcknowledgedBadge_e4ef22",
     "BogoBadgeClockIcon": "BogoBadgeClockIcon_e4ef22"
-  },
-  "794471": {
-    "container": "container_cb3ea3",
-    "body": "body_cb3ea3"
   },
   "794628": {
     "linkIcon": "linkIcon_a4b5f8",
@@ -22557,14 +22538,6 @@
     "assetContainer": "assetContainer__9c640",
     "playButton": "playButton__9c640",
     "closeButton": "closeButton__9c640"
-  },
-  "871797": {
-    "container": "container__97113",
-    "topSection": "topSection__97113",
-    "wordmark": "wordmark__97113",
-    "contentContainer": "contentContainer__97113",
-    "content": "content__97113",
-    "image": "image__97113"
   },
   "871976": {
     "presets": "presets_a00e6e",
@@ -25880,6 +25853,7 @@
   },
   "999852": {
     "content": "content_f2e68c",
+    "infoBox": "infoBox_f2e68c",
     "stepsContainer": "stepsContainer_f2e68c",
     "step": "step_f2e68c",
     "stepNumber": "stepNumber_f2e68c",
