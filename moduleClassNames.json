@@ -10010,7 +10010,6 @@
     "sublabel": "sublabel__95e0a",
     "filterSection": "filterSection__95e0a",
     "dateFilter": "dateFilter__95e0a",
-    "dateFilterSelect": "dateFilterSelect__95e0a",
     "removeDateFilterButton": "removeDateFilterButton__95e0a",
     "trashIcon": "trashIcon__95e0a"
   },
@@ -18456,11 +18455,6 @@
     "peaking": "peaking__014df",
     "transitioned": "transitioned__014df"
   },
-  "721457": {
-    "scrim": "scrim_d9cec8",
-    "lightbox": "lightbox_d9cec8",
-    "pointerEventsNone": "pointerEventsNone_d9cec8"
-  },
   "722177": {
     "container": "container_ef0711",
     "powerupsContainer": "powerupsContainer_ef0711",
@@ -19703,6 +19697,11 @@
   "765725": {
     "bioTextArea": "bioTextArea__6a919",
     "bioTextAreaContainer": "bioTextAreaContainer__6a919"
+  },
+  "766553": {
+    "scrim": "scrim__40128",
+    "lightbox": "lightbox__40128",
+    "pointerEventsNone": "pointerEventsNone__40128"
   },
   "767117": {
     "invitesContainer": "invitesContainer__03885",
