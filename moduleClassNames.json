@@ -8697,6 +8697,7 @@
   },
   "363725": {
     "headerRow": "headerRow__4fbcc",
+    "headerActions": "headerActions__4fbcc",
     "emptyStateContainer": "emptyStateContainer__4fbcc",
     "emptyStateText": "emptyStateText__4fbcc",
     "scroller": "scroller__4fbcc",
@@ -12741,11 +12742,13 @@
     "customItem": "customItem_c1e9c4",
     "labelContainer": "labelContainer_c1e9c4",
     "label": "label_c1e9c4",
+    "switchItem": "switchItem_c1e9c4",
     "subtext": "subtext_c1e9c4",
     "subtextLineClamp": "subtextLineClamp_c1e9c4",
     "iconContainer": "iconContainer_c1e9c4",
     "iconContainerLeft": "iconContainerLeft_c1e9c4 iconContainer_c1e9c4",
     "iconContainerLarge": "iconContainerLarge_c1e9c4",
+    "switchContainer": "switchContainer_c1e9c4",
     "icon": "icon_c1e9c4",
     "hintContainer": "hintContainer_c1e9c4",
     "caret": "caret_c1e9c4",
@@ -23735,6 +23738,9 @@
     "avatarUploaderInnerSquareDisabled": "avatarUploaderInnerSquareDisabled_e04502",
     "avatarUploadIcon": "avatarUploadIcon_e04502",
     "hideDefaultIcon": "hideDefaultIcon_e04502"
+  },
+  "918139": {
+    "menuItemDescription": "menuItemDescription__363ed"
   },
   "918165": {
     "singleSelectOption": "singleSelectOption__12eef",
