@@ -1391,9 +1391,6 @@
     "following": "following_ee8e87"
   },
   "58801": {
-    "headerContainer": "headerContainer__92677",
-    "headerText": "headerText__92677",
-    "bodyText": "bodyText__92677",
     "disabled": "disabled__92677",
     "rules": "rules__92677",
     "rulesHeader": "rulesHeader__92677"
@@ -1445,14 +1442,11 @@
     "defaultSetting": "defaultSetting_eda416",
     "formTitle": "formTitle_eda416",
     "formDescription": "formDescription_eda416",
-    "switchContainer": "switchContainer_eda416",
     "formSection": "formSection_eda416",
     "myServersContainer": "myServersContainer_eda416",
     "myServersHeaderContainer": "myServersHeaderContainer_eda416",
     "myServersTitle": "myServersTitle_eda416",
-    "myServersIgnoredWarning": "myServersIgnoredWarning_eda416",
-    "settingSwitch": "settingSwitch_eda416",
-    "settingSwitchLabel": "settingSwitchLabel_eda416"
+    "myServersIgnoredWarning": "myServersIgnoredWarning_eda416"
   },
   "62023": {
     "guildRow": "guildRow__7db08",
@@ -24670,12 +24664,6 @@
     "getRolesButton": "getRolesButton__86331",
     "viewConnectionsButton": "viewConnectionsButton__86331",
     "botTag": "botTag__86331"
-  },
-  "953821": {
-    "container": "container__9d263",
-    "text": "text__9d263",
-    "control": "control__9d263",
-    "disabled": "disabled__9d263"
   },
   "954289": {
     "root": "root__4ad81",
