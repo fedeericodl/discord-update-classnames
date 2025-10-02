@@ -1085,11 +1085,6 @@
   "47473": {
     "table": "table_b4ec0b"
   },
-  "47718": {
-    "closeButton": "closeButton__6ee2f",
-    "title": "title__6ee2f",
-    "content": "content__6ee2f"
-  },
   "47903": {
     "section": "section__66efc",
     "fakeInput": "fakeInput__66efc",
@@ -8526,11 +8521,6 @@
     "textIcon": "textIcon_d2d51d",
     "imageIcon": "imageIcon_d2d51d",
     "name": "name_d2d51d"
-  },
-  "357062": {
-    "art": "art_cb3c76",
-    "modalHeader": "modalHeader_cb3c76",
-    "modalInnerCloseButton": "modalInnerCloseButton_cb3c76"
   },
   "357668": {
     "categoryItem": "categoryItem_b9ee0c",
@@ -19217,10 +19207,12 @@
   },
   "751677": {
     "baseProductCardContainer": "baseProductCardContainer__9701b",
+    "baseProductCardContentContainer": "baseProductCardContentContainer__9701b",
     "innerContainer": "innerContainer__9701b",
     "baseProductCardDetailsContainer": "baseProductCardDetailsContainer__9701b",
     "baseProductCardFooter": "baseProductCardFooter__9701b",
     "hoveredVariantSwitcher": "hoveredVariantSwitcher__9701b",
+    "baseProductCardHoverContainer": "baseProductCardHoverContainer__9701b",
     "innerHover": "innerHover__9701b",
     "hasVariantSwitcher": "hasVariantSwitcher__9701b"
   },
@@ -22472,6 +22464,10 @@
     "assetContainer": "assetContainer__9c640",
     "playButton": "playButton__9c640",
     "closeButton": "closeButton__9c640"
+  },
+  "871124": {
+    "text": "text_ead575",
+    "image": "image_ead575"
   },
   "871976": {
     "presets": "presets_a00e6e",
@@ -25740,10 +25736,20 @@
     "channelsTitle": "channelsTitle_dbd216"
   },
   "997562": {
+    "bgFill": "bgFill__714a9",
+    "bgEmpty": "bgEmpty__714a9",
+    "dotGrow": "dotGrow__714a9",
+    "dotShrink": "dotShrink__714a9",
+    "checkDraw": "checkDraw__714a9",
+    "checkUndraw": "checkUndraw__714a9",
     "checkboxItem": "checkboxItem__714a9",
     "checkboxIndicator": "checkboxIndicator__714a9",
+    "backgroundFill": "backgroundFill__714a9",
+    "checkmark": "checkmark__714a9",
+    "checkStroke": "checkStroke__714a9",
+    "dot": "dot__714a9",
+    "animateOut": "animateOut__714a9",
     "leadingIcon": "leadingIcon__714a9",
-    "trailingIcon": "trailingIcon__714a9",
     "label": "label__714a9",
     "labelContent": "labelContent__714a9"
   },
