@@ -5929,13 +5929,13 @@
     "tag": "tag__1f7ec"
   },
   "217726": {
+    "baseProductCardHoverContainer": "baseProductCardHoverContainer__9701b",
     "baseProductCardContainer": "baseProductCardContainer__9701b",
     "baseProductCardContentContainer": "baseProductCardContentContainer__9701b",
     "innerContainer": "innerContainer__9701b",
     "baseProductCardDetailsContainer": "baseProductCardDetailsContainer__9701b",
     "baseProductCardFooter": "baseProductCardFooter__9701b",
     "hoveredVariantSwitcher": "hoveredVariantSwitcher__9701b",
-    "baseProductCardHoverContainer": "baseProductCardHoverContainer__9701b",
     "innerHover": "innerHover__9701b",
     "hasVariantSwitcher": "hasVariantSwitcher__9701b"
   },
@@ -7865,7 +7865,6 @@
     "shuffleIntro": "shuffleIntro__08415",
     "shuffleOutro": "shuffleOutro__08415",
     "placeholderCard": "placeholderCard__08415",
-    "feedSingleRow": "feedSingleRow__08415",
     "endOfFeed": "endOfFeed__08415",
     "skeleton": "skeleton__08415",
     "skeletonBody": "skeletonBody__08415",
