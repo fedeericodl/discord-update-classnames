@@ -18543,6 +18543,9 @@
   "720534": {
     "game": "game__90684",
     "disabled": "disabled__90684",
+    "gameImageContainer": "gameImageContainer__90684",
+    "gameImageBorder": "gameImageBorder__90684",
+    "gameImageOverlay": "gameImageOverlay__90684",
     "textContainer": "textContainer__90684",
     "image": "image__90684",
     "boostContainer": "boostContainer__90684"
@@ -18763,6 +18766,7 @@
     "checkDraw": "checkDraw__714a9",
     "checkUndraw": "checkUndraw__714a9",
     "checkboxItem": "checkboxItem__714a9",
+    "padding": "padding__714a9",
     "checkboxIndicator": "checkboxIndicator__714a9",
     "backgroundFill": "backgroundFill__714a9",
     "checkStroke": "checkStroke__714a9",
@@ -18771,7 +18775,9 @@
     "animateOut": "animateOut__714a9",
     "leadingIcon": "leadingIcon__714a9",
     "label": "label__714a9",
-    "labelContent": "labelContent__714a9"
+    "labelContent": "labelContent__714a9",
+    "labelContainer": "labelContainer__714a9",
+    "animateIn": "animateIn__714a9"
   },
   "726718": {
     "artContainer": "artContainer__22b59",
