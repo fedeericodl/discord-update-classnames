@@ -2405,14 +2405,8 @@
   },
   "87587": {
     "wrapper": "wrapper_fa8995",
-    "gradient": "gradient_fa8995",
     "content": "content_fa8995",
-    "closeButton": "closeButton_fa8995",
-    "controllerImage": "controllerImage_fa8995",
-    "nuxTitle": "nuxTitle_fa8995",
-    "nuxContent": "nuxContent_fa8995",
     "controlTitle": "controlTitle_fa8995",
-    "toggleContainerWrapper": "toggleContainerWrapper_fa8995",
     "toggleContainer": "toggleContainer_fa8995",
     "toggleContainerOnlineRow": "toggleContainerOnlineRow_fa8995",
     "toggleContainerText": "toggleContainerText_fa8995",
@@ -2620,8 +2614,7 @@
   },
   "95049": {
     "chevronButton": "chevronButton__5ae61",
-    "chevronButtonContent": "chevronButtonContent__5ae61",
-    "customizeLink": "customizeLink__5ae61"
+    "chevronButtonContent": "chevronButtonContent__5ae61"
   },
   "95530": {
     "jumpingWumpusContainer": "jumpingWumpusContainer_cc63c7",
@@ -4379,7 +4372,8 @@
     "settingsTabBarItem": "settingsTabBarItem_dc2e0e",
     "contentPanel": "contentPanel_dc2e0e",
     "item": "item_dc2e0e",
-    "badge": "badge_dc2e0e"
+    "badge": "badge_dc2e0e",
+    "loadingContainer": "loadingContainer_dc2e0e"
   },
   "166582": {
     "searchHeader": "searchHeader__83bd4",
@@ -16722,12 +16716,6 @@
     "bentoBoxButtonBrand": "bentoBoxButtonBrand_abac7b",
     "badge": "badge_abac7b"
   },
-  "643153": {
-    "subnav": "subnav__9d489",
-    "active": "active__9d489",
-    "track": "track__9d489",
-    "thumb": "thumb__9d489"
-  },
   "643303": {
     "container": "container__264ae"
   },
@@ -23643,6 +23631,12 @@
     "footerButtons": "footerButtons_a62174",
     "buttonSection": "buttonSection_a62174",
     "inviteButtonIcon": "inviteButtonIcon_a62174"
+  },
+  "910557": {
+    "subnav": "subnav_e4d939",
+    "active": "active_e4d939",
+    "track": "track_e4d939",
+    "thumb": "thumb_e4d939"
   },
   "911166": {
     "categoryItem": "categoryItem_b9ee0c",
