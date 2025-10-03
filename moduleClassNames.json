@@ -17304,6 +17304,7 @@
   },
   "675853": {
     "rewardPill": "rewardPill__6e439",
+    "rewardName": "rewardName__6e439",
     "divider": "divider__6e439"
   },
   "676201": {
@@ -18062,13 +18063,6 @@
     "tooltipContent": "tooltipContent__5cad1",
     "buttonContainer": "buttonContainer__5cad1"
   },
-  "703943": {
-    "userSettingsOverlayField": "userSettingsOverlayField__4d38b",
-    "enableOverlaySection": "enableOverlaySection__4d38b",
-    "enableOverlayItem": "enableOverlayItem__4d38b",
-    "notificationSection": "notificationSection__4d38b",
-    "notificationSettings": "notificationSettings__4d38b"
-  },
   "704442": {
     "table": "table_fda3e4",
     "premiumRebrand": "premiumRebrand_fda3e4",
@@ -18125,8 +18119,7 @@
     "contextMenu": "contextMenu__39ec2"
   },
   "704563": {
-    "voiceModalContainer": "voiceModalContainer__25eff",
-    "voiceModalRootContainer": "voiceModalRootContainer__25eff",
+    "container": "container__25eff",
     "channelIdSection": "channelIdSection__25eff",
     "inputWrapper": "inputWrapper__25eff",
     "voiceChannelList": "voiceChannelList__25eff",
