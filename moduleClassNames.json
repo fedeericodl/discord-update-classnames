@@ -3669,8 +3669,8 @@
     "gameContainerWrapper": "gameContainerWrapper_c18b09",
     "disabled": "disabled_c18b09",
     "gameContainer": "gameContainer_c18b09",
-    "title": "title_c18b09",
     "image": "image_c18b09",
+    "title": "title_c18b09",
     "spinner": "spinner_c18b09"
   },
   "135013": {
@@ -5117,7 +5117,6 @@
   },
   "193183": {
     "neverShow": "neverShow__6480d",
-    "options": "options__6480d",
     "cancelButton": "cancelButton__6480d",
     "footerButtons": "footerButtons__6480d"
   },
@@ -13611,6 +13610,12 @@
     "header": "header__0a12b",
     "text": "text__0a12b"
   },
+  "522259": {
+    "card": "card__50a68",
+    "contentWrapper": "contentWrapper__50a68",
+    "divider": "divider__50a68",
+    "serverActions": "serverActions__50a68"
+  },
   "523626": {
     "header": "header_bfd183",
     "list": "list_bfd183",
@@ -15083,6 +15088,10 @@
     "item": "item_ed6d69",
     "singleItem": "singleItem_ed6d69 item_ed6d69",
     "viewport": "viewport_ed6d69"
+  },
+  "582502": {
+    "content": "content__27c33",
+    "contentBody": "contentBody__27c33"
   },
   "582914": {
     "content": "content_ea12e5",
@@ -18670,8 +18679,6 @@
     "footerInfoContainer": "footerInfoContainer__7ee2f"
   },
   "726550": {
-    "bgFill": "bgFill__714a9",
-    "bgEmpty": "bgEmpty__714a9",
     "dotGrow": "dotGrow__714a9",
     "dotShrink": "dotShrink__714a9",
     "checkDraw": "checkDraw__714a9",
@@ -19576,8 +19583,6 @@
     "resizeNESWCursor": "resizeNESWCursor__88a53"
   },
   "768716": {
-    "radioGroup": "radioGroup__837b7",
-    "radioItem": "radioItem__837b7",
     "error": "error__837b7",
     "reasonFreeText": "reasonFreeText__837b7",
     "hidden": "hidden__837b7"
@@ -21791,8 +21796,6 @@
     "blurredBackground": "blurredBackground__5d3c5"
   },
   "842788": {
-    "card": "card_acb40e",
-    "contentWrapper": "contentWrapper_acb40e",
     "serverDetailsContainer": "serverDetailsContainer_acb40e",
     "imageBackground": "imageBackground_acb40e",
     "serverHeader": "serverHeader_acb40e",
@@ -21812,8 +21815,6 @@
     "deleted": "deleted_acb40e",
     "missing_stock": "missing_stock_acb40e",
     "sleeping": "sleeping_acb40e",
-    "divider": "divider_acb40e",
-    "serverActions": "serverActions_acb40e",
     "overflowMenu": "overflowMenu_acb40e"
   },
   "842926": {
