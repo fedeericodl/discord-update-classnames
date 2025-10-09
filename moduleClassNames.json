@@ -5747,15 +5747,14 @@
     "hiddenVoiceStatesText": "hiddenVoiceStatesText_adebba"
   },
   "213301": {
-    "baseProductCardHoverContainer": "baseProductCardHoverContainer_fcbddd",
-    "baseProductCardContainer": "baseProductCardContainer_fcbddd",
-    "baseProductCardContentContainer": "baseProductCardContentContainer_fcbddd",
-    "innerContainer": "innerContainer_fcbddd",
-    "baseProductCardDetailsContainer": "baseProductCardDetailsContainer_fcbddd",
-    "baseProductCardFooter": "baseProductCardFooter_fcbddd",
-    "hoveredVariantSwitcher": "hoveredVariantSwitcher_fcbddd",
-    "innerHover": "innerHover_fcbddd",
-    "hasVariantSwitcher": "hasVariantSwitcher_fcbddd"
+    "productCardHoverContainer": "productCardHoverContainer_fcbddd",
+    "productCardContainer": "productCardContainer_fcbddd",
+    "productCardContentContainer": "productCardContentContainer_fcbddd",
+    "footerContainer": "footerContainer_fcbddd",
+    "footerHideOnHover": "footerHideOnHover_fcbddd",
+    "footerShowOnHover": "footerShowOnHover_fcbddd",
+    "footerInfoContainer": "footerInfoContainer_fcbddd",
+    "footerInteractibleContainer": "footerInteractibleContainer_fcbddd"
   },
   "213605": {
     "buttonIcon": "buttonIcon__92b20",
@@ -9831,8 +9830,6 @@
   },
   "391371": {
     "floatingNitroUpsell": "floatingNitroUpsell__39749",
-    "floatingNitroButton": "floatingNitroButton__39749",
-    "floatingNitroButtonInner": "floatingNitroButtonInner__39749",
     "nameplatePreview": "nameplatePreview__39749"
   },
   "391475": {
@@ -13845,7 +13842,8 @@
     "avatarSpeaking": "avatarSpeaking__44b0c",
     "pointerEvents": "pointerEvents__44b0c",
     "avatarDecoration": "avatarDecoration__44b0c",
-    "cutoutIcon": "cutoutIcon__44b0c"
+    "cutoutIcon": "cutoutIcon__44b0c",
+    "largeEmoji": "largeEmoji__44b0c"
   },
   "537074": {
     "privateChannels": "privateChannels_ee924e",
@@ -16940,7 +16938,6 @@
     "promotionCard": "promotionCard_d4883c",
     "mainPromotionCardContainer": "mainPromotionCardContainer_d4883c",
     "promotionCardLeftContainer": "promotionCardLeftContainer_d4883c",
-    "promotionCardButton": "promotionCardButton_d4883c",
     "promotionIcon": "promotionIcon_d4883c",
     "promotionIconImage": "promotionIconImage_d4883c",
     "promotionLegalese": "promotionLegalese_d4883c",
@@ -19001,7 +18998,6 @@
     "subgame": "subgame_cc46f0",
     "border": "border_cc46f0",
     "detectedApplication": "detectedApplication_cc46f0",
-    "cancelButton": "cancelButton_cc46f0",
     "toggleIconOn": "toggleIconOn_cc46f0",
     "gameHasSubgame": "gameHasSubgame_cc46f0",
     "subgameContainer": "subgameContainer_cc46f0"
@@ -22720,9 +22716,6 @@
     "nameplatePreview": "nameplatePreview__6d099",
     "nameplatePreviewCollectedModal": "nameplatePreviewCollectedModal__6d099"
   },
-  "882238": {
-    "marketingUnsubscribeButton": "marketingUnsubscribeButton_be6a53"
-  },
   "882313": {
     "textboxContainer": "textboxContainer__7e1d8"
   },
@@ -24156,6 +24149,8 @@
     "frequentFriendsTitle": "frequentFriendsTitle__1fc18",
     "frequentFriendsInfoIcon": "frequentFriendsInfoIcon__1fc18",
     "frequentFriendsAvatars": "frequentFriendsAvatars__1fc18",
+    "scrollMaskLeft": "scrollMaskLeft__1fc18",
+    "scrollMaskRight": "scrollMaskRight__1fc18",
     "frequentFriendAvatarButton": "frequentFriendAvatarButton__1fc18"
   },
   "944701": {
