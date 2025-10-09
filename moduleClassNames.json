@@ -2306,8 +2306,10 @@
     "teenSelector": "teenSelector__6fa7b"
   },
   "85240": {
-    "connectedAccountToggle": "connectedAccountToggle__6de8b",
-    "connectionIcon": "connectionIcon__6de8b"
+    "myServersContainer": "myServersContainer__6de8b",
+    "myServersHeaderContainer": "myServersHeaderContainer__6de8b",
+    "myServersTitle": "myServersTitle__6de8b",
+    "myServersIgnoredWarning": "myServersIgnoredWarning__6de8b"
   },
   "85468": {
     "wrapper": "wrapper__4413f",
@@ -6230,7 +6232,9 @@
     "nameplateTopLeft": "nameplateTopLeft__39b32",
     "nameplateBottomRight": "nameplateBottomRight__39b32",
     "removeItemButton": "removeItemButton__39b32",
-    "overlay": "overlay__39b32"
+    "overlay": "overlay__39b32",
+    "itemIcon": "itemIcon__39b32",
+    "itemIconHeart": "itemIconHeart__39b32"
   },
   "233477": {
     "layer": "layer_bc663c",
@@ -19484,12 +19488,6 @@
     "disabledForm": "disabledForm_a84c50",
     "sidebarContainer": "sidebarContainer_a84c50"
   },
-  "764055": {
-    "myServersContainer": "myServersContainer_eda416",
-    "myServersHeaderContainer": "myServersHeaderContainer_eda416",
-    "myServersTitle": "myServersTitle_eda416",
-    "myServersIgnoredWarning": "myServersIgnoredWarning_eda416"
-  },
   "764516": {
     "panel": "panel__6131a",
     "scroller": "scroller__6131a",
@@ -24235,7 +24233,8 @@
     "nameplatePreview": "nameplatePreview__9baf3",
     "nameplate": "nameplate__9baf3",
     "giftAnimation": "giftAnimation__9baf3",
-    "bundlePreview": "bundlePreview__9baf3"
+    "bundlePreview": "bundlePreview__9baf3",
+    "spinnerContainer": "spinnerContainer__9baf3"
   },
   "948201": {
     "radioBar": "radioBar__1bda4",
