@@ -1132,7 +1132,6 @@
     "content": "content__349bd",
     "buttonContainer": "buttonContainer__349bd",
     "primaryButton": "primaryButton__349bd",
-    "cancel": "cancel__349bd",
     "image": "image__349bd"
   },
   "37742": {
@@ -16682,14 +16681,13 @@
     "boxBackdrop": "boxBackdrop_abac7b",
     "bentoBoxesGrid": "bentoBoxesGrid_abac7b",
     "referralProgramBackground": "referralProgramBackground_abac7b",
-    "serverProfilesBackground": "serverProfilesBackground_abac7b",
     "yourStyleBackground": "yourStyleBackground_abac7b",
     "customThemesBackground": "customThemesBackground_abac7b",
+    "displayNameStylesBackground": "displayNameStylesBackground_abac7b",
+    "serverProfilesBackground": "serverProfilesBackground_abac7b",
     "yourSpaceBackground": "yourSpaceBackground_abac7b",
     "noLimitsBackground": "noLimitsBackground_abac7b",
     "emojisBackground": "emojisBackground_abac7b",
-    "permadecosBackground": "permadecosBackground_abac7b",
-    "voiceFiltersBackground": "voiceFiltersBackground_abac7b",
     "bentoSideGradient": "bentoSideGradient_abac7b",
     "boxVideo": "boxVideo_abac7b",
     "elevateProfileVideo": "elevateProfileVideo_abac7b",
@@ -20908,6 +20906,7 @@
   },
   "809863": {
     "previewPanel": "previewPanel__6dc2e",
+    "previewSection": "previewSection__6dc2e",
     "divider": "divider__6dc2e"
   },
   "809946": {
