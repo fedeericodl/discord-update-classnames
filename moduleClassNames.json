@@ -4320,7 +4320,6 @@
     "heading": "heading__8f3be",
     "footer": "footer__8f3be",
     "notice": "notice__8f3be",
-    "error": "error__8f3be",
     "content": "content__8f3be"
   },
   "169400": {
@@ -5244,16 +5243,6 @@
     "cardDescription": "cardDescription__72fa0",
     "cardSummary": "cardSummary__72fa0"
   },
-  "198551": {
-    "error": "error__4cd16",
-    "icon": "icon__4cd16",
-    "text": "text__4cd16",
-    "backgroundRed": "backgroundRed__4cd16",
-    "errorClose": "errorClose__4cd16",
-    "errorCloseIcon": "errorCloseIcon__4cd16",
-    "backgroundTertiary": "backgroundTertiary__4cd16",
-    "backgroundAccent": "backgroundAccent__4cd16"
-  },
   "198750": {
     "container": "container__0ab2c",
     "sidebarHeader": "sidebarHeader__0ab2c",
@@ -5754,6 +5743,7 @@
     "productCardHoverContainer": "productCardHoverContainer_fcbddd",
     "productCardContainer": "productCardContainer_fcbddd",
     "productCardContentContainer": "productCardContentContainer_fcbddd",
+    "headerContainer": "headerContainer_fcbddd",
     "footerContainer": "footerContainer_fcbddd",
     "footerHideOnHover": "footerHideOnHover_fcbddd",
     "footerShowOnHover": "footerShowOnHover_fcbddd",
@@ -9396,9 +9386,6 @@
   },
   "370213": {
     "spinner": "spinner__9ae4f"
-  },
-  "370511": {
-    "waitlist": "waitlist__24d4e"
   },
   "371882": {
     "container": "container_c66e86",
@@ -13561,8 +13548,7 @@
     "content": "content_d97f89",
     "addAnswerButton": "addAnswerButton_d97f89",
     "duration": "duration_d97f89",
-    "durationSelect": "durationSelect_d97f89",
-    "apiErrorBlock": "apiErrorBlock_d97f89"
+    "durationSelect": "durationSelect_d97f89"
   },
   "520463": {
     "formText": "formText_ddd181",
@@ -16795,6 +16781,9 @@
     "separator": "separator__5dba5",
     "guildBoostBadge": "guildBoostBadge__5dba5"
   },
+  "652100": {
+    "wishlistButton": "wishlistButton__7b466"
+  },
   "652339": {
     "checkboxRow": "checkboxRow_d1f0f0"
   },
@@ -17090,13 +17079,6 @@
     "hammerTrinket": "hammerTrinket_d033b5",
     "keyTrinket": "keyTrinket_d033b5",
     "starTrinket": "starTrinket_d033b5"
-  },
-  "672628": {
-    "statusWarningBlock": "statusWarningBlock__1066d",
-    "statusWarningBlockWithCta": "statusWarningBlockWithCta__1066d",
-    "horizontalStatusWarningBlock": "horizontalStatusWarningBlock__1066d",
-    "verticalStatusWarningBlock": "verticalStatusWarningBlock__1066d",
-    "ctaButtonContainer": "ctaButtonContainer__1066d"
   },
   "673176": {
     "container": "container_ea2f50"
@@ -18133,9 +18115,6 @@
     "gradientWrapperTier2": "gradientWrapperTier2__9b718",
     "loadingContainer": "loadingContainer__9b718",
     "isLoading": "isLoading__9b718"
-  },
-  "711816": {
-    "section": "section_a52f04"
   },
   "712103": {
     "container": "container_e73f2a",
@@ -19423,13 +19402,6 @@
     "systemServiceContainer": "systemServiceContainer_b4186f",
     "systemServiceTextContainer": "systemServiceTextContainer_b4186f"
   },
-  "762641": {
-    "messageBlock": "messageBlock__2d815",
-    "yellowMessageBlock": "yellowMessageBlock__2d815 messageBlock__2d815",
-    "messageBlockIcon": "messageBlockIcon__2d815",
-    "redMessageBlock": "redMessageBlock__2d815 messageBlock__2d815",
-    "brownMessageBlock": "brownMessageBlock__2d815 messageBlock__2d815"
-  },
   "763740": {
     "previewContents": "previewContents__36852",
     "previewBox": "previewBox__36852",
@@ -19522,7 +19494,6 @@
     "resizeNESWCursor": "resizeNESWCursor__88a53"
   },
   "768716": {
-    "error": "error__837b7",
     "reasonFreeText": "reasonFreeText__837b7",
     "hidden": "hidden__837b7"
   },
@@ -25227,8 +25198,7 @@
     "divider": "divider_e9cb00",
     "sectionDivider": "sectionDivider_e9cb00 divider_e9cb00",
     "guildProductBenefits": "guildProductBenefits_e9cb00",
-    "guildProductBenefitLabel": "guildProductBenefitLabel_e9cb00",
-    "warningBlock": "warningBlock_e9cb00"
+    "guildProductBenefitLabel": "guildProductBenefitLabel_e9cb00"
   },
   "983380": {
     "hotspotsSection": "hotspotsSection__16e9e",
