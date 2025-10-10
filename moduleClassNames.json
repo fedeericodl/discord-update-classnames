@@ -11349,9 +11349,7 @@
   "441076": {
     "row": "row_fec266",
     "rowContent": "rowContent_fec266",
-    "iconContainer": "iconContainer_fec266",
-    "threadIcon": "threadIcon_fec266",
-    "personWavingIcon": "personWavingIcon_fec266"
+    "iconContainer": "iconContainer_fec266"
   },
   "441900": {
     "panel": "panel__777bf",
@@ -12990,6 +12988,7 @@
     "online": "online__9ca53",
     "deleted": "deleted__9ca53",
     "missing_stock": "missing_stock__9ca53",
+    "provider_errored": "provider_errored__9ca53",
     "sleeping": "sleeping__9ca53",
     "overflowMenu": "overflowMenu__9ca53"
   },
