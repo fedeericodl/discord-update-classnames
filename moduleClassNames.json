@@ -1633,9 +1633,6 @@
     "actionedInfo": "actionedInfo__6b102",
     "dot": "dot__6b102"
   },
-  "59690": {
-    "productName": "productName__812f1"
-  },
   "59718": {
     "formItem": "formItem__1b11b"
   },
@@ -18563,6 +18560,7 @@
     "isSending": "isSending_c19a55",
     "isFailed": "isFailed_c19a55",
     "isUnsupported": "isUnsupported_c19a55",
+    "markupBidi": "markupBidi_c19a55",
     "edited": "edited_c19a55",
     "communicationDisabled": "communicationDisabled_c19a55",
     "compactCommunicationDisabled": "compactCommunicationDisabled_c19a55",
