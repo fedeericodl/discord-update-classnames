@@ -3953,17 +3953,6 @@
     "sectionHeader": "sectionHeader_a7218d",
     "searchContainer": "searchContainer_a7218d"
   },
-  "152143": {
-    "editProfileContainer": "editProfileContainer__42179",
-    "opened": "opened__42179",
-    "customizationSection": "customizationSection__42179",
-    "condensed": "condensed__42179",
-    "header": "header__42179",
-    "headerIconWrapper": "headerIconWrapper__42179",
-    "title": "title__42179",
-    "caret": "caret__42179",
-    "serverNickname": "serverNickname__42179"
-  },
   "152406": {
     "crossfade": "crossfade__04d60",
     "icon": "icon__04d60"
@@ -4601,6 +4590,17 @@
     "adminUsernameContainer": "adminUsernameContainer__6f212",
     "welcomeMessageContent": "welcomeMessageContent__6f212",
     "ownerIcon": "ownerIcon__6f212"
+  },
+  "181174": {
+    "editProfileContainer": "editProfileContainer__7bf69",
+    "opened": "opened__7bf69",
+    "customizationSection": "customizationSection__7bf69",
+    "condensed": "condensed__7bf69",
+    "header": "header__7bf69",
+    "headerIconWrapper": "headerIconWrapper__7bf69",
+    "title": "title__7bf69",
+    "caret": "caret__7bf69",
+    "serverNickname": "serverNickname__7bf69"
   },
   "181201": {
     "voiceChannelEffectEmojiContainer": "voiceChannelEffectEmojiContainer__66db8",
