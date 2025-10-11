@@ -7626,7 +7626,8 @@
     "container": "container__3f123"
   },
   "302627": {
-    "gameSearchCombobox": "gameSearchCombobox__36be8"
+    "gameSearchCombobox": "gameSearchCombobox__36be8",
+    "coverButton": "coverButton__36be8 gameCover__1a3d6"
   },
   "302821": {
     "appAsidePanelWrapper": "appAsidePanelWrapper_a3002d",
@@ -17090,9 +17091,6 @@
     "keyTrinket": "keyTrinket_d033b5",
     "starTrinket": "starTrinket_d033b5"
   },
-  "673176": {
-    "container": "container_ea2f50"
-  },
   "673449": {
     "container": "container__9a52c",
     "activityRow": "activityRow__9a52c",
@@ -24446,6 +24444,10 @@
     "empty": "empty__7ff05",
     "textContainer": "textContainer__7ff05",
     "widgetGrid": "widgetGrid__7ff05"
+  },
+  "959183": {
+    "container": "container_f85df1",
+    "singleGameWidget": "singleGameWidget_f85df1"
   },
   "959338": {
     "listHeight": "listHeight_affa7e",
