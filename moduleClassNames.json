@@ -144,7 +144,6 @@
     "experimentOverlayTitle": "experimentOverlayTitle__2f4f7",
     "overlayTitleText": "overlayTitleText__2f4f7",
     "overlayButton": "overlayButton__2f4f7",
-    "overlayButtonInner": "overlayButtonInner__2f4f7",
     "overlayButtonContainer": "overlayButtonContainer__2f4f7",
     "hideWhenInactive": "hideWhenInactive__2f4f7",
     "experimentTitleIcon": "experimentTitleIcon__2f4f7",
@@ -9494,12 +9493,6 @@
     "channelSelectScrollerInner": "channelSelectScrollerInner_bd234e"
   },
   "377238": {
-    "header": "header_b404ff",
-    "subtitle": "subtitle_b404ff",
-    "title": "title_b404ff",
-    "modalCloseButton": "modalCloseButton_b404ff",
-    "content": "content_b404ff",
-    "cancel": "cancel_b404ff",
     "discriminatorChangeWarning": "discriminatorChangeWarning_b404ff"
   },
   "377409": {
@@ -22604,14 +22597,6 @@
     "closeButton": "closeButton_e0f8ae",
     "instructionsLink": "instructionsLink_e0f8ae",
     "gameTile": "gameTile_e0f8ae"
-  },
-  "879488": {
-    "header": "header__6dc27",
-    "subtitle": "subtitle__6dc27",
-    "title": "title__6dc27",
-    "modalCloseButton": "modalCloseButton__6dc27",
-    "content": "content__6dc27",
-    "cancel": "cancel__6dc27"
   },
   "879615": {
     "wrapper": "wrapper__10e9a",
