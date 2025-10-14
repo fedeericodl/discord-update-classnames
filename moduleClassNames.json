@@ -15032,9 +15032,6 @@
     "headerShortcut": "headerShortcut_ea12e5",
     "tips": "tips_ea12e5"
   },
-  "583073": {
-    "content": "content__61700"
-  },
   "583140": {
     "toast": "toast__3fde7",
     "content": "content__3fde7",
@@ -16317,7 +16314,6 @@
     "themedPagination": "themedPagination__00dfb pagination__00dfb",
     "controls": "controls__00dfb",
     "arrowHitbox": "arrowHitbox__00dfb",
-    "arrow": "arrow__00dfb",
     "arrowHitboxPadding": "arrowHitboxPadding__00dfb",
     "dots": "dots__00dfb",
     "dot": "dot__00dfb",
@@ -19782,16 +19778,8 @@
     "cta": "cta__1b24f"
   },
   "780187": {
-    "header": "header_ad198f",
-    "emailHeaderImg": "emailHeaderImg_ad198f",
-    "wumpusExclamationImg": "wumpusExclamationImg_ad198f",
-    "title": "title_ad198f",
-    "subtitle": "subtitle_ad198f",
     "description": "description_ad198f",
     "tooltip": "tooltip_ad198f",
-    "modalCloseButton": "modalCloseButton_ad198f",
-    "modalFooter": "modalFooter_ad198f",
-    "content": "content_ad198f",
     "help": "help_ad198f"
   },
   "780462": {
