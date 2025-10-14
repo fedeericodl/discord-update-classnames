@@ -588,6 +588,9 @@
     "iconButton": "iconButton__8a7fc",
     "floatingSearchTabsMask": "floatingSearchTabsMask__8a7fc"
   },
+  "20492": {
+    "tabs": "tabs__90767"
+  },
   "21054": {
     "userAvatar": "userAvatar__9ec1a",
     "svg": "svg__9ec1a"
@@ -11967,10 +11970,6 @@
     "keyTrinket": "keyTrinket__82b10",
     "starTrinket": "starTrinket__82b10"
   },
-  "460982": {
-    "select": "select__00d1f",
-    "selectItemRow": "selectItemRow__00d1f"
-  },
   "461671": {
     "content": "content_a58267",
     "emphasized": "emphasized_a58267",
@@ -12141,7 +12140,8 @@
   },
   "467887": {
     "select": "select_b2fe93",
-    "selectItemRow": "selectItemRow_b2fe93"
+    "selectItemRow": "selectItemRow_b2fe93",
+    "title": "title_b2fe93"
   },
   "468424": {
     "header": "header_cd8d1b",
@@ -21864,6 +21864,9 @@
     "row": "row__88422",
     "upsellText": "upsellText__88422",
     "button": "button__88422"
+  },
+  "852017": {
+    "tabs": "tabs__3f3a2"
   },
   "852303": {
     "applicationDetails": "applicationDetails__94ab2",
