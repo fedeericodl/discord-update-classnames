@@ -159,8 +159,8 @@
     "selectedScreen": "selectedScreen__2f4f7",
     "selectedIcon": "selectedIcon__2f4f7",
     "liveIndicator": "liveIndicator__2f4f7",
-    "addStreamIcon": "addStreamIcon__2f4f7",
-    "addCTA": "addCTA__2f4f7",
+    "cta": "cta__2f4f7",
+    "addCta": "addCta__2f4f7",
     "absoluteFill": "absoluteFill__2f4f7",
     "videoWrapper": "videoWrapper__2f4f7",
     "blocked": "blocked__2f4f7",
@@ -8526,15 +8526,9 @@
     "tileContainer": "tileContainer_ad58e7"
   },
   "340036": {
-    "roleHeader": "roleHeader_e3f977",
-    "warningTitle": "warningTitle_e3f977",
     "warningIcon": "warningIcon_e3f977",
     "attachedRoleContainer": "attachedRoleContainer_e3f977",
-    "attachedRoleColor": "attachedRoleColor_e3f977",
-    "attachedRoleClose": "attachedRoleClose_e3f977",
-    "attachedRoleCloseIcon": "attachedRoleCloseIcon_e3f977",
-    "detachWarningHeading": "detachWarningHeading_e3f977",
-    "reattachRoleRow": "reattachRoleRow_e3f977"
+    "detachWarningHeading": "detachWarningHeading_e3f977"
   },
   "340669": {
     "container": "container_a51e6d",
@@ -9795,8 +9789,7 @@
     "header": "header_c6e099",
     "errorCodeMessage": "errorCodeMessage_c6e099",
     "description": "description_c6e099",
-    "outerButton": "outerButton_c6e099",
-    "button": "button_c6e099"
+    "outerButton": "outerButton_c6e099"
   },
   "388592": {
     "clickZone": "clickZone__29c87",
@@ -20370,8 +20363,7 @@
     "medium": "medium_ecf309",
     "small": "small_ecf309",
     "header": "header_ecf309",
-    "buttons": "buttons_ecf309",
-    "button": "button_ecf309"
+    "buttons": "buttons_ecf309"
   },
   "798925": {
     "root": "root_af8192"
@@ -20864,7 +20856,6 @@
     "tierSymbolUploaderInner": "tierSymbolUploaderInner__4ecd1"
   },
   "811130": {
-    "buttonColor": "buttonColor__7b3e8",
     "textButton": "textButton__7b3e8",
     "iconButton": "iconButton__7b3e8"
   },
@@ -22235,8 +22226,8 @@
     "streamHiddenEmptyState": "streamHiddenEmptyState_c30e20",
     "streamHiddenCTA": "streamHiddenCTA_c30e20",
     "largePaddingTop": "largePaddingTop_c30e20",
-    "addStreamIcon": "addStreamIcon_c30e20",
-    "addCTA": "addCTA_c30e20"
+    "cta": "cta_c30e20",
+    "addCta": "addCta_c30e20"
   },
   "867038": {
     "container": "container__99d5f",
@@ -22521,10 +22512,6 @@
     "panelHeader": "panelHeader__86951",
     "panelInner": "panelInner__86951",
     "panelRow": "panelRow__86951"
-  },
-  "877757": {
-    "cta": "cta_a3a802",
-    "buttonReset": "buttonReset_a3a802"
   },
   "877762": {
     "container": "container_d13feb",
