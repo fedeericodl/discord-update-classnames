@@ -10718,7 +10718,6 @@
   "421200": {
     "headerBar": "headerBar__80679",
     "headerBarInner": "headerBarInner__80679",
-    "fullscreenHeaderBar": "fullscreenHeaderBar__80679",
     "tabs": "tabs__80679",
     "tabWrapper": "tabWrapper__80679",
     "tab": "tab__80679",
@@ -11742,7 +11741,6 @@
   "452785": {
     "inventory": "inventory__1feb0",
     "inventoryFilter": "inventoryFilter__1feb0",
-    "pageFullscreen": "pageFullscreen__1feb0",
     "controls": "controls__1feb0",
     "controlsLeftSide": "controlsLeftSide__1feb0",
     "controlsRightSide": "controlsRightSide__1feb0",
@@ -19762,7 +19760,6 @@
   },
   "779485": {
     "countDownWrapper": "countDownWrapper__46b37",
-    "fullScreenWrapper": "fullScreenWrapper__46b37",
     "mobileWrapper": "mobileWrapper__46b37",
     "countdownLabel": "countdownLabel__46b37",
     "countdownBody": "countdownBody__46b37"
