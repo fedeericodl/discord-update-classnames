@@ -772,7 +772,8 @@
     "galleryItem": "galleryItem_d75751",
     "first": "first_d75751",
     "last": "last_d75751",
-    "inactive": "inactive_d75751"
+    "inactive": "inactive_d75751",
+    "obscured": "obscured_d75751"
   },
   "28025": {
     "devices": "devices_fe5040",
@@ -3610,7 +3611,10 @@
     "container": "container_a62a28",
     "socialProof": "socialProof_a62a28",
     "socialProofBackdrop": "socialProofBackdrop_a62a28",
-    "removeGameButton": "removeGameButton_a62a28"
+    "removeGameButton": "removeGameButton_a62a28",
+    "dropIndicatorAfter": "dropIndicatorAfter_a62a28",
+    "dropIndicatorBefore": "dropIndicatorBefore_a62a28",
+    "isDragging": "isDragging_a62a28"
   },
   "133495": {
     "modal": "modal_edf440",
@@ -18034,6 +18038,11 @@
     "modalContent": "modalContent__2379f",
     "disclaimer": "disclaimer__2379f"
   },
+  "707804": {
+    "container": "container_ab64fd",
+    "widgetPreview": "widgetPreview_ab64fd",
+    "gamePreview": "gamePreview_ab64fd"
+  },
   "707892": {
     "colorSwatch": "colorSwatch__2d060",
     "disabled": "disabled__2d060",
@@ -21566,9 +21575,6 @@
   "836636": {
     "description": "description_cd2e37"
   },
-  "836717": {
-    "container": "container__05e63"
-  },
   "836956": {
     "obscuredIcon": "obscuredIcon__43090"
   },
@@ -22939,12 +22945,10 @@
     "withText": "withText_e131a9",
     "voicePanelIntroductionHeader": "voicePanelIntroductionHeader_e131a9",
     "voicePanelIntroductionText": "voicePanelIntroductionText_e131a9",
-    "voicePanelIntroductionButton": "voicePanelIntroductionButton_e131a9",
     "voicePanelIntroductionWrapper": "voicePanelIntroductionWrapper_e131a9",
     "wrapper": "wrapper_e131a9",
     "viewAsRolesWarning": "viewAsRolesWarning_e131a9",
     "viewAsRolesWarningText": "viewAsRolesWarningText_e131a9",
-    "viewAsRolesWarningButton": "viewAsRolesWarningButton_e131a9",
     "disabled": "disabled_e131a9",
     "voiceButtonsContainer": "voiceButtonsContainer_e131a9"
   },
