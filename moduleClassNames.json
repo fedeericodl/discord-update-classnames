@@ -1888,6 +1888,23 @@
     "keybindShortcut": "keybindShortcut__5003d",
     "soundWheel": "soundWheel__5003d"
   },
+  "72235": {
+    "tutorial": "tutorial__73f2a",
+    "shown": "shown__73f2a",
+    "arrowGroup": "arrowGroup__73f2a",
+    "right": "right__73f2a",
+    "arrowContainer": "arrowContainer__73f2a",
+    "horizontal": "horizontal__73f2a",
+    "diag1": "diag1__73f2a",
+    "diag2": "diag2__73f2a",
+    "arrowIcon": "arrowIcon__73f2a",
+    "arrow-pulse": "arrow-pulse__73f2a",
+    "tutorialMessages": "tutorialMessages__73f2a",
+    "message": "message__73f2a",
+    "searchMessage": "searchMessage__73f2a message__73f2a",
+    "selectMessage": "selectMessage__73f2a message__73f2a",
+    "hasQuery": "hasQuery__73f2a"
+  },
   "72572": {
     "offerPill": "offerPill__3b397",
     "premiumBrandRefreshOfferPill": "premiumBrandRefreshOfferPill__3b397"
@@ -2792,6 +2809,10 @@
   "104844": {
     "icon": "icon_e59963"
   },
+  "104869": {
+    "backgroundImage": "backgroundImage__4b1a9",
+    "backgroundContainer": "backgroundContainer__4b1a9"
+  },
   "104940": {
     "safetyFlow": "safetyFlow__300a2",
     "container": "container__300a2",
@@ -3051,6 +3072,10 @@
     "label": "label__74994",
     "username": "username__74994",
     "notes": "notes__74994"
+  },
+  "113648": {
+    "numberInput": "numberInput__0aa06",
+    "interactivePillContainer": "interactivePillContainer__0aa06"
   },
   "113752": {
     "appMount": "appMount__51fd7"
@@ -4433,6 +4458,9 @@
     "heroAssetCont": "heroAssetCont_c93f8c",
     "heroAssetVideo": "heroAssetVideo_c93f8c"
   },
+  "179505": {
+    "container": "container_c39fe3"
+  },
   "179598": {
     "modalRoot": "modalRoot__7fffd",
     "modalHeader": "modalHeader__7fffd",
@@ -5056,14 +5084,6 @@
     "examplesHeader": "examplesHeader_d520fc",
     "title": "title_d520fc",
     "addQuestionsContainer": "addQuestionsContainer_d520fc"
-  },
-  "195623": {
-    "timerContainer": "timerContainer__7cfe3",
-    "timeUnitsOuterContainer": "timeUnitsOuterContainer__7cfe3",
-    "timeUnitInnerContainer": "timeUnitInnerContainer__7cfe3",
-    "time": "time__7cfe3",
-    "timeBoxOutline": "timeBoxOutline__7cfe3",
-    "unitDivider": "unitDivider__7cfe3"
   },
   "196073": {
     "container": "container_e9ef78",
@@ -6198,7 +6218,10 @@
     "removeItemButton": "removeItemButton__39b32",
     "overlay": "overlay__39b32",
     "itemIcon": "itemIcon__39b32",
-    "itemIconHeart": "itemIconHeart__39b32"
+    "itemIconHeart": "itemIconHeart__39b32",
+    "placeholderPulse": "placeholderPulse__39b32",
+    "placeholderCard": "placeholderCard__39b32",
+    "placeholderAvatar": "placeholderAvatar__39b32"
   },
   "233477": {
     "layer": "layer_bc663c",
@@ -7972,10 +7995,6 @@
     "linkIcon": "linkIcon_b1585f",
     "linksContainer": "linksContainer_b1585f"
   },
-  "315746": {
-    "backgroundImage": "backgroundImage__4b1a9",
-    "backgroundContainer": "backgroundContainer__4b1a9"
-  },
   "315824": {
     "confettiTriggerWrapper": "confettiTriggerWrapper_d00019",
     "confettiTrigger": "confettiTrigger_d00019"
@@ -8566,6 +8585,14 @@
     "nativeSourceTypeButton": "nativeSourceTypeButton__0b85a",
     "nativeSourceTypeButtonInner": "nativeSourceTypeButtonInner__0b85a"
   },
+  "341461": {
+    "timerContainer": "timerContainer_d0d75b",
+    "timeUnitsOuterContainer": "timeUnitsOuterContainer_d0d75b",
+    "timeUnitInnerContainer": "timeUnitInnerContainer_d0d75b",
+    "time": "time_d0d75b",
+    "timeBoxOutline": "timeBoxOutline_d0d75b",
+    "unitDivider": "unitDivider_d0d75b"
+  },
   "342214": {
     "item": "item__9652f",
     "guildIcon": "guildIcon__9652f"
@@ -8819,6 +8846,7 @@
   "350169": {
     "container": "container__3849c",
     "contentContainer": "contentContainer__3849c",
+    "containerWithOfferCountdown": "containerWithOfferCountdown__3849c",
     "body": "body__3849c",
     "marketingPageTextContainer": "marketingPageTextContainer__3849c",
     "descriptionContainer": "descriptionContainer__3849c",
@@ -8827,7 +8855,8 @@
     "offerPillContainer": "offerPillContainer__3849c",
     "affinitiesContainer": "affinitiesContainer__3849c",
     "referrerAttributionContainer": "referrerAttributionContainer__3849c",
-    "header": "header__3849c"
+    "header": "header__3849c",
+    "heroOfferCountdown": "heroOfferCountdown__3849c"
   },
   "350432": {
     "container": "container_bb1234",
@@ -9818,10 +9847,6 @@
     "liveIndicator": "liveIndicator__30845",
     "liveQualityIndicator": "liveQualityIndicator__30845"
   },
-  "386521": {
-    "numberInput": "numberInput__0aa06",
-    "interactivePillContainer": "interactivePillContainer__0aa06"
-  },
   "387016": {
     "badgeContainer": "badgeContainer__98c7b",
     "newBadge": "newBadge__98c7b",
@@ -10774,23 +10799,6 @@
     "thankYouCard": "thankYouCard_b851f5",
     "thankYouText": "thankYouText_b851f5",
     "userAvatar": "userAvatar_b851f5"
-  },
-  "418956": {
-    "tutorial": "tutorial__73f2a",
-    "shown": "shown__73f2a",
-    "arrowGroup": "arrowGroup__73f2a",
-    "right": "right__73f2a",
-    "arrowContainer": "arrowContainer__73f2a",
-    "horizontal": "horizontal__73f2a",
-    "diag1": "diag1__73f2a",
-    "diag2": "diag2__73f2a",
-    "arrowIcon": "arrowIcon__73f2a",
-    "arrow-pulse": "arrow-pulse__73f2a",
-    "tutorialMessages": "tutorialMessages__73f2a",
-    "message": "message__73f2a",
-    "searchMessage": "searchMessage__73f2a message__73f2a",
-    "selectMessage": "selectMessage__73f2a message__73f2a",
-    "hasQuery": "hasQuery__73f2a"
   },
   "419246": {
     "hamBanner": "hamBanner__6a41e",
@@ -16640,7 +16648,8 @@
     "churnEntrypointButtons": "churnEntrypointButtons__3ce43",
     "churnEntrypointDescriptionBrandRefresh": "churnEntrypointDescriptionBrandRefresh__3ce43",
     "churnEntrypointDescription": "churnEntrypointDescription__3ce43",
-    "churnDiscountHeader": "churnDiscountHeader__3ce43"
+    "churnDiscountHeader": "churnDiscountHeader__3ce43",
+    "heroOfferCountdown": "heroOfferCountdown__3ce43"
   },
   "645765": {
     "imageEditor": "imageEditor_ab2592",
@@ -19533,9 +19542,6 @@
   },
   "770297": {
     "pricePerInterval": "pricePerInterval_b39acb"
-  },
-  "770308": {
-    "container": "container_c39fe3"
   },
   "770593": {
     "headerBar": "headerBar__1a9ce",
