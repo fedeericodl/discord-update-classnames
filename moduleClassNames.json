@@ -5391,27 +5391,6 @@
     "poggermodeIcon": "poggermodeIcon__581ea",
     "premiumTab": "premiumTab__581ea"
   },
-  "202722": {
-    "footer": "footer__6be55",
-    "guildRow": "guildRow__6be55",
-    "inviteIcon": "inviteIcon__6be55",
-    "inviteTarget": "inviteTarget__6be55",
-    "inviteTargetIcon": "inviteTargetIcon__6be55",
-    "inviteTargetHeading": "inviteTargetHeading__6be55",
-    "guildPresence": "guildPresence__6be55",
-    "memberCount": "memberCount__6be55",
-    "onlineCount": "onlineCount__6be55",
-    "dot": "dot__6be55",
-    "settingsButton": "settingsButton__6be55",
-    "settingsOpen": "settingsOpen__6be55",
-    "advancedOptions": "advancedOptions__6be55",
-    "advancedOption": "advancedOption__6be55",
-    "advancedOptionInner": "advancedOptionInner__6be55",
-    "advancedOptionContent": "advancedOptionContent__6be55",
-    "buttonRow": "buttonRow__6be55",
-    "button": "button__6be55",
-    "buttonInner": "buttonInner__6be55"
-  },
   "202738": {
     "gradientBackground": "gradientBackground__41626",
     "leftDarkEllipse": "leftDarkEllipse__41626",
@@ -11394,8 +11373,6 @@
   },
   "440543": {
     "wrapper": "wrapper__3820c",
-    "notice": "notice__3820c",
-    "noticeBody": "noticeBody__3820c",
     "content": "content__3820c",
     "nav": "nav__3820c",
     "banner": "banner__3820c",
@@ -23002,24 +22979,6 @@
     "richTooltipContent": "richTooltipContent_a89985",
     "assetContainer": "assetContainer_a89985",
     "textContent": "textContent_a89985"
-  },
-  "890967": {
-    "modal": "modal__28554",
-    "header": "header__28554",
-    "titleLine": "titleLine__28554",
-    "title": "title__28554",
-    "body": "body__28554",
-    "closeButton": "closeButton__28554",
-    "empty": "empty__28554",
-    "recipientList": "recipientList__28554",
-    "recipientRow": "recipientRow__28554",
-    "recipientAsset": "recipientAsset__28554",
-    "recipientLabels": "recipientLabels__28554",
-    "recipientLabel": "recipientLabel__28554",
-    "recipientSublabel": "recipientSublabel__28554",
-    "disabled": "disabled__28554",
-    "footer": "footer__28554",
-    "footerContent": "footerContent__28554"
   },
   "891131": {
     "productsEmpty": "productsEmpty__70c55",
