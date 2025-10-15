@@ -8855,10 +8855,7 @@
     "divider": "divider_c87e85"
   },
   "352258": {
-    "modalRoot": "modalRoot__8a2c0",
-    "content": "content__8a2c0",
     "notice": "notice__8a2c0",
-    "buttonContainer": "buttonContainer__8a2c0",
     "qrCodeContainer": "qrCodeContainer__8a2c0",
     "qrCodeObscure": "qrCodeObscure__8a2c0",
     "qrCodeOverlay": "qrCodeOverlay__8a2c0",
@@ -15428,7 +15425,6 @@
     "triggerSettingsContainer": "triggerSettingsContainer_b6c6eb"
   },
   "601582": {
-    "acknowledgementCheckbox": "acknowledgementCheckbox_ec3eb0",
     "closeIcon": "closeIcon_ec3eb0"
   },
   "602062": {
@@ -25259,7 +25255,6 @@
     "partnerCtaContainer": "partnerCtaContainer__7eb2b"
   },
   "986360": {
-    "root": "root__59ad9",
     "disclaimer": "disclaimer__59ad9",
     "linkIcon": "linkIcon__59ad9"
   },
