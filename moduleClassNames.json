@@ -7609,7 +7609,6 @@
     "priceLine": "priceLine_c3d04b",
     "priceTag": "priceTag_c3d04b",
     "insufficientOrbs": "insufficientOrbs_c3d04b",
-    "premiumWheelTooltipContent": "premiumWheelTooltipContent_c3d04b",
     "premiumWheelBadge": "premiumWheelBadge_c3d04b",
     "premiumWheel": "premiumWheel_c3d04b",
     "detailsWrapper": "detailsWrapper_c3d04b",
@@ -10080,7 +10079,6 @@
     "anomaly": "anomaly__0f18a",
     "error": "error__0f18a",
     "spinner": "spinner__0f18a",
-    "tooltip": "tooltip__0f18a",
     "footerRight": "footerRight__0f18a",
     "colorCycle": "colorCycle__0f18a",
     "remaining": "remaining__0f18a",
@@ -10768,6 +10766,10 @@
     "isDragging": "isDragging__62dd3",
     "dropIndicatorAfter": "dropIndicatorAfter__62dd3",
     "dropIndicatorBefore": "dropIndicatorBefore__62dd3"
+  },
+  "415957": {
+    "group": "group__0a16d",
+    "backwardsCompatibleCheckbox": "backwardsCompatibleCheckbox__0a16d"
   },
   "416439": {
     "stepBody": "stepBody_b44961",
@@ -17192,10 +17194,6 @@
     "attachment": "attachment_fc8177",
     "avatar": "avatar_fc8177",
     "compactTimestamp": "compactTimestamp_fc8177"
-  },
-  "675042": {
-    "group": "group__66d91",
-    "backwardsCompatibleCheckbox": "backwardsCompatibleCheckbox__66d91"
   },
   "675758": {
     "icon20px": "icon20px__69362",
@@ -24815,10 +24813,6 @@
     "hubContainer": "hubContainer__2637a",
     "dropdownButton": "dropdownButton__2637a",
     "dropdownButtonBannerVisible": "dropdownButtonBannerVisible__2637a"
-  },
-  "971631": {
-    "container": "container__58c96",
-    "pointer": "pointer__58c96"
   },
   "972526": {
     "icon": "icon__912a0",
