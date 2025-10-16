@@ -5867,6 +5867,11 @@
     "inviteJoinContainer": "inviteJoinContainer_d69818",
     "inviterIconWrapper": "inviterIconWrapper_d69818"
   },
+  "216215": {
+    "confirmation": "confirmation__9baa5",
+    "confirmationHeader": "confirmationHeader__9baa5",
+    "divider": "divider__9baa5"
+  },
   "216390": {
     "bannerIcon": "bannerIcon__1d97f",
     "bannerContainer": "bannerContainer__1d97f",
@@ -20001,6 +20006,9 @@
     "isReply": "isReply__040f0",
     "emojiTooltipText": "emojiTooltipText__040f0",
     "emoji": "emoji__040f0"
+  },
+  "786081": {
+    "modalBodyText": "modalBodyText__44fbb"
   },
   "786167": {
     "icon": "icon__80514"
