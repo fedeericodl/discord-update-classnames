@@ -1929,8 +1929,7 @@
     "tooltipPremiumFooterTierSegment": "tooltipPremiumFooterTierSegment__7d7fe"
   },
   "73930": {
-    "container": "container__42d0d",
-    "applicationIcon": "applicationIcon__42d0d"
+    "container": "container__42d0d"
   },
   "74021": {
     "sectionTitle": "sectionTitle_d2a5f7",
@@ -4675,6 +4674,14 @@
     "scrollerContent": "scrollerContent__808a1",
     "headerBar": "headerBar__808a1"
   },
+  "183322": {
+    "container": "container_f03fce",
+    "header": "header_f03fce",
+    "headerTitle": "headerTitle_f03fce",
+    "headerClose": "headerClose_f03fce",
+    "tabBarItem": "tabBarItem_f03fce",
+    "content": "content_f03fce"
+  },
   "183334": {
     "container": "container_aae012",
     "inner": "inner_aae012",
@@ -6198,6 +6205,7 @@
     "overlay": "overlay__39b32",
     "itemIcon": "itemIcon__39b32",
     "itemIconHeart": "itemIconHeart__39b32",
+    "itemIconShop": "itemIconShop__39b32",
     "placeholderPulse": "placeholderPulse__39b32",
     "placeholderCard": "placeholderCard__39b32",
     "placeholderAvatar": "placeholderAvatar__39b32"
@@ -6762,6 +6770,20 @@
     "newBadge": "newBadge_f84418",
     "separator": "separator_f84418"
   },
+  "261540": {
+    "loadingContainer": "loadingContainer__82533",
+    "modalBody": "modalBody__82533",
+    "modalBodyText": "modalBodyText__82533",
+    "cannotLinkAccountWarning": "cannotLinkAccountWarning__82533",
+    "statusContainer": "statusContainer__82533",
+    "statusRow": "statusRow__82533",
+    "statusLeft": "statusLeft__82533",
+    "statusText": "statusText__82533",
+    "statusIcon": "statusIcon__82533",
+    "statusIconConnected": "statusIconConnected__82533",
+    "statusIconDisconnected": "statusIconDisconnected__82533",
+    "statusRight": "statusRight__82533"
+  },
   "262381": {
     "upsellOuter": "upsellOuter__50e68",
     "upsellInner": "upsellInner__50e68",
@@ -6903,9 +6925,7 @@
     "body": "body__7560f",
     "closeButton": "closeButton__7560f",
     "seasonalGiftIcon": "seasonalGiftIcon__7560f",
-    "modal": "modal__7560f",
-    "gameItemImageGiftUnopened": "gameItemImageGiftUnopened__7560f",
-    "gameItemImageGiftOpened": "gameItemImageGiftOpened__7560f"
+    "modal": "modal__7560f"
   },
   "269143": {
     "invalidWrapper": "invalidWrapper__076c1",
@@ -9731,13 +9751,11 @@
     "thumbnailContainer": "thumbnailContainer__8e577"
   },
   "382775": {
-    "gifPickerContent": "gifPickerContent__6c39d",
+    "gifPickerContainer": "gifPickerContainer__6c39d",
+    "upsellHeaderContainer": "upsellHeaderContainer__6c39d",
     "gifPicker": "gifPicker__6c39d",
-    "modalHeader": "modalHeader__6c39d",
-    "titleCase": "titleCase__6c39d",
     "loadingOverlay": "loadingOverlay__6c39d",
     "spinner": "spinner__6c39d",
-    "modalCloseButton": "modalCloseButton__6c39d",
     "nitroUpsell": "nitroUpsell__6c39d"
   },
   "382985": {
@@ -12440,13 +12458,6 @@
     "originalMessageAuthorAvatar": "originalMessageAuthorAvatar_fc958f",
     "newBadge": "newBadge_fc958f"
   },
-  "476828": {
-    "header": "header__647a7",
-    "headerTitle": "headerTitle__647a7",
-    "headerClose": "headerClose__647a7",
-    "tabBarItem": "tabBarItem__647a7",
-    "content": "content__647a7"
-  },
   "477487": {
     "confettiCanvas": "confettiCanvas__8fcbd",
     "close": "close__8fcbd",
@@ -13322,6 +13333,9 @@
   "512399": {
     "clipPill": "clipPill_d762d7"
   },
+  "512409": {
+    "applicationIcon": "applicationIcon__6dec9"
+  },
   "512622": {
     "gameImage": "gameImage_a3ec8a",
     "gameUnknownImage": "gameUnknownImage_a3ec8a",
@@ -14162,9 +14176,6 @@
     "recommendedTierHighlightTier3": "recommendedTierHighlightTier3__686cf",
     "recommendedTierHighlightTag": "recommendedTierHighlightTag__686cf",
     "perkPreviewImage": "perkPreviewImage__686cf"
-  },
-  "551760": {
-    "skuImage": "skuImage__464a0"
   },
   "551850": {
     "image": "image__97ca1",
@@ -19844,6 +19855,9 @@
   },
   "781652": {
     "poggermodeIcon": "poggermodeIcon_bc2dd4"
+  },
+  "781908": {
+    "cardImage": "cardImage__3f7b1"
   },
   "781984": {
     "page": "page__4c945",
