@@ -7182,9 +7182,8 @@
   },
   "277081": {
     "card": "card_d07961",
-    "modalContent": "modalContent_d07961",
-    "reset": "reset_d07961",
-    "nickError": "nickError_d07961"
+    "nickError": "nickError_d07961",
+    "reset": "reset_d07961"
   },
   "277790": {
     "container": "container__85f5c",
@@ -13197,10 +13196,7 @@
   },
   "505575": {
     "tryItOutButtons": "tryItOutButtons_fbfab6",
-    "tryItOutButtonsV2": "tryItOutButtonsV2_fbfab6",
-    "premiumCta": "premiumCta_fbfab6",
     "basicThemeSelectors": "basicThemeSelectors_fbfab6",
-    "featureBorder": "featureBorder_fbfab6",
     "previewThemeButton": "previewThemeButton_fbfab6",
     "premiumTier2Divider": "premiumTier2Divider_fbfab6",
     "divider": "divider_fbfab6",
@@ -21483,6 +21479,9 @@
   "831418": {
     "wrapper": "wrapper_f61d60"
   },
+  "831605": {
+    "container": "container__6c21f"
+  },
   "831901": {
     "error": "error__71b12",
     "errorImage": "errorImage__71b12"
@@ -25080,10 +25079,8 @@
   },
   "980676": {
     "tryItOutButtons": "tryItOutButtons__6b52d",
-    "tryItOutButtonsV2": "tryItOutButtonsV2__6b52d",
     "selectionGroup": "selectionGroup__6b52d",
-    "divider": "divider__6b52d",
-    "tryItOutButton": "tryItOutButton__6b52d"
+    "divider": "divider__6b52d"
   },
   "980800": {
     "jumbleWrapper": "jumbleWrapper__014df",
