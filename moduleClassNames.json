@@ -24581,6 +24581,15 @@
     "buttonContainer": "buttonContainer__6ca73",
     "button": "button__6ca73"
   },
+  "963458": {
+    "productVariantsContainer": "productVariantsContainer__2c397",
+    "productVariantsInteractiveContainer": "productVariantsInteractiveContainer__2c397",
+    "productVariantsPreviewContainer": "productVariantsPreviewContainer__2c397",
+    "productVariantButton": "productVariantButton__2c397",
+    "productVariant": "productVariant__2c397",
+    "miniPreview": "miniPreview__2c397",
+    "selected": "selected__2c397"
+  },
   "964068": {
     "tabItem": "tabItem__9e06a",
     "tabContainer": "tabContainer__9e06a",
