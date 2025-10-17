@@ -1861,7 +1861,8 @@
     "step": "step__2ff9f",
     "stepNumber": "stepNumber__2ff9f",
     "serverIpContainer": "serverIpContainer__2ff9f",
-    "serverIpInput": "serverIpInput__2ff9f"
+    "serverIpInput": "serverIpInput__2ff9f",
+    "animate": "animate__2ff9f"
   },
   "71264": {
     "sidebar": "sidebar__9835e",
@@ -11445,15 +11446,6 @@
     "gameIcon": "gameIcon__81a05",
     "bodyText": "bodyText__81a05"
   },
-  "440543": {
-    "wrapper": "wrapper__3820c",
-    "content": "content__3820c",
-    "nav": "nav__3820c",
-    "banner": "banner__3820c",
-    "pfxBanner": "pfxBanner__3820c",
-    "nameplateBanner": "nameplateBanner__3820c",
-    "bundlesBanner": "bundlesBanner__3820c"
-  },
   "441076": {
     "row": "row_fec266",
     "rowContent": "rowContent_fec266",
@@ -13357,6 +13349,15 @@
     "unreadImportant": "unreadImportant__2ea32",
     "numberBadge": "numberBadge__2ea32",
     "activeEvent": "activeEvent__2ea32"
+  },
+  "511130": {
+    "wrapper": "wrapper__7a068",
+    "content": "content__7a068",
+    "nav": "nav__7a068",
+    "banner": "banner__7a068",
+    "pfxBanner": "pfxBanner__7a068",
+    "nameplateBanner": "nameplateBanner__7a068",
+    "bundlesBanner": "bundlesBanner__7a068"
   },
   "512250": {
     "flexVertical": "flexVertical__2d3fe",
