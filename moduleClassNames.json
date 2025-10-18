@@ -3723,9 +3723,7 @@
     "joinOptionTab": "joinOptionTab__959cb",
     "joinOptionContent": "joinOptionContent__959cb",
     "uninteractive": "uninteractive__959cb",
-    "active": "active__959cb",
-    "tooltipContainer": "tooltipContainer__959cb",
-    "tooltip": "tooltip__959cb"
+    "active": "active__959cb"
   },
   "140594": {
     "container": "container_b40158",
@@ -4460,7 +4458,8 @@
     "formPriorityImage": "formPriorityImage__2cf82",
     "attachments": "attachments__2cf82",
     "attachment": "attachment__2cf82",
-    "removeAttachment": "removeAttachment__2cf82"
+    "removeAttachment": "removeAttachment__2cf82",
+    "fileInput": "fileInput__2cf82"
   },
   "176179": {
     "container": "container__879ae",
@@ -8746,11 +8745,6 @@
     "info": "info__35859",
     "error": "error__35859",
     "actionContainer": "actionContainer__35859"
-  },
-  "343908": {
-    "tooltipTextContainer": "tooltipTextContainer__0ca35",
-    "nitroWheel": "nitroWheel__0ca35",
-    "tooltipText": "tooltipText__0ca35"
   },
   "344037": {
     "onboardingContainer": "onboardingContainer_c3ab2b",
