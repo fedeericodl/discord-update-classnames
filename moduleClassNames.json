@@ -9791,6 +9791,7 @@
     "bottomOfPageVisibilitySensor": "bottomOfPageVisibilitySensor_f48ee4",
     "scroller": "scroller_f48ee4",
     "topOfPageGradient": "topOfPageGradient_f48ee4",
+    "topOfPageGradientWithCountdown": "topOfPageGradientWithCountdown_f48ee4",
     "bottomOfPageGradient": "bottomOfPageGradient_f48ee4"
   },
   "379249": {
@@ -20141,8 +20142,8 @@
   "788963": {
     "premiumTrialBadge": "premiumTrialBadge__4c1e4",
     "premiumOfferUnackedBadge": "premiumOfferUnackedBadge__4c1e4",
-    "premiumTrialAcknowledgedBadge": "premiumTrialAcknowledgedBadge__4c1e4",
     "premiumTrialBadgeIcon": "premiumTrialBadgeIcon__4c1e4",
+    "premiumOfferWithTimerAcknowledgedBadge": "premiumOfferWithTimerAcknowledgedBadge__4c1e4",
     "premiumTrialBadgeSelected": "premiumTrialBadgeSelected__4c1e4",
     "premiumOfferBadgeCopy": "premiumOfferBadgeCopy__4c1e4"
   },
