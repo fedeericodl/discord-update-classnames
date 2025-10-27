@@ -173,6 +173,16 @@
     "voiceChannelEffectsContainer": "voiceChannelEffectsContainer__2f4f7",
     "stopStreamForeground": "stopStreamForeground__2f4f7"
   },
+  "7675": {
+    "userList": "userList__24091",
+    "header": "header__24091",
+    "content": "content__24091",
+    "user": "user__24091",
+    "discriminator": "discriminator__24091",
+    "tag": "tag__24091",
+    "avatar": "avatar__24091",
+    "username": "username__24091"
+  },
   "7938": {
     "icymiMessageWrapper": "icymiMessageWrapper__7d14e"
   },
@@ -12358,10 +12368,6 @@
     "header": "header__4546e",
     "arrow": "arrow__4546e"
   },
-  "470197": {
-    "popoutRoleDot": "popoutRoleDot_b77a0c",
-    "popoutRoleCircle": "popoutRoleCircle_b77a0c"
-  },
   "470816": {
     "header": "header__78f69",
     "closeButton": "closeButton__78f69",
@@ -16715,6 +16721,10 @@
   "643303": {
     "container": "container__264ae"
   },
+  "644094": {
+    "popoutRoleDot": "popoutRoleDot__50e22",
+    "popoutRoleCircle": "popoutRoleCircle__50e22"
+  },
   "644219": {
     "container": "container__3ce43",
     "containerV2": "containerV2__3ce43",
@@ -16766,16 +16776,6 @@
     "tag": "tag_fe5e5d",
     "inheritBackgroundColor": "inheritBackgroundColor_fe5e5d",
     "inheritTextColor": "inheritTextColor_fe5e5d"
-  },
-  "646551": {
-    "userList": "userList_bad975",
-    "header": "header_bad975",
-    "content": "content_bad975",
-    "user": "user_bad975",
-    "discriminator": "discriminator_bad975",
-    "tag": "tag_bad975",
-    "avatar": "avatar_bad975",
-    "username": "username_bad975"
   },
   "646615": {
     "eventStatusContainer": "eventStatusContainer__29021",
