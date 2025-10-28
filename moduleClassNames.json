@@ -1259,8 +1259,9 @@
     "suggestedGames": "suggestedGames_dbb349"
   },
   "40086": {
-    "noticeIcon": "noticeIcon__8ab7e",
-    "sectionLabel": "sectionLabel__8ab7e"
+    "noticeImage": "noticeImage__8ab7e",
+    "sectionLabel": "sectionLabel__8ab7e",
+    "noticeCard": "noticeCard__8ab7e"
   },
   "40175": {
     "settingsHeader": "settingsHeader__4b8d8",
@@ -2381,7 +2382,8 @@
     "myServersContainer": "myServersContainer__6de8b",
     "myServersHeaderContainer": "myServersHeaderContainer__6de8b",
     "myServersTitle": "myServersTitle__6de8b",
-    "myServersIgnoredWarning": "myServersIgnoredWarning__6de8b"
+    "myServersIgnoredWarning": "myServersIgnoredWarning__6de8b",
+    "privacyTermsCard": "privacyTermsCard__6de8b"
   },
   "85468": {
     "wrapper": "wrapper__4413f",
@@ -8816,7 +8818,7 @@
     "checkboxGroup": "checkboxGroup__2666b",
     "code": "code__2666b",
     "phoneRevealer": "phoneRevealer__2666b",
-    "accountWarningBodyText": "accountWarningBodyText__2666b",
+    "inlineNoticeText": "inlineNoticeText__2666b",
     "backupCode": "backupCode__2666b",
     "noticeTextButton": "noticeTextButton__2666b",
     "codeCheckbox": "codeCheckbox__2666b",
@@ -10146,7 +10148,8 @@
     "dmSettingsHeader": "dmSettingsHeader__50a54",
     "divider": "divider__50a54",
     "footer": "footer__50a54",
-    "deauthorizeButton": "deauthorizeButton__50a54"
+    "deauthorizeButton": "deauthorizeButton__50a54",
+    "headingCard": "headingCard__50a54"
   },
   "393181": {
     "recurrences": "recurrences__4fb8c",
@@ -10964,6 +10967,9 @@
   },
   "419619": {
     "guildsError": "guildsError_e8d03f"
+  },
+  "419659": {
+    "krispCard": "krispCard_fb7bea"
   },
   "421156": {
     "header": "header__6c75d",
