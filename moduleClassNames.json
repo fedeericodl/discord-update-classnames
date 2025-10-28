@@ -18,6 +18,13 @@
     "spacer": "spacer_d9c882",
     "createButton": "createButton_d9c882"
   },
+  "1327": {
+    "productPreview": "productPreview_dec3d3",
+    "faded": "faded_dec3d3",
+    "fullPreview": "fullPreview_dec3d3",
+    "productPreviewIconOverlay": "productPreviewIconOverlay_dec3d3",
+    "hidden": "hidden_dec3d3"
+  },
   "1721": {
     "premiumCards": "premiumCards__6df1a",
     "premiumCardHover": "premiumCardHover__6df1a",
@@ -5862,12 +5869,17 @@
   "213301": {
     "productCardContainer": "productCardContainer_fcbddd",
     "productCardContentContainer": "productCardContentContainer_fcbddd",
+    "productPreviewContainer": "productPreviewContainer_fcbddd",
+    "hasBottomContent": "hasBottomContent_fcbddd",
     "headerContainer": "headerContainer_fcbddd",
     "footerContainer": "footerContainer_fcbddd",
+    "footerContent": "footerContent_fcbddd",
+    "footerGradient": "footerGradient_fcbddd",
+    "footerInfoContainer": "footerInfoContainer_fcbddd",
+    "footerInteractibleContainer": "footerInteractibleContainer_fcbddd",
     "footerHideOnHover": "footerHideOnHover_fcbddd",
     "footerShowOnHover": "footerShowOnHover_fcbddd",
-    "footerInfoContainer": "footerInfoContainer_fcbddd",
-    "footerInteractibleContainer": "footerInteractibleContainer_fcbddd"
+    "shadowOnHover": "shadowOnHover_fcbddd"
   },
   "213605": {
     "buttonIcon": "buttonIcon__92b20",
@@ -15863,6 +15875,10 @@
     "benefitsBtn": "benefitsBtn__4909b",
     "managementBtns": "managementBtns__4909b"
   },
+  "608981": {
+    "spinner": "spinner__8a394",
+    "markdown": "markdown__8a394"
+  },
   "609507": {
     "container": "container__8f3cb",
     "upsellsContainer": "upsellsContainer__8f3cb",
@@ -20574,7 +20590,6 @@
     "previewContainerAnimation": "previewContainerAnimation__1e458",
     "scaleIn": "scaleIn__1e458",
     "preview": "preview__1e458",
-    "previewForCollected": "previewForCollected__1e458 preview__1e458",
     "purchasedEffect": "purchasedEffect__1e458"
   },
   "803635": {
@@ -23422,10 +23437,6 @@
     "avatarContainer": "avatarContainer__7b5f3",
     "bannerHeader": "bannerHeader__7b5f3",
     "bannerIcon": "bannerIcon__7b5f3"
-  },
-  "908932": {
-    "spinner": "spinner__600ca",
-    "markdown": "markdown__600ca"
   },
   "909136": {
     "messageContainer": "messageContainer_f6bd5f",
