@@ -11960,7 +11960,6 @@
     "inviteRowAvatar": "inviteRowAvatar__67dba",
     "inviteRowInfo": "inviteRowInfo__67dba",
     "inviteRowName": "inviteRowName__67dba",
-    "inviteRowButton": "inviteRowButton__67dba",
     "inviteRowEmptyState": "inviteRowEmptyState__67dba",
     "warningContainer": "warningContainer__67dba",
     "warningIcon": "warningIcon__67dba",
@@ -15927,9 +15926,7 @@
     "nameplate": "nameplate_a84142",
     "giftMainAnimationWrapper": "giftMainAnimationWrapper_a84142",
     "avatar": "avatar_a84142",
-    "bundlePreviewWrapper": "bundlePreviewWrapper_a84142",
-    "slayerStorefrontReviewImageWrapper": "slayerStorefrontReviewImageWrapper_a84142",
-    "slayerStorefrontReviewImage": "slayerStorefrontReviewImage_a84142"
+    "bundlePreviewWrapper": "bundlePreviewWrapper_a84142"
   },
   "611344": {
     "giftMainAnimation": "giftMainAnimation_d54fab",
