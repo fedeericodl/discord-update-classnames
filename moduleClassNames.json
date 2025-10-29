@@ -345,6 +345,13 @@
     "connectionMetadataUpsellTag": "connectionMetadataUpsellTag_c7f964",
     "connectionMetadataUpsellDescription": "connectionMetadataUpsellDescription_c7f964"
   },
+  "11079": {
+    "upsell": "upsell__98044",
+    "emojis": "emojis__98044",
+    "emojiMask": "emojiMask__98044",
+    "emojiBackground": "emojiBackground__98044",
+    "emoji": "emoji__98044"
+  },
   "12033": {
     "body": "body_c93be2",
     "textArea": "textArea_c93be2",
@@ -415,9 +422,6 @@
     "roleStyleUpsell": "roleStyleUpsell__981c8",
     "roleStyleUpsellMesssages": "roleStyleUpsellMesssages__981c8",
     "holographicInfoBox": "holographicInfoBox__981c8"
-  },
-  "12816": {
-    "legacyInputCommandHeader": "legacyInputCommandHeader__2862d"
   },
   "12888": {
     "syntaxAfter": "syntaxAfter_ada32f",
@@ -803,8 +807,11 @@
     "addressElementContainer": "addressElementContainer_ceece4",
     "loadingContainer": "loadingContainer_ceece4",
     "visible": "visible_ceece4",
+    "rightToLeftEntry": "rightToLeftEntry_ceece4",
+    "leftToRightEntry": "leftToRightEntry_ceece4",
     "hidden": "hidden_ceece4",
     "cardElementContainer": "cardElementContainer_ceece4",
+    "defaultPaymentElementContainer": "defaultPaymentElementContainer_ceece4",
     "customPaymentElementContainer": "customPaymentElementContainer_ceece4"
   },
   "27505": {
@@ -1022,7 +1029,6 @@
     "fieldPadding": "fieldPadding_eaaeee",
     "fieldFooterContainer": "fieldFooterContainer_eaaeee",
     "termsFieldCaretIcon": "termsFieldCaretIcon_eaaeee",
-    "multipleChoiceFixedTextColor": "multipleChoiceFixedTextColor_eaaeee",
     "typeTag": "typeTag_eaaeee"
   },
   "31948": {
@@ -1847,6 +1853,13 @@
     "root": "root__373b5",
     "rolesHeading": "rolesHeading__373b5",
     "rolesList": "rolesList__373b5"
+  },
+  "65538": {
+    "premiumBadge": "premiumBadge__6d7da",
+    "premiumAcknowledgedBadge": "premiumAcknowledgedBadge__6d7da",
+    "premiumUnacknowledgedBadge": "premiumUnacknowledgedBadge__6d7da",
+    "premiumUnacknowledgedBadgeCopy": "premiumUnacknowledgedBadgeCopy__6d7da",
+    "BadgeClockIcon": "BadgeClockIcon__6d7da"
   },
   "65573": {
     "wrapper": "wrapper_b1e4f3",
@@ -2675,12 +2688,6 @@
     "guildInfo": "guildInfo__14de9",
     "guildIconMask": "guildIconMask__14de9",
     "guildIcon": "guildIcon__14de9"
-  },
-  "91717": {
-    "closeButton": "closeButton_b1292a",
-    "content": "content_b1292a",
-    "image": "image_b1292a",
-    "header": "header_b1292a"
   },
   "92024": {
     "draggable": "draggable__55bab",
@@ -4246,13 +4253,6 @@
     "toggleExpandCell": "toggleExpandCell__35651",
     "caretIcon": "caretIcon__35651",
     "caretDownIcon": "caretDownIcon__35651"
-  },
-  "159737": {
-    "upsell": "upsell__37390",
-    "emojis": "emojis__37390",
-    "emojiMask": "emojiMask__37390",
-    "emojiBackground": "emojiBackground__37390",
-    "emoji": "emoji__37390"
   },
   "160033": {
     "authBox": "authBox_fd23fc",
@@ -9062,6 +9062,9 @@
     "dndKeyboardHelpBar": "dndKeyboardHelpBar__9fc7d",
     "pendingChangesNotice": "pendingChangesNotice__9fc7d"
   },
+  "352647": {
+    "noAutocompleteResults": "noAutocompleteResults__3b122"
+  },
   "352677": {
     "detailContainer": "detailContainer__871ff",
     "contentContainer": "contentContainer__871ff",
@@ -11538,6 +11541,12 @@
     "iconContainer": "iconContainer__98cf7",
     "filledIcon": "filledIcon__98cf7"
   },
+  "438831": {
+    "closeButton": "closeButton__6da35",
+    "content": "content__6da35",
+    "image": "image__6da35",
+    "header": "header__6da35"
+  },
   "439003": {
     "streamOptionsButton": "streamOptionsButton__388f8",
     "settingsIcon": "settingsIcon__388f8"
@@ -11934,7 +11943,8 @@
     "errorMessage": "errorMessage__67dba",
     "errorLink": "errorLink__67dba",
     "acronym": "acronym__67dba",
-    "isFriendsInVCInvitesExperiment": "isFriendsInVCInvitesExperiment__67dba"
+    "isFriendsInVCInvitesExperiment": "isFriendsInVCInvitesExperiment__67dba",
+    "footerWithCheckbox": "footerWithCheckbox__67dba"
   },
   "452438": {
     "confirmModal": "confirmModal__1b38b",
@@ -12354,7 +12364,6 @@
     "nickname": "nickname_bbd192",
     "friend": "friend_bbd192",
     "twoRows": "twoRows_bbd192",
-    "checkbox": "checkbox_bbd192",
     "match": "match_bbd192",
     "discordTag": "discordTag_bbd192",
     "friendSelected": "friendSelected_bbd192"
@@ -16197,10 +16206,7 @@
     "verifyConfirmText": "verifyConfirmText_d48a51",
     "disabledFieldBackground": "disabledFieldBackground_d48a51",
     "termsFieldBody": "termsFieldBody_d48a51",
-    "multipleChoiceIcon": "multipleChoiceIcon_d48a51",
-    "editableRequirementContainer": "editableRequirementContainer_d48a51",
-    "multipleChoiceTitle": "multipleChoiceTitle_d48a51",
-    "multipleChoiceItem": "multipleChoiceItem_d48a51"
+    "editableRequirementContainer": "editableRequirementContainer_d48a51"
   },
   "624595": {
     "searchToken": "searchToken_bd8186",
@@ -18518,8 +18524,6 @@
     "inviteSplashImage": "inviteSplashImage_d5f3cd",
     "inviteSplashBadge": "inviteSplashBadge_d5f3cd",
     "inviteSplashImageLoaded": "inviteSplashImageLoaded_d5f3cd",
-    "button": "button_d5f3cd",
-    "buttonSize": "buttonSize_d5f3cd",
     "guildIconExpired": "guildIconExpired_d5f3cd guildIcon_d5f3cd",
     "inviteDestinationExpired": "inviteDestinationExpired_d5f3cd",
     "buttonForNonMember": "buttonForNonMember_d5f3cd",
@@ -18527,7 +18531,8 @@
     "resolvingWrapper": "resolvingWrapper_d5f3cd",
     "resolving": "resolving_d5f3cd",
     "resolvingBackground": "resolvingBackground_d5f3cd",
-    "resolvingFakeButton": "resolvingFakeButton_d5f3cd"
+    "resolvingFakeButton": "resolvingFakeButton_d5f3cd",
+    "button": "button_d5f3cd"
   },
   "723116": {
     "wrapper": "wrapper__53812",
@@ -20380,6 +20385,9 @@
   "793714": {
     "container": "container_ea9851",
     "icon": "icon_ea9851"
+  },
+  "793872": {
+    "legacyInputCommandHeader": "legacyInputCommandHeader__38272"
   },
   "793906": {
     "layerContainer": "layerContainer__59d0d",
@@ -25276,9 +25284,6 @@
   },
   "984392": {
     "phoneField": "phoneField_a0c54f"
-  },
-  "984719": {
-    "noAutocompleteResults": "noAutocompleteResults__841e4"
   },
   "985952": {
     "container": "container__7eb2b",
