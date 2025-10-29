@@ -141,6 +141,7 @@
     "noBorder": "noBorder__2f4f7",
     "overlayContainer": "overlayContainer__2f4f7",
     "compact": "compact__2f4f7",
+    "noPointerEvents": "noPointerEvents__2f4f7",
     "overlayTop": "overlayTop__2f4f7",
     "overlayBottom": "overlayBottom__2f4f7",
     "overlayTitle": "overlayTitle__2f4f7",
@@ -4555,6 +4556,19 @@
     "searchBar": "searchBar__1ac1c search__1ac1c",
     "searchIcon": "searchIcon__1ac1c search__1ac1c",
     "searchFloating": "searchFloating__1ac1c"
+  },
+  "174260": {
+    "wrapper": "wrapper__1505a",
+    "videoContainer": "videoContainer__1505a",
+    "zoomed": "zoomed__1505a",
+    "zoomEnabled": "zoomEnabled__1505a",
+    "zoomDragging": "zoomDragging__1505a",
+    "minimap": "minimap__1505a",
+    "fadeOut": "fadeOut__1505a",
+    "minimapVideo": "minimapVideo__1505a",
+    "minimapIndicator": "minimapIndicator__1505a",
+    "zoomControls": "zoomControls__1505a",
+    "zoomLevelIndicator": "zoomLevelIndicator__1505a"
   },
   "174354": {
     "filter": "filter__72086",
