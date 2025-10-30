@@ -10117,14 +10117,7 @@
   },
   "391763": {
     "giftOptionContainer": "giftOptionContainer__39090",
-    "cardsRow": "cardsRow__39090",
-    "wishlistBanner": "wishlistBanner__39090",
-    "wishlistBannerHeader": "wishlistBannerHeader__39090",
-    "wishlistBannerGrid": "wishlistBannerGrid__39090",
-    "wishlistBannerTitleContainer": "wishlistBannerTitleContainer__39090",
-    "wishlistBannerTitle": "wishlistBannerTitle__39090",
-    "backgroundImage": "backgroundImage__39090",
-    "wishlistBannerListItem": "wishlistBannerListItem__39090"
+    "cardsRow": "cardsRow__39090"
   },
   "391901": {
     "cardNumberWrapper": "cardNumberWrapper__8b579",
@@ -17767,6 +17760,15 @@
     "guildEventCard": "guildEventCard__50dcd",
     "channelInfo": "channelInfo__50dcd",
     "acceptButton": "acceptButton__50dcd"
+  },
+  "694781": {
+    "wishlistBanner": "wishlistBanner_b05cb4",
+    "wishlistBannerHeader": "wishlistBannerHeader_b05cb4",
+    "wishlistBannerGrid": "wishlistBannerGrid_b05cb4",
+    "wishlistBannerTitleContainer": "wishlistBannerTitleContainer_b05cb4",
+    "wishlistBannerTitle": "wishlistBannerTitle_b05cb4",
+    "backgroundImage": "backgroundImage_b05cb4",
+    "wishlistBannerListItem": "wishlistBannerListItem_b05cb4"
   },
   "695004": {
     "iconWrapper": "iconWrapper_d13236",
