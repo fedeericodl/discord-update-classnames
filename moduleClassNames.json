@@ -5942,7 +5942,8 @@
   "216215": {
     "confirmation": "confirmation__9baa5",
     "confirmationHeader": "confirmationHeader__9baa5",
-    "divider": "divider__9baa5"
+    "divider": "divider__9baa5",
+    "skuImage": "skuImage__9baa5"
   },
   "216390": {
     "bannerIcon": "bannerIcon__1d97f",
@@ -6519,6 +6520,7 @@
   },
   "239100": {
     "cardContainer": "cardContainer__47729",
+    "square": "square__47729",
     "skuImage": "skuImage__47729"
   },
   "239336": {
