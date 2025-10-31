@@ -1804,6 +1804,13 @@
   "63452": {
     "container": "container_fb1c43"
   },
+  "63602": {
+    "card": "card__20585",
+    "cardBackgroundImage": "cardBackgroundImage__20585",
+    "cardImage": "cardImage__20585",
+    "itemIcon": "itemIcon__20585",
+    "itemIconHeart": "itemIconHeart__20585"
+  },
   "64092": {
     "container": "container__4d61a",
     "number": "number__4d61a",
@@ -6517,6 +6524,7 @@
   "239100": {
     "cardContainer": "cardContainer__47729",
     "square": "square__47729",
+    "cardBackgroundImage": "cardBackgroundImage__47729",
     "skuImage": "skuImage__47729"
   },
   "239336": {
@@ -10098,7 +10106,7 @@
   },
   "391371": {
     "floatingNitroUpsell": "floatingNitroUpsell__39749",
-    "nameplatePreview": "nameplatePreview__39749"
+    "nameplatePreviewPlaceholder": "nameplatePreviewPlaceholder__39749"
   },
   "391475": {
     "wrapper": "wrapper__02fc8",
@@ -21026,7 +21034,8 @@
     "logo": "logo_e1147e"
   },
   "813709": {
-    "profilePreviewTitle": "profilePreviewTitle__14af9"
+    "profilePreviewTitle": "profilePreviewTitle__14af9",
+    "nameplatePreviewPlaceholder": "nameplatePreviewPlaceholder__14af9"
   },
   "813878": {
     "categoryRow": "categoryRow__1ea09",
