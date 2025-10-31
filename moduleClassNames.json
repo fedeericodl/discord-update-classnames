@@ -1552,6 +1552,14 @@
     "username": "username_ce8328",
     "focusModeTitle": "focusModeTitle_ce8328"
   },
+  "54602": {
+    "container": "container_e95ba0",
+    "spinner": "spinner_e95ba0",
+    "details": "details_e95ba0",
+    "detailsTitleDescription": "detailsTitleDescription_e95ba0",
+    "detailsDescription": "detailsDescription_e95ba0",
+    "iconAsset": "iconAsset_e95ba0"
+  },
   "54966": {
     "scroller": "scroller_fcb628",
     "connections": "connections_fcb628",
@@ -11855,6 +11863,7 @@
     "card": "card_abfd90",
     "cardMedium": "cardMedium_abfd90",
     "cardLarge": "cardLarge_abfd90",
+    "cardEmbedded": "cardEmbedded_abfd90",
     "cardDark": "cardDark_abfd90 card_abfd90",
     "cardHighlighted": "cardHighlighted_abfd90",
     "cardDarkHighlighted": "cardDarkHighlighted_abfd90",
@@ -12661,6 +12670,9 @@
     "image": "image_a54d1d",
     "title": "title_a54d1d",
     "body": "body_a54d1d"
+  },
+  "478422": {
+    "badge": "badge_dd79c2"
   },
   "478875": {
     "profile": "profile_ed0705",
