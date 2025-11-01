@@ -8172,6 +8172,20 @@
     "footer": "footer__5c108",
     "buttonGroup": "buttonGroup__5c108"
   },
+  "317322": {
+    "modalBody": "modalBody_a51bc0",
+    "modalBodyText": "modalBodyText_a51bc0",
+    "cannotLinkAccountWarning": "cannotLinkAccountWarning_a51bc0",
+    "statusContainer": "statusContainer_a51bc0",
+    "statusRow": "statusRow_a51bc0",
+    "statusLeft": "statusLeft_a51bc0",
+    "statusText": "statusText_a51bc0",
+    "statusIcon": "statusIcon_a51bc0",
+    "statusIconConnected": "statusIconConnected_a51bc0",
+    "statusIconDisconnected": "statusIconDisconnected_a51bc0",
+    "statusRight": "statusRight_a51bc0",
+    "expirationWarningContainer": "expirationWarningContainer_a51bc0"
+  },
   "317351": {
     "container": "container_d63405",
     "column": "column_d63405",
@@ -12548,18 +12562,7 @@
     "divider": "divider__68198"
   },
   "475495": {
-    "modalBody": "modalBody_a51bc0",
-    "modalBodyText": "modalBodyText_a51bc0",
-    "cannotLinkAccountWarning": "cannotLinkAccountWarning_a51bc0",
-    "statusContainer": "statusContainer_a51bc0",
-    "statusRow": "statusRow_a51bc0",
-    "statusLeft": "statusLeft_a51bc0",
-    "statusText": "statusText_a51bc0",
-    "statusIcon": "statusIcon_a51bc0",
-    "statusIconConnected": "statusIconConnected_a51bc0",
-    "statusIconDisconnected": "statusIconDisconnected_a51bc0",
-    "statusRight": "statusRight_a51bc0",
-    "expirationWarningContainer": "expirationWarningContainer_a51bc0"
+    "rowContainer": "rowContainer__4dfe0"
   },
   "475608": {
     "content": "content__21615",
@@ -18722,9 +18725,6 @@
     "artContainer": "artContainer__22b59",
     "artAsset": "artAsset__22b59"
   },
-  "727350": {
-    "rowContainer": "rowContainer__4dfe0"
-  },
   "727486": {
     "root": "root_cbfae2",
     "titleText": "titleText_cbfae2",
@@ -19655,6 +19655,7 @@
     "headerCustomGifting": "headerCustomGifting_cd2ff7",
     "giftRecipientSection": "giftRecipientSection_cd2ff7",
     "giftRecipient": "giftRecipient_cd2ff7",
+    "giftRecipientButton": "giftRecipientButton_cd2ff7",
     "giftRecipientInputWrapper": "giftRecipientInputWrapper_cd2ff7",
     "giftRecipientInputError": "giftRecipientInputError_cd2ff7",
     "confirmation": "confirmation_cd2ff7",
