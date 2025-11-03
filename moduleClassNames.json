@@ -11096,7 +11096,8 @@
     "carouselContainer": "carouselContainer__38ccf",
     "carousel": "carousel__38ccf",
     "modalHeaderButtonsContainer": "modalHeaderButtonsContainer__38ccf",
-    "modalHeaderButton": "modalHeaderButton__38ccf"
+    "modalHeaderButton": "modalHeaderButton__38ccf",
+    "wishlistButton": "wishlistButton__38ccf"
   },
   "424271": {
     "avatar": "avatar__8c0e2",
@@ -19493,6 +19494,11 @@
   },
   "758590": {
     "subtitle": "subtitle_f0889e"
+  },
+  "758650": {
+    "card": "card__46c9e",
+    "cardBackgroundImage": "cardBackgroundImage__46c9e",
+    "cardImage": "cardImage__46c9e"
   },
   "758746": {
     "group": "group_bc4a3e",
