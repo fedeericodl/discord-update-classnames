@@ -334,11 +334,9 @@
     "integrationError": "integrationError_c7f964",
     "integrationInner": "integrationInner_c7f964",
     "connectionDelete": "connectionDelete_c7f964",
-    "connectedAccountSeparator": "connectedAccountSeparator_c7f964",
     "metadataContainer": "metadataContainer_c7f964",
     "metadataItem": "metadataItem_c7f964",
     "metadataRefreshButton": "metadataRefreshButton_c7f964",
-    "upsellWrapper": "upsellWrapper_c7f964",
     "connectedAccountVanityMetadataCreatedAt": "connectedAccountVanityMetadataCreatedAt_c7f964",
     "connectionMetadataUpsellTag": "connectionMetadataUpsellTag_c7f964",
     "connectionMetadataUpsellDescription": "connectionMetadataUpsellDescription_c7f964"
@@ -7868,23 +7866,13 @@
     "alertIcon": "alertIcon__2facc"
   },
   "305048": {
-    "modal": "modal__62141 scrollbarGhostHairline__506b3 scrollbar__506b3",
-    "modalContent": "modalContent__62141",
-    "modalFooter": "modalFooter__62141",
     "description": "description__62141",
     "emojiButton": "emojiButton__62141",
     "icon": "icon__62141",
     "searchHelpText": "searchHelpText__62141",
-    "membersList": "membersList__62141",
-    "header": "header__62141",
-    "title": "title__62141",
-    "subtitle": "subtitle__62141",
-    "subtitleIcon": "subtitleIcon__62141",
-    "closeButton": "closeButton__62141",
     "foreground": "foreground__62141",
     "channelTypeDescription": "channelTypeDescription__62141",
     "storeChannelOptionSelector": "storeChannelOptionSelector__62141",
-    "addMembersContainer": "addMembersContainer__62141",
     "addMemberError": "addMemberError__62141",
     "createError": "createError__62141",
     "radioLabelName": "radioLabelName__62141",
@@ -7893,7 +7881,9 @@
     "radioBar": "radioBar__62141",
     "radioBarLabel": "radioBarLabel__62141",
     "radioBarIcon": "radioBarIcon__62141",
-    "radioItemName": "radioItemName__62141"
+    "radioItemName": "radioItemName__62141",
+    "createChannelContent": "createChannelContent__62141",
+    "channelTypes": "channelTypes__62141"
   },
   "306518": {
     "container": "container__7473d",
