@@ -903,8 +903,8 @@
     "error": "error__5d7c9",
     "promptOptions": "promptOptions__5d7c9",
     "sectionSeparator": "sectionSeparator__5d7c9",
-    "emptyContainer": "emptyContainer__5d7c9",
     "emptyPage": "emptyPage__5d7c9",
+    "emptyContainer": "emptyContainer__5d7c9",
     "emptyIcon": "emptyIcon__5d7c9",
     "emptyHeader": "emptyHeader__5d7c9",
     "helpText": "helpText__5d7c9",
@@ -916,7 +916,8 @@
     "title": "title__5d7c9",
     "roles": "roles__5d7c9",
     "role": "role__5d7c9",
-    "roleDot": "roleDot__5d7c9"
+    "roleDot": "roleDot__5d7c9",
+    "connectionsContainer": "connectionsContainer__5d7c9"
   },
   "30408": {
     "selectGuild": "selectGuild__39466",
@@ -9480,6 +9481,20 @@
     "dot": "dot__652ee",
     "boostIcon": "boostIcon__652ee"
   },
+  "362791": {
+    "container": "container_cb53a5",
+    "content": "content_cb53a5",
+    "scrollerContent": "scrollerContent_cb53a5",
+    "loadingContainer": "loadingContainer_cb53a5",
+    "header": "header_cb53a5",
+    "headerTitle": "headerTitle_cb53a5",
+    "headerDescription": "headerDescription_cb53a5",
+    "connectionsListScroller": "connectionsListScroller_cb53a5",
+    "connectionsList": "connectionsList_cb53a5",
+    "footer": "footer_cb53a5",
+    "actions": "actions_cb53a5",
+    "primaryActions": "primaryActions_cb53a5"
+  },
   "363350": {
     "summaryDivider": "summaryDivider__3aab5",
     "summaryDividerStart": "summaryDividerStart__3aab5",
@@ -12255,6 +12270,13 @@
   },
   "461918": {
     "participants": "participants__9c309"
+  },
+  "462097": {
+    "card": "card_e60808",
+    "leftContent": "leftContent_e60808",
+    "icon": "icon_e60808",
+    "textContent": "textContent_e60808",
+    "connectedStatus": "connectedStatus_e60808"
   },
   "463063": {
     "soundButtonWrapper": "soundButtonWrapper__9be63",
