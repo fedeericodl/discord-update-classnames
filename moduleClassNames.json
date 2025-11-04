@@ -2323,9 +2323,7 @@
     "muted": "muted__29444",
     "dismissButton": "dismissButton__29444",
     "dismiss": "dismiss__29444",
-    "voiceChannelsToggleIcon": "voiceChannelsToggleIcon__29444",
-    "refreshVoiceChannelsButton": "refreshVoiceChannelsButton__29444",
-    "refreshVoiceChannelsButtonInner": "refreshVoiceChannelsButtonInner__29444"
+    "refreshVoiceChannelsButton": "refreshVoiceChannelsButton__29444"
   },
   "84773": {
     "container": "container__0526f"
@@ -4734,8 +4732,7 @@
   "180165": {
     "container": "container_e176e1",
     "cardGrid": "cardGrid_e176e1",
-    "mediumCardGrid": "mediumCardGrid_e176e1",
-    "largeCardGrid": "largeCardGrid_e176e1"
+    "mediumCardGrid": "mediumCardGrid_e176e1"
   },
   "180376": {
     "barBase": "barBase__0f481",
@@ -9565,9 +9562,7 @@
     "pegiEighteen": "pegiEighteen_f4dfaa pegi_f4dfaa"
   },
   "365861": {
-    "errorPage": "errorPage__01b8d",
-    "buttons": "buttons__01b8d",
-    "clearOverrideButton": "clearOverrideButton__01b8d"
+    "errorPage": "errorPage__01b8d"
   },
   "366869": {
     "header": "header__558b1",
@@ -11938,7 +11933,8 @@
   "450433": {
     "card": "card_abfd90",
     "cardMedium": "cardMedium_abfd90",
-    "cardLarge": "cardLarge_abfd90",
+    "cardSmall": "cardSmall_abfd90",
+    "cardImageContainer": "cardImageContainer_abfd90",
     "cardEmbedded": "cardEmbedded_abfd90",
     "cardDark": "cardDark_abfd90 card_abfd90",
     "cardHighlighted": "cardHighlighted_abfd90",
@@ -11953,7 +11949,6 @@
     "descriptionContainer": "descriptionContainer_abfd90",
     "buttonHover": "buttonHover_abfd90",
     "bottomGradient": "bottomGradient_abfd90",
-    "bottomGradientLarge": "bottomGradientLarge_abfd90",
     "iconAsset": "iconAsset_abfd90",
     "badge": "badge_abfd90",
     "wishlistButtonContainer": "wishlistButtonContainer_abfd90"
