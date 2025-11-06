@@ -2800,8 +2800,7 @@
     "linkedLobbyApplicationIcon": "linkedLobbyApplicationIcon_f75fb0",
     "linkedLobbyEducationTooltip": "linkedLobbyEducationTooltip_f75fb0",
     "linkedLobbyEducationTooltipCloseClickContainer": "linkedLobbyEducationTooltipCloseClickContainer_f75fb0",
-    "linkedLobbyEducationTooltipCloseIcon": "linkedLobbyEducationTooltipCloseIcon_f75fb0",
-    "entryPointButtonContainer": "entryPointButtonContainer_f75fb0"
+    "linkedLobbyEducationTooltipCloseIcon": "linkedLobbyEducationTooltipCloseIcon_f75fb0"
   },
   "97127": {
     "container": "container_b4f99f",
@@ -4734,7 +4733,6 @@
     "barButtonBase": "barButtonBase__0f481",
     "barButtonIcon": "barButtonIcon__0f481",
     "barWithAppLauncherButton": "barWithAppLauncherButton__0f481",
-    "barWithAppsDMsUI": "barWithAppsDMsUI__0f481",
     "bottomBar": "bottomBar__0f481 barBase__0f481",
     "jumpToPresentBar": "jumpToPresentBar__0f481 bottomBar__0f481 barBase__0f481",
     "spinner": "spinner__0f481",
@@ -10748,9 +10746,6 @@
     "iframe": "iframe_ea9caa",
     "botTag": "botTag_ea9caa",
     "flexRow": "flexRow_ea9caa"
-  },
-  "409575": {
-    "entryPointAppCommandButtonContainer": "entryPointAppCommandButtonContainer_a83188"
   },
   "409738": {
     "root": "root_df4c28",
@@ -23552,8 +23547,7 @@
     "container": "container__87dda",
     "placeholderItem": "placeholderItem__87dda",
     "chatTextAreaPlaceholder": "chatTextAreaPlaceholder__87dda",
-    "appLauncherPlaceholder": "appLauncherPlaceholder__87dda",
-    "entryPointAppCommandPlaceholder": "entryPointAppCommandPlaceholder__87dda"
+    "appLauncherPlaceholder": "appLauncherPlaceholder__87dda"
   },
   "903893": {
     "accessory": "accessory__09bc1",
@@ -23813,34 +23807,23 @@
   },
   "918324": {
     "popout": "popout_cba592",
-    "showAsModal": "showAsModal_cba592",
-    "showAsPopout": "showAsPopout_cba592",
-    "header": "header_cba592",
-    "closeButton": "closeButton_cba592",
+    "popoutContent": "popoutContent_cba592",
+    "footer": "footer_cba592",
     "searchBar": "searchBar_cba592",
     "searchBarComponent": "searchBarComponent_cba592",
     "addButton": "addButton_cba592",
     "customizationContainer": "customizationContainer_cba592",
     "iconSelector": "iconSelector_cba592",
     "channelNameLabel": "channelNameLabel_cba592",
-    "subtitleWarning": "subtitleWarning_cba592",
     "scroller": "scroller_cba592",
     "scrollerInner": "scrollerInner_cba592",
     "mobileToolsContainer": "mobileToolsContainer_cba592",
     "mobileToolsCloseIcon": "mobileToolsCloseIcon_cba592",
-    "errorState": "errorState_cba592",
     "noResults": "noResults_cba592",
-    "errorStateIcon": "errorStateIcon_cba592",
-    "notFriends": "notFriends_cba592",
-    "noFriends": "noFriends_cba592",
-    "partyFull": "partyFull_cba592",
-    "footer": "footer_cba592",
     "selectExistingFormHeader": "selectExistingFormHeader_cba592",
     "confirmChannelItemContainer": "confirmChannelItemContainer_cba592",
     "confirmChannelName": "confirmChannelName_cba592",
-    "lastActiveTimestamp": "lastActiveTimestamp_cba592",
-    "confirmInviteScroller": "confirmInviteScroller_cba592",
-    "subtitle": "subtitle_cba592"
+    "lastActiveTimestamp": "lastActiveTimestamp_cba592"
   },
   "918526": {
     "radioGroup": "radioGroup__963c3",
