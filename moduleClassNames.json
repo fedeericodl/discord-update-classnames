@@ -1151,8 +1151,7 @@
     "activityContainerNoMargin": "activityContainerNoMargin__49094",
     "footerButtons": "footerButtons__49094",
     "avatar": "avatar__49094",
-    "buttonSection": "buttonSection__49094",
-    "fortniteUpsellModalButton": "fortniteUpsellModalButton__49094"
+    "buttonSection": "buttonSection__49094"
   },
   "34747": {
     "profileCustomizationSection": "profileCustomizationSection__44061",
@@ -16285,13 +16284,6 @@
     "panel": "panel_dca679",
     "button": "button_dca679",
     "title": "title_dca679"
-  },
-  "625771": {
-    "body": "body__1b87b",
-    "container": "container__1b87b",
-    "iconContainer": "iconContainer__1b87b",
-    "icon": "icon__1b87b",
-    "text": "text__1b87b"
   },
   "626707": {
     "progress": "progress__67225",
