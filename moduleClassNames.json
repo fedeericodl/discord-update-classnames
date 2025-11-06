@@ -1663,9 +1663,7 @@
     "perkDescription": "perkDescription_c609c8"
   },
   "56651": {
-    "gameIcon": "gameIcon__5a366",
-    "textContainer": "textContainer__5a366",
-    "timestamp": "timestamp__5a366"
+    "gameIcon": "gameIcon__5a366"
   },
   "56726": {
     "modal": "modal__45314",
@@ -13877,6 +13875,7 @@
     "small": "small_b52e4f",
     "xxsmall": "xxsmall_b52e4f",
     "xsmall": "xsmall_b52e4f",
+    "mediumLarge": "mediumLarge_b52e4f",
     "xlarge": "xlarge_b52e4f"
   },
   "521868": {
