@@ -16769,11 +16769,6 @@
     "bentoBoxButtonBrand": "bentoBoxButtonBrand_abac7b",
     "badge": "badge_abac7b"
   },
-  "643226": {
-    "spacing": "spacing__62a09",
-    "card": "card__62a09 spacing__62a09",
-    "error": "error__62a09"
-  },
   "643303": {
     "container": "container__264ae"
   },
@@ -17031,6 +17026,9 @@
   },
   "658235": {
     "friendRequestsButton": "friendRequestsButton__523aa"
+  },
+  "658855": {
+    "error": "error__77bc8"
   },
   "660770": {
     "wrapper": "wrapper__89573",
