@@ -1527,6 +1527,9 @@
     "moreGuildsLarge": "moreGuildsLarge_bb856d",
     "defaultIcon": "defaultIcon_bb856d"
   },
+  "53179": {
+    "keybindContainer": "keybindContainer_eedc51"
+  },
   "53774": {
     "analyticsCard": "analyticsCard__0dfec",
     "analyticsCardTitle": "analyticsCardTitle__0dfec",
@@ -4715,7 +4718,6 @@
     "barBase": "barBase__0f481",
     "barButtonBase": "barButtonBase__0f481",
     "barButtonIcon": "barButtonIcon__0f481",
-    "barWithAppLauncherButton": "barWithAppLauncherButton__0f481",
     "bottomBar": "bottomBar__0f481 barBase__0f481",
     "jumpToPresentBar": "jumpToPresentBar__0f481 bottomBar__0f481 barBase__0f481",
     "spinner": "spinner__0f481",
