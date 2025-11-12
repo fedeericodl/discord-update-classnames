@@ -4638,10 +4638,6 @@
     "image": "image__879ae",
     "close": "close__879ae"
   },
-  "176870": {
-    "dragHandleButton": "dragHandleButton__7f511",
-    "dragClickTooltipText": "dragClickTooltipText__7f511"
-  },
   "177119": {
     "blockedEdit": "blockedEdit_b7ab2c",
     "blockedSend": "blockedSend_b7ab2c",
@@ -10847,8 +10843,7 @@
   "415734": {
     "container": "container__62dd3",
     "dragHandleButton": "dragHandleButton__62dd3",
-    "dragAndDropHitbox": "dragAndDropHitbox__62dd3",
-    "opacity": "opacity__62dd3",
+    "dragAndDropTarget": "dragAndDropTarget__62dd3",
     "isDragging": "isDragging__62dd3",
     "dropIndicatorAfter": "dropIndicatorAfter__62dd3",
     "dropIndicatorBefore": "dropIndicatorBefore__62dd3"
@@ -17467,6 +17462,11 @@
     "cell": "cell_a45742",
     "cellType": "cellType_a45742",
     "cellCount": "cellCount_a45742"
+  },
+  "680604": {
+    "button": "button__66b20",
+    "tooltipText": "tooltipText__66b20",
+    "menu": "menu__66b20"
   },
   "680765": {
     "selectFieldContainer": "selectFieldContainer__5fa2f",
