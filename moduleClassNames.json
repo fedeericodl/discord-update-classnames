@@ -1820,6 +1820,7 @@
     "nameplatePreview": "nameplatePreview_e144e0",
     "large": "large_e144e0",
     "xlarge": "xlarge_e144e0",
+    "small": "small_e144e0",
     "overlayContainer": "overlayContainer_e144e0",
     "avatarContainer": "avatarContainer_e144e0",
     "avatar": "avatar_e144e0",
@@ -12998,7 +12999,9 @@
   "492938": {
     "nameplatePlaceholderUserRow": "nameplatePlaceholderUserRow_e75aa6",
     "nameplatePlaceholderAvatar": "nameplatePlaceholderAvatar_e75aa6",
-    "nameplatePlaceholderBar": "nameplatePlaceholderBar_e75aa6"
+    "nameplatePlaceholderBar": "nameplatePlaceholderBar_e75aa6",
+    "smallRow": "smallRow_e75aa6",
+    "smallBar": "smallBar_e75aa6"
   },
   "493090": {
     "itemContainer": "itemContainer__1bb32",
@@ -16420,7 +16423,9 @@
     "preview": "preview_bab2bc",
     "previewTrick": "previewTrick_bab2bc",
     "previewTreat": "previewTreat_bab2bc",
-    "productName": "productName_bab2bc"
+    "productName": "productName_bab2bc",
+    "avatarPreview": "avatarPreview_bab2bc",
+    "nameplatePreview": "nameplatePreview_bab2bc"
   },
   "633290": {
     "guildPickerContainer": "guildPickerContainer__99854",
