@@ -11748,7 +11748,8 @@
     "sidebarGradientOverlay": "sidebarGradientOverlay_b962dc"
   },
   "445642": {
-    "accordion": "accordion_a1f93f"
+    "accordion": "accordion_a1f93f",
+    "notice": "notice_a1f93f"
   },
   "446005": {
     "boostedGuildIconGem": "boostedGuildIconGem__97677",
@@ -12644,6 +12645,9 @@
     "messageContent": "messageContent_fc958f",
     "originalMessageAuthorAvatar": "originalMessageAuthorAvatar_fc958f",
     "newBadge": "newBadge_fc958f"
+  },
+  "476804": {
+    "notice": "notice__35939"
   },
   "477487": {
     "confettiCanvas": "confettiCanvas__8fcbd",
