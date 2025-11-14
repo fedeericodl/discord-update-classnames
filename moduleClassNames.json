@@ -1810,6 +1810,7 @@
     "nameplatePreview": "nameplatePreview_e144e0",
     "large": "large_e144e0",
     "xlarge": "xlarge_e144e0",
+    "xsmall": "xsmall_e144e0",
     "small": "small_e144e0",
     "overlayContainer": "overlayContainer_e144e0",
     "avatarContainer": "avatarContainer_e144e0",
@@ -4832,7 +4833,6 @@
     "botTagRegular": "botTagRegular__82f07 botTag__82f07",
     "botTagInvert": "botTagInvert__82f07 botTag__82f07",
     "botTagNotStaffWarning": "botTagNotStaffWarning__82f07 botTag__82f07",
-    "botTagRemix": "botTagRemix__82f07",
     "botTagVerified": "botTagVerified__82f07",
     "botText": "botText__82f07"
   },
@@ -12573,7 +12573,8 @@
     "content": "content_ba8a2f"
   },
   "473936": {
-    "promotionalFooter": "promotionalFooter__82bb4"
+    "promotionalFooter": "promotionalFooter__82bb4",
+    "nameplatePreviewContainer": "nameplatePreviewContainer__82bb4"
   },
   "474047": {
     "quickSelect": "quickSelect_ebaca5",
@@ -13334,7 +13335,6 @@
     "badgeImage": "badgeImage_b62c4e",
     "longerMessagesImage": "longerMessagesImage_b62c4e",
     "moreGuildsImage": "moreGuildsImage_b62c4e",
-    "remixingImage": "remixingImage_b62c4e",
     "soundboardImage": "soundboardImage_b62c4e",
     "superReactionsImage": "superReactionsImage_b62c4e",
     "uploadImage": "uploadImage_b62c4e",
@@ -22989,10 +22989,7 @@
     "centerLeftPointer": "centerLeftPointer_b00844",
     "topLeftPointer": "topLeftPointer_b00844",
     "bottomLeftPointer": "bottomLeftPointer_b00844",
-    "gifTag": "gifTag_b00844",
-    "earlyAccessText": "earlyAccessText_b00844",
-    "earlyAccessIcon": "earlyAccessIcon_b00844",
-    "earlyAccessBadgeContainer": "earlyAccessBadgeContainer_b00844"
+    "gifTag": "gifTag_b00844"
   },
   "882741": {
     "container": "container__5a2df",
