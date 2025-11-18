@@ -9405,8 +9405,7 @@
     "overflowMenu": "overflowMenu__9ca53"
   },
   "395530": {
-    "circleButtonBase": "circleButtonBase__90d72",
-    "listItemTooltip": "listItemTooltip__90d72"
+    "circleButtonBase": "circleButtonBase__90d72"
   },
   "395715": {
     "appMount": "appMount__51fd7"
@@ -25380,9 +25379,6 @@
     "seeMoreCard": "seeMoreCard__39b32",
     "seeMoreCardPreview": "seeMoreCardPreview__39b32",
     "seeMoreOverlay": "seeMoreOverlay__39b32"
-  },
-  "988441": {
-    "tooltipText": "tooltipText__45896"
   },
   "988486": {
     "container": "container__2af41",
