@@ -2277,15 +2277,9 @@
     "container": "container__652b4"
   },
   "94092": {
-    "header": "header__1347c",
     "radioHeader": "radioHeader__1347c",
     "commentContainer": "commentContainer__1347c",
-    "commentHeader": "commentHeader__1347c",
-    "description": "description__1347c",
-    "root": "root__1347c",
-    "reasonContainer": "reasonContainer__1347c",
-    "buttons": "buttons__1347c",
-    "closeButton": "closeButton__1347c"
+    "commentHeader": "commentHeader__1347c"
   },
   "94226": {
     "devBanner": "devBanner__56d75",
@@ -2583,7 +2577,8 @@
     "guildNameTextLimitedSize": "guildNameTextLimitedSize_b1f768",
     "muteText": "muteText_b1f768",
     "muteTextWithActivity": "muteTextWithActivity_b1f768",
-    "invitesDisabledTooltip": "invitesDisabledTooltip_b1f768"
+    "invitesDisabledTooltip": "invitesDisabledTooltip_b1f768",
+    "dialogWrapper": "dialogWrapper_b1f768"
   },
   "103088": {
     "buttonsContainer": "buttonsContainer__5989f"
@@ -3437,7 +3432,6 @@
     "roleRemoveButton": "roleRemoveButton_dfa8b6",
     "roleIcon": "roleIcon_dfa8b6",
     "roleName": "roleName_dfa8b6",
-    "clickable": "clickable_dfa8b6",
     "roleRemoveIcon": "roleRemoveIcon_dfa8b6",
     "roleRemoveIconFocused": "roleRemoveIconFocused_dfa8b6",
     "roleVerifiedIcon": "roleVerifiedIcon_dfa8b6",
@@ -5977,7 +5971,7 @@
     "overlayBackground": "overlayBackground_eb35c5",
     "overlayActive": "overlayActive_eb35c5",
     "overlayLocked": "overlayLocked_eb35c5",
-    "closeContainer": "closeContainer_eb35c5",
+    "topRightContainer": "topRightContainer_eb35c5",
     "layoutLocked": "layoutLocked_eb35c5",
     "layoutUnlocked": "layoutUnlocked_eb35c5 layoutLocked_eb35c5",
     "windowContainerDebug": "windowContainerDebug_eb35c5"
@@ -6520,6 +6514,7 @@
   },
   "276088": {
     "container": "container_c0c49a",
+    "containerHovered": "containerHovered_c0c49a",
     "iconContainer": "iconContainer_c0c49a",
     "giftBoxIcon": "giftBoxIcon_c0c49a",
     "trinketsIcon": "trinketsIcon_c0c49a",
@@ -6664,6 +6659,14 @@
   },
   "283839": {
     "actionBarIcon": "actionBarIcon_a7e304"
+  },
+  "284191": {
+    "gameSelectionOption": "gameSelectionOption__0f7f7",
+    "gameSelectionOptionText": "gameSelectionOptionText__0f7f7",
+    "gameSelectionOptionChevron": "gameSelectionOptionChevron__0f7f7",
+    "hr": "hr__0f7f7",
+    "modalContent": "modalContent__0f7f7",
+    "itemContainer": "itemContainer__0f7f7"
   },
   "284303": {
     "soundAddButton": "soundAddButton_da9eb2 soundButton__9be63",
@@ -9403,8 +9406,7 @@
   },
   "395530": {
     "circleButtonBase": "circleButtonBase__90d72",
-    "listItemTooltip": "listItemTooltip__90d72",
-    "listItemTooltipContent": "listItemTooltipContent__90d72"
+    "listItemTooltip": "listItemTooltip__90d72"
   },
   "395715": {
     "appMount": "appMount__51fd7"
@@ -13029,11 +13031,6 @@
     "profilePreviewContainer": "profilePreviewContainer__8771c",
     "usernameContainer": "usernameContainer__8771c",
     "avatar": "avatar__8771c"
-  },
-  "527306": {
-    "memberList": "memberList__21f98",
-    "memberListItem": "memberListItem__21f98",
-    "empty": "empty__21f98"
   },
   "527639": {
     "scroller": "scroller__28fdc",
@@ -21907,8 +21904,7 @@
     "hiddenMembers": "hiddenMembers_c8ffbb",
     "memberGroupsPlaceholder": "memberGroupsPlaceholder_c8ffbb",
     "roleIcon": "roleIcon_c8ffbb",
-    "fullWidth": "fullWidth_c8ffbb",
-    "roleGroup": "roleGroup_c8ffbb"
+    "fullWidth": "fullWidth_c8ffbb"
   },
   "854832": {
     "tooltipContainer": "tooltipContainer__7bebc",
