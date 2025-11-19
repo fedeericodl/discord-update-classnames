@@ -2151,7 +2151,9 @@
     "buttonText": "buttonText__733ad"
   },
   "78480": {
-    "circleButtonBase": "circleButtonBase__90d72"
+    "circleButtonBase": "circleButtonBase__90d72",
+    "listItemTooltip": "listItemTooltip__90d72",
+    "listItemTooltipContent": "listItemTooltipContent__90d72"
   },
   "78548": {
     "bannerButton": "bannerButton_de8008",
@@ -3733,8 +3735,7 @@
     "guildNameTextLimitedSize": "guildNameTextLimitedSize_b1f768",
     "muteText": "muteText_b1f768",
     "muteTextWithActivity": "muteTextWithActivity_b1f768",
-    "invitesDisabledTooltip": "invitesDisabledTooltip_b1f768",
-    "dialogWrapper": "dialogWrapper_b1f768"
+    "invitesDisabledTooltip": "invitesDisabledTooltip_b1f768"
   },
   "132810": {
     "buttonHighlighted": "buttonHighlighted__5d39a",
@@ -17816,7 +17817,6 @@
     "wishlistBannerHeader": "wishlistBannerHeader_b05cb4",
     "wishlistBannerGrid": "wishlistBannerGrid_b05cb4",
     "wishlistBannerTitleContainer": "wishlistBannerTitleContainer_b05cb4",
-    "wishlistBannerTitle": "wishlistBannerTitle_b05cb4",
     "backgroundImage": "backgroundImage_b05cb4",
     "wishlistBannerListItem": "wishlistBannerListItem_b05cb4"
   },
