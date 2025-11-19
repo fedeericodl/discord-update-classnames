@@ -1048,21 +1048,6 @@
     "termsFieldCaretIcon": "termsFieldCaretIcon_eaaeee",
     "typeTag": "typeTag_eaaeee"
   },
-  "31948": {
-    "cardsList": "cardsList__84832",
-    "activityContainer": "activityContainer__84832",
-    "firstCardContainer": "firstCardContainer__84832",
-    "hasShowMoreButton": "hasShowMoreButton__84832",
-    "card": "card__84832",
-    "isInteracting": "isInteracting__84832",
-    "showMoreButton": "showMoreButton__84832",
-    "showMoreButtonContainer": "showMoreButtonContainer__84832",
-    "isHidden": "isHidden__84832",
-    "remainingCardContainer": "remainingCardContainer__84832",
-    "isShown": "isShown__84832",
-    "viewAllButton": "viewAllButton__84832",
-    "remainingCardsCopyToMeasure": "remainingCardsCopyToMeasure__84832"
-  },
   "32312": {
     "eventPromptsContainer": "eventPromptsContainer__1405b",
     "controlButton": "controlButton__1405b",
@@ -6328,7 +6313,7 @@
     "banner": "banner__7f9c0",
     "backdrop": "backdrop__7f9c0",
     "toast": "toast__7f9c0",
-    "widgetBreadcrumb": "widgetBreadcrumb__7f9c0",
+    "widgetPreviews": "widgetPreviews__7f9c0",
     "wishlistBreadcrumb": "wishlistBreadcrumb__7f9c0"
   },
   "231796": {
@@ -11025,6 +11010,15 @@
     "selectMessage": "selectMessage__73f2a message__73f2a",
     "hasQuery": "hasQuery__73f2a"
   },
+  "419173": {
+    "container": "container__9dfff",
+    "content": "content__9dfff",
+    "applicationIcon": "applicationIcon__9dfff",
+    "rankImage": "rankImage__9dfff",
+    "textContent": "textContent__9dfff",
+    "featuredCharacterImageContainer": "featuredCharacterImageContainer__9dfff",
+    "featuredCharacterImage": "featuredCharacterImage__9dfff"
+  },
   "419246": {
     "hamBanner": "hamBanner__6a41e",
     "hamBannerButton": "hamBannerButton__6a41e"
@@ -15359,6 +15353,14 @@
     "circle": "circle__11877",
     "circleToggled": "circleToggled__11877",
     "checkIcon": "checkIcon__11877"
+  },
+  "588472": {
+    "cardsList": "cardsList__9d597",
+    "firstCardContainer": "firstCardContainer__9d597",
+    "hasMultipleCards": "hasMultipleCards__9d597",
+    "card": "card__9d597",
+    "backgroundCardContainer": "backgroundCardContainer__9d597",
+    "backgroundCard": "backgroundCard__9d597"
   },
   "588993": {
     "headerDivider": "headerDivider__774bc",
