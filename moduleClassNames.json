@@ -6947,6 +6947,8 @@
     "headerContainer": "headerContainer__8dd9e",
     "logo": "logo__8dd9e",
     "titleContainer": "titleContainer__8dd9e",
+    "titles": "titles__8dd9e",
+    "titleWrapper": "titleWrapper__8dd9e",
     "pageTitleContainer": "pageTitleContainer__8dd9e",
     "selectedPageIndicator": "selectedPageIndicator__8dd9e"
   },
@@ -9649,6 +9651,11 @@
   "369019": {
     "lottieIconColors": "lottieIconColors__5eb9b",
     "lottieIcon": "lottieIcon__5eb9b"
+  },
+  "369645": {
+    "content": "content__5ab33",
+    "scroller": "scroller__5ab33",
+    "grid": "grid__5ab33"
   },
   "369702": {
     "container": "container_a2844c",
@@ -15846,7 +15853,6 @@
     "target": "target_d144f8",
     "dragOver": "dragOver_d144f8",
     "centerTarget": "centerTarget_d144f8",
-    "centerTargetTooltip": "centerTargetTooltip_d144f8",
     "autoPointerEvents": "autoPointerEvents_d144f8",
     "folderEndWrapper": "folderEndWrapper_d144f8",
     "wrapperOver": "wrapperOver_d144f8",
@@ -18148,31 +18154,6 @@
     "list": "list_dfa67d",
     "headings": "headings_dfa67d"
   },
-  "706800": {
-    "card": "card__0c0bf",
-    "addEntryCard": "addEntryCard__0c0bf card__0c0bf",
-    "addServerText": "addServerText__0c0bf",
-    "cardHeader": "cardHeader__0c0bf",
-    "splash": "splash__0c0bf",
-    "splashImage": "splashImage__0c0bf",
-    "guildIcon": "guildIcon__0c0bf",
-    "icon": "icon__0c0bf",
-    "actionButtonsContainer": "actionButtonsContainer__0c0bf",
-    "forceButtonsShow": "forceButtonsShow__0c0bf",
-    "overflowIcon": "overflowIcon__0c0bf",
-    "iconMask": "iconMask__0c0bf",
-    "guildInfo": "guildInfo__0c0bf",
-    "title": "title__0c0bf",
-    "guildBadge": "guildBadge__0c0bf",
-    "guildName": "guildName__0c0bf",
-    "description": "description__0c0bf",
-    "memberInfo": "memberInfo__0c0bf",
-    "memberCount": "memberCount__0c0bf",
-    "statusDot": "statusDot__0c0bf",
-    "dotOnline": "dotOnline__0c0bf statusDot__0c0bf",
-    "dotOffline": "dotOffline__0c0bf statusDot__0c0bf",
-    "joinButton": "joinButton__0c0bf"
-  },
   "707435": {
     "wrapper": "wrapper__30359",
     "heroImage": "heroImage__30359",
@@ -19970,6 +19951,31 @@
     "privateChannelRecipientsInviteButtonIcon": "privateChannelRecipientsInviteButtonIcon__99e7c",
     "privateChannelRecipientsInviteButtonIconContainer": "privateChannelRecipientsInviteButtonIconContainer__99e7c",
     "scroller": "scroller__99e7c"
+  },
+  "777261": {
+    "card": "card__0c0bf",
+    "addEntryCard": "addEntryCard__0c0bf card__0c0bf",
+    "addServerText": "addServerText__0c0bf",
+    "cardHeader": "cardHeader__0c0bf",
+    "splash": "splash__0c0bf",
+    "splashImage": "splashImage__0c0bf",
+    "guildIcon": "guildIcon__0c0bf",
+    "icon": "icon__0c0bf",
+    "actionButtonsContainer": "actionButtonsContainer__0c0bf",
+    "forceButtonsShow": "forceButtonsShow__0c0bf",
+    "overflowIcon": "overflowIcon__0c0bf",
+    "iconMask": "iconMask__0c0bf",
+    "guildInfo": "guildInfo__0c0bf",
+    "title": "title__0c0bf",
+    "guildBadge": "guildBadge__0c0bf",
+    "guildName": "guildName__0c0bf",
+    "description": "description__0c0bf",
+    "memberInfo": "memberInfo__0c0bf",
+    "memberCount": "memberCount__0c0bf",
+    "statusDot": "statusDot__0c0bf",
+    "dotOnline": "dotOnline__0c0bf statusDot__0c0bf",
+    "dotOffline": "dotOffline__0c0bf statusDot__0c0bf",
+    "joinButton": "joinButton__0c0bf"
   },
   "777267": {
     "row": "row__89036",
