@@ -6352,8 +6352,6 @@
     "unread": "unread__6fddf",
     "friendRequestContainer": "friendRequestContainer__6fddf",
     "button": "button__6fddf",
-    "acceptButton": "acceptButton__6fddf button__6fddf",
-    "ignoreButton": "ignoreButton__6fddf button__6fddf",
     "lifecycleContainer": "lifecycleContainer__6fddf",
     "lifecycleText": "lifecycleText__6fddf",
     "checkbox": "checkbox__6fddf",
@@ -8037,7 +8035,8 @@
   "308285": {
     "loadingContainer": "loadingContainer_f3bc7c",
     "giftSentToGameNoticeContainerPadding": "giftSentToGameNoticeContainerPadding_f3bc7c",
-    "customGiftMessage": "customGiftMessage_f3bc7c"
+    "customGiftMessage": "customGiftMessage_f3bc7c",
+    "giftSenderText": "giftSenderText_f3bc7c"
   },
   "308300": {
     "title": "title__1964c modalContent_a55fdc",
