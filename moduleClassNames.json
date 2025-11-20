@@ -7574,6 +7574,7 @@
     "unlockRewardBadge": "unlockRewardBadge_ca5fa9",
     "footerInfoContainer": "footerInfoContainer_ca5fa9",
     "footerInfo": "footerInfo_ca5fa9",
+    "progressContainer": "progressContainer_ca5fa9",
     "progressTextContainer": "progressTextContainer_ca5fa9",
     "readyToClaimText": "readyToClaimText_ca5fa9",
     "questionIconContainer": "questionIconContainer_ca5fa9"
@@ -18609,18 +18610,6 @@
     "heading": "heading__53812",
     "originalPrice": "originalPrice__53812"
   },
-  "723295": {
-    "description": "description_c8f246",
-    "info": "info_c8f246",
-    "tagline": "tagline_c8f246",
-    "timestampContainer": "timestampContainer_c8f246",
-    "partyStatusWrapper": "partyStatusWrapper_c8f246",
-    "footer": "footer_c8f246",
-    "footerSupportedPlatformIconsContainer": "footerSupportedPlatformIconsContainer_c8f246",
-    "footerSupportedPlatformIconContainer": "footerSupportedPlatformIconContainer_c8f246",
-    "footerSupportedPlatformText": "footerSupportedPlatformText_c8f246",
-    "inlineApplicationText": "inlineApplicationText_c8f246"
-  },
   "724255": {
     "outerContainer": "outerContainer__5a77b",
     "innerContainer": "innerContainer__5a77b",
@@ -21865,6 +21854,18 @@
   },
   "836956": {
     "obscuredIcon": "obscuredIcon__43090"
+  },
+  "837262": {
+    "description": "description__403f1",
+    "info": "info__403f1",
+    "tagline": "tagline__403f1",
+    "timestampContainer": "timestampContainer__403f1",
+    "partyStatusWrapper": "partyStatusWrapper__403f1",
+    "footer": "footer__403f1",
+    "footerSupportedPlatformIconsContainer": "footerSupportedPlatformIconsContainer__403f1",
+    "footerSupportedPlatformIconContainer": "footerSupportedPlatformIconContainer__403f1",
+    "footerSupportedPlatformText": "footerSupportedPlatformText__403f1",
+    "inlineApplicationText": "inlineApplicationText__403f1"
   },
   "837284": {
     "container": "container__0f711",
