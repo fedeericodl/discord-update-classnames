@@ -474,6 +474,9 @@
     "image": "image__1859b",
     "imageLoading": "imageLoading__1859b"
   },
+  "14959": {
+    "root": "root_ae6050"
+  },
   "15456": {
     "container": "container__29209",
     "content": "content__29209",
@@ -1209,12 +1212,6 @@
     "assetContainer": "assetContainer__9c640",
     "playButton": "playButton__9c640",
     "closeButton": "closeButton__9c640"
-  },
-  "38242": {
-    "root": "root__70ee5",
-    "streamButton": "streamButton__70ee5",
-    "withOptions": "withOptions__70ee5",
-    "optionsButton": "optionsButton__70ee5"
   },
   "38249": {
     "container": "container_b9abc5",
@@ -10660,7 +10657,6 @@
     "inboxIcon": "inboxIcon_ab6641",
     "inboxTitle": "inboxTitle_ab6641",
     "controls": "controls_ab6641",
-    "controlButton": "controlButton_ab6641",
     "iconBadge": "iconBadge_ab6641"
   },
   "407304": {
@@ -11555,10 +11551,6 @@
     "image": "image__6da35",
     "header": "header__6da35"
   },
-  "439003": {
-    "streamOptionsButton": "streamOptionsButton__388f8",
-    "settingsIcon": "settingsIcon__388f8"
-  },
   "439178": {
     "overlay": "overlay__3b260",
     "divider": "divider__3b260",
@@ -12109,6 +12101,12 @@
     "tabBar": "tabBar_d6f9e9",
     "tabBarItem": "tabBarItem_d6f9e9",
     "guildTabBarItem": "guildTabBarItem_d6f9e9"
+  },
+  "456577": {
+    "row": "row__0a9b0",
+    "displayName": "displayName__0a9b0",
+    "error": "error__0a9b0",
+    "erroredAvatar": "erroredAvatar__0a9b0"
   },
   "456645": {
     "box": "box_ee23ac",
@@ -14504,7 +14502,8 @@
     "messageContainer": "messageContainer__1ccd1",
     "jumpButton": "jumpButton__1ccd1",
     "message": "message__1ccd1",
-    "divider": "divider__1ccd1"
+    "divider": "divider__1ccd1",
+    "showAllButtonContainer": "showAllButtonContainer__1ccd1"
   },
   "557313": {
     "checkboxMargin": "checkboxMargin__5d41f"
@@ -18802,7 +18801,9 @@
     "orbsContainer": "orbsContainer__955a3",
     "redirectNoticeBannerAsset": "redirectNoticeBannerAsset__955a3",
     "redirectNoticeBannerContainer": "redirectNoticeBannerContainer__955a3",
-    "redirectNoticeContainer": "redirectNoticeContainer__955a3"
+    "redirectNoticeContainer": "redirectNoticeContainer__955a3",
+    "content": "content__955a3",
+    "contentWithExtraPadding": "contentWithExtraPadding__955a3"
   },
   "729020": {
     "pageActions": "pageActions__2d021",
@@ -20081,6 +20082,10 @@
     "hiddenExplicitAttachment": "hiddenExplicitAttachment__623de hiddenAttachment__623de",
     "contentPlaceholder": "contentPlaceholder__623de"
   },
+  "781565": {
+    "searchbar": "searchbar_e449ff",
+    "list": "list_e449ff"
+  },
   "781652": {
     "poggermodeIcon": "poggermodeIcon_bc2dd4"
   },
@@ -21092,6 +21097,25 @@
     "heroHeaderSideGradient": "heroHeaderSideGradient_c880e8",
     "heroHeaderBackgroundStars": "heroHeaderBackgroundStars_c880e8"
   },
+  "810516": {
+    "wrapper": "wrapper__42d45",
+    "wrapperWithOldDiscoveryHeader": "wrapperWithOldDiscoveryHeader__42d45",
+    "contentWrapper": "contentWrapper__42d45",
+    "contentWrapperLoading": "contentWrapperLoading__42d45",
+    "content": "content__42d45",
+    "heroImageBackground": "heroImageBackground__42d45",
+    "backgroundOverlay": "backgroundOverlay__42d45",
+    "heroImage": "heroImage__42d45",
+    "image": "image__42d45",
+    "heroImageBlurred": "heroImageBlurred__42d45",
+    "heroImageBlurredA": "heroImageBlurredA__42d45",
+    "heroImageBlurredB": "heroImageBlurredB__42d45",
+    "contentBody": "contentBody__42d45",
+    "logo": "logo__42d45",
+    "title": "title__42d45",
+    "subtitle": "subtitle__42d45",
+    "sponsoredTag": "sponsoredTag__42d45"
+  },
   "810688": {
     "emptyRoles": "emptyRoles__5f97b",
     "emptyRolesText": "emptyRolesText__5f97b",
@@ -22000,10 +22024,6 @@
     "breadcrumb": "breadcrumb__75013",
     "breadcrumbArrow": "breadcrumbArrow__75013",
     "interactiveBreadcrumb": "interactiveBreadcrumb__75013"
-  },
-  "844517": {
-    "button": "button_c2f8c3",
-    "buttonInner": "buttonInner_c2f8c3"
   },
   "844642": {
     "description": "description__803f2",
@@ -23236,7 +23256,6 @@
     "widerInbox": "widerInbox__95796",
     "scroller": "scroller__95796",
     "container": "container__95796",
-    "closeButton": "closeButton__95796",
     "messageContainer": "messageContainer__95796",
     "jumpMessageButton": "jumpMessageButton__95796 jumpButton_ed0c8c",
     "message": "message__95796"
