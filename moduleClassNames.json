@@ -5946,7 +5946,7 @@
   "216215": {
     "confirmation": "confirmation__9baa5",
     "confirmationHeader": "confirmationHeader__9baa5",
-    "divider": "divider__9baa5",
+    "confirmationDescription": "confirmationDescription__9baa5",
     "skuImage": "skuImage__9baa5"
   },
   "216390": {
@@ -12562,8 +12562,6 @@
     "statusLeft": "statusLeft_a51bc0",
     "statusText": "statusText_a51bc0",
     "statusIcon": "statusIcon_a51bc0",
-    "statusIconConnected": "statusIconConnected_a51bc0",
-    "statusIconDisconnected": "statusIconDisconnected_a51bc0",
     "statusRight": "statusRight_a51bc0",
     "expirationWarningContainer": "expirationWarningContainer_a51bc0"
   },
