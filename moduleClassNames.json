@@ -4263,6 +4263,9 @@
     "pencilIcon": "pencilIcon__5cda9",
     "statusText": "statusText__5cda9"
   },
+  "159183": {
+    "spinner": "spinner__255ba"
+  },
   "159240": {
     "root": "root_dbec16",
     "infoIcon": "infoIcon_dbec16",
@@ -7964,6 +7967,15 @@
     "newBadge": "newBadge__62141",
     "createChannelContent": "createChannelContent__62141"
   },
+  "305348": {
+    "container": "container__5301b",
+    "wide": "wide__5301b",
+    "tall": "tall__5301b",
+    "contentContainer": "contentContainer__5301b",
+    "buttonContainer": "buttonContainer__5301b",
+    "imgContainer": "imgContainer__5301b",
+    "missingQuestImage": "missingQuestImage__5301b"
+  },
   "306518": {
     "container": "container__7473d",
     "themePreviewContainer": "themePreviewContainer__7473d",
@@ -8099,9 +8111,6 @@
     "closeButtonContainer": "closeButtonContainer__96095",
     "closeButtonIcon": "closeButtonIcon__96095",
     "closeButton": "closeButton__96095"
-  },
-  "312898": {
-    "spinner": "spinner_d0beb2"
   },
   "313227": {
     "container": "container__5519a",
@@ -11039,15 +11048,6 @@
     "headerBody": "headerBody__2ee1b headerBody_d6f39b",
     "caretHoverable": "caretHoverable__2ee1b"
   },
-  "420432": {
-    "container": "container__7a994",
-    "wide": "wide__7a994",
-    "tall": "tall__7a994",
-    "contentContainer": "contentContainer__7a994",
-    "buttonContainer": "buttonContainer__7a994",
-    "imgContainer": "imgContainer__7a994",
-    "missingQuestImage": "missingQuestImage__7a994"
-  },
   "421156": {
     "header": "header__6c75d",
     "modalCloseButton": "modalCloseButton__6c75d",
@@ -11937,6 +11937,32 @@
     "fallback": "fallback_b789ab",
     "spacer": "spacer_b789ab"
   },
+  "451882": {
+    "outerContainer": "outerContainer__74dc6",
+    "outerContainerGiftInventory": "outerContainerGiftInventory__74dc6",
+    "outerContainerEmbed": "outerContainerEmbed__74dc6",
+    "questSplashContainer": "questSplashContainer__74dc6",
+    "questSplashImage": "questSplashImage__74dc6",
+    "header": "header__74dc6",
+    "outerContainerXs": "outerContainerXs__74dc6",
+    "headerContent": "headerContent__74dc6",
+    "headerContentEmbed": "headerContentEmbed__74dc6",
+    "headerExpandedContent": "headerExpandedContent__74dc6",
+    "headerExpandedWrapper": "headerExpandedWrapper__74dc6",
+    "headerCollapsedContent": "headerCollapsedContent__74dc6",
+    "headerCollapsedClickableContainer": "headerCollapsedClickableContainer__74dc6",
+    "headerCollapsedContentRewardWrapper": "headerCollapsedContentRewardWrapper__74dc6",
+    "headerCollapsedRewardTile": "headerCollapsedRewardTile__74dc6",
+    "headerCollapsedContentCopyWrapper": "headerCollapsedContentCopyWrapper__74dc6",
+    "headerCollapsedContentCopyLogos": "headerCollapsedContentCopyLogos__74dc6",
+    "iconLogotypeContainer": "iconLogotypeContainer__74dc6",
+    "partnerBranding": "partnerBranding__74dc6",
+    "partnerBrandingLogotypes": "partnerBrandingLogotypes__74dc6",
+    "questInfo": "questInfo__74dc6",
+    "heading": "heading__74dc6",
+    "iconsContainer": "iconsContainer__74dc6",
+    "iconWrapper": "iconWrapper__74dc6"
+  },
   "451964": {
     "wrapper": "wrapper__67dba",
     "channelIcon": "channelIcon__67dba",
@@ -12339,6 +12365,22 @@
     "content": "content__2513e",
     "loading": "loading__2513e"
   },
+  "467415": {
+    "outerContainer": "outerContainer_fbc6f7",
+    "outerContainerSm": "outerContainerSm_fbc6f7",
+    "outerContainerXs": "outerContainerXs_fbc6f7",
+    "questRewardEmbed": "questRewardEmbed_fbc6f7",
+    "questRewardEmbedSm": "questRewardEmbedSm_fbc6f7",
+    "questRewardEmbedXs": "questRewardEmbedXs_fbc6f7",
+    "taskDetails": "taskDetails_fbc6f7",
+    "taskInstructions": "taskInstructions_fbc6f7",
+    "fullWidthShinyCtaButtonWrapper": "fullWidthShinyCtaButtonWrapper_fbc6f7",
+    "ctaButtonWrapper": "ctaButtonWrapper_fbc6f7",
+    "learnMoreLink": "learnMoreLink_fbc6f7",
+    "root": "root_fbc6f7",
+    "rewardTileWrapper": "rewardTileWrapper_fbc6f7",
+    "rewardTileExpired": "rewardTileExpired_fbc6f7"
+  },
   "467541": {
     "levelContainer": "levelContainer__3dcc3",
     "perkContainer": "perkContainer__3dcc3",
@@ -12445,9 +12487,6 @@
     "body": "body_cb3bbe",
     "art": "art_cb3bbe",
     "modalContent": "modalContent_cb3bbe"
-  },
-  "471159": {
-    "questsCard": "questsCard__6fbeb"
   },
   "471561": {
     "button": "button_fb7f94",
@@ -13797,6 +13836,8 @@
     "heroAssetCont": "heroAssetCont_b5b7aa",
     "overlay": "overlay_b5b7aa",
     "darkThemeGradient": "darkThemeGradient_b5b7aa",
+    "darkerThemeGradient": "darkerThemeGradient_b5b7aa",
+    "midnightThemeGradient": "midnightThemeGradient_b5b7aa",
     "lightThemeGradient": "lightThemeGradient_b5b7aa",
     "topRow": "topRow_b5b7aa",
     "pill": "pill_b5b7aa",
@@ -13904,6 +13945,9 @@
     "stars": "stars__0a12b",
     "header": "header__0a12b",
     "text": "text__0a12b"
+  },
+  "523137": {
+    "questsCard": "questsCard__12e16"
   },
   "523626": {
     "header": "header_bfd183",
@@ -21665,22 +21709,6 @@
     "backgroundImages": "backgroundImages__4d7bb",
     "iconImage": "iconImage__4d7bb"
   },
-  "825502": {
-    "outerContainer": "outerContainer_a963de",
-    "outerContainerSm": "outerContainerSm_a963de",
-    "outerContainerXs": "outerContainerXs_a963de",
-    "questRewardEmbed": "questRewardEmbed_a963de",
-    "questRewardEmbedSm": "questRewardEmbedSm_a963de",
-    "questRewardEmbedXs": "questRewardEmbedXs_a963de",
-    "taskDetails": "taskDetails_a963de",
-    "taskInstructions": "taskInstructions_a963de",
-    "fullWidthShinyCtaButtonWrapper": "fullWidthShinyCtaButtonWrapper_a963de",
-    "ctaButtonWrapper": "ctaButtonWrapper_a963de",
-    "learnMoreLink": "learnMoreLink_a963de",
-    "root": "root_a963de",
-    "rewardTileWrapper": "rewardTileWrapper_a963de",
-    "rewardTileExpired": "rewardTileExpired_a963de"
-  },
   "827154": {
     "giftButton": "giftButton__82222",
     "innerGiftButton": "innerGiftButton__82222",
@@ -22162,32 +22190,6 @@
     "purchaseConfirmation": "purchaseConfirmation__2dea3 confirmationContainer__2dea3",
     "confirmationTitle": "confirmationTitle__2dea3",
     "confirmationSubtitle": "confirmationSubtitle__2dea3"
-  },
-  "849138": {
-    "outerContainer": "outerContainer__97d8c",
-    "outerContainerGiftInventory": "outerContainerGiftInventory__97d8c",
-    "outerContainerEmbed": "outerContainerEmbed__97d8c",
-    "questSplashContainer": "questSplashContainer__97d8c",
-    "questSplashImage": "questSplashImage__97d8c",
-    "header": "header__97d8c",
-    "outerContainerXs": "outerContainerXs__97d8c",
-    "headerContent": "headerContent__97d8c",
-    "headerContentEmbed": "headerContentEmbed__97d8c",
-    "headerExpandedContent": "headerExpandedContent__97d8c",
-    "headerExpandedWrapper": "headerExpandedWrapper__97d8c",
-    "headerCollapsedContent": "headerCollapsedContent__97d8c",
-    "headerCollapsedClickableContainer": "headerCollapsedClickableContainer__97d8c",
-    "headerCollapsedContentRewardWrapper": "headerCollapsedContentRewardWrapper__97d8c",
-    "headerCollapsedRewardTile": "headerCollapsedRewardTile__97d8c",
-    "headerCollapsedContentCopyWrapper": "headerCollapsedContentCopyWrapper__97d8c",
-    "headerCollapsedContentCopyLogos": "headerCollapsedContentCopyLogos__97d8c",
-    "iconLogotypeContainer": "iconLogotypeContainer__97d8c",
-    "partnerBranding": "partnerBranding__97d8c",
-    "partnerBrandingLogotypes": "partnerBrandingLogotypes__97d8c",
-    "questInfo": "questInfo__97d8c",
-    "heading": "heading__97d8c",
-    "iconsContainer": "iconsContainer__97d8c",
-    "iconWrapper": "iconWrapper__97d8c"
   },
   "849879": {
     "loading": "loading__9ed46",
