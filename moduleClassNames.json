@@ -1844,7 +1844,8 @@
     "cardBackgroundImage": "cardBackgroundImage__20585",
     "cardImage": "cardImage__20585",
     "itemIcon": "itemIcon__20585",
-    "itemIconHeart": "itemIconHeart__20585"
+    "itemIconHeart": "itemIconHeart__20585",
+    "itemIconShop": "itemIconShop__20585"
   },
   "64092": {
     "container": "container__4d61a",
@@ -6932,7 +6933,8 @@
     "selectedPageIndicator": "selectedPageIndicator__8dd9e",
     "alignedRightContent": "alignedRightContent__8dd9e",
     "iconButton": "iconButton__8dd9e",
-    "wishlistButton": "wishlistButton__8dd9e"
+    "wishlistButton": "wishlistButton__8dd9e",
+    "learnMoreButton": "learnMoreButton__8dd9e"
   },
   "261334": {
     "popover": "popover_f84418",
