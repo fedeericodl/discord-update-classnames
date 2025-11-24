@@ -9420,6 +9420,9 @@
     "paymentRequestIcon": "paymentRequestIcon__4151b",
     "appleConnectorIcon": "appleConnectorIcon__4151b"
   },
+  "360919": {
+    "keyRecorder": "keyRecorder__7c484"
+  },
   "361043": {
     "button": "button_afdfcc",
     "disabled": "disabled_afdfcc",
@@ -11437,9 +11440,6 @@
     "appCategory": "appCategory__5a4b6",
     "appDescription": "appDescription__5a4b6"
   },
-  "431220": {
-    "keyRecorder": "keyRecorder_ed8d6a"
-  },
   "432267": {
     "resizeHandle": "resizeHandle__4b144"
   },
@@ -11676,8 +11676,6 @@
     "channelText": "channelText_e4503a",
     "titleBadge": "titleBadge_e4503a",
     "premiumIcon": "premiumIcon_e4503a",
-    "selectAll": "selectAll_e4503a",
-    "selectAllCheckbox": "selectAllCheckbox_e4503a",
     "channelRow": "channelRow_e4503a",
     "disabled": "disabled_e4503a",
     "firstChannel": "firstChannel_e4503a",
@@ -11750,10 +11748,6 @@
     "disclaimerFooter": "disclaimerFooter_b962dc",
     "guildProfile": "guildProfile_b962dc",
     "sidebarGradientOverlay": "sidebarGradientOverlay_b962dc"
-  },
-  "445642": {
-    "accordion": "accordion_a1f93f",
-    "notice": "notice_a1f93f"
   },
   "446005": {
     "boostedGuildIconGem": "boostedGuildIconGem__97677",
@@ -12323,6 +12317,9 @@
     "actionTextContainer": "actionTextContainer__6446f",
     "editChannel": "editChannel__6446f"
   },
+  "465061": {
+    "notice": "notice_c15d44"
+  },
   "465103": {
     "icon": "icon__49777"
   },
@@ -12699,9 +12696,6 @@
     "messageContent": "messageContent_fc958f",
     "originalMessageAuthorAvatar": "originalMessageAuthorAvatar_fc958f",
     "newBadge": "newBadge_fc958f"
-  },
-  "476804": {
-    "notice": "notice__35939"
   },
   "477487": {
     "confettiCanvas": "confettiCanvas__8fcbd",
@@ -18086,8 +18080,7 @@
   "700875": {
     "header": "header__3c320",
     "title": "title__3c320",
-    "subtitle": "subtitle__3c320",
-    "divider": "divider__3c320"
+    "subtitle": "subtitle__3c320"
   },
   "700977": {
     "cover": "cover__6eb54",
@@ -24560,6 +24553,9 @@
     "offerDetailContainer": "offerDetailContainer__11ee8",
     "legalContainer": "legalContainer__11ee8",
     "spinnerContainer": "spinnerContainer__11ee8"
+  },
+  "951010": {
+    "divider": "divider__143d2"
   },
   "951718": {
     "container": "container_a68543",
