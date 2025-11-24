@@ -11751,6 +11751,9 @@
     "guildProfile": "guildProfile_b962dc",
     "sidebarGradientOverlay": "sidebarGradientOverlay_b962dc"
   },
+  "445642": {
+    "open": "open_a1f93f"
+  },
   "446005": {
     "boostedGuildIconGem": "boostedGuildIconGem__97677",
     "iconBackgroundTierNone": "iconBackgroundTierNone__97677",
@@ -12800,6 +12803,8 @@
     "tierPeriod": "tierPeriod_ea81a9"
   },
   "481446": {
+    "triggerButton": "triggerButton__64c86",
+    "panel": "panel__64c86",
     "icon": "icon__64c86",
     "iconClosed": "iconClosed__64c86"
   },
@@ -13925,13 +13930,17 @@
   },
   "520816": {
     "gameIcon": "gameIcon_b52e4f",
+    "intersectionContainer": "intersectionContainer_b52e4f",
+    "intersectionRef": "intersectionRef_b52e4f",
     "large": "large_b52e4f",
     "medium": "medium_b52e4f",
     "small": "small_b52e4f",
     "xxsmall": "xxsmall_b52e4f",
     "xsmall": "xsmall_b52e4f",
     "mediumLarge": "mediumLarge_b52e4f",
-    "xlarge": "xlarge_b52e4f"
+    "xlarge": "xlarge_b52e4f",
+    "placeholderPulse": "placeholderPulse_b52e4f",
+    "gameIconLoading": "gameIconLoading_b52e4f gameIcon_b52e4f"
   },
   "521868": {
     "container": "container__0a12b",
@@ -15802,9 +15811,6 @@
     "warningBody": "warningBody__54ab7"
   },
   "603841": {
-    "gameSelectionOption": "gameSelectionOption__0f7f7",
-    "gameSelectionOptionText": "gameSelectionOptionText__0f7f7",
-    "gameSelectionOptionChevron": "gameSelectionOptionChevron__0f7f7",
     "hr": "hr__0f7f7",
     "modalContent": "modalContent__0f7f7",
     "itemContainer": "itemContainer__0f7f7"
@@ -22040,6 +22046,10 @@
     "scale": "scale_faf9c0",
     "fade": "fade_faf9c0"
   },
+  "842144": {
+    "modalContent": "modalContent_b23a27",
+    "submitText": "submitText_b23a27"
+  },
   "842350": {
     "container": "container_faf161",
     "title": "title_faf161",
@@ -22760,7 +22770,8 @@
     "item": "item_caf372",
     "active": "active_caf372",
     "icon": "icon_caf372",
-    "itemContent": "itemContent_caf372"
+    "itemContent": "itemContent_caf372",
+    "itemContainer": "itemContainer_caf372"
   },
   "873575": {
     "spacing": "spacing__07d82",
