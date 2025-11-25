@@ -19469,10 +19469,6 @@
     "cameraWrapper": "cameraWrapper__11e1f",
     "camera": "camera__11e1f"
   },
-  "745770": {
-    "container": "container__138d8",
-    "legacy": "legacy__138d8"
-  },
   "745993": {
     "colorPicker": "colorPicker_cd4367",
     "colorPickerContainer": "colorPickerContainer_cd4367",
@@ -25630,7 +25626,6 @@
   },
   "989281": {
     "links": "links__7aac8",
-    "devToolsEducation": "devToolsEducation__7aac8",
     "bullet": "bullet__7aac8",
     "moreButton": "moreButton__7aac8",
     "active": "active__7aac8"
