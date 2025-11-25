@@ -5912,6 +5912,7 @@
     "spinnerContainer": "spinnerContainer__70617",
     "toolbar": "toolbar__70617",
     "contentContainer": "contentContainer__70617",
+    "degradedWarningContainer": "degradedWarningContainer__70617",
     "gameContainerWrapper": "gameContainerWrapper__70617",
     "gameContainer": "gameContainer__70617"
   },
@@ -9680,6 +9681,12 @@
   },
   "370213": {
     "spinner": "spinner__9ae4f"
+  },
+  "370921": {
+    "allChips": "allChips_ff7bda",
+    "section": "section_ff7bda",
+    "sectionTitle": "sectionTitle_ff7bda",
+    "chipGrid": "chipGrid_ff7bda"
   },
   "371882": {
     "container": "container_c66e86",
@@ -14417,6 +14424,33 @@
   "548564": {
     "counter": "counter__90981",
     "counterText": "counterText__90981"
+  },
+  "549097": {
+    "chip": "chip__3854f",
+    "blurple-light": "blurple-light__3854f",
+    "blurple-medium": "blurple-medium__3854f",
+    "blurple-dark": "blurple-dark__3854f",
+    "purple-light": "purple-light__3854f",
+    "purple-medium": "purple-medium__3854f",
+    "purple-dark": "purple-dark__3854f",
+    "green-light": "green-light__3854f",
+    "green-medium": "green-medium__3854f",
+    "green-dark": "green-dark__3854f",
+    "orange-light": "orange-light__3854f",
+    "orange-medium": "orange-medium__3854f",
+    "orange-dark": "orange-dark__3854f",
+    "yellow-light": "yellow-light__3854f",
+    "yellow-medium": "yellow-medium__3854f",
+    "yellow-dark": "yellow-dark__3854f",
+    "pink-light": "pink-light__3854f",
+    "pink-medium": "pink-medium__3854f",
+    "pink-dark": "pink-dark__3854f",
+    "red-light": "red-light__3854f",
+    "red-medium": "red-medium__3854f",
+    "red-dark": "red-dark__3854f",
+    "gray-light": "gray-light__3854f",
+    "gray-medium": "gray-medium__3854f",
+    "gray-dark": "gray-dark__3854f"
   },
   "549556": {
     "previewContainer": "previewContainer_b4d1aa",
@@ -22164,10 +22198,7 @@
     "details": "details__2af41",
     "usernameWrapper": "usernameWrapper__2af41",
     "username": "username__2af41",
-    "inviteButton": "inviteButton__2af41",
-    "inviteButtonWrapper": "inviteButtonWrapper__2af41",
-    "inviteButtonSubtle": "inviteButtonSubtle__2af41",
-    "inviteButtonInner": "inviteButtonInner__2af41",
+    "inviteButtons": "inviteButtons__2af41",
     "liveIndicator": "liveIndicator__2af41",
     "badgesContainer": "badgesContainer__2af41"
   },
@@ -22751,7 +22782,8 @@
     "ctaEmoji": "ctaEmoji__45eb7"
   },
   "871404": {
-    "modalContent": "modalContent_cb1992"
+    "modalContent": "modalContent_cb1992",
+    "degradedWarningContainer": "degradedWarningContainer_cb1992"
   },
   "872058": {
     "headingWrapper": "headingWrapper__57454",
