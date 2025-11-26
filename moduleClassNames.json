@@ -17252,6 +17252,10 @@
     "helpMessageContainer": "helpMessageContainer_a9e706",
     "paginationLimitHeader": "paginationLimitHeader_a9e706"
   },
+  "670302": {
+    "autoThresholdSlider": "autoThresholdSlider__39fa9",
+    "noInputDevicesDetectedWarning": "noInputDevicesDetectedWarning__39fa9"
+  },
   "670733": {
     "modalRoot": "modalRoot_a470b4",
     "header": "header_a470b4",
