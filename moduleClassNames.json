@@ -23326,9 +23326,9 @@
   },
   "890955": {
     "richTooltipContent": "richTooltipContent_a89985",
-    "noAsset": "noAsset_a89985",
     "assetContainer": "assetContainer_a89985",
-    "textContent": "textContent_a89985"
+    "textContent": "textContent_a89985",
+    "noAsset": "noAsset_a89985"
   },
   "891131": {
     "productsEmpty": "productsEmpty__70c55",
