@@ -8822,7 +8822,6 @@
     "emojiButtonContainer": "emojiButtonContainer_dbc4b7",
     "emoji": "emoji_dbc4b7",
     "input": "input_dbc4b7",
-    "clearButtonWrapper": "clearButtonWrapper_dbc4b7",
     "clearButton": "clearButton_dbc4b7",
     "clearIcon": "clearIcon_dbc4b7",
     "clearAfterSelectContainer": "clearAfterSelectContainer_dbc4b7",
@@ -11585,7 +11584,6 @@
     "familyCenterLinkButton": "familyCenterLinkButton_e6b769",
     "friendsButtonContainer": "friendsButtonContainer_e6b769",
     "friendsBadge": "friendsBadge_e6b769",
-    "createDMButtonContainer": "createDMButtonContainer_e6b769",
     "confetti": "confetti_e6b769",
     "themedHeaderMobile": "themedHeaderMobile_e6b769",
     "familyCenterButtonContainer": "familyCenterButtonContainer_e6b769",
@@ -20043,7 +20041,6 @@
     "empty": "empty__99e7c",
     "headerText": "headerText__99e7c",
     "privateChannelsHeaderContainer": "privateChannelsHeaderContainer__99e7c",
-    "tall": "tall__99e7c",
     "privateChannelRecipientsInviteButtonIcon": "privateChannelRecipientsInviteButtonIcon__99e7c",
     "privateChannelRecipientsInviteButtonIconContainer": "privateChannelRecipientsInviteButtonIconContainer__99e7c",
     "scroller": "scroller__99e7c"
@@ -20963,6 +20960,15 @@
     "poolsScroller": "poolsScroller_dcb0ac",
     "accordion": "accordion_dcb0ac",
     "buttonContainer": "buttonContainer_dcb0ac"
+  },
+  "807021": {
+    "wumpusContainer": "wumpusContainer__0ffb8",
+    "header": "header__0ffb8",
+    "textContainer": "textContainer__0ffb8",
+    "nameplatePreviewContainer": "nameplatePreviewContainer__0ffb8",
+    "footer": "footer__0ffb8",
+    "nameplateGlow": "nameplateGlow__0ffb8",
+    "nameplatePreview": "nameplatePreview__0ffb8"
   },
   "807095": {
     "pulseIcon": "pulseIcon__24af7",
