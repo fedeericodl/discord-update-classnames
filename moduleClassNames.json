@@ -12750,6 +12750,9 @@
     "icon": "icon__64c86",
     "iconClosed": "iconClosed__64c86"
   },
+  "482151": {
+    "checkoutModalFooter": "checkoutModalFooter_e3bd55"
+  },
   "482722": {
     "buttons": "buttons_bb2295"
   },
@@ -13828,14 +13831,6 @@
   "518840": {
     "captchaContainer": "captchaContainer_deee3a",
     "manaDesktopModal": "manaDesktopModal_deee3a"
-  },
-  "519249": {
-    "headerContainer": "headerContainer__4da69",
-    "headerBody": "headerBody__4da69",
-    "modalContent": "modalContent__4da69",
-    "modalFooter": "modalFooter__4da69",
-    "submitFooter": "submitFooter__4da69",
-    "backButton": "backButton__4da69"
   },
   "519252": {
     "iconContainer": "iconContainer__0ecc4",
@@ -17277,6 +17272,9 @@
     "bannerContent": "bannerContent__7137c",
     "bannerDescription": "bannerDescription__7137c",
     "buttonContainer": "buttonContainer__7137c"
+  },
+  "671930": {
+    "stepBody": "stepBody_bb5449"
   },
   "671982": {
     "autocomplete": "autocomplete__6b0e0",
@@ -21449,9 +21447,6 @@
   "817320": {
     "modalRoot": "modalRoot__6c12c",
     "headerContainer": "headerContainer__6c12c",
-    "modalCloseButton": "modalCloseButton__6c12c",
-    "helpdeskLink": "helpdeskLink__6c12c",
-    "header": "header__6c12c",
     "ratingBody": "ratingBody__6c12c",
     "footer": "footer__6c12c",
     "problemInfo": "problemInfo__6c12c",
