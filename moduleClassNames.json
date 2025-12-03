@@ -28,6 +28,7 @@
     "applicationHomeCard": "applicationHomeCard__6df1a",
     "card": "card__6df1a",
     "withGiftBanner": "withGiftBanner__6df1a",
+    "borderGradient": "borderGradient__6df1a",
     "tier0": "tier0__6df1a",
     "pillMargin": "pillMargin__6df1a",
     "wordmark": "wordmark__6df1a",
@@ -47,7 +48,10 @@
     "premiumCardsContainer": "premiumCardsContainer__6df1a",
     "premiumCardsHeader": "premiumCardsHeader__6df1a",
     "tier0CardOrder": "tier0CardOrder__6df1a",
-    "tier2CardOrder": "tier2CardOrder__6df1a"
+    "tier2CardOrder": "tier2CardOrder__6df1a",
+    "cardTitle": "cardTitle__6df1a",
+    "betaPill": "betaPill__6df1a",
+    "cardHeader": "cardHeader__6df1a"
   },
   "1904": {
     "addItemContainer": "addItemContainer__0651b",
@@ -754,7 +758,6 @@
   },
   "24921": {
     "confirmation": "confirmation__2db04",
-    "banner": "banner__2db04",
     "text": "text__2db04",
     "button": "button__2db04"
   },
@@ -9301,12 +9304,11 @@
   "360026": {
     "skuSelectModalHeader": "skuSelectModalHeader_e50a4d",
     "skuSelectModalContent": "skuSelectModalContent_e50a4d",
-    "modalPadding": "modalPadding_e50a4d",
-    "modalSize": "modalSize_e50a4d",
     "close": "close_e50a4d",
     "closeInner": "closeInner_e50a4d",
     "premiumBrandRefreshHeader": "premiumBrandRefreshHeader_e50a4d",
-    "premiumBrandRefreshContent": "premiumBrandRefreshContent_e50a4d"
+    "premiumBrandRefreshContent": "premiumBrandRefreshContent_e50a4d",
+    "skuSelectWithPremiumGroupModalContent": "skuSelectWithPremiumGroupModalContent_e50a4d"
   },
   "360054": {
     "row": "row__93d4a",
@@ -10486,8 +10488,7 @@
   },
   "402450": {
     "premiumBrandRefreshTier0Card": "premiumBrandRefreshTier0Card__9e160",
-    "tier0MarketingCard": "tier0MarketingCard__9e160",
-    "tier2MarketingCard": "tier2MarketingCard__9e160"
+    "narrowLayout": "narrowLayout__9e160"
   },
   "402529": {
     "paymentRestrictionBannerContainer": "paymentRestrictionBannerContainer__52623",
@@ -22061,9 +22062,7 @@
     "section": "section__409aa",
     "sectionLabel": "sectionLabel__409aa",
     "label": "label__409aa",
-    "fixedContent": "fixedContent__409aa",
-    "searchBarContainer": "searchBarContainer__409aa",
-    "popoverAnchor": "popoverAnchor__409aa"
+    "fixedContent": "fixedContent__409aa"
   },
   "845442": {
     "baseControlItem": "baseControlItem_dbfbe0",
@@ -24334,7 +24333,9 @@
     "reverseTrialBadgeIcon": "reverseTrialBadgeIcon__94f65"
   },
   "942408": {
-    "emptySearchResultsContainer": "emptySearchResultsContainer_cf016e"
+    "emptySearchResultsContainer": "emptySearchResultsContainer_cf016e",
+    "searchBarContainer": "searchBarContainer_cf016e",
+    "popoverAnchor": "popoverAnchor_cf016e"
   },
   "942522": {
     "logo": "logo__675f9",
