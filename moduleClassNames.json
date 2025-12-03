@@ -5336,17 +5336,8 @@
     "container": "container_e03deb"
   },
   "198501": {
-    "placeholderPulse": "placeholderPulse__72fa0",
     "skeletonsContainer": "skeletonsContainer__72fa0",
-    "skeleton": "skeleton__72fa0",
-    "bannerSkeleton": "bannerSkeleton__72fa0",
-    "bannerSkeletonV2": "bannerSkeletonV2__72fa0",
-    "bannerBody": "bannerBody__72fa0",
-    "cardBody": "cardBody__72fa0",
-    "cardAvatar": "cardAvatar__72fa0",
-    "cardTitle": "cardTitle__72fa0",
-    "cardDescription": "cardDescription__72fa0",
-    "cardSummary": "cardSummary__72fa0"
+    "bannerSkeleton": "bannerSkeleton__72fa0"
   },
   "198750": {
     "container": "container__0ab2c",
@@ -7367,15 +7358,7 @@
     "text": "text__65266"
   },
   "281718": {
-    "modal": "modal_f0dcaf",
-    "header": "header_f0dcaf",
-    "headerIconContainer": "headerIconContainer_f0dcaf",
-    "acronym": "acronym_f0dcaf",
     "ping": "ping_f0dcaf",
-    "redPing": "redPing_f0dcaf ping_f0dcaf",
-    "greenPing": "greenPing_f0dcaf ping_f0dcaf",
-    "headerText": "headerText_f0dcaf",
-    "updatedForm": "updatedForm_f0dcaf",
     "checklistRow": "checklistRow_f0dcaf",
     "checklistIcon": "checklistIcon_f0dcaf",
     "icon": "icon_f0dcaf",
@@ -7389,8 +7372,7 @@
     "permissionRow": "permissionRow_f0dcaf",
     "bullet": "bullet_f0dcaf",
     "bulletWarning": "bulletWarning_f0dcaf bullet_f0dcaf",
-    "bulletPositive": "bulletPositive_f0dcaf bullet_f0dcaf",
-    "footer": "footer_f0dcaf"
+    "bulletPositive": "bulletPositive_f0dcaf bullet_f0dcaf"
   },
   "282320": {
     "scopes": "scopes__29337",
@@ -8018,7 +8000,6 @@
     "sortChangedOutro": "sortChangedOutro__08415",
     "shuffleIntro": "shuffleIntro__08415",
     "shuffleOutro": "shuffleOutro__08415",
-    "placeholderCard": "placeholderCard__08415",
     "endOfFeed": "endOfFeed__08415",
     "skeleton": "skeleton__08415",
     "skeletonBody": "skeletonBody__08415",
@@ -23155,7 +23136,6 @@
     "categoryWrapper": "categoryWrapper__6db1d",
     "cardsContainer": "cardsContainer__6db1d",
     "shop": "shop__6db1d",
-    "itemTypeTitle": "itemTypeTitle__6db1d",
     "easterEggAnimation": "easterEggAnimation__6db1d",
     "easterEggAnimationReverse": "easterEggAnimationReverse__6db1d",
     "categoriesNoFilter": "categoriesNoFilter__6db1d",
