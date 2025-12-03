@@ -6635,7 +6635,8 @@
     "footer": "footer__10a0c"
   },
   "248813": {
-    "bar": "bar_d90114"
+    "bar": "bar_d90114",
+    "error": "error_d90114"
   },
   "248881": {
     "animator": "animator__52de8",
@@ -9369,7 +9370,10 @@
     "buttonContainer": "buttonContainer__7ce16",
     "ringContainer": "ringContainer__7ce16",
     "iconButton": "iconButton__7ce16",
-    "icon": "icon__7ce16"
+    "icon": "icon__7ce16",
+    "absolute": "absolute__7ce16",
+    "riveContainer": "riveContainer__7ce16",
+    "backgroundRive": "backgroundRive__7ce16"
   },
   "360751": {
     "buttonIcon": "buttonIcon__4151b",
@@ -22189,6 +22193,17 @@
     "fakeInput": "fakeInput__66efc",
     "audioTrimmer": "audioTrimmer__66efc"
   },
+  "852940": {
+    "container": "container__2fba1",
+    "footer": "footer__2fba1",
+    "table": "table__2fba1",
+    "header": "header__2fba1",
+    "body": "body__2fba1",
+    "row": "row__2fba1",
+    "column": "column__2fba1",
+    "columnText": "columnText__2fba1",
+    "cell": "cell__2fba1"
+  },
   "852950": {
     "container": "container_dba137",
     "header": "header_dba137",
@@ -22439,17 +22454,6 @@
   "864264": {
     "divider": "divider__33f29",
     "separator": "separator__33f29"
-  },
-  "864978": {
-    "container": "container__5e1cf",
-    "footer": "footer__5e1cf",
-    "table": "table__5e1cf",
-    "header": "header__5e1cf",
-    "body": "body__5e1cf",
-    "row": "row__5e1cf",
-    "column": "column__5e1cf",
-    "columnText": "columnText__5e1cf",
-    "cell": "cell__5e1cf"
   },
   "865239": {
     "searchHeader": "searchHeader_f3b986",
