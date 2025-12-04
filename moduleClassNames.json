@@ -13916,7 +13916,9 @@
     "partnerLogotypes": "partnerLogotypes_b5b7aa",
     "bottomRow": "bottomRow_b5b7aa",
     "hints": "hints_b5b7aa",
-    "hintsContainer": "hintsContainer_b5b7aa"
+    "hintsContainer": "hintsContainer_b5b7aa",
+    "promotedByRow": "promotedByRow_b5b7aa",
+    "verifiedIcon": "verifiedIcon_b5b7aa"
   },
   "518474": {
     "infoMessage": "infoMessage__56d1c"
@@ -24665,6 +24667,9 @@
     "closeIcon": "closeIcon__8c6be",
     "favoriteIcon": "favoriteIcon__8c6be",
     "centerAlign": "centerAlign__8c6be"
+  },
+  "949558": {
+    "title": "title__28f6b"
   },
   "949571": {
     "container": "container__92eda",
