@@ -3403,7 +3403,8 @@
     "size20": "size20__9ac28",
     "size24": "size24__9ac28",
     "isLast": "isLast__9ac28",
-    "overflow": "overflow__9ac28"
+    "overflow": "overflow__9ac28",
+    "button": "button__9ac28"
   },
   "120472": {
     "expandedProgressBarContainer": "expandedProgressBarContainer_a61c56",
@@ -6640,7 +6641,7 @@
   },
   "245583": {
     "container": "container__12191",
-    "overflowButton": "overflowButton__12191"
+    "overflow": "overflow__12191"
   },
   "245702": {
     "carouselMaxWidth": "carouselMaxWidth_b8429c",
@@ -23291,6 +23292,9 @@
   "884984": {
     "themeSelector": "themeSelector_c85552",
     "themePillItemSelected": "themePillItemSelected_c85552"
+  },
+  "885486": {
+    "gameCoverOverflowCount": "gameCoverOverflowCount_fc1255"
   },
   "885525": {
     "newChannel": "newChannel__599fa"
