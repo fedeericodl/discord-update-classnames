@@ -1182,7 +1182,8 @@
   "34747": {
     "profileCustomizationSection": "profileCustomizationSection__44061",
     "baseLayout": "baseLayout__44061",
-    "preview": "preview__44061"
+    "previewsContainer": "previewsContainer__44061",
+    "previewItem": "previewItem__44061"
   },
   "35777": {
     "flagIcon": "flagIcon_c98db5"
@@ -7802,7 +7803,6 @@
     "learnMore": "learnMore_cfb73c",
     "link": "link_cfb73c",
     "claimButton": "claimButton_cfb73c",
-    "buttonCTA": "buttonCTA_cfb73c",
     "unavailableLogo": "unavailableLogo_cfb73c",
     "disclaimer": "disclaimer_cfb73c",
     "attribution": "attribution_cfb73c"
@@ -8142,6 +8142,7 @@
     "skeleton": "skeleton__08415",
     "skeletonBody": "skeletonBody__08415",
     "bannerBlockContainer": "bannerBlockContainer__08415",
+    "bannerBlockContainerClickable": "bannerBlockContainerClickable__08415",
     "wideBannerBackgroundImg": "wideBannerBackgroundImg__08415",
     "extraRounded": "extraRounded__08415",
     "wideBannerArt": "wideBannerArt__08415",
@@ -11943,7 +11944,11 @@
     "bottomGradient": "bottomGradient_abfd90",
     "iconAsset": "iconAsset_abfd90",
     "badge": "badge_abfd90",
-    "wishlistButtonContainer": "wishlistButtonContainer_abfd90"
+    "wishlistButtonContainer": "wishlistButtonContainer_abfd90",
+    "pulse": "pulse_abfd90",
+    "placeholderCard": "placeholderCard_abfd90",
+    "placeholderDescription": "placeholderDescription_abfd90",
+    "placeholderTitle": "placeholderTitle_abfd90"
   },
   "450779": {
     "subtext": "subtext_beaa93"
@@ -18857,6 +18862,10 @@
     "boostedTierIconBackground": "boostedTierIconBackground__1f1cb",
     "boostedTierIcon": "boostedTierIcon__1f1cb",
     "disabledIndicator": "disabledIndicator__1f1cb"
+  },
+  "724683": {
+    "root": "root_dbd18e",
+    "description": "description_dbd18e"
   },
   "724913": {
     "wrapper": "wrapper_c19a55",
