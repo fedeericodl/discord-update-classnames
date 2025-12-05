@@ -1667,7 +1667,10 @@
     "actionIcon": "actionIcon_c69b6d",
     "channelInfo": "channelInfo_c69b6d",
     "iconLive": "iconLive_c69b6d",
-    "selectedChannel": "selectedChannel_c69b6d"
+    "selectedChannel": "selectedChannel_c69b6d",
+    "voiceChannelHighlightContainer": "voiceChannelHighlightContainer_c69b6d",
+    "voiceChannelHighlightBorder": "voiceChannelHighlightBorder_c69b6d",
+    "voiceChannelHighlightGlow": "voiceChannelHighlightGlow_c69b6d"
   },
   "55989": {
     "panel": "panel__578a4"
@@ -3631,7 +3634,8 @@
     "image": "image_e8b59c",
     "loadingPlaceholder": "loadingPlaceholder_e8b59c",
     "body": "body_e8b59c",
-    "actionButtons": "actionButtons_e8b59c"
+    "actionButtons": "actionButtons_e8b59c",
+    "buttonContainer": "buttonContainer_e8b59c"
   },
   "129649": {
     "customGiftBox": "customGiftBox_d50aac",
@@ -13663,6 +13667,7 @@
     "iconWithGuildIcon": "iconWithGuildIcon__2ea32",
     "modeConnected": "modeConnected__2ea32",
     "notInteractive": "notInteractive__2ea32",
+    "hoistingNotConnected": "hoistingNotConnected__2ea32",
     "unreadImportant": "unreadImportant__2ea32",
     "numberBadge": "numberBadge__2ea32",
     "activeEvent": "activeEvent__2ea32"
