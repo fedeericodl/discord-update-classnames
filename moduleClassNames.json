@@ -434,7 +434,6 @@
     "errorImage": "errorImage__9b0f4",
     "errorBody": "errorBody__9b0f4",
     "iconContainer": "iconContainer__9b0f4",
-    "ctas": "ctas__9b0f4",
     "iconSparklePlus": "iconSparklePlus__9b0f4",
     "iconLink": "iconLink__9b0f4",
     "iconSparkleStar": "iconSparkleStar__9b0f4",
@@ -3277,6 +3276,10 @@
     "guildAcronym": "guildAcronym_a53846",
     "guildIconWithoutImage": "guildIconWithoutImage_a53846",
     "themed": "themed_a53846"
+  },
+  "116225": {
+    "roleRow": "roleRow__88951",
+    "roleDot": "roleDot__88951"
   },
   "116649": {
     "header": "header__5be3e",
@@ -7813,6 +7816,11 @@
     "disclaimer": "disclaimer_cfb73c",
     "attribution": "attribution_cfb73c"
   },
+  "297132": {
+    "roleContainer": "roleContainer__37066",
+    "firstRole": "firstRole__37066",
+    "otherRoles": "otherRoles__37066"
+  },
   "297762": {
     "result": "result__71961",
     "content": "content__71961",
@@ -11240,9 +11248,9 @@
   },
   "422665": {
     "accordionContainer": "accordionContainer__7e354",
-    "content": "content__7e354",
     "opened": "opened__7e354",
     "header": "header__7e354",
+    "content": "content__7e354",
     "headerIconWrapper": "headerIconWrapper__7e354",
     "title": "title__7e354",
     "caret": "caret__7e354"
@@ -23519,6 +23527,9 @@
   },
   "891628": {
     "list": "list_c47777"
+  },
+  "892227": {
+    "gameProfileContainer": "gameProfileContainer_b63b76"
   },
   "892237": {
     "heading-sm/normal": "heading-sm/normal_cf4812",
