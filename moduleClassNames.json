@@ -689,6 +689,9 @@
   "20492": {
     "tabs": "tabs__90767"
   },
+  "20883": {
+    "linkCalloutContainer": "linkCalloutContainer__7d76d"
+  },
   "21054": {
     "userAvatar": "userAvatar__9ec1a",
     "svg": "svg__9ec1a"
@@ -10197,9 +10200,6 @@
     "clickBackground": "clickBackground__29c87",
     "clickable": "clickable__29c87"
   },
-  "389094": {
-    "art": "art_a08417"
-  },
   "390082": {
     "container": "container__00b64",
     "spinnerContainer": "spinnerContainer__00b64",
@@ -10486,12 +10486,6 @@
     "footerContainer": "footerContainer_a1e8da",
     "footerDetails": "footerDetails_a1e8da",
     "statusContainer": "statusContainer_a1e8da"
-  },
-  "398439": {
-    "title": "title__04ae2",
-    "body": "body__04ae2",
-    "art": "art__04ae2",
-    "modalContent": "modalContent__04ae2"
   },
   "398739": {
     "max-width": "max-width__5b321",
@@ -19067,12 +19061,6 @@
     "text": "text__76132",
     "image": "image__76132"
   },
-  "733235": {
-    "title": "title_a0b371",
-    "body": "body_a0b371",
-    "art": "art_a0b371",
-    "linkCalloutContainer": "linkCalloutContainer_a0b371"
-  },
   "734102": {
     "selectedIcon": "selectedIcon__885c5",
     "ellipsisText": "ellipsisText__885c5",
@@ -19083,9 +19071,9 @@
   },
   "734305": {
     "container": "container__577c3",
-    "image": "image__577c3",
     "links": "links__577c3",
-    "agreementDescription": "agreementDescription__577c3"
+    "link": "link__577c3",
+    "description": "description__577c3"
   },
   "734335": {
     "buttonContainer": "buttonContainer_ffab0d"
@@ -23830,6 +23818,7 @@
     "contentInfoWrapper": "contentInfoWrapper__98ba8",
     "actionWrapper": "actionWrapper__98ba8",
     "buttonWithPossibleDisabledTextWrapper": "buttonWithPossibleDisabledTextWrapper__98ba8",
+    "actionWrapperPrimaryFirst": "actionWrapperPrimaryFirst__98ba8",
     "disabledReason": "disabledReason__98ba8"
   },
   "906406": {
@@ -24824,18 +24813,9 @@
     "animatedDiv": "animatedDiv_b97385"
   },
   "956051": {
-    "modal": "modal_c9e6eb",
-    "header": "header_c9e6eb",
-    "headerImage": "headerImage_c9e6eb",
-    "title": "title_c9e6eb",
-    "body": "body_c9e6eb",
-    "content": "content_c9e6eb",
-    "footer": "footer_c9e6eb",
-    "subtitle": "subtitle_c9e6eb",
     "guildContainer": "guildContainer_c9e6eb",
     "guildInfo": "guildInfo_c9e6eb",
-    "guildName": "guildName_c9e6eb",
-    "button": "button_c9e6eb"
+    "guildName": "guildName_c9e6eb"
   },
   "956235": {
     "button": "button__9db96",
