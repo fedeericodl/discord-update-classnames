@@ -14,13 +14,6 @@
     "spacer": "spacer_d9c882",
     "createButton": "createButton_d9c882"
   },
-  "1327": {
-    "productPreview": "productPreview_dec3d3",
-    "faded": "faded_dec3d3",
-    "fullPreview": "fullPreview_dec3d3",
-    "productPreviewIconOverlay": "productPreviewIconOverlay_dec3d3",
-    "hidden": "hidden_dec3d3"
-  },
   "1721": {
     "premiumCards": "premiumCards__6df1a",
     "premiumCardHover": "premiumCardHover__6df1a",
@@ -5091,7 +5084,7 @@
     "priceTagContainer": "priceTagContainer_c50f62",
     "headingWithItemTypePill": "headingWithItemTypePill_c50f62",
     "disabledReason": "disabledReason_c50f62",
-    "variantsSwitch": "variantsSwitch_c50f62",
+    "variantsContainer": "variantsContainer_c50f62",
     "externalProductProfilePreview": "externalProductProfilePreview_c50f62",
     "wishlistButton": "wishlistButton_c50f62",
     "orbIconAligned": "orbIconAligned_c50f62",
@@ -7132,18 +7125,6 @@
     "imgDMEmbedXP": "imgDMEmbedXP__076c1",
     "buttonContainerDMEmbedXP": "buttonContainerDMEmbedXP__076c1",
     "referral": "referral__076c1"
-  },
-  "270132": {
-    "variantsPanel": "variantsPanel__6f029",
-    "variantLabel": "variantLabel__6f029",
-    "variantsList": "variantsList__6f029",
-    "colorVariant": "colorVariant__6f029",
-    "colorSwatch": "colorSwatch__6f029",
-    "open": "open__6f029",
-    "selected": "selected__6f029",
-    "purchasedIndicator": "purchasedIndicator__6f029",
-    "minimalState": "minimalState__6f029",
-    "alternativeColor": "alternativeColor__6f029"
   },
   "270479": {
     "participants": "participants__4783a",
@@ -9798,6 +9779,13 @@
     "hoverButton": "hoverButton__06ab4",
     "nonMediaMosaicItem": "nonMediaMosaicItem__06ab4",
     "sizer": "sizer__06ab4"
+  },
+  "374370": {
+    "productPreview": "productPreview__00f8b",
+    "faded": "faded__00f8b",
+    "fullPreview": "fullPreview__00f8b",
+    "productPreviewIconOverlay": "productPreviewIconOverlay__00f8b",
+    "hidden": "hidden__00f8b"
   },
   "374379": {
     "summary": "summary__3af26",
@@ -18360,7 +18348,8 @@
     "container": "container_ab64fd",
     "widgetPreview": "widgetPreview_ab64fd",
     "gameDetailsCardPreview": "gameDetailsCardPreview_ab64fd",
-    "gamePreview": "gamePreview_ab64fd"
+    "gamePreview": "gamePreview_ab64fd",
+    "wishlistItemPreview": "wishlistItemPreview_ab64fd"
   },
   "707892": {
     "colorSwatch": "colorSwatch__2d060",
@@ -22406,7 +22395,13 @@
     "actionsWrapper": "actionsWrapper__34f7d"
   },
   "855587": {
-    "grid": "grid_eb8860"
+    "grid": "grid_eb8860",
+    "dragAndDropContainer": "dragAndDropContainer_eb8860",
+    "dragHandleContainer": "dragHandleContainer_eb8860",
+    "dragHandle": "dragHandle_eb8860",
+    "isDragging": "isDragging_eb8860",
+    "dropIndicatorBefore": "dropIndicatorBefore_eb8860",
+    "dropIndicatorAfter": "dropIndicatorAfter_eb8860"
   },
   "855646": {
     "previewContainer": "previewContainer__50f14",
@@ -24977,7 +24972,6 @@
     "buttonContainer": "buttonContainer__6ca73"
   },
   "963458": {
-    "productVariantsOuterContainer": "productVariantsOuterContainer__2c397",
     "productVariantsContainer": "productVariantsContainer__2c397",
     "productVariant": "productVariant__2c397",
     "productVariantCheckmark": "productVariantCheckmark__2c397",
