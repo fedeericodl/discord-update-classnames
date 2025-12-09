@@ -4516,11 +4516,6 @@
   "169757": {
     "nowrap": "nowrap__5db79"
   },
-  "170337": {
-    "coachtipInner": "coachtipInner_b61b37",
-    "coachtipAsset": "coachtipAsset_b61b37",
-    "coachtipTextContainer": "coachtipTextContainer_b61b37"
-  },
   "170382": {
     "inputField": "inputField_a14f87",
     "datePicker": "datePicker_a14f87",
@@ -18312,10 +18307,7 @@
     "contextMenu": "contextMenu__39ec2"
   },
   "704563": {
-    "container": "container__25eff",
     "channelIdSection": "channelIdSection__25eff",
-    "inputWrapper": "inputWrapper__25eff",
-    "voiceChannelList": "voiceChannelList__25eff",
     "guildName": "guildName__25eff",
     "selectedVoiceChannel": "selectedVoiceChannel__25eff",
     "noVoiceChannelSelected": "noVoiceChannelSelected__25eff",
@@ -19844,6 +19836,7 @@
   "764516": {
     "panel": "panel__6131a",
     "scroller": "scroller__6131a",
+    "tabBar": "tabBar__6131a",
     "notice": "notice__6131a"
   },
   "765179": {
