@@ -3415,7 +3415,6 @@
     "expandedProgressBarSelectFriendsCTAInner": "expandedProgressBarSelectFriendsCTAInner_a61c56",
     "expandedProgressBarSelectFriendsIcon": "expandedProgressBarSelectFriendsIcon_a61c56",
     "expandedProgressBarHeader": "expandedProgressBarHeader_a61c56",
-    "unsentTooltipContent": "unsentTooltipContent_a61c56",
     "referralProgressBarIcon": "referralProgressBarIcon_a61c56",
     "referralProgressBarIconSettings": "referralProgressBarIconSettings_a61c56",
     "userAvatarProgressBarUnitNum": "userAvatarProgressBarUnitNum_a61c56"
@@ -14967,8 +14966,7 @@
     "disableColor": "disableColor__85d16",
     "tierTooltipTitle": "tierTooltipTitle__85d16",
     "boostedGuildTierMutedIconWithVisibleBanner": "boostedGuildTierMutedIconWithVisibleBanner__85d16",
-    "boostedGuildTierIconBackgroundWithVisibleBanner": "boostedGuildTierIconBackgroundWithVisibleBanner__85d16",
-    "invitesRefresh": "invitesRefresh__85d16"
+    "boostedGuildTierIconBackgroundWithVisibleBanner": "boostedGuildTierIconBackgroundWithVisibleBanner__85d16"
   },
   "566945": {
     "container": "container_f83afb",
@@ -22714,7 +22712,6 @@
   },
   "869786": {
     "container": "container_f37cb1",
-    "clickable": "clickable_f37cb1",
     "animatedBannerHoverLayer": "animatedBannerHoverLayer_f37cb1",
     "animatedContainer": "animatedContainer_f37cb1",
     "bannerImage": "bannerImage_f37cb1",
@@ -22723,7 +22720,6 @@
     "header": "header_f37cb1",
     "headerContent": "headerContent_f37cb1",
     "primaryInfo": "primaryInfo_f37cb1",
-    "headerButton": "headerButton_f37cb1",
     "headerChildren": "headerChildren_f37cb1",
     "communityInfoContainer": "communityInfoContainer_f37cb1",
     "hasSubheader": "hasSubheader_f37cb1",
@@ -22732,18 +22728,16 @@
     "communityInfoPill": "communityInfoPill_f37cb1",
     "communityIcon": "communityIcon_f37cb1",
     "bannerVisible": "bannerVisible_f37cb1",
-    "selected": "selected_f37cb1",
     "hasBanner": "hasBanner_f37cb1",
     "name": "name_f37cb1",
     "favoritesIcon": "favoritesIcon_f37cb1",
+    "guildDropdown": "guildDropdown_f37cb1",
+    "guildBadgeAndName": "guildBadgeAndName_f37cb1",
+    "inviteButton": "inviteButton_f37cb1",
     "themedHeaderMobile": "themedHeaderMobile_f37cb1",
     "headerEllipseForeground": "headerEllipseForeground_f37cb1",
     "headerEllipseBackdrop": "headerEllipseBackdrop_f37cb1",
-    "headerGlass": "headerGlass_f37cb1",
-    "invitesRefresh": "invitesRefresh_f37cb1",
-    "guildDropdown": "guildDropdown_f37cb1",
-    "guildBadgeAndName": "guildBadgeAndName_f37cb1",
-    "inviteButton": "inviteButton_f37cb1"
+    "headerGlass": "headerGlass_f37cb1"
   },
   "869886": {
     "container": "container_fb95a5",
@@ -25179,9 +25173,7 @@
   },
   "971606": {
     "container": "container__2637a",
-    "hubContainer": "hubContainer__2637a",
-    "dropdownButton": "dropdownButton__2637a",
-    "dropdownButtonBannerVisible": "dropdownButtonBannerVisible__2637a"
+    "hubContainer": "hubContainer__2637a"
   },
   "972526": {
     "icon": "icon__912a0",
