@@ -8123,8 +8123,8 @@
     "shuffleIntro": "shuffleIntro__08415",
     "shuffleOutro": "shuffleOutro__08415",
     "endOfFeed": "endOfFeed__08415",
-    "skeleton": "skeleton__08415",
-    "skeletonBody": "skeletonBody__08415",
+    "featuredBlockSkeleton": "featuredBlockSkeleton__08415",
+    "featuredBlockSkeletonLogo": "featuredBlockSkeletonLogo__08415",
     "bannerBlockContainer": "bannerBlockContainer__08415",
     "bannerBlockContainerClickable": "bannerBlockContainerClickable__08415",
     "wideBannerBackgroundImg": "wideBannerBackgroundImg__08415",
@@ -12062,7 +12062,6 @@
   },
   "452785": {
     "inventory": "inventory__1feb0",
-    "inventoryFilter": "inventoryFilter__1feb0",
     "controls": "controls__1feb0",
     "controlsLeftSide": "controlsLeftSide__1feb0",
     "controlsRightSide": "controlsRightSide__1feb0",
@@ -12073,10 +12072,8 @@
     "filterOverlay": "filterOverlay__1feb0",
     "filterOverlayContent": "filterOverlayContent__1feb0",
     "pageWrapper": "pageWrapper__1feb0",
-    "pageWrapperFilter": "pageWrapperFilter__1feb0",
     "inventoryWrapper": "inventoryWrapper__1feb0",
     "page": "page__1feb0",
-    "pageFilter": "pageFilter__1feb0",
     "shopScroll": "shopScroll__1feb0"
   },
   "452847": {
@@ -13850,7 +13847,9 @@
     "midnightThemeGradient": "midnightThemeGradient_b5b7aa",
     "lightThemeGradient": "lightThemeGradient_b5b7aa",
     "topRow": "topRow_b5b7aa",
+    "pills": "pills_b5b7aa",
     "pill": "pill_b5b7aa",
+    "pillBrand": "pillBrand_b5b7aa",
     "eyebrowText": "eyebrowText_b5b7aa",
     "utilButtonWrapper": "utilButtonWrapper_b5b7aa",
     "utilButtonIcon": "utilButtonIcon_b5b7aa",
@@ -15298,7 +15297,6 @@
   },
   "582220": {
     "safetyBanner": "safetyBanner__51e4d",
-    "safetyShieldIcon": "safetyShieldIcon__51e4d",
     "buttons": "buttons__51e4d",
     "shieldAndHeading": "shieldAndHeading__51e4d",
     "closeButton": "closeButton__51e4d"
@@ -17888,15 +17886,6 @@
     "zIndex1": "zIndex1__94da4",
     "trialMarketingMargin": "trialMarketingMargin__94da4",
     "bottomOfPageVisibilitySensor": "bottomOfPageVisibilitySensor__94da4"
-  },
-  "689157": {
-    "container": "container__2451c",
-    "profileEffectShopPreview": "profileEffectShopPreview__2451c",
-    "avatarDecorationPreview": "avatarDecorationPreview__2451c",
-    "twoItemBundle": "twoItemBundle__2451c",
-    "threeItemBundle": "threeItemBundle__2451c",
-    "nameplatePreview": "nameplatePreview__2451c",
-    "avatar": "avatar__2451c"
   },
   "689315": {
     "section": "section__1f6ca",
@@ -23098,6 +23087,15 @@
     "toggledIconOn": "toggledIconOn__777cc",
     "tutorialTip": "tutorialTip__777cc"
   },
+  "881937": {
+    "container": "container__6d099",
+    "profileEffectShopPreview": "profileEffectShopPreview__6d099",
+    "avatarDecorationPreview": "avatarDecorationPreview__6d099",
+    "twoItemBundle": "twoItemBundle__6d099",
+    "threeItemBundle": "threeItemBundle__6d099",
+    "nameplatePreview": "nameplatePreview__6d099",
+    "avatar": "avatar__6d099"
+  },
   "882313": {
     "textboxContainer": "textboxContainer__7e1d8"
   },
@@ -23278,7 +23276,6 @@
     "shop": "shop__6db1d",
     "easterEggAnimation": "easterEggAnimation__6db1d",
     "easterEggAnimationReverse": "easterEggAnimationReverse__6db1d",
-    "categoriesNoFilter": "categoriesNoFilter__6db1d",
     "categories": "categories__6db1d",
     "products": "products__6db1d",
     "paginationContainer": "paginationContainer__6db1d",
