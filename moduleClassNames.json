@@ -11597,12 +11597,6 @@
     "iconContainer": "iconContainer__98cf7",
     "filledIcon": "filledIcon__98cf7"
   },
-  "438831": {
-    "closeButton": "closeButton__6da35",
-    "content": "content__6da35",
-    "image": "image__6da35",
-    "header": "header__6da35"
-  },
   "439178": {
     "overlay": "overlay__3b260",
     "divider": "divider__3b260",
@@ -11739,8 +11733,8 @@
     "channelSubtitles": "channelSubtitles_e4503a",
     "channelSubtitle": "channelSubtitle_e4503a",
     "subtitleSeparator": "subtitleSeparator_e4503a",
-    "channelName": "channelName_e4503a",
     "topic": "topic_e4503a",
+    "channelName": "channelName_e4503a",
     "separator": "separator_e4503a",
     "viewChannelButtonWrapper": "viewChannelButtonWrapper_e4503a",
     "scrollerInner": "scrollerInner_e4503a"
@@ -19811,7 +19805,9 @@
     "panel": "panel__6131a",
     "scroller": "scroller__6131a",
     "tabBar": "tabBar__6131a",
-    "notice": "notice__6131a"
+    "notice": "notice__6131a",
+    "categories": "categories__6131a",
+    "divider": "divider__6131a"
   },
   "765179": {
     "container": "container_ef0711",
@@ -19940,10 +19936,6 @@
     "inline": "inline_d9f765",
     "unfilledButton": "unfilledButton_d9f765",
     "modalRoot": "modalRoot_d9f765"
-  },
-  "770877": {
-    "pane": "pane__3e84f",
-    "divider": "divider__3e84f"
   },
   "770978": {
     "scroller": "scroller__95bea",
