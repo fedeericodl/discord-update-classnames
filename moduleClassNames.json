@@ -93,6 +93,7 @@
   "3083": {
     "scroller": "_3b92361cacc65834-scroller",
     "hasToolbar": "_3b92361cacc65834-hasToolbar",
+    "editingHeader": "_3b92361cacc65834-editingHeader",
     "ukTeenDisclaimer": "_3b92361cacc65834-ukTeenDisclaimer"
   },
   "3311": {
@@ -6894,16 +6895,6 @@
     "modalPreview": "ced2f2b335a767e2-modalPreview",
     "modalFooter": "ced2f2b335a767e2-modalFooter"
   },
-  "258678": {
-    "button": "fb7f9476ada049c8-button",
-    "icon": "fb7f9476ada049c8-icon",
-    "banner": "fb7f9476ada049c8-banner",
-    "buttonInner": "fb7f9476ada049c8-buttonInner",
-    "themeColor": "fb7f9476ada049c8-themeColor",
-    "primary": "fb7f9476ada049c8-primary",
-    "secondary": "fb7f9476ada049c8-secondary",
-    "bannerColor": "fb7f9476ada049c8-bannerColor"
-  },
   "259163": {
     "container": "c8c710e94d6c035c-container"
   },
@@ -10352,6 +10343,9 @@
   "395051": {
     "roleInputContainer": "cfa6c7afccc96c4f-roleInputContainer",
     "roleColorContainer": "cfa6c7afccc96c4f-roleColorContainer"
+  },
+  "395356": {
+    "header": "_363359b5c2d9ffc8-header"
   },
   "395510": {
     "guildSelector": "c3d9481c21f6c807-guildSelector",
