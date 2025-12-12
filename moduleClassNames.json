@@ -1293,8 +1293,8 @@
     "previewMessage": "_5d148ffac19e7fb1-previewMessage",
     "previewHeader": "_5d148ffac19e7fb1-previewHeader",
     "previewAvatars": "_5d148ffac19e7fb1-previewAvatars",
-    "ttsPreviewWrapper": "_5d148ffac19e7fb1-ttsPreviewWrapper",
-    "reducedMotion": "_5d148ffac19e7fb1-reducedMotion"
+    "reducedMotion": "_5d148ffac19e7fb1-reducedMotion",
+    "appearanceUpsell": "_5d148ffac19e7fb1-appearanceUpsell"
   },
   "54497": {
     "accountProfileCard": "_1fed1dd06c7aabf7-accountProfileCard",
@@ -18439,9 +18439,7 @@
     "sessionMoreButton": "_803f2f55621144fb-sessionMoreButton",
     "sessionCheckbox": "_803f2f55621144fb-sessionCheckbox",
     "logOutAllButton": "_803f2f55621144fb-logOutAllButton",
-    "loading": "_803f2f55621144fb-loading",
-    "tools": "_803f2f55621144fb-tools",
-    "toolsTitle": "_803f2f55621144fb-toolsTitle"
+    "loading": "_803f2f55621144fb-loading"
   },
   "714367": {
     "hr": "_0f7f70da7503165e-hr",
@@ -24519,12 +24517,6 @@
   "958389": {
     "category": "_3ddc0d8784daab3c-category",
     "channelIcon": "_3ddc0d8784daab3c-channelIcon"
-  },
-  "958429": {
-    "neverShow": "_6480d1c51952f276-neverShow",
-    "cancelButton": "_6480d1c51952f276-cancelButton",
-    "footerButtons": "_6480d1c51952f276-footerButtons",
-    "radioMessageContainer": "_6480d1c51952f276-radioMessageContainer"
   },
   "959045": {
     "title": "_2412bd85e1228fe6-title",
