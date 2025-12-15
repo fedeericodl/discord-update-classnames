@@ -1777,6 +1777,12 @@
     "textAreaMobileThemed": "_740174f3d6a2c8fe-textAreaMobileThemed",
     "announcementScrollableContainer": "_740174f3d6a2c8fe-announcementScrollableContainer _740174f3d6a2c8fe-scrollableContainer"
   },
+  "73051": {
+    "container": "_3f0b787cf26e4691-container",
+    "header": "_3f0b787cf26e4691-header",
+    "wordmark": "_3f0b787cf26e4691-wordmark",
+    "subheader": "_3f0b787cf26e4691-subheader"
+  },
   "73238": {
     "wrapper": "be018f868fa303cc-wrapper",
     "header": "be018f868fa303cc-header",
@@ -11480,7 +11486,8 @@
     "rimGlowTier2": "a45ed3bc8a11b547-rimGlowTier2",
     "trialHeader": "a45ed3bc8a11b547-trialHeader",
     "fractionalPremiumTopRimPill": "a45ed3bc8a11b547-fractionalPremiumTopRimPill",
-    "fractionalPremiumSubheader": "a45ed3bc8a11b547-fractionalPremiumSubheader"
+    "fractionalPremiumSubheader": "a45ed3bc8a11b547-fractionalPremiumSubheader",
+    "premiumGroupHeader": "a45ed3bc8a11b547-premiumGroupHeader"
   },
   "434170": {
     "hiddenInputContainer": "_81b362f0b1565fcd-hiddenInputContainer"
@@ -17479,13 +17486,6 @@
     "videoSizer": "a21736575ea33af0-videoSizer",
     "focusedVideo": "a21736575ea33af0-focusedVideo"
   },
-  "676641": {
-    "content": "_1cd5e7e64bfbe76f-content",
-    "header": "_1cd5e7e64bfbe76f-header",
-    "subtitle": "_1cd5e7e64bfbe76f-subtitle",
-    "modalCloseButton": "_1cd5e7e64bfbe76f-modalCloseButton",
-    "cancel": "_1cd5e7e64bfbe76f-cancel"
-  },
   "677210": {
     "root": "_7f7273e3e762eb9d-root",
     "nativePicker": "_7f7273e3e762eb9d-nativePicker",
@@ -22750,9 +22750,6 @@
     "blockedMessageText": "_7a70a677dab584df-blockedMessageText",
     "blockedAction": "_7a70a677dab584df-blockedAction"
   },
-  "884874": {
-    "newChannel": "_599fa27f4d2464c6-newChannel"
-  },
   "884878": {
     "syntaxAfter": "ada32f6ad5a36c58-syntaxAfter",
     "syntaxBefore": "ada32f6ad5a36c58-syntaxBefore",
@@ -24232,7 +24229,9 @@
     "mostPopularPill": "e4ef5cb9eb007591-mostPopularPill",
     "mostPopularText": "e4ef5cb9eb007591-mostPopularText",
     "bogoPillWithSparkles": "e4ef5cb9eb007591-bogoPillWithSparkles",
-    "freeTrialPillWithSparkles": "e4ef5cb9eb007591-freeTrialPillWithSparkles"
+    "freeTrialPillWithSparkles": "e4ef5cb9eb007591-freeTrialPillWithSparkles",
+    "premiumGroupCard": "e4ef5cb9eb007591-premiumGroupCard",
+    "textLogo": "e4ef5cb9eb007591-textLogo"
   },
   "948864": {
     "container": "_4a98c7240c81e683-container",
