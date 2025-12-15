@@ -18628,7 +18628,8 @@
     "tierComparisonTable": "_744fffb886c6f25b-tierComparisonTable",
     "boosterRecognitionCard": "_744fffb886c6f25b-boosterRecognitionCard",
     "faq": "_744fffb886c6f25b-faq",
-    "blockedPaymentsWarning": "_744fffb886c6f25b-blockedPaymentsWarning"
+    "blockedPaymentsWarning": "_744fffb886c6f25b-blockedPaymentsWarning",
+    "guildBoostingSettings": "_744fffb886c6f25b-guildBoostingSettings"
   },
   "718726": {
     "messageRequestItem": "abb9ad4c358e5829-messageRequestItem",
@@ -20307,6 +20308,10 @@
     "pill": "fccfdf3cfff21921-pill",
     "expandButton": "fccfdf3cfff21921-expandButton fccfdf3cfff21921-pill",
     "collapseButton": "fccfdf3cfff21921-collapseButton fccfdf3cfff21921-pill"
+  },
+  "787411": {
+    "guildBoostUnavailableNotice": "_0c507a672a52b3e0-guildBoostUnavailableNotice",
+    "guildBoostUnavailableNoticeText": "_0c507a672a52b3e0-guildBoostUnavailableNoticeText"
   },
   "787630": {
     "appIconSelectionContainer": "_8a3d71a4c4dc2512-appIconSelectionContainer",
