@@ -2513,7 +2513,6 @@
   "101490": {
     "fadeInAvatarImg": "d71c71459df6d8de-fadeInAvatarImg",
     "fadeIn": "d71c71459df6d8de-fadeIn",
-    "avatarPurchased": "d71c71459df6d8de-avatarPurchased",
     "avatar": "d71c71459df6d8de-avatar"
   },
   "101713": {
@@ -6741,12 +6740,11 @@
   },
   "252728": {
     "shopCard": "bab2bcf65c38925f-shopCard",
-    "shopCardDark": "bab2bcf65c38925f-shopCardDark bab2bcf65c38925f-shopCard",
-    "shopCardHighlighted": "bab2bcf65c38925f-shopCardHighlighted",
-    "shopCardDarkHighlighted": "bab2bcf65c38925f-shopCardDarkHighlighted",
+    "highlighted": "bab2bcf65c38925f-highlighted",
     "shopCardAnimation": "bab2bcf65c38925f-shopCardAnimation",
     "shopCardSelected": "bab2bcf65c38925f-shopCardSelected",
-    "shopCardClaimed": "bab2bcf65c38925f-shopCardClaimed",
+    "previewContainer": "bab2bcf65c38925f-previewContainer",
+    "claimed": "bab2bcf65c38925f-claimed",
     "claimedIcon": "bab2bcf65c38925f-claimedIcon",
     "preview": "bab2bcf65c38925f-preview",
     "previewTrick": "bab2bcf65c38925f-previewTrick",
@@ -12499,7 +12497,17 @@
     "tree": "fb0b3febb2a1e0e7-tree",
     "settingNodeChildren": "fb0b3febb2a1e0e7-settingNodeChildren",
     "headerBar": "fb0b3febb2a1e0e7-headerBar",
-    "headerCaret": "fb0b3febb2a1e0e7-headerCaret"
+    "headerCaret": "fb0b3febb2a1e0e7-headerCaret",
+    "holidayText": "fb0b3febb2a1e0e7-holidayText",
+    "holidayLetter": "fb0b3febb2a1e0e7-holidayLetter",
+    "lightsA": "fb0b3febb2a1e0e7-lightsA",
+    "lightsB": "fb0b3febb2a1e0e7-lightsB",
+    "lightsC": "fb0b3febb2a1e0e7-lightsC",
+    "lightsD": "fb0b3febb2a1e0e7-lightsD",
+    "rootMigratedLetter": "fb0b3febb2a1e0e7-rootMigratedLetter",
+    "rootMigratedA": "fb0b3febb2a1e0e7-rootMigratedA",
+    "rootMigratedB": "fb0b3febb2a1e0e7-rootMigratedB",
+    "rootMigratedC": "fb0b3febb2a1e0e7-rootMigratedC"
   },
   "478321": {
     "channelIcon": "e981860cc2df4b1b-channelIcon",
@@ -15234,8 +15242,7 @@
     "previewContainerSetHeight": "_1e45840d30b6fafc-previewContainerSetHeight",
     "previewContainerAnimation": "_1e45840d30b6fafc-previewContainerAnimation",
     "scaleIn": "_1e45840d30b6fafc-scaleIn",
-    "preview": "_1e45840d30b6fafc-preview",
-    "purchasedEffect": "_1e45840d30b6fafc-purchasedEffect"
+    "preview": "_1e45840d30b6fafc-preview"
   },
   "585484": {
     "container": "_93db49446403e33e-container",
@@ -15251,7 +15258,6 @@
     "avatarContainer": "e144e058a84f76ff-avatarContainer",
     "avatar": "e144e058a84f76ff-avatar",
     "avatarVisible": "e144e058a84f76ff-avatarVisible",
-    "nameplatePurchased": "e144e058a84f76ff-nameplatePurchased",
     "placeholderUsername": "e144e058a84f76ff-placeholderUsername",
     "tagChiplet": "e144e058a84f76ff-tagChiplet",
     "inheritWidth": "e144e058a84f76ff-inheritWidth"
