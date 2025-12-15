@@ -3271,13 +3271,13 @@
     "divider": "_7641b507c6cdbb10-divider",
     "private": "_7641b507c6cdbb10-private",
     "instructions": "_7641b507c6cdbb10-instructions",
+    "container": "_7641b507c6cdbb10-container",
     "emptyState": "_7641b507c6cdbb10-emptyState",
     "emptyStateHeader": "_7641b507c6cdbb10-emptyStateHeader",
     "emptyStateIcon": "_7641b507c6cdbb10-emptyStateIcon",
     "emptyStateIconContainer": "_7641b507c6cdbb10-emptyStateIconContainer",
     "emptyStateStars": "_7641b507c6cdbb10-emptyStateStars",
-    "emptyStateSubtext": "_7641b507c6cdbb10-emptyStateSubtext",
-    "container": "_7641b507c6cdbb10-container"
+    "emptyStateSubtext": "_7641b507c6cdbb10-emptyStateSubtext"
   },
   "129753": {
     "divider": "_277032aeb883d771-divider",
@@ -5363,14 +5363,12 @@
   },
   "203549": {
     "container": "_38524e4c5f939069-container",
-    "containerV2": "_38524e4c5f939069-containerV2",
     "connectedCounter": "_38524e4c5f939069-connectedCounter",
     "icon": "_38524e4c5f939069-icon",
     "tooltip": "_38524e4c5f939069-tooltip",
     "header": "_38524e4c5f939069-header",
     "headerText": "_38524e4c5f939069-headerText",
     "activityCounterRow": "_38524e4c5f939069-activityCounterRow",
-    "activityCounterRowV2": "_38524e4c5f939069-activityCounterRowV2",
     "activityOverview": "_38524e4c5f939069-activityOverview",
     "emptyActivity": "_38524e4c5f939069-emptyActivity",
     "actionSection": "_38524e4c5f939069-actionSection",
