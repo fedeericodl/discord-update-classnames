@@ -509,22 +509,7 @@
     "fieldset": "fec5bfb64098f96b-fieldset"
   },
   "23512": {
-    "container": "ef2eb43282958c32-container",
-    "content": "ef2eb43282958c32-content",
-    "headerCaption": "ef2eb43282958c32-headerCaption",
-    "form": "ef2eb43282958c32-form",
-    "icon": "ef2eb43282958c32-icon",
-    "header": "ef2eb43282958c32-header",
-    "checkboxOption": "ef2eb43282958c32-checkboxOption",
-    "disabled": "ef2eb43282958c32-disabled",
-    "footerImage": "ef2eb43282958c32-footerImage",
-    "updatedHeader": "ef2eb43282958c32-updatedHeader",
-    "updatedForm": "ef2eb43282958c32-updatedForm",
-    "checklistRow": "ef2eb43282958c32-checklistRow",
     "checklistIcon": "ef2eb43282958c32-checklistIcon",
-    "roleRow": "ef2eb43282958c32-roleRow",
-    "roleDot": "ef2eb43282958c32-roleDot",
-    "roleName": "ef2eb43282958c32-roleName",
     "table": "ef2eb43282958c32-table",
     "tableContainer": "ef2eb43282958c32-tableContainer",
     "tableHeader": "ef2eb43282958c32-tableHeader",
@@ -4471,7 +4456,11 @@
     "bottomGradient": "abfd909f61de9fdf-bottomGradient",
     "iconAsset": "abfd909f61de9fdf-iconAsset",
     "badge": "abfd909f61de9fdf-badge",
-    "wishlistButtonContainer": "abfd909f61de9fdf-wishlistButtonContainer",
+    "cardButtonsContainer": "abfd909f61de9fdf-cardButtonsContainer",
+    "wishlistButton": "abfd909f61de9fdf-wishlistButton",
+    "forwardButton": "abfd909f61de9fdf-forwardButton",
+    "cardButtonContainer": "abfd909f61de9fdf-cardButtonContainer",
+    "cardButtonContainerHovered": "abfd909f61de9fdf-cardButtonContainerHovered",
     "pulse": "abfd909f61de9fdf-pulse",
     "placeholderCard": "abfd909f61de9fdf-placeholderCard",
     "placeholderDescription": "abfd909f61de9fdf-placeholderDescription",
@@ -12606,22 +12595,6 @@
     "discountOfferContent": "_5521c625eee7bda5-discountOfferContent",
     "nitroIcon": "_5521c625eee7bda5-nitroIcon"
   },
-  "482554": {
-    "noScroll": "_6515e2dee2dfdb8e-noScroll",
-    "container": "_6515e2dee2dfdb8e-container _6515e2dee2dfdb8e-noScroll",
-    "sequencer": "_6515e2dee2dfdb8e-sequencer",
-    "innerSequencer": "_6515e2dee2dfdb8e-innerSequencer",
-    "modal": "_6515e2dee2dfdb8e-modal",
-    "overviewSidebar": "_6515e2dee2dfdb8e-overviewSidebar",
-    "header": "_6515e2dee2dfdb8e-header",
-    "closeButton": "_6515e2dee2dfdb8e-closeButton",
-    "footer": "_6515e2dee2dfdb8e-footer",
-    "overviewSteps": "_6515e2dee2dfdb8e-overviewSteps",
-    "overviewStep": "_6515e2dee2dfdb8e-overviewStep",
-    "stepIndex": "_6515e2dee2dfdb8e-stepIndex",
-    "stepTitle": "_6515e2dee2dfdb8e-stepTitle",
-    "selected": "_6515e2dee2dfdb8e-selected"
-  },
   "482563": {
     "items": "_3ff9235ed5dedd8d-items",
     "itemMeasurements": "_3ff9235ed5dedd8d-itemMeasurements",
@@ -19007,6 +18980,31 @@
     "divider": "_1fcacb0d444cb493-divider",
     "spacingLarge": "_1fcacb0d444cb493-spacingLarge"
   },
+  "733005": {
+    "container": "_50e4ecc92cc862b6-container",
+    "content": "_50e4ecc92cc862b6-content",
+    "headerCaption": "_50e4ecc92cc862b6-headerCaption",
+    "form": "_50e4ecc92cc862b6-form",
+    "icon": "_50e4ecc92cc862b6-icon",
+    "header": "_50e4ecc92cc862b6-header",
+    "checkboxOption": "_50e4ecc92cc862b6-checkboxOption",
+    "disabled": "_50e4ecc92cc862b6-disabled",
+    "footerImage": "_50e4ecc92cc862b6-footerImage",
+    "updatedHeader": "_50e4ecc92cc862b6-updatedHeader",
+    "updatedForm": "_50e4ecc92cc862b6-updatedForm",
+    "checklistRow": "_50e4ecc92cc862b6-checklistRow",
+    "checklistIcon": "_50e4ecc92cc862b6-checklistIcon",
+    "roleRow": "_50e4ecc92cc862b6-roleRow",
+    "roleDot": "_50e4ecc92cc862b6-roleDot",
+    "roleName": "_50e4ecc92cc862b6-roleName",
+    "table": "_50e4ecc92cc862b6-table",
+    "tableContainer": "_50e4ecc92cc862b6-tableContainer",
+    "tableHeader": "_50e4ecc92cc862b6-tableHeader",
+    "permissionsTable": "_50e4ecc92cc862b6-permissionsTable",
+    "permissionRow": "_50e4ecc92cc862b6-permissionRow",
+    "bullet": "_50e4ecc92cc862b6-bullet",
+    "bulletWarning": "_50e4ecc92cc862b6-bulletWarning _50e4ecc92cc862b6-bullet"
+  },
   "733070": {
     "section": "_999b58b4e43c632d-section",
     "guildSelectOptionIcon": "_999b58b4e43c632d-guildSelectOptionIcon"
@@ -22839,6 +22837,13 @@
     "image": "ef07112874c7cc4f-image",
     "contentContainer": "ef07112874c7cc4f-contentContainer"
   },
+  "887444": {
+    "forwardPreview": "f4b524c32c183432-forwardPreview",
+    "linkContainer": "f4b524c32c183432-linkContainer",
+    "linkIcon": "f4b524c32c183432-linkIcon",
+    "applicationInfo": "f4b524c32c183432-applicationInfo",
+    "cardImage": "f4b524c32c183432-cardImage"
+  },
   "887477": {
     "guildStatus": "f9f04c96ff5e7a45-guildStatus",
     "guildIcon": "f9f04c96ff5e7a45-guildIcon",
@@ -25063,6 +25068,22 @@
     "messageContent": "fc958fc3c8bd9e8b-messageContent",
     "originalMessageAuthorAvatar": "fc958fc3c8bd9e8b-originalMessageAuthorAvatar",
     "newBadge": "fc958fc3c8bd9e8b-newBadge"
+  },
+  "975101": {
+    "noScroll": "b071d449c343cb88-noScroll",
+    "container": "b071d449c343cb88-container b071d449c343cb88-noScroll",
+    "sequencer": "b071d449c343cb88-sequencer",
+    "innerSequencer": "b071d449c343cb88-innerSequencer",
+    "modal": "b071d449c343cb88-modal",
+    "overviewSidebar": "b071d449c343cb88-overviewSidebar",
+    "header": "b071d449c343cb88-header",
+    "closeButton": "b071d449c343cb88-closeButton",
+    "footer": "b071d449c343cb88-footer",
+    "overviewSteps": "b071d449c343cb88-overviewSteps",
+    "overviewStep": "b071d449c343cb88-overviewStep",
+    "stepIndex": "b071d449c343cb88-stepIndex",
+    "stepTitle": "b071d449c343cb88-stepTitle",
+    "selected": "b071d449c343cb88-selected"
   },
   "975317": {
     "container": "_251d4c1d6684d118-container",
