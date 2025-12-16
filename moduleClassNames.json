@@ -6780,8 +6780,6 @@
     "pollContainer": "b7e1cb0370c2dd0e-pollContainer",
     "confirmText": "b7e1cb0370c2dd0e-confirmText",
     "threadRoleMentionFailure": "b7e1cb0370c2dd0e-threadRoleMentionFailure",
-    "nitroFileSizeUpsell": "b7e1cb0370c2dd0e-nitroFileSizeUpsell",
-    "nitroBadgeSvg": "b7e1cb0370c2dd0e-nitroBadgeSvg",
     "ctaButtonContainer": "b7e1cb0370c2dd0e-ctaButtonContainer"
   },
   "253623": {
@@ -9471,8 +9469,6 @@
     "spinnerVideo": "_921c50dc4baa4b4f-spinnerVideo",
     "image": "_921c50dc4baa4b4f-image",
     "block": "_921c50dc4baa4b4f-block",
-    "button": "_921c50dc4baa4b4f-button",
-    "linkButton": "_921c50dc4baa4b4f-linkButton",
     "inviteIcon": "_921c50dc4baa4b4f-inviteIcon",
     "inviteLargeIcon": "_921c50dc4baa4b4f-inviteLargeIcon _921c50dc4baa4b4f-inviteIcon",
     "downloadButtonSubtext": "_921c50dc4baa4b4f-downloadButtonSubtext"
