@@ -714,6 +714,12 @@
     "starLeft": "_98c7bb4db473bc75-starLeft",
     "starRight": "_98c7bb4db473bc75-starRight"
   },
+  "28005": {
+    "messagePreviewLine": "e2dd9f62bbefba8d-messagePreviewLine",
+    "messageContent": "e2dd9f62bbefba8d-messageContent",
+    "messageContentTrailingIcon": "e2dd9f62bbefba8d-messageContentTrailingIcon",
+    "colorTextFeedbackPositive": "e2dd9f62bbefba8d-colorTextFeedbackPositive"
+  },
   "28034": {
     "messages": "_1ccd1ba5cb2270c2-messages",
     "messageContainer": "_1ccd1ba5cb2270c2-messageContainer",
@@ -2580,6 +2586,8 @@
     "link": "_972a0d22c8afa7f0-link",
     "linkButton": "_972a0d22c8afa7f0-linkButton",
     "linkButtonIcon": "_972a0d22c8afa7f0-linkButtonIcon",
+    "timestamp": "_972a0d22c8afa7f0-timestamp",
+    "username": "_972a0d22c8afa7f0-username",
     "closeButton": "_972a0d22c8afa7f0-closeButton",
     "reducedClickTarget": "_972a0d22c8afa7f0-reducedClickTarget",
     "closeButtonForceShow": "_972a0d22c8afa7f0-closeButtonForceShow",
