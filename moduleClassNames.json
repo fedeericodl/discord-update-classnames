@@ -8601,9 +8601,6 @@
     "menuIcon": "f41a994450e4a2ef-menuIcon",
     "leaveActivityIcon": "f41a994450e4a2ef-leaveActivityIcon"
   },
-  "323407": {
-    "invalidBody": "_164c9b41af229e52-invalidBody"
-  },
   "323453": {
     "wrapper": "_2ea32c412048f708-wrapper",
     "icon": "_2ea32c412048f708-icon",
@@ -13635,6 +13632,9 @@
     "sendButton": "_36c1b800b44a2078-sendButton",
     "sendButtonContents": "_36c1b800b44a2078-sendButtonContents",
     "sendButtonIcons": "_36c1b800b44a2078-sendButtonIcons"
+  },
+  "526930": {
+    "invalidBody": "_164c9b41af229e52-invalidBody"
   },
   "527019": {
     "container": "a4647503d649b4d2-container",
