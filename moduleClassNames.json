@@ -4436,7 +4436,6 @@
   },
   "171532": {
     "card": "abfd909f61de9fdf-card",
-    "cardContainer": "abfd909f61de9fdf-cardContainer",
     "cardMedium": "abfd909f61de9fdf-cardMedium",
     "cardSmall": "abfd909f61de9fdf-cardSmall",
     "cardImageContainer": "abfd909f61de9fdf-cardImageContainer",
@@ -4444,6 +4443,7 @@
     "cardDark": "abfd909f61de9fdf-cardDark abfd909f61de9fdf-card",
     "cardHighlighted": "abfd909f61de9fdf-cardHighlighted",
     "cardDarkHighlighted": "abfd909f61de9fdf-cardDarkHighlighted",
+    "cardNotLoaded": "abfd909f61de9fdf-cardNotLoaded",
     "cardAnimation": "abfd909f61de9fdf-cardAnimation",
     "cardBackgroundImage": "abfd909f61de9fdf-cardBackgroundImage",
     "cardImage": "abfd909f61de9fdf-cardImage",
@@ -4463,8 +4463,7 @@
     "cardButtonContainerHovered": "abfd909f61de9fdf-cardButtonContainerHovered",
     "pulse": "abfd909f61de9fdf-pulse",
     "placeholderCard": "abfd909f61de9fdf-placeholderCard",
-    "placeholderDescription": "abfd909f61de9fdf-placeholderDescription",
-    "placeholderTitle": "abfd909f61de9fdf-placeholderTitle"
+    "placeholderText": "abfd909f61de9fdf-placeholderText"
   },
   "171573": {
     "sectionDescription": "_8d74205817b61e29-sectionDescription",
@@ -7635,14 +7634,6 @@
     "header": "_20c9227d08ac9eca-header",
     "thumbnailStackContainer": "_20c9227d08ac9eca-thumbnailStackContainer",
     "buttonsContainer": "_20c9227d08ac9eca-buttonsContainer"
-  },
-  "288336": {
-    "value": "f494f45ebe148b34-value",
-    "icon": "f494f45ebe148b34-icon",
-    "label": "f494f45ebe148b34-label",
-    "option": "f494f45ebe148b34-option",
-    "optionLabelContainer": "f494f45ebe148b34-optionLabelContainer",
-    "sublabel": "f494f45ebe148b34-sublabel"
   },
   "289033": {
     "container": "_2637a2609f343032-container",
@@ -17785,7 +17776,6 @@
     "icon": "_6c75d92c128c46b0-icon",
     "credentialList": "_6c75d92c128c46b0-credentialList",
     "credentialItem": "_6c75d92c128c46b0-credentialItem",
-    "credentialOptions": "_6c75d92c128c46b0-credentialOptions",
     "footer": "_6c75d92c128c46b0-footer"
   },
   "689926": {
