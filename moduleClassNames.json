@@ -674,7 +674,8 @@
     "container": "_4e30a003110eaaf1-container",
     "popoutHeaderContainer": "_4e30a003110eaaf1-popoutHeaderContainer",
     "headerDivider": "_4e30a003110eaaf1-headerDivider",
-    "settingNudgeText": "_4e30a003110eaaf1-settingNudgeText"
+    "settingNudgeText": "_4e30a003110eaaf1-settingNudgeText",
+    "voiceChannelGiftingBreadcrumb": "_4e30a003110eaaf1-voiceChannelGiftingBreadcrumb"
   },
   "27174": {
     "container": "_52c9db19a26ac50b-container",
@@ -9946,7 +9947,8 @@
     "shopHomeLink": "_8067953d83f4b8a8-shopHomeLink",
     "alignedRightContent": "_8067953d83f4b8a8-alignedRightContent",
     "wishlistButton": "_8067953d83f4b8a8-wishlistButton",
-    "balanceWidgetMenu": "_8067953d83f4b8a8-balanceWidgetMenu"
+    "balanceWidgetMenu": "_8067953d83f4b8a8-balanceWidgetMenu",
+    "newBadge": "_8067953d83f4b8a8-newBadge"
   },
   "379481": {
     "container": "_9b0bb5a24b6706b6-container",
@@ -17722,6 +17724,12 @@
     "countryName": "_61a011270c9135f1-countryName",
     "countryCode": "_61a011270c9135f1-countryCode"
   },
+  "687068": {
+    "container": "_3a590bee48558ff9-container",
+    "header": "_3a590bee48558ff9-header",
+    "applicationIcon": "_3a590bee48558ff9-applicationIcon",
+    "items": "_3a590bee48558ff9-items"
+  },
   "687130": {
     "fillParent": "_078ba7e849715dc7-fillParent",
     "hiddenIframeContainer": "_078ba7e849715dc7-hiddenIframeContainer",
@@ -21018,7 +21026,8 @@
     "popoutTextSecondary": "af3b89684c536957-popoutTextSecondary",
     "streamingPopoutHero": "af3b89684c536957-streamingPopoutHero",
     "streamCTA": "af3b89684c536957-streamCTA",
-    "maybeClickable": "af3b89684c536957-maybeClickable"
+    "maybeClickable": "af3b89684c536957-maybeClickable",
+    "popoutGiftingBreadcrumb": "af3b89684c536957-popoutGiftingBreadcrumb"
   },
   "814855": {
     "container": "ab64fd2612fba03d-container",
@@ -22954,6 +22963,7 @@
     "card": "_39b322c2a73a9168-card",
     "container": "_39b322c2a73a9168-container",
     "smallCard": "_39b322c2a73a9168-smallCard",
+    "smallSquareCard": "_39b322c2a73a9168-smallSquareCard",
     "largeCard": "_39b322c2a73a9168-largeCard",
     "isOwned": "_39b322c2a73a9168-isOwned",
     "cardPreview": "_39b322c2a73a9168-cardPreview",
