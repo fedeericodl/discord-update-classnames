@@ -6387,13 +6387,8 @@
     "editable": "_730694f5672c9601-editable"
   },
   "238168": {
-    "clipsEducationHeader": "_384add4eeb13edc8-clipsEducationHeader",
-    "clipsEducationArt": "_384add4eeb13edc8-clipsEducationArt",
-    "keyCombo": "_384add4eeb13edc8-keyCombo",
-    "bodyText": "_384add4eeb13edc8-bodyText",
     "keybindHintKeys": "_384add4eeb13edc8-keybindHintKeys",
-    "keybindShortcut": "_384add4eeb13edc8-keybindShortcut",
-    "header": "_384add4eeb13edc8-header"
+    "keybindShortcut": "_384add4eeb13edc8-keybindShortcut"
   },
   "238243": {
     "header": "c0b6127ca5732942-header"
@@ -17455,27 +17450,6 @@
     "cardPlaceholder": "_84e3e626b96552ad-cardPlaceholder _84e3e626b96552ad-card",
     "transitionItem": "_84e3e626b96552ad-transitionItem"
   },
-  "675065": {
-    "content": "b00844daa4443599-content",
-    "contentNoArt": "b00844daa4443599-contentNoArt",
-    "contentPremium": "b00844daa4443599-contentPremium",
-    "art": "b00844daa4443599-art",
-    "artAbsolute": "b00844daa4443599-artAbsolute b00844daa4443599-art",
-    "artInline": "b00844daa4443599-artInline b00844daa4443599-art",
-    "body": "b00844daa4443599-body",
-    "header": "b00844daa4443599-header",
-    "headerWithPremiumIcon": "b00844daa4443599-headerWithPremiumIcon b00844daa4443599-header",
-    "premiumIcon": "b00844daa4443599-premiumIcon",
-    "button": "b00844daa4443599-button",
-    "buttonContainerHorizontal": "b00844daa4443599-buttonContainerHorizontal",
-    "buttonContainerVertical": "b00844daa4443599-buttonContainerVertical",
-    "pointer": "b00844daa4443599-pointer",
-    "bottomPointer": "b00844daa4443599-bottomPointer",
-    "centerLeftPointer": "b00844daa4443599-centerLeftPointer",
-    "topLeftPointer": "b00844daa4443599-topLeftPointer",
-    "bottomLeftPointer": "b00844daa4443599-bottomLeftPointer",
-    "gifTag": "b00844daa4443599-gifTag"
-  },
   "675433": {
     "notDetected": "cc46f0f859f26200-notDetected",
     "nowPlaying": "cc46f0f859f26200-nowPlaying",
@@ -17789,7 +17763,8 @@
     "container": "_3a590bee48558ff9-container",
     "header": "_3a590bee48558ff9-header",
     "applicationIcon": "_3a590bee48558ff9-applicationIcon",
-    "items": "_3a590bee48558ff9-items"
+    "items": "_3a590bee48558ff9-items",
+    "spinner": "_3a590bee48558ff9-spinner"
   },
   "687130": {
     "fillParent": "_078ba7e849715dc7-fillParent",
@@ -19182,6 +19157,7 @@
     "assetsLargeImageActivityFeed": "_2ef4989efde1f4e4-assetsLargeImageActivityFeed _2ef4989efde1f4e4-assetsLargeImage",
     "assetsLargeImageActivityFeedXbox": "_2ef4989efde1f4e4-assetsLargeImageActivityFeedXbox _2ef4989efde1f4e4-assetsLargeImage",
     "assetsLargeImageVoiceChannel": "_2ef4989efde1f4e4-assetsLargeImageVoiceChannel _2ef4989efde1f4e4-assetsLargeImage",
+    "assetsLargeImageVoiceChannelXbox": "_2ef4989efde1f4e4-assetsLargeImageVoiceChannelXbox _2ef4989efde1f4e4-assetsLargeImageVoiceChannel _2ef4989efde1f4e4-assetsLargeImage",
     "assetsLargeImageActivityFeedTwitch": "_2ef4989efde1f4e4-assetsLargeImageActivityFeedTwitch _2ef4989efde1f4e4-assetsLargeImage",
     "assetsSmallImage": "_2ef4989efde1f4e4-assetsSmallImage",
     "assetsSmallImageStreamPreview": "_2ef4989efde1f4e4-assetsSmallImageStreamPreview _2ef4989efde1f4e4-assetsSmallImage",
