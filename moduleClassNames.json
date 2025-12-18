@@ -2592,6 +2592,8 @@
     "iconsContainer": "_972a0d22c8afa7f0-iconsContainer",
     "nameplated": "_972a0d22c8afa7f0-nameplated",
     "closeIcon": "_972a0d22c8afa7f0-closeIcon",
+    "subtextContainer": "_972a0d22c8afa7f0-subtextContainer",
+    "moreSpace": "_972a0d22c8afa7f0-moreSpace",
     "subtext": "_972a0d22c8afa7f0-subtext",
     "mutedIcon": "_972a0d22c8afa7f0-mutedIcon",
     "activityStatusText": "_972a0d22c8afa7f0-activityStatusText",
@@ -3117,7 +3119,8 @@
   "122316": {
     "root": "_373b58a5c752510b-root",
     "rolesHeading": "_373b58a5c752510b-rolesHeading",
-    "rolesList": "_373b58a5c752510b-rolesList"
+    "rolesList": "_373b58a5c752510b-rolesList",
+    "rolePill": "_373b58a5c752510b-rolePill"
   },
   "122604": {
     "container": "c408751bed08a47b-container",
@@ -7075,6 +7078,11 @@
   "264247": {
     "container": "_33718a16111b9a32-container",
     "text": "_33718a16111b9a32-text"
+  },
+  "264940": {
+    "container": "_5291b48d0754c572-container",
+    "contextContainer": "_5291b48d0754c572-contextContainer",
+    "contextIcon": "_5291b48d0754c572-contextIcon"
   },
   "265519": {
     "group": "_0a16d68e8ea54ba6-group",
