@@ -1,7 +1,9 @@
 {
   "15": {
     "container": "a99829deaf601327-container",
-    "editor": "a99829deaf601327-editor"
+    "editor": "a99829deaf601327-editor",
+    "upsell": "a99829deaf601327-upsell",
+    "buttons": "a99829deaf601327-buttons"
   },
   "610": {
     "title": "feb59c8c6ec00ad9-title"
@@ -4870,6 +4872,14 @@
     "resolvingFakeButton": "d5f3cd116f175f35-resolvingFakeButton",
     "button": "d5f3cd116f175f35-button"
   },
+  "186120": {
+    "container": "_10737e29b0802a4f-container",
+    "shine": "_10737e29b0802a4f-shine",
+    "shineOnce": "_10737e29b0802a4f-shineOnce",
+    "closeButton": "_10737e29b0802a4f-closeButton",
+    "subtitleContainer": "_10737e29b0802a4f-subtitleContainer",
+    "currentUserAvatar": "_10737e29b0802a4f-currentUserAvatar"
+  },
   "186180": {
     "cardContentsContainer": "ed9c90c31c2038a5-cardContentsContainer",
     "stepperContainer": "ed9c90c31c2038a5-stepperContainer",
@@ -6077,6 +6087,7 @@
     "content": "_20a53846fe2e8513-content",
     "nameAndDecorators": "_20a53846fe2e8513-nameAndDecorators",
     "name": "_20a53846fe2e8513-name",
+    "leftName": "_20a53846fe2e8513-leftName",
     "subText": "_20a53846fe2e8513-subText",
     "withDisplayNameStyles": "_20a53846fe2e8513-withDisplayNameStyles"
   },
@@ -10474,6 +10485,7 @@
     "widget": "d0f34c5570b3f90d-widget"
   },
   "400005": {
+    "header": "e4d8037328efe0da-header",
     "stepBody": "e4d8037328efe0da-stepBody",
     "bodyText": "e4d8037328efe0da-bodyText",
     "invoice": "e4d8037328efe0da-invoice",
