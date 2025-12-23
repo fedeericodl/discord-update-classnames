@@ -84,10 +84,13 @@ function processFile(code: string) {
                         Object.assign((exportsData[moduleId] ||= {}), extractExports(expr.arguments[0].right));
                     }
                 } else if (statement.type === "VariableDeclaration") {
-                    const varId = statement.declarations[0]?.id;
+                    const decl = statement.declarations?.[0];
+                    if (!decl) continue;
+
+                    const varId = decl.id;
                     const varName = varId && varId.type === "Identifier" ? varId.name : undefined;
-                    const varValue = statement.declarations[0]?.init;
-                    if (!varName || !varValue) return;
+                    const varValue = decl.init;
+                    if (!varName || !varValue) continue;
 
                     for (const s of func.body.body || []) {
                         if (s.type !== "ExpressionStatement") continue;
