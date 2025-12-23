@@ -15,4 +15,4 @@ export const CHUNKS_REGEX = /\w+=>""\+\(({(?:\w+:"\w+",)*\w+:"\w+"})\)/g;
 export const JSON_FIX_REGEX = /([a-z0-9]*):/g;
 // Examples: 000xxx-className | 000xxx-class_name | 000xxx-class-name | 000xxx-class/name
 export const CLASS_NAME_REGEX = /[a-zA-Z0-9-_]*[-][a-zA-Z0-9-_/ ]*/;
-export const CSS_CLASS_NAME_REGEX = /(?<class_name>(?<=\.)[a-zA-Z0-9-\\/]+-[a-zA-Z0-9-_\\/]+)/g;
+export const CSS_CLASS_NAME_REGEX = /(?<class_name>(?<=\.)-?[_a-zA-Z]+[_a-zA-Z0-9-]*)/g;
