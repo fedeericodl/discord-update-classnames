@@ -20,10 +20,10 @@ jobs:
 
         steps:
             - name: Checkout Script
-              uses: actions/checkout@v4
+              uses: actions/checkout@v6
 
             - name: Checkout Data
-              uses: actions/checkout@v4
+              uses: actions/checkout@v6
               with:
                   ref: "data"
                   path: ${{ env.DATA_PATH }}
