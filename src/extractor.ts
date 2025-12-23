@@ -1,7 +1,7 @@
 import * as core from "@actions/core";
 import fs from "fs";
 import { DATA_DIRECTORY, MAP_PATH_FILE, MODULE_PATH_FILE, SCRIPTS_DIRECTORY } from "./constants";
-import extractClassNames from "./core/class-extractor";
+import extractClassNames, { type ExportMap } from "./core/class-extractor";
 import downloadScripts from "./core/downloader";
 import genMaps from "./core/gen-maps";
 
@@ -20,7 +20,7 @@ async function run() {
         const classNames = extractClassNames(SCRIPTS_DIRECTORY);
         core.info("Extracted class names from all files.");
 
-        let oldClassNames: Record<string, Record<string, string>> = {};
+        let oldClassNames: ExportMap = {};
         try {
             core.debug(`Reading existing module class names from ${MODULE_PATH_FILE}`);
             oldClassNames = JSON.parse(fs.readFileSync(MODULE_PATH_FILE, "utf-8"));

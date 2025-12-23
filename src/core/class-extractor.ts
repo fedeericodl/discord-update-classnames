@@ -5,6 +5,8 @@ import fs from "fs";
 import path from "path";
 import { CLASS_NAME_REGEX } from "../constants";
 
+export type ExportMap = Record<string, Record<string, string>>;
+
 /**
  * Checks if a node is a module property.
  * @param node The node to check.
@@ -31,7 +33,7 @@ function processFile(code: string) {
         sourceType: "script",
     });
 
-    const exportsData: Record<string, Record<string, string>> = {};
+    const exportsData: ExportMap = {};
 
     walk.simple(ast, {
         Property(node) {
@@ -212,7 +214,7 @@ function extractExports(node: acorn.Expression | null | undefined) {
  * Resolves class references in the exports data.
  * @param allExports The exports data.
  */
-function resolveClassReferences(allExports: Record<string, Record<string, string>>) {
+function resolveClassReferences(allExports: ExportMap) {
     Object.keys(allExports).forEach((moduleId) => {
         const moduleExports = allExports[moduleId];
         if (!moduleExports) return;
@@ -250,7 +252,7 @@ function resolveClassReferences(allExports: Record<string, Record<string, string
  */
 export default function extractClassNames(directory: string) {
     core.debug(`Processing directory: ${directory}`);
-    const allExports: Record<string, Record<string, string>> = {};
+    const allExports: ExportMap = {};
 
     const files = fs.readdirSync(directory);
     if (files.length === 0) throw new Error(`No files found in directory: ${directory}`);

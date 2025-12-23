@@ -1,6 +1,7 @@
 import * as core from "@actions/core";
 import fs from "fs";
 import { MAP_PATH_FILE } from "../constants";
+import type { ExportMap } from "./class-extractor";
 
 /**
  * Check if most module IDs changed between two JSON files.
@@ -9,11 +10,7 @@ import { MAP_PATH_FILE } from "../constants";
  * @param moduleChangeThreshold The threshold for the percentage of new module IDs to consider the content as changed.
  * @returns Whether the content is the same or an object with added and removed classes.
  */
-function checkModules(
-    oldFile: Record<string, Record<string, string>>,
-    newFile: Record<string, Record<string, string>>,
-    moduleChangeThreshold = 0.8,
-) {
+function checkModules(oldFile: ExportMap, newFile: ExportMap, moduleChangeThreshold = 0.8) {
     const oldModuleIds = Object.keys(oldFile);
     const newModuleIds = Object.keys(newFile);
 
@@ -28,7 +25,7 @@ function checkModules(
         return false;
     }
 
-    const flattenAndSort = (file: Record<string, Record<string, string>>) => {
+    const flattenAndSort = (file: ExportMap) => {
         return Object.values(file)
             .flatMap((module) => Object.values(module))
             .sort();
@@ -62,10 +59,7 @@ function checkModules(
  * @param classNames The new class names.
  * @returns The class map.
  */
-export default function genMaps(
-    oldClassNames: Record<string, Record<string, string>>,
-    classNames: Record<string, Record<string, string>>,
-) {
+export default function genMaps(oldClassNames: ExportMap, classNames: ExportMap) {
     try {
         // This check is necessary: sometimes module IDs may change, but the content is the same
         const moduleCheckResult = checkModules(oldClassNames, classNames);
