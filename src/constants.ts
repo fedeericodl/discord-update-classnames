@@ -8,8 +8,7 @@ export const MAP_PATH_FILE = path.join(DATA_DIRECTORY, "classNamesMap.json");
 
 export const WEBSITE = "https://canary.discord.com";
 
-export const HTML_REGEX = /<script defer src="\/assets\/[a-zA-Z0-9.-]+\.js"><\/script>/g;
-export const HTML_SRC_REGEX = /src="[^"]+"/g;
+export const HTML_REGEX = /<script defer src="\/assets\/([a-zA-Z0-9.-]+\.js)"><\/script>/g;
 export const VERSION_HASH_REGEX = /versionHash:\s*"([a-zA-Z0-9]{40})"/;
 export const BUILT_AT_REGEX = /"builtAt",\s*(?:String\("(\d+)"\)|"(\d+)")/;
 export const CHUNKS_REGEX = /\w+=>""\+\(({(?:\w+:"\w+",)*\w+:"\w+"})\)/g;

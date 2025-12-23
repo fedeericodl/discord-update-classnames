@@ -62,7 +62,7 @@ function checkModules(
  * @param classNames The new class names.
  * @returns The class map.
  */
-export default function (
+export default function genMaps(
     oldClassNames: Record<string, Record<string, string>>,
     classNames: Record<string, Record<string, string>>,
 ) {

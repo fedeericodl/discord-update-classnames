@@ -1,6 +1,6 @@
 import * as core from "@actions/core";
 import fs from "fs";
-import { DATA_DIRECTORY, MAP_PATH_FILE, MODULE_PATH_FILE, SCRIPTS_DIRECTORY } from "./constants.js";
+import { DATA_DIRECTORY, MAP_PATH_FILE, MODULE_PATH_FILE, SCRIPTS_DIRECTORY } from "./constants";
 import extractClassNames from "./core/class-extractor";
 import downloadScripts from "./core/downloader";
 import genMaps from "./core/gen-maps";

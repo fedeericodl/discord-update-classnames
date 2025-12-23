@@ -6,11 +6,24 @@ import {
     BUILT_AT_REGEX,
     CHUNKS_REGEX,
     HTML_REGEX,
-    HTML_SRC_REGEX,
     JSON_FIX_REGEX,
     VERSION_HASH_REGEX,
     WEBSITE,
 } from "../constants";
+
+/**
+ * Fetches text content from a URL.
+ * @param url The URL to fetch from.
+ * @returns A promise that resolves to the text content.
+ * @throws Will throw an error if the HTTP request fails.
+ */
+async function fetchText(url: string): Promise<string> {
+    const res = await fetch(url);
+    if (!res.ok) {
+        throw new Error(`HTTP ${res.status} while fetching ${url}`);
+    }
+    return res.text();
+}
 
 /**
  * Checks if the build info file exists and if the version hash and built at timestamp match the current ones.
@@ -41,24 +54,34 @@ function handleBuildInfo(versionHash: string | undefined, builtAt: string | unde
  * Downloads all scripts from the Discord website and saves them to the specified directory.
  * @param directory The directory to save the scripts to.
  * @returns Whether the download was successful.
+ * @throws Will throw an error if the download fails.
  */
-export default async function (directory: string) {
+export default async function downloadScripts(directory: string) {
     try {
         core.debug(`Fetching main page from ${WEBSITE}/app`);
-        const siteRes = await (await fetch(`${WEBSITE}/app`)).text();
-        const scriptPaths = siteRes.match(HTML_REGEX)?.map((s) => s.match(HTML_SRC_REGEX)?.[0].slice(13, -1));
+        const siteRes = await fetchText(`${WEBSITE}/app`);
 
-        if (!scriptPaths || scriptPaths.length === 0) throw new Error("No scripts found");
+        const scriptPaths = Array.from(siteRes.matchAll(HTML_REGEX))
+            .map((match) => match[1])
+            .filter((p): p is string => p !== undefined);
+
+        if (scriptPaths.length === 0) throw new Error("No scripts found");
 
         core.debug(`Found script paths: ${JSON.stringify(scriptPaths)}`);
 
-        // 0 is the position of the chunk loader in the scripts
-        core.debug(`Fetching chunk loader from ${WEBSITE}/assets/${scriptPaths[2]}`);
-        const chunkLoaderRes = await (await fetch(`${WEBSITE}/assets/${scriptPaths[2]}`)).text();
+        const mainEntrypointPath = scriptPaths.find((p) => p.startsWith("web"));
+        if (!mainEntrypointPath) throw new Error("Main entrypoint ('web') script not found");
 
-        const versionHash = chunkLoaderRes.match(VERSION_HASH_REGEX)?.[1];
-        const sentryLoaderRes = await (await fetch(`${WEBSITE}/assets/${scriptPaths[1]}`)).text();
-        const builtAt = sentryLoaderRes.match(BUILT_AT_REGEX)?.[1];
+        core.debug(`Fetching main entrypoint ('web') from ${WEBSITE}/assets/${mainEntrypointPath}`);
+        const mainEntrypointRes = await fetchText(`${WEBSITE}/assets/${mainEntrypointPath}`);
+
+        const versionHash = mainEntrypointRes.match(VERSION_HASH_REGEX)?.[1];
+
+        const sentryEntrypointPath = scriptPaths.find((p) => p.includes("sentry"));
+        if (!sentryEntrypointPath) throw new Error("Sentry entrypoint script not found");
+
+        const sentryEntrypointRes = await fetchText(`${WEBSITE}/assets/${sentryEntrypointPath}`);
+        const builtAt = sentryEntrypointRes.match(BUILT_AT_REGEX)?.[1];
 
         if (!handleBuildInfo(versionHash, builtAt)) return false;
 
@@ -66,13 +89,10 @@ export default async function (directory: string) {
         fs.rmSync(directory, { recursive: true, force: true });
         fs.mkdirSync(directory, { recursive: true });
 
-        let matches;
-        const chunks = [];
-        while ((matches = CHUNKS_REGEX.exec(chunkLoaderRes))) {
-            if (matches[1]) {
-                chunks.push(matches[1].replace(JSON_FIX_REGEX, '"$1":'));
-            }
-        }
+        const chunks = [...mainEntrypointRes.matchAll(CHUNKS_REGEX)]
+            .map((m) => m[1])
+            .filter((v): v is string => !!v)
+            .map((v) => v.replace(JSON_FIX_REGEX, '"$1":'));
 
         if (!chunks[1]) throw new Error("No chunks found");
 
@@ -83,14 +103,13 @@ export default async function (directory: string) {
         const total = scriptPaths.length;
 
         for (const script of scriptPaths) {
-            if (!script) continue;
-
             completed++;
             core.debug(`(${completed}/${total}) Downloading: ${script}`);
 
-            const res = await (await fetch(`${WEBSITE}/assets/${script}`)).text();
+            const res = await fetchText(`${WEBSITE}/assets/${script}`);
             fs.writeFileSync(path.join(directory, script), res);
         }
+
         return true;
     } catch (error) {
         throw new Error(`Download failed: ${error}`);

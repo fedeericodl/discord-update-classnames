@@ -245,7 +245,7 @@ function resolveClassReferences(allExports: Record<string, Record<string, string
  * @param directory The directory to process.
  * @returns The exports data.
  */
-export default function (directory: string) {
+export default function extractClassNames(directory: string) {
     core.debug(`Processing directory: ${directory}`);
     const allExports: Record<string, Record<string, string>> = {};
 
