@@ -3109,6 +3109,9 @@
     "emptyError": "_59d0d7075b521375-emptyError",
     "disabledPointerEvents": "_59d0d7075b521375-disabledPointerEvents"
   },
+  "121636": {
+    "havenPipWrapper": "_3bbd0a0332b03629-havenPipWrapper"
+  },
   "121748": {
     "itemCard": "_7e549558f336cddb-itemCard",
     "emptyCard": "_7e549558f336cddb-emptyCard",
@@ -7086,6 +7089,7 @@
     "row": "_5adc3c5373eedda6-row",
     "havenWrapper": "_5adc3c5373eedda6-havenWrapper",
     "haven": "_5adc3c5373eedda6-haven",
+    "noTransition": "_5adc3c5373eedda6-noTransition",
     "overlay": "_5adc3c5373eedda6-overlay",
     "out": "_5adc3c5373eedda6-out",
     "welcome": "_5adc3c5373eedda6-welcome",
@@ -7094,7 +7098,8 @@
     "video": "_5adc3c5373eedda6-video",
     "noInteract": "_5adc3c5373eedda6-noInteract",
     "bottomActions": "_5adc3c5373eedda6-bottomActions",
-    "hidden": "_5adc3c5373eedda6-hidden"
+    "hidden": "_5adc3c5373eedda6-hidden",
+    "interactionOverlay": "_5adc3c5373eedda6-interactionOverlay"
   },
   "263753": {
     "keyRecorder": "_90f76fe726e5dadd-keyRecorder"
