@@ -10156,6 +10156,10 @@
     "textContent": "e60808709eaa9571-textContent",
     "connectedStatus": "e60808709eaa9571-connectedStatus"
   },
+  "386081": {
+    "imageContainer": "_68fb8839d0ad8868-imageContainer",
+    "image": "_68fb8839d0ad8868-image"
+  },
   "386305": {
     "addItemContainer": "_0651b2e858b8a592-addItemContainer",
     "addItemButton": "_0651b2e858b8a592-addItemButton",
@@ -13897,10 +13901,6 @@
     "icon": "_74bfadb8d2c6b83f-icon",
     "errorIcon": "_74bfadb8d2c6b83f-errorIcon"
   },
-  "535684": {
-    "imageContainer": "_68fb8839d0ad8868-imageContainer",
-    "image": "_68fb8839d0ad8868-image"
-  },
   "535881": {
     "emptyStateContainer": "_5ec2fb8b5de26b21-emptyStateContainer",
     "peopleList": "_5ec2fb8b5de26b21-peopleList",
@@ -14648,8 +14648,6 @@
     "searchHeader": "ae7890a1b8e75804-searchHeader",
     "searchHeaderWithSubtitle": "ae7890a1b8e75804-searchHeaderWithSubtitle",
     "searchModeAndFiltersContainer": "ae7890a1b8e75804-searchModeAndFiltersContainer",
-    "searchHeaderTabList": "ae7890a1b8e75804-searchHeaderTabList",
-    "searchHeaderTab": "ae7890a1b8e75804-searchHeaderTab",
     "helpdeskLink": "ae7890a1b8e75804-helpdeskLink",
     "totalResultsWrapper": "ae7890a1b8e75804-totalResultsWrapper",
     "totalResults": "ae7890a1b8e75804-totalResults",
