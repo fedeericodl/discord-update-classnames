@@ -5796,8 +5796,7 @@
     "badge": "_133bf5eea8e33a34-badge",
     "item": "_133bf5eea8e33a34-item",
     "addFriend": "_133bf5eea8e33a34-addFriend",
-    "tabBody": "_133bf5eea8e33a34-tabBody",
-    "nowPlayingColumnFullWidth": "_133bf5eea8e33a34-nowPlayingColumnFullWidth"
+    "tabBody": "_133bf5eea8e33a34-tabBody"
   },
   "221805": {
     "textarea": "_9daaef1a8070429c-textarea _0ed4fc708cdbac0d-input"
@@ -8316,8 +8315,7 @@
   },
   "306946": {
     "ctaButtons": "cc03e16ce05d8d9b-ctaButtons",
-    "cta": "cc03e16ce05d8d9b-cta",
-    "shine": "cc03e16ce05d8d9b-shine"
+    "cta": "cc03e16ce05d8d9b-cta"
   },
   "307321": {
     "image": "b026d9374238d708-image",
@@ -10431,6 +10429,13 @@
     "friendsEmpty": "c7ea19a1be2e0a89-friendsEmpty",
     "button": "c7ea19a1be2e0a89-button",
     "emptyStateContainer": "c7ea19a1be2e0a89-emptyStateContainer"
+  },
+  "398839": {
+    "container": "_01290829dc309d19-container",
+    "participantItem": "_01290829dc309d19-participantItem",
+    "speaking": "_01290829dc309d19-speaking",
+    "avatar": "_01290829dc309d19-avatar",
+    "username": "_01290829dc309d19-username"
   },
   "399158": {
     "paginationContainer": "e8f197ff80df8bf4-paginationContainer",
@@ -12953,8 +12958,6 @@
     "themedHeaderMobile": "e6b7699ce8339e1c-themedHeaderMobile",
     "familyCenterButtonContainer": "e6b7699ce8339e1c-familyCenterButtonContainer",
     "withPadding": "e6b7699ce8339e1c-withPadding",
-    "directMessagesHeader": "e6b7699ce8339e1c-directMessagesHeader",
-    "directMessagesButton": "e6b7699ce8339e1c-directMessagesButton",
     "preAlphaText": "e6b7699ce8339e1c-preAlphaText"
   },
   "498374": {
@@ -16708,7 +16711,8 @@
     "footerContent": "_083ae98ea5145b08-footerContent",
     "collapsedFooterContent": "_083ae98ea5145b08-collapsedFooterContent",
     "buttonContainer": "_083ae98ea5145b08-buttonContainer",
-    "hideDetailsButtonContainer": "_083ae98ea5145b08-hideDetailsButtonContainer"
+    "hideDetailsButtonContainer": "_083ae98ea5145b08-hideDetailsButtonContainer",
+    "rolesList": "_083ae98ea5145b08-rolesList"
   },
   "642900": {
     "messagePreviewContainer": "f96002f2f004b44d-messagePreviewContainer",
@@ -18820,7 +18824,8 @@
     "guildContainer": "fa285ee86b386220-guildContainer",
     "appIn": "fa285ee86b386220-appIn",
     "appGuildName": "fa285ee86b386220-appGuildName",
-    "icon": "fa285ee86b386220-icon"
+    "icon": "fa285ee86b386220-icon",
+    "rolesList": "fa285ee86b386220-rolesList"
   },
   "725419": {
     "outerContainer": "e4491282b6a5364a-outerContainer",
@@ -20762,8 +20767,6 @@
     "questRewardEmbedXs": "fbc6f7283f697ba7-questRewardEmbedXs",
     "taskDetails": "fbc6f7283f697ba7-taskDetails",
     "taskInstructions": "fbc6f7283f697ba7-taskInstructions",
-    "fullWidthShinyCtaButtonWrapper": "fbc6f7283f697ba7-fullWidthShinyCtaButtonWrapper",
-    "ctaButtonWrapper": "fbc6f7283f697ba7-ctaButtonWrapper",
     "learnMoreLink": "fbc6f7283f697ba7-learnMoreLink",
     "root": "fbc6f7283f697ba7-root",
     "rewardTileWrapper": "fbc6f7283f697ba7-rewardTileWrapper",
@@ -21399,11 +21402,8 @@
   },
   "833047": {
     "scroller": "_7d20cf18f8a2784c-scroller",
-    "standalone": "_7d20cf18f8a2784c-standalone",
     "container": "_7d20cf18f8a2784c-container",
-    "refreshActiveNow": "_7d20cf18f8a2784c-refreshActiveNow",
-    "header": "_7d20cf18f8a2784c-header",
-    "standaloneContainer": "_7d20cf18f8a2784c-standaloneContainer"
+    "header": "_7d20cf18f8a2784c-header"
   },
   "833257": {
     "inputContainer": "_1c94881cf24b3a25-inputContainer",
@@ -25847,7 +25847,6 @@
     "questRewardTileAssetStatic": "_281417ebc313bb72-questRewardTileAssetStatic",
     "questRewardTileDetailsLearnMore": "_281417ebc313bb72-questRewardTileDetailsLearnMore",
     "Shine": "_281417ebc313bb72-Shine",
-    "shine": "_281417ebc313bb72-shine",
     "imageVideoOverlay": "_281417ebc313bb72-imageVideoOverlay"
   },
   "998018": {
