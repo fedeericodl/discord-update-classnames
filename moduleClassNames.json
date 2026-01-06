@@ -5495,7 +5495,21 @@
     "portraitButtonsContainer": "_4577670752bdbe9c-portraitButtonsContainer",
     "portraitButtonRow": "_4577670752bdbe9c-portraitButtonRow",
     "contentFooterAdDetailedInfo": "_4577670752bdbe9c-contentFooterAdDetailedInfo",
-    "contentFooterAdDetailedInfoPortrait": "_4577670752bdbe9c-contentFooterAdDetailedInfoPortrait"
+    "contentFooterAdDetailedInfoPortrait": "_4577670752bdbe9c-contentFooterAdDetailedInfoPortrait",
+    "endScreenOverlay": "_4577670752bdbe9c-endScreenOverlay",
+    "endScreenImageBackground": "_4577670752bdbe9c-endScreenImageBackground",
+    "endScreenContainer": "_4577670752bdbe9c-endScreenContainer",
+    "endScreenContainerPortrait": "_4577670752bdbe9c-endScreenContainerPortrait",
+    "endScreenCard": "_4577670752bdbe9c-endScreenCard",
+    "endScreenCardPortrait": "_4577670752bdbe9c-endScreenCardPortrait",
+    "endScreenCtaContainer": "_4577670752bdbe9c-endScreenCtaContainer",
+    "endScreenCtaContainerPortrait": "_4577670752bdbe9c-endScreenCtaContainerPortrait",
+    "endScreenCtaTitleContainer": "_4577670752bdbe9c-endScreenCtaTitleContainer",
+    "endScreenCtaBtnTitle": "_4577670752bdbe9c-endScreenCtaBtnTitle",
+    "endScreenCtaTitle": "_4577670752bdbe9c-endScreenCtaTitle",
+    "endScreenCtaSubtitle": "_4577670752bdbe9c-endScreenCtaSubtitle",
+    "endScreenCtaBtn": "_4577670752bdbe9c-endScreenCtaBtn",
+    "shine": "_4577670752bdbe9c-shine"
   },
   "209731": {
     "actionButton": "d9752cdd50c7181f-actionButton",
@@ -6659,9 +6673,6 @@
     "stackTraceCode": "e13eda3f8407ca82-stackTraceCode",
     "code": "e13eda3f8407ca82-code",
     "notificationIcon": "e13eda3f8407ca82-notificationIcon"
-  },
-  "250005": {
-    "root": "_65143c54371ea030-root"
   },
   "250210": {
     "previewNotice": "_60f3fd90f6085664-previewNotice",
