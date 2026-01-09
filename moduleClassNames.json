@@ -13976,6 +13976,7 @@
     "durationSelect": "d97f896195d9f57f-durationSelect"
   },
   "544165": {
+    "contentContainer": "_0ffb84f5c7e3b216-contentContainer",
     "wumpusContainer": "_0ffb84f5c7e3b216-wumpusContainer",
     "header": "_0ffb84f5c7e3b216-header",
     "textContainer": "_0ffb84f5c7e3b216-textContainer",
@@ -16869,6 +16870,7 @@
     "avatar": "_44b0c28be7879b7b-avatar",
     "avatarBorder": "_44b0c28be7879b7b-avatarBorder",
     "pointerEvents": "_44b0c28be7879b7b-pointerEvents",
+    "avatarDecorationContainer": "_44b0c28be7879b7b-avatarDecorationContainer",
     "avatarDecoration": "_44b0c28be7879b7b-avatarDecoration",
     "cutoutIcon": "_44b0c28be7879b7b-cutoutIcon",
     "largeEmoji": "_44b0c28be7879b7b-largeEmoji"
