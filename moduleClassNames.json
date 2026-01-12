@@ -3167,7 +3167,6 @@
     "keybindMessage": "_740f25428e5fa983-keybindMessage",
     "item": "_740f25428e5fa983-item",
     "switch": "_740f25428e5fa983-switch",
-    "removeKeybindFloating": "_740f25428e5fa983-removeKeybindFloating",
     "removeKeybind": "_740f25428e5fa983-removeKeybind",
     "keybindGroup": "_740f25428e5fa983-keybindGroup",
     "keybindGroupContent": "_740f25428e5fa983-keybindGroupContent",
@@ -9953,7 +9952,6 @@
   },
   "380735": {
     "authedAppV2": "_50a5493e9d9cc496-authedAppV2",
-    "authedAppV2UserSettingsRedesign": "_50a5493e9d9cc496-authedAppV2UserSettingsRedesign",
     "headerV2": "_50a5493e9d9cc496-headerV2",
     "headerText": "_50a5493e9d9cc496-headerText",
     "headerTextContainerV2": "_50a5493e9d9cc496-headerTextContainerV2",
@@ -11940,7 +11938,6 @@
     "accountAddInner": "c7f964e7e0fc8b47-accountAddInner",
     "connectionList": "c7f964e7e0fc8b47-connectionList",
     "connection": "c7f964e7e0fc8b47-connection",
-    "connectionUserSettingsRedesign": "c7f964e7e0fc8b47-connectionUserSettingsRedesign",
     "connectionHeader": "c7f964e7e0fc8b47-connectionHeader",
     "connectionAccountValue": "c7f964e7e0fc8b47-connectionAccountValue",
     "connectionAccountLabelContainer": "c7f964e7e0fc8b47-connectionAccountLabelContainer",
