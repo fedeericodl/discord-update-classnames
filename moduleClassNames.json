@@ -3841,8 +3841,7 @@
   "149782": {
     "subtitle": "_105ba91fba7905bd-subtitle",
     "select": "_105ba91fba7905bd-select",
-    "selectPopout": "_105ba91fba7905bd-selectPopout",
-    "newBadge": "_105ba91fba7905bd-newBadge"
+    "selectPopout": "_105ba91fba7905bd-selectPopout"
   },
   "150366": {
     "notFoundPlaceholder": "a3c1e13b2bbf49f1-notFoundPlaceholder",
@@ -5573,7 +5572,6 @@
   "214674": {
     "stepBody": "d947e68f3c652858-stepBody",
     "stepBodyCustomGift": "d947e68f3c652858-stepBodyCustomGift",
-    "bodyColumnMiddle": "d947e68f3c652858-bodyColumnMiddle",
     "bodyColumnMiddleCentered": "d947e68f3c652858-bodyColumnMiddleCentered",
     "bodyColumnRight": "d947e68f3c652858-bodyColumnRight",
     "bodyText": "d947e68f3c652858-bodyText",
