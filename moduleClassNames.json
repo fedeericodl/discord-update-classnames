@@ -718,10 +718,6 @@
     "sliderContainer": "_650391965b2d6ee2-sliderContainer",
     "slider": "_650391965b2d6ee2-slider"
   },
-  "30878": {
-    "sm": "_0d94843a1fa4ae32-sm",
-    "md": "_0d94843a1fa4ae32-md"
-  },
   "30929": {
     "outerAnimatedDivDynamicSizing": "_59d99a8d5d164e77-outerAnimatedDivDynamicSizing",
     "innerAnimatedDivDynamicSizing": "_59d99a8d5d164e77-innerAnimatedDivDynamicSizing"
@@ -1734,10 +1730,6 @@
     "button": "_740174f3d6a2c8fe-button",
     "emojiButton": "_740174f3d6a2c8fe-emojiButton _740174f3d6a2c8fe-button",
     "stickerButton": "_740174f3d6a2c8fe-stickerButton",
-    "messageConfettiButton": "_740174f3d6a2c8fe-messageConfettiButton",
-    "messageConfettiIcon": "_740174f3d6a2c8fe-messageConfettiIcon",
-    "active": "_740174f3d6a2c8fe-active",
-    "wiggle": "_740174f3d6a2c8fe-wiggle",
     "floatingBars": "_740174f3d6a2c8fe-floatingBars",
     "newMemberActionBar": "_740174f3d6a2c8fe-newMemberActionBar",
     "stackedBars": "_740174f3d6a2c8fe-stackedBars",
@@ -5585,12 +5577,6 @@
     "equalDistantBackButton": "d947e68f3c652858-equalDistantBackButton",
     "compactSendGiftToUser": "d947e68f3c652858-compactSendGiftToUser"
   },
-  "215130": {
-    "embed": "fb5defab41ad4d68-embed",
-    "text": "fb5defab41ad4d68-text",
-    "title": "fb5defab41ad4d68-title",
-    "parentContainer": "fb5defab41ad4d68-parentContainer"
-  },
   "215218": {
     "progressBarContainer": "baf5304d07bec717-progressBarContainer",
     "progressBarText": "baf5304d07bec717-progressBarText",
@@ -7013,9 +6999,6 @@
     "badge": "_10651c5cfe637db6-badge",
     "noTooltip": "_10651c5cfe637db6-noTooltip",
     "tagText": "_10651c5cfe637db6-tagText"
-  },
-  "261906": {
-    "canvasWrapper": "f7aebd3559a9878e-canvasWrapper"
   },
   "262335": {
     "container": "b8e1d20997c7c8b0-container",
@@ -8918,13 +8901,6 @@
     "cardGrid": "e176e14cc2349650-cardGrid",
     "mediumCardGrid": "e176e14cc2349650-mediumCardGrid"
   },
-  "332974": {
-    "bar": "f5401db153d99696-bar",
-    "emojiSelectContainer": "f5401db153d99696-emojiSelectContainer",
-    "end": "f5401db153d99696-end",
-    "separator": "f5401db153d99696-separator",
-    "emojiIconContainer": "f5401db153d99696-emojiIconContainer"
-  },
   "333051": {
     "menuItemDescription": "_363ede8c66f36574-menuItemDescription"
   },
@@ -9860,9 +9836,6 @@
     "image": "_33d1236760f7073e-image",
     "title": "_33d1236760f7073e-title",
     "text": "_33d1236760f7073e-text"
-  },
-  "377311": {
-    "potionBadge": "_18061034404ab87d-potionBadge"
   },
   "377856": {
     "errorLabel": "f3e49b438b36d98b-errorLabel",
@@ -12109,11 +12082,6 @@
     "visibleFloater": "_1836e527abbada8b-visibleFloater",
     "progressText": "_1836e527abbada8b-progressText"
   },
-  "462914": {
-    "panel": "dca679679aff5045-panel",
-    "button": "dca679679aff5045-button",
-    "title": "dca679679aff5045-title"
-  },
   "463442": {
     "botPermissions": "_41924a9691a7ac81-botPermissions",
     "permissionsList": "_41924a9691a7ac81-permissionsList",
@@ -14073,13 +14041,10 @@
     "ephemeral": "_5126c0cd07f243a0-ephemeral",
     "nitroMessage": "_5126c0cd07f243a0-nitroMessage",
     "automodMessage": "_5126c0cd07f243a0-automodMessage",
-    "potioned": "_5126c0cd07f243a0-potioned",
     "mentioned": "_5126c0cd07f243a0-mentioned",
     "replying": "_5126c0cd07f243a0-replying",
-    "message": "_5126c0cd07f243a0-message",
-    "editing": "_5126c0cd07f243a0-editing",
-    "hasOpenPopouts": "_5126c0cd07f243a0-hasOpenPopouts",
     "messageListItem": "_5126c0cd07f243a0-messageListItem",
+    "message": "_5126c0cd07f243a0-message",
     "selected": "_5126c0cd07f243a0-selected",
     "quotedChatMessage": "_5126c0cd07f243a0-quotedChatMessage",
     "jump": "_5126c0cd07f243a0-jump",
@@ -18798,28 +18763,6 @@
     "icon": "_6e3d641af1895404-icon",
     "username": "_6e3d641af1895404-username"
   },
-  "730306": {
-    "modal": "_0f18af7a8ae229e2-modal",
-    "heading": "_0f18af7a8ae229e2-heading",
-    "divider": "_0f18af7a8ae229e2-divider",
-    "body": "_0f18af7a8ae229e2-body",
-    "header": "_0f18af7a8ae229e2-header",
-    "selectContainer": "_0f18af7a8ae229e2-selectContainer",
-    "emojiSelect": "_0f18af7a8ae229e2-emojiSelect",
-    "emojiContent": "_0f18af7a8ae229e2-emojiContent",
-    "selectedEmoji": "_0f18af7a8ae229e2-selectedEmoji",
-    "emojiIcon": "_0f18af7a8ae229e2-emojiIcon",
-    "chevron": "_0f18af7a8ae229e2-chevron",
-    "footer": "_0f18af7a8ae229e2-footer",
-    "anomaly": "_0f18af7a8ae229e2-anomaly",
-    "error": "_0f18af7a8ae229e2-error",
-    "spinner": "_0f18af7a8ae229e2-spinner",
-    "footerRight": "_0f18af7a8ae229e2-footerRight",
-    "colorCycle": "_0f18af7a8ae229e2-colorCycle",
-    "remaining": "_0f18af7a8ae229e2-remaining",
-    "shootingStar": "_0f18af7a8ae229e2-shootingStar",
-    "wiggle": "_0f18af7a8ae229e2-wiggle"
-  },
   "730307": {
     "container": "_466c1282685a8c9e-container",
     "sliderContainer": "_466c1282685a8c9e-sliderContainer",
@@ -21848,19 +21791,6 @@
     "streamUnavailableText": "_2f4f7eb58b61c328-streamUnavailableText",
     "voiceChannelEffectsContainer": "_2f4f7eb58b61c328-voiceChannelEffectsContainer",
     "stopStreamForeground": "_2f4f7eb58b61c328-stopStreamForeground"
-  },
-  "858441": {
-    "emojiWrapper": "_21d2d00524791cb0-emojiWrapper",
-    "emoji": "_21d2d00524791cb0-emoji",
-    "left": "_21d2d00524791cb0-left",
-    "shy": "_21d2d00524791cb0-shy",
-    "right": "_21d2d00524791cb0-right",
-    "center": "_21d2d00524791cb0-center",
-    "confettiMode": "_21d2d00524791cb0-confettiMode",
-    "swayLeft": "_21d2d00524791cb0-swayLeft",
-    "swayRight": "_21d2d00524791cb0-swayRight",
-    "swayCenter": "_21d2d00524791cb0-swayCenter",
-    "hidden": "_21d2d00524791cb0-hidden"
   },
   "858504": {
     "container": "db811b930f9884ca-container",
