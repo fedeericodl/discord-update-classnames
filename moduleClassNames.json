@@ -6553,6 +6553,15 @@
     "header": "_4546e2b07bad4954-header",
     "arrow": "_4546e2b07bad4954-arrow"
   },
+  "243850": {
+    "cardGroup": "_02e5035a3c510411-cardGroup",
+    "card": "_02e5035a3c510411-card",
+    "selectionIndicator": "_02e5035a3c510411-selectionIndicator",
+    "title": "_02e5035a3c510411-title",
+    "text": "_02e5035a3c510411-text",
+    "strikethrough": "_02e5035a3c510411-strikethrough",
+    "selectionIcon": "_02e5035a3c510411-selectionIcon"
+  },
   "243902": {
     "scrollerBase": "d125d22cdfd32cfe-scrollerBase",
     "auto": "d125d22cdfd32cfe-auto d125d22cdfd32cfe-scrollerBase",
@@ -8276,6 +8285,9 @@
     "imageUnverified": "b026d9374238d708-imageUnverified b026d9374238d708-image",
     "message": "b026d9374238d708-message",
     "secondaryButton": "b026d9374238d708-secondaryButton"
+  },
+  "307940": {
+    "text": "eaab0b563fde0afe-text"
   },
   "308779": {
     "content": "_22234b2370d4de10-content",
@@ -14504,19 +14516,14 @@
   "558741": {
     "content": "_75e8ee170883da62-content",
     "innerContent": "_75e8ee170883da62-innerContent",
-    "innerGlow": "_75e8ee170883da62-innerGlow",
-    "outerGlow": "_75e8ee170883da62-outerGlow",
     "subContent": "_75e8ee170883da62-subContent",
     "avatars": "_75e8ee170883da62-avatars",
-    "recipientUserAvatar": "_75e8ee170883da62-recipientUserAvatar",
     "currentUserAvatar": "_75e8ee170883da62-currentUserAvatar",
+    "recipientUserAvatar": "_75e8ee170883da62-recipientUserAvatar",
     "textContainer": "_75e8ee170883da62-textContainer",
     "subHeaderContainer": "_75e8ee170883da62-subHeaderContainer",
     "subHeaderText": "_75e8ee170883da62-subHeaderText",
-    "buttonContainer": "_75e8ee170883da62-buttonContainer",
-    "connector": "_75e8ee170883da62-connector",
-    "rightPopoutConnector": "_75e8ee170883da62-rightPopoutConnector",
-    "leftPopoutConnector": "_75e8ee170883da62-leftPopoutConnector"
+    "buttonContainer": "_75e8ee170883da62-buttonContainer"
   },
   "558780": {
     "wrapper": "_8e08ce7f1f1b7f5a-wrapper",
