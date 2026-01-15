@@ -3219,6 +3219,23 @@
     "mediaPlayer": "cf67690486cd4e13-mediaPlayer",
     "videoWrapper": "cf67690486cd4e13-videoWrapper"
   },
+  "129001": {
+    "role": "af3987915705da59-role",
+    "roleDot": "af3987915705da59-roleDot",
+    "connectionRoleIcon": "af3987915705da59-connectionRoleIcon",
+    "roleIcon": "af3987915705da59-roleIcon",
+    "roleTag": "af3987915705da59-roleTag",
+    "hasRemoveButton": "af3987915705da59-hasRemoveButton",
+    "removeButton": "af3987915705da59-removeButton",
+    "roleListContainer": "af3987915705da59-roleListContainer",
+    "listContentsInteractive": "af3987915705da59-listContentsInteractive",
+    "listContentsStatic": "af3987915705da59-listContentsStatic",
+    "roleName": "af3987915705da59-roleName",
+    "pillButton": "af3987915705da59-pillButton af3987915705da59-role",
+    "expandButton": "af3987915705da59-expandButton",
+    "addButton": "af3987915705da59-addButton",
+    "showLabel": "af3987915705da59-showLabel"
+  },
   "129009": {
     "spamBanner": "a2eac324d62a31c3-spamBanner",
     "bannerTextContainer": "a2eac324d62a31c3-bannerTextContainer",
@@ -16692,20 +16709,6 @@
   "645455": {
     "container": "cec93441fbd47328-container"
   },
-  "645755": {
-    "pill": "dfa8b6b94cddb191-pill",
-    "role": "dfa8b6b94cddb191-role dfa8b6b94cddb191-pill",
-    "roleFlowerStar": "dfa8b6b94cddb191-roleFlowerStar",
-    "roleDot": "dfa8b6b94cddb191-roleDot",
-    "roleRemoveButtonCanRemove": "dfa8b6b94cddb191-roleRemoveButtonCanRemove",
-    "roleRemoveButton": "dfa8b6b94cddb191-roleRemoveButton",
-    "roleIcon": "dfa8b6b94cddb191-roleIcon",
-    "roleName": "dfa8b6b94cddb191-roleName",
-    "roleRemoveIcon": "dfa8b6b94cddb191-roleRemoveIcon",
-    "roleRemoveIconFocused": "dfa8b6b94cddb191-roleRemoveIconFocused",
-    "roleVerifiedIcon": "dfa8b6b94cddb191-roleVerifiedIcon",
-    "roleCircle": "dfa8b6b94cddb191-roleCircle"
-  },
   "645793": {
     "searchToken": "bd818628221af7aa-searchToken",
     "searchAnswer": "bd818628221af7aa-searchAnswer bd818628221af7aa-searchToken",
@@ -18625,9 +18628,6 @@
     "displayCountText": "c2a7636633222ffa-displayCountText",
     "displayCountTextColor": "c2a7636633222ffa-displayCountTextColor"
   },
-  "722181": {
-    "button": "_7d7f78b99d0a7581-button"
-  },
   "723009": {
     "inline": "_99afd9d3b11848cb-inline",
     "footer": "_99afd9d3b11848cb-footer",
@@ -20203,12 +20203,6 @@
     "gameServerHostingImage": "a1bfef4206760e38-gameServerHostingImage",
     "levelImage": "a1bfef4206760e38-levelImage"
   },
-  "787397": {
-    "root": "fccfdf3cfff21921-root",
-    "pill": "fccfdf3cfff21921-pill",
-    "expandButton": "fccfdf3cfff21921-expandButton fccfdf3cfff21921-pill",
-    "collapseButton": "fccfdf3cfff21921-collapseButton fccfdf3cfff21921-pill"
-  },
   "787411": {
     "guildBoostUnavailableNotice": "_0c507a672a52b3e0-guildBoostUnavailableNotice",
     "lightTheme": "_0c507a672a52b3e0-lightTheme",
@@ -21669,9 +21663,6 @@
     "nameplatePlaceholderBar": "e75aa6ec11dcabc8-nameplatePlaceholderBar",
     "smallRow": "e75aa6ec11dcabc8-smallRow",
     "smallBar": "e75aa6ec11dcabc8-smallBar"
-  },
-  "854458": {
-    "root": "af81925d9be830f2-root"
   },
   "854536": {
     "bannerIcon": "_1d97f06443c05763-bannerIcon",
