@@ -9212,10 +9212,6 @@
     "buttons": "_0a560e193f2f334e-buttons",
     "iconInput": "_0a560e193f2f334e-iconInput"
   },
-  "348955": {
-    "modal": "_487be5057417e7c4-modal",
-    "content": "_487be5057417e7c4-content"
-  },
   "348962": {
     "actionBarIcon": "a7e304492e5ccc04-actionBarIcon"
   },
@@ -20108,9 +20104,6 @@
     "layoutUnlocked": "eb35c57d03dec760-layoutUnlocked eb35c57d03dec760-layoutLocked",
     "windowContainerDebug": "eb35c57d03dec760-windowContainerDebug"
   },
-  "784890": {
-    "empty": "_1fd9f9c9c352e99c-empty"
-  },
   "784912": {
     "header": "_15d0e45315f98be4-header",
     "headerInner": "_15d0e45315f98be4-headerInner",
@@ -24466,7 +24459,7 @@
     "shopMarketingTooltipText": "_4ed1af9a212b8f4f-shopMarketingTooltipText",
     "avatarContainer": "_4ed1af9a212b8f4f-avatarContainer",
     "avatar": "_4ed1af9a212b8f4f-avatar",
-    "newBadge": "_4ed1af9a212b8f4f-newBadge _4ed1af9a212b8f4f-eyebrow",
+    "newBadge": "_4ed1af9a212b8f4f-newBadge",
     "marketingButtonBackgroundNew": "_4ed1af9a212b8f4f-marketingButtonBackgroundNew",
     "marketingButtonBackgroundImage": "_4ed1af9a212b8f4f-marketingButtonBackgroundImage",
     "marketingButtonBackgroundImageFaded": "_4ed1af9a212b8f4f-marketingButtonBackgroundImageFaded"
