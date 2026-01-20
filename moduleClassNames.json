@@ -3245,19 +3245,6 @@
     "bannerSubtext": "a2eac324d62a31c3-bannerSubtext",
     "actionButtons": "a2eac324d62a31c3-actionButtons"
   },
-  "129420": {
-    "container": "_55c999adcf6db265-container",
-    "queryContainer": "_55c999adcf6db265-queryContainer",
-    "queryShortcut": "_55c999adcf6db265-queryShortcut",
-    "queryText": "_55c999adcf6db265-queryText",
-    "searchDMQueryText": "_55c999adcf6db265-searchDMQueryText",
-    "keyCombo": "_55c999adcf6db265-keyCombo",
-    "focused": "_55c999adcf6db265-focused",
-    "inChannelOptionContainer": "_55c999adcf6db265-inChannelOptionContainer",
-    "inChannelOption": "_55c999adcf6db265-inChannelOption",
-    "searchResultNameContainer": "_55c999adcf6db265-searchResultNameContainer",
-    "channelContainer": "_55c999adcf6db265-channelContainer"
-  },
   "129432": {
     "back": "e125f131accda830-back",
     "modalFooter": "e125f131accda830-modalFooter"
@@ -7684,14 +7671,6 @@
     "image": "_9bf93075b740fa8c-image",
     "imageContainer": "_9bf93075b740fa8c-imageContainer",
     "gradient": "_9bf93075b740fa8c-gradient"
-  },
-  "289630": {
-    "popup": "_49a201d3a9dd67b4-popup",
-    "closeIcon": "_49a201d3a9dd67b4-closeIcon",
-    "title": "_49a201d3a9dd67b4-title",
-    "asset": "_49a201d3a9dd67b4-asset",
-    "content": "_49a201d3a9dd67b4-content",
-    "button": "_49a201d3a9dd67b4-button"
   },
   "289666": {
     "warningContainer": "_98bed514a456096a-warningContainer"
@@ -12246,6 +12225,27 @@
     "logos": "_0d52dc82ba0d2e5a-logos",
     "error": "_0d52dc82ba0d2e5a-error"
   },
+  "467611": {
+    "itemContainer": "_971b54896d13e42d-itemContainer",
+    "item": "_971b54896d13e42d-item",
+    "itemIcon": "_971b54896d13e42d-itemIcon",
+    "filterSublabelTextContainer": "_971b54896d13e42d-filterSublabelTextContainer",
+    "labelWithElements": "_971b54896d13e42d-labelWithElements",
+    "channelNameContainer": "_971b54896d13e42d-channelNameContainer",
+    "channelName": "_971b54896d13e42d-channelName",
+    "channelNameIcon": "_971b54896d13e42d-channelNameIcon",
+    "divider": "_971b54896d13e42d-divider",
+    "groupWrapper": "_971b54896d13e42d-groupWrapper",
+    "groupHeader": "_971b54896d13e42d-groupHeader",
+    "clearSearchHistory": "_971b54896d13e42d-clearSearchHistory",
+    "clearSearchHistoryIcon": "_971b54896d13e42d-clearSearchHistoryIcon",
+    "autocompletePillContainer": "_971b54896d13e42d-autocompletePillContainer",
+    "nonText": "_971b54896d13e42d-nonText",
+    "filterPill": "_971b54896d13e42d-filterPill",
+    "answerPill": "_971b54896d13e42d-answerPill",
+    "channelAnswerPill": "_971b54896d13e42d-channelAnswerPill",
+    "channelPillIcon": "_971b54896d13e42d-channelPillIcon"
+  },
   "467721": {
     "splash": "_15293d44d152f857-splash",
     "gameIcon": "_15293d44d152f857-gameIcon",
@@ -13100,18 +13100,6 @@
     "textContainer": "ee23ac2acd215184-textContainer",
     "divider": "ee23ac2acd215184-divider",
     "animation": "ee23ac2acd215184-animation"
-  },
-  "506812": {
-    "popup": "_655a6c458c32f6fa-popup",
-    "closeIcon": "_655a6c458c32f6fa-closeIcon",
-    "art": "_655a6c458c32f6fa-art",
-    "heading": "_655a6c458c32f6fa-heading",
-    "betaTag": "_655a6c458c32f6fa-betaTag",
-    "background": "_655a6c458c32f6fa-background",
-    "content": "_655a6c458c32f6fa-content",
-    "blur0": "_655a6c458c32f6fa-blur0",
-    "blur1": "_655a6c458c32f6fa-blur1",
-    "blur2": "_655a6c458c32f6fa-blur2"
   },
   "507179": {
     "chevronButton": "_5ae617942cbbb9fb-chevronButton",
@@ -17997,33 +17985,11 @@
     "textContent": "cc53dee884e76e4a-textContent"
   },
   "707306": {
-    "resultsGroup": "_16eb0bfd5c5a90d1-resultsGroup",
-    "header": "_16eb0bfd5c5a90d1-header",
-    "searchClearHistory": "_16eb0bfd5c5a90d1-searchClearHistory",
-    "searchLearnMore": "_16eb0bfd5c5a90d1-searchLearnMore",
-    "searchHistoryRow": "_16eb0bfd5c5a90d1-searchHistoryRow",
-    "content": "_16eb0bfd5c5a90d1-content",
-    "option": "_16eb0bfd5c5a90d1-option",
-    "plusIcon": "_16eb0bfd5c5a90d1-plusIcon",
-    "nonText": "_16eb0bfd5c5a90d1-nonText",
-    "filter": "_16eb0bfd5c5a90d1-filter",
-    "answer": "_16eb0bfd5c5a90d1-answer",
-    "user": "_16eb0bfd5c5a90d1-user",
-    "displayAvatar": "_16eb0bfd5c5a90d1-displayAvatar",
-    "displayedNick": "_16eb0bfd5c5a90d1-displayedNick",
-    "displayUsername": "_16eb0bfd5c5a90d1-displayUsername",
-    "searchOption": "_16eb0bfd5c5a90d1-searchOption",
-    "datePicker": "_16eb0bfd5c5a90d1-datePicker",
-    "datePickerHint": "_16eb0bfd5c5a90d1-datePickerHint",
-    "hint": "_16eb0bfd5c5a90d1-hint",
-    "hintValue": "_16eb0bfd5c5a90d1-hintValue",
-    "searchResultChannelIcon": "_16eb0bfd5c5a90d1-searchResultChannelIcon",
+    "container": "_16eb0bfd5c5a90d1-container",
+    "datePickerContainer": "_16eb0bfd5c5a90d1-datePickerContainer",
+    "calendar": "_16eb0bfd5c5a90d1-calendar",
     "searchResultDMChannelIcon": "_16eb0bfd5c5a90d1-searchResultDMChannelIcon",
-    "searchResultGDMChannelIcon": "_16eb0bfd5c5a90d1-searchResultGDMChannelIcon",
-    "searchResultDMChannelName": "_16eb0bfd5c5a90d1-searchResultDMChannelName",
-    "searchResultDMUserName": "_16eb0bfd5c5a90d1-searchResultDMUserName",
-    "searchResultChannelCategory": "_16eb0bfd5c5a90d1-searchResultChannelCategory",
-    "resultChannel": "_16eb0bfd5c5a90d1-resultChannel"
+    "searchResultGDMChannelIcon": "_16eb0bfd5c5a90d1-searchResultGDMChannelIcon"
   },
   "707545": {
     "container": "f369dba7416c67f0-container",
@@ -22981,12 +22947,6 @@
   "899272": {
     "canvas": "_5dc9c6844b487aa3-canvas"
   },
-  "899855": {
-    "popup": "ff5cbf9e656ef7f1-popup",
-    "closeIcon": "ff5cbf9e656ef7f1-closeIcon",
-    "content": "ff5cbf9e656ef7f1-content",
-    "description": "ff5cbf9e656ef7f1-description"
-  },
   "901195": {
     "flex": "_48a9c1ba881795e8-flex",
     "flexChild": "_48a9c1ba881795e8-flexChild",
@@ -24854,11 +24814,6 @@
     "lineMedium": "_9897f0d16df92f0e-lineMedium",
     "lineLong": "_9897f0d16df92f0e-lineLong"
   },
-  "972750": {
-    "container": "b6544fb09f373e60-container",
-    "datePickerContainer": "b6544fb09f373e60-datePickerContainer",
-    "calendar": "b6544fb09f373e60-calendar"
-  },
   "973501": {
     "productListingsHeader": "f5cb449bda771516-productListingsHeader",
     "productListings": "f5cb449bda771516-productListings"
@@ -25233,27 +25188,6 @@
     "lightWhite": "e42a84f4d1df5e43-lightWhite e42a84f4d1df5e43-light e42a84f4d1df5e43-base",
     "crossGrey": "e42a84f4d1df5e43-crossGrey e42a84f4d1df5e43-cross e42a84f4d1df5e43-base",
     "crossWhite": "e42a84f4d1df5e43-crossWhite e42a84f4d1df5e43-cross e42a84f4d1df5e43-base"
-  },
-  "983190": {
-    "itemContainer": "_8de16516b8d9f538-itemContainer",
-    "item": "_8de16516b8d9f538-item",
-    "itemIcon": "_8de16516b8d9f538-itemIcon",
-    "filterSublabelTextContainer": "_8de16516b8d9f538-filterSublabelTextContainer",
-    "labelWithElements": "_8de16516b8d9f538-labelWithElements",
-    "channelNameContainer": "_8de16516b8d9f538-channelNameContainer",
-    "channelName": "_8de16516b8d9f538-channelName",
-    "channelNameIcon": "_8de16516b8d9f538-channelNameIcon",
-    "divider": "_8de16516b8d9f538-divider",
-    "groupWrapper": "_8de16516b8d9f538-groupWrapper",
-    "groupHeader": "_8de16516b8d9f538-groupHeader",
-    "clearSearchHistory": "_8de16516b8d9f538-clearSearchHistory",
-    "clearSearchHistoryIcon": "_8de16516b8d9f538-clearSearchHistoryIcon",
-    "autocompletePillContainer": "_8de16516b8d9f538-autocompletePillContainer",
-    "nonText": "_8de16516b8d9f538-nonText",
-    "filterPill": "_8de16516b8d9f538-filterPill",
-    "answerPill": "_8de16516b8d9f538-answerPill",
-    "channelAnswerPill": "_8de16516b8d9f538-channelAnswerPill",
-    "channelPillIcon": "_8de16516b8d9f538-channelPillIcon"
   },
   "983240": {
     "newBadge": "_17510f6689e8c6b1-newBadge"
