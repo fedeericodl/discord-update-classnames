@@ -998,6 +998,11 @@
     "keybindHintKeys": "ea79f0163fdd4718-keybindHintKeys",
     "keybindShortcut": "ea79f0163fdd4718-keybindShortcut"
   },
+  "46826": {
+    "container": "c43912a2e594f280-container",
+    "glowAnimation": "c43912a2e594f280-glowAnimation",
+    "card": "c43912a2e594f280-card"
+  },
   "46833": {
     "popover": "_2d0abf0638bcaa3f-popover",
     "visible": "_2d0abf0638bcaa3f-visible",
@@ -13471,6 +13476,10 @@
     "churnDiscountHeader": "_3ce4302b7c49d475-churnDiscountHeader",
     "heroOfferCountdown": "_3ce4302b7c49d475-heroOfferCountdown"
   },
+  "521472": {
+    "container": "_60cb4906babff563-container",
+    "icon": "_60cb4906babff563-icon"
+  },
   "522316": {
     "guildIcon": "_0fa6dbf59d1126b0-guildIcon",
     "mask": "_0fa6dbf59d1126b0-mask",
@@ -15595,6 +15604,21 @@
     "userMenuDiscriminator": "d40c56f847687e8d-userMenuDiscriminator",
     "focused": "d40c56f847687e8d-focused",
     "activeIcon": "d40c56f847687e8d-activeIcon"
+  },
+  "608262": {
+    "baseContainer": "_670133a2134d7eae-baseContainer",
+    "card": "_670133a2134d7eae-card",
+    "video": "_670133a2134d7eae-video",
+    "betaBadge": "_670133a2134d7eae-betaBadge",
+    "progressContainer": "_670133a2134d7eae-progressContainer",
+    "bannerImageContainer": "_670133a2134d7eae-bannerImageContainer",
+    "bannerImage": "_670133a2134d7eae-bannerImage",
+    "textContainer": "_670133a2134d7eae-textContainer",
+    "heading": "_670133a2134d7eae-heading",
+    "actionButtonContainer": "_670133a2134d7eae-actionButtonContainer",
+    "totalLifetimeRewardsContainer": "_670133a2134d7eae-totalLifetimeRewardsContainer",
+    "stackedGradientOverlay": "_670133a2134d7eae-stackedGradientOverlay",
+    "bodyText": "_670133a2134d7eae-bodyText"
   },
   "608430": {
     "container": "_7473dbb4845d50c7-container",
