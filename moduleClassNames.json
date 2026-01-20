@@ -61,8 +61,7 @@
   },
   "2968": {
     "hotspotsSection": "_16e9eef1ecf05cbe-hotspotsSection",
-    "statusIcon": "_16e9eef1ecf05cbe-statusIcon",
-    "overrideSelect": "_16e9eef1ecf05cbe-overrideSelect"
+    "statusIcon": "_16e9eef1ecf05cbe-statusIcon"
   },
   "3083": {
     "scroller": "_3b92361cacc65834-scroller",
@@ -857,8 +856,6 @@
     "dataAssurance": "_2a04892625795148-dataAssurance"
   },
   "39169": {
-    "selectWrapper": "eb537348d45cc291-selectWrapper",
-    "pills": "eb537348d45cc291-pills",
     "selectedGames": "eb537348d45cc291-selectedGames"
   },
   "39425": {
@@ -1271,9 +1268,7 @@
   },
   "55042": {
     "text-md/normal": "_5a09253b3ed8bee2-text-md/normal",
-    "textArea": "_5a09253b3ed8bee2-textArea",
-    "maxLength": "_5a09253b3ed8bee2-maxLength",
-    "errorOverflow": "_5a09253b3ed8bee2-errorOverflow"
+    "textArea": "_5a09253b3ed8bee2-textArea"
   },
   "55212": {
     "container": "_8e51c10f5a9d6304-container",
@@ -1545,7 +1540,6 @@
     "section": "_9b71827bc8e9fb8d-section",
     "buttons": "_9b71827bc8e9fb8d-buttons",
     "inputRow": "_9b71827bc8e9fb8d-inputRow",
-    "input": "_9b71827bc8e9fb8d-input",
     "card": "_9b71827bc8e9fb8d-card",
     "badgeContainer": "_9b71827bc8e9fb8d-badgeContainer",
     "badge": "_9b71827bc8e9fb8d-badge",
@@ -1887,7 +1881,8 @@
     "profileCustomizationSection": "_44061dfca5514945-profileCustomizationSection",
     "baseLayout": "_44061dfca5514945-baseLayout",
     "previewsContainer": "_44061dfca5514945-previewsContainer",
-    "previewItem": "_44061dfca5514945-previewItem"
+    "previewTitle": "_44061dfca5514945-previewTitle",
+    "formContent": "_44061dfca5514945-formContent"
   },
   "78678": {
     "authenticationFailImage": "_28393bb9f33b7449-authenticationFailImage",
@@ -2127,10 +2122,6 @@
   "87266": {
     "spacer": "_5ecaae3e0bfab122-spacer",
     "input": "_5ecaae3e0bfab122-input"
-  },
-  "87489": {
-    "container": "da47d552bd387230-container",
-    "buttonGroup": "da47d552bd387230-buttonGroup"
   },
   "87611": {
     "container": "b7f4b43fe1b6e285-container",
@@ -3610,8 +3601,6 @@
     "betaTag": "bbb935a1dbde326f-betaTag",
     "checklist": "bbb935a1dbde326f-checklist",
     "socialLinksContainer": "bbb935a1dbde326f-socialLinksContainer",
-    "socialLinksDropdownMin": "bbb935a1dbde326f-socialLinksDropdownMin",
-    "socialLinksDropdownMax": "bbb935a1dbde326f-socialLinksDropdownMax",
     "tabMainDescription": "bbb935a1dbde326f-tabMainDescription",
     "imageUploaderInnerSquare": "bbb935a1dbde326f-imageUploaderInnerSquare",
     "error": "bbb935a1dbde326f-error"
@@ -5131,7 +5120,6 @@
     "editableSection": "_17efad71dc9e46a7-editableSection",
     "divider": "_17efad71dc9e46a7-divider",
     "error": "_17efad71dc9e46a7-error",
-    "localeSelect": "_17efad71dc9e46a7-localeSelect",
     "required": "_17efad71dc9e46a7-required",
     "buttonList": "_17efad71dc9e46a7-buttonList"
   },
@@ -7785,7 +7773,6 @@
   },
   "291852": {
     "selectTeamContainer": "_7b1756289ecadc62-selectTeamContainer",
-    "teamSelect": "_7b1756289ecadc62-teamSelect",
     "error": "_7b1756289ecadc62-error",
     "nonOwnerNotice": "_7b1756289ecadc62-nonOwnerNotice"
   },
@@ -9209,8 +9196,7 @@
     "actionBarIcon": "a7e304492e5ccc04-actionBarIcon"
   },
   "349036": {
-    "formSection": "_78ebfbea15eefd66-formSection",
-    "dropdownOption": "_78ebfbea15eefd66-dropdownOption"
+    "formSection": "_78ebfbea15eefd66-formSection"
   },
   "349348": {
     "container": "_99871ef1d8f8adaa-container",
@@ -9431,8 +9417,7 @@
   },
   "356526": {
     "externalLink": "_900c6a3ab86b64c7-externalLink",
-    "currency": "_900c6a3ab86b64c7-currency",
-    "currencyDropdown": "_900c6a3ab86b64c7-currencyDropdown"
+    "currency": "_900c6a3ab86b64c7-currency"
   },
   "356897": {
     "discordLogo": "_921c50dc4baa4b4f-discordLogo",
@@ -10377,7 +10362,6 @@
     "paginationContainer": "e8f197ff80df8bf4-paginationContainer",
     "pagination": "e8f197ff80df8bf4-pagination",
     "paginationInput": "e8f197ff80df8bf4-paginationInput",
-    "pageSizeInput": "e8f197ff80df8bf4-pageSizeInput",
     "pageSizeSelection": "e8f197ff80df8bf4-pageSizeSelection",
     "pageLabel": "e8f197ff80df8bf4-pageLabel"
   },
@@ -11729,7 +11713,6 @@
     "giftPreviewImageContainer": "_7b8d0ed55756837a-giftPreviewImageContainer",
     "giftPreviewCardContainer": "_7b8d0ed55756837a-giftPreviewCardContainer",
     "giftPreviewTextContainer": "_7b8d0ed55756837a-giftPreviewTextContainer",
-    "recipientPickerSelectWrapper": "_7b8d0ed55756837a-recipientPickerSelectWrapper",
     "footer": "_7b8d0ed55756837a-footer",
     "viewItemButton": "_7b8d0ed55756837a-viewItemButton"
   },
@@ -13577,8 +13560,6 @@
     "giftRecipientSection": "cd2ff7fa467efa57-giftRecipientSection",
     "giftRecipient": "cd2ff7fa467efa57-giftRecipient",
     "giftRecipientButton": "cd2ff7fa467efa57-giftRecipientButton",
-    "giftRecipientInputWrapper": "cd2ff7fa467efa57-giftRecipientInputWrapper",
-    "giftRecipientInputError": "cd2ff7fa467efa57-giftRecipientInputError",
     "confirmation": "cd2ff7fa467efa57-confirmation",
     "seasonalConfirmationPadding": "cd2ff7fa467efa57-seasonalConfirmationPadding",
     "giftCodeSection": "cd2ff7fa467efa57-giftCodeSection"
@@ -13966,8 +13947,7 @@
   "543404": {
     "content": "d97f896195d9f57f-content",
     "addAnswerButton": "d97f896195d9f57f-addAnswerButton",
-    "duration": "d97f896195d9f57f-duration",
-    "durationSelect": "d97f896195d9f57f-durationSelect"
+    "duration": "d97f896195d9f57f-duration"
   },
   "544165": {
     "contentContainer": "_0ffb84f5c7e3b216-contentContainer",
@@ -17390,7 +17370,6 @@
     "voiceWidgetContainer": "_9d98d3a9398a6f7d-voiceWidgetContainer",
     "widgetSettingsContainer": "_9d98d3a9398a6f7d-widgetSettingsContainer",
     "widgetContainer": "_9d98d3a9398a6f7d-widgetContainer",
-    "select": "_9d98d3a9398a6f7d-select",
     "widgetHeaderContainer": "_9d98d3a9398a6f7d-widgetHeaderContainer",
     "sliderContainer": "_9d98d3a9398a6f7d-sliderContainer",
     "overlaySettingsNux": "_9d98d3a9398a6f7d-overlaySettingsNux",
@@ -19715,8 +19694,7 @@
   "769633": {
     "panel": "_9d40d10658cbffb3-panel",
     "divider": "_9d40d10658cbffb3-divider",
-    "inGameNuxContainer": "_9d40d10658cbffb3-inGameNuxContainer",
-    "search": "_9d40d10658cbffb3-search"
+    "inGameNuxContainer": "_9d40d10658cbffb3-inGameNuxContainer"
   },
   "770531": {
     "wrapper": "_8b9fcfa7b9f4eb18-wrapper",
@@ -20915,8 +20893,7 @@
     "updatedOptionSelected": "b130855d8984d74e-updatedOptionSelected"
   },
   "815778": {
-    "container": "_0ccef530b78c93f3-container",
-    "selector": "_0ccef530b78c93f3-selector"
+    "container": "_0ccef530b78c93f3-container"
   },
   "816724": {
     "body": "af4c15d2c8c27108-body"
@@ -21173,10 +21150,7 @@
     "isHovering": "_48112cbe77dc5022-isHovering"
   },
   "829478": {
-    "selectorGroup": "c248b6a39f5f76ed-selectorGroup",
-    "select": "c248b6a39f5f76ed-select",
-    "label": "c248b6a39f5f76ed-label",
-    "sectionLabel": "c248b6a39f5f76ed-sectionLabel"
+    "selector": "c248b6a39f5f76ed-selector"
   },
   "829592": {
     "icon20px": "_6936245d0ea946a8-icon20px",
@@ -23356,7 +23330,6 @@
   },
   "913498": {
     "guildSelectOptionIcon": "b476ba9066043148-guildSelectOptionIcon",
-    "searchableSelect": "b476ba9066043148-searchableSelect",
     "clydeIconContainer": "b476ba9066043148-clydeIconContainer"
   },
   "913807": {
@@ -24583,7 +24556,6 @@
     "guildsList": "_7db089e5a4993141-guildsList",
     "infoDot": "_7db089e5a4993141-infoDot",
     "controlsContainer": "_7db089e5a4993141-controlsContainer",
-    "select": "_7db089e5a4993141-select",
     "wrapper": "_7db089e5a4993141-wrapper",
     "noResultsContainer": "_7db089e5a4993141-noResultsContainer",
     "noResultsText": "_7db089e5a4993141-noResultsText",
@@ -24656,7 +24628,6 @@
     "textInGrid": "_28d93bb3e078fce2-textInGrid"
   },
   "966974": {
-    "countryOption": "b9da6a7e149c21c4-countryOption",
     "countryFlagEmoji": "b9da6a7e149c21c4-countryFlagEmoji"
   },
   "968352": {
@@ -25232,9 +25203,6 @@
     "purchaseConfirmation": "_2dea30567973ed8a-purchaseConfirmation _2dea30567973ed8a-confirmationContainer",
     "confirmationTitle": "_2dea30567973ed8a-confirmationTitle",
     "confirmationSubtitle": "_2dea30567973ed8a-confirmationSubtitle"
-  },
-  "984019": {
-    "required": "_287ee97dd41b7219-required"
   },
   "984380": {
     "linkIcon": "a4b5f88a32e452e2-linkIcon",
