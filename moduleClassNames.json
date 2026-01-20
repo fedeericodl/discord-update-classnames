@@ -8268,6 +8268,11 @@
     "container": "_061999bcd9dee1c9-container",
     "asset": "_061999bcd9dee1c9-asset"
   },
+  "306278": {
+    "hero": "_50e076dec57eb48b-hero",
+    "logo": "_50e076dec57eb48b-logo",
+    "children": "_50e076dec57eb48b-children"
+  },
   "306412": {
     "emptyWidgetContainer": "cc1cc58619fd0775-emptyWidgetContainer",
     "absolute": "cc1cc58619fd0775-absolute",
