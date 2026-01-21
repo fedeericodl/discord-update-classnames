@@ -7156,9 +7156,6 @@
     "labelWrapper": "abe77154c495342b-labelWrapper",
     "label": "abe77154c495342b-label"
   },
-  "268436": {
-    "flagIcon": "_45b6eeaf045e41a3-flagIcon"
-  },
   "268622": {
     "noticeImage": "_8ab7e4190786a9c3-noticeImage",
     "sectionLabel": "_8ab7e4190786a9c3-sectionLabel",
@@ -11583,9 +11580,6 @@
     "showScroller": "_4fb8c174237dbfae-showScroller",
     "buttonContainer": "_4fb8c174237dbfae-buttonContainer"
   },
-  "438166": {
-    "emoji": "ab6c65b859377191-emoji"
-  },
   "438744": {
     "layer": "_95d7b09e86ef577e-layer"
   },
@@ -14646,6 +14640,8 @@
     "iconContainerLarge": "c1e9c47c23f12ca3-iconContainerLarge",
     "switchContainer": "c1e9c47c23f12ca3-switchContainer",
     "icon": "c1e9c47c23f12ca3-icon",
+    "avatarAccessory": "c1e9c47c23f12ca3-avatarAccessory",
+    "imageAccessory": "c1e9c47c23f12ca3-imageAccessory",
     "hintContainer": "c1e9c47c23f12ca3-hintContainer",
     "caret": "c1e9c47c23f12ca3-caret",
     "disabled": "c1e9c47c23f12ca3-disabled",
