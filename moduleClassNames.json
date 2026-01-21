@@ -10591,6 +10591,7 @@
   "407367": {
     "container": "_7137c5e977587553-container",
     "asset": "_7137c5e977587553-asset",
+    "assetImage": "_7137c5e977587553-assetImage",
     "bannerContent": "_7137c5e977587553-bannerContent",
     "bannerDescription": "_7137c5e977587553-bannerDescription",
     "buttonContainer": "_7137c5e977587553-buttonContainer",
@@ -22951,6 +22952,17 @@
   },
   "899272": {
     "canvas": "_5dc9c6844b487aa3-canvas"
+  },
+  "900221": {
+    "contentContainer": "_5847195f1be2a566-contentContainer",
+    "assetContainer": "_5847195f1be2a566-assetContainer",
+    "orbAsset": "_5847195f1be2a566-orbAsset",
+    "learnMoreLink": "_5847195f1be2a566-learnMoreLink",
+    "balanceText": "_5847195f1be2a566-balanceText",
+    "rewardsContainer": "_5847195f1be2a566-rewardsContainer",
+    "balanceContainer": "_5847195f1be2a566-balanceContainer",
+    "videoBackground": "_5847195f1be2a566-videoBackground",
+    "content": "_5847195f1be2a566-content"
   },
   "901195": {
     "flex": "_48a9c1ba881795e8-flex",
