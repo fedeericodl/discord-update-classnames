@@ -16872,10 +16872,6 @@
     "icon": "a629d4eb1dd44839-icon",
     "badge": "a629d4eb1dd44839-badge"
   },
-  "650021": {
-    "image": "_97ca1bddcbdd3192-image",
-    "text": "_97ca1bddcbdd3192-text"
-  },
   "650061": {
     "iconContainer": "_98cf72876e6760d6-iconContainer",
     "filledIcon": "_98cf72876e6760d6-filledIcon"
@@ -20925,7 +20921,7 @@
     "planOptionDiscount": "b130855d8984d74e-planOptionDiscount",
     "planOptionSubtextContainer": "b130855d8984d74e-planOptionSubtextContainer",
     "planOptionSubtext": "b130855d8984d74e-planOptionSubtext",
-    "discountPlanOptionSubtext": "b130855d8984d74e-discountPlanOptionSubtext",
+    "planWithOfferOptionSubtext": "b130855d8984d74e-planWithOfferOptionSubtext",
     "planOptionClickableContainer": "b130855d8984d74e-planOptionClickableContainer",
     "optionPriceSelected": "b130855d8984d74e-optionPriceSelected",
     "updatedOptionSelected": "b130855d8984d74e-updatedOptionSelected"
