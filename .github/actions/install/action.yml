@@ -1,4 +1,5 @@
 name: Install
+description: "Action to install project dependencies using pnpm"
 
 runs:
     using: composite

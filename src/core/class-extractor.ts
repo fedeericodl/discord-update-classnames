@@ -7,6 +7,8 @@ import { CLASS_NAME_REGEX } from "../constants";
 
 export type ExportMap = Record<string, Record<string, string>>;
 
+const mangledMappings: ExportMap = {};
+
 /**
  * Checks if a node is a module property.
  * @param node The node to check.
@@ -34,6 +36,12 @@ function processFile(code: string) {
     });
 
     const exportsData: ExportMap = {};
+
+    const mergeExports = (moduleId: number, node: acorn.Expression | null | undefined) => {
+        const { exports, mangledToSemantic } = extractExports(node);
+        Object.assign((exportsData[moduleId] ||= {}), exports);
+        Object.assign((mangledMappings[moduleId] ||= {}), mangledToSemantic);
+    };
 
     walk.simple(ast, {
         Property(node) {
@@ -74,7 +82,7 @@ function processFile(code: string) {
                         expr.left.property.name === "exports"
                     ) {
                         // e.exports = { ... }
-                        Object.assign((exportsData[moduleId] ||= {}), extractExports(expr.right));
+                        mergeExports(moduleId, expr.right);
                     } else if (
                         expr.type === "CallExpression" &&
                         expr.arguments[0]?.type === "AssignmentExpression" &&
@@ -83,7 +91,7 @@ function processFile(code: string) {
                         expr.arguments[0].left.property.name === "exports"
                     ) {
                         // t.r((e.exports = { ... }))
-                        Object.assign((exportsData[moduleId] ||= {}), extractExports(expr.arguments[0].right));
+                        mergeExports(moduleId, expr.arguments[0].right);
                     }
                 } else if (statement.type === "VariableDeclaration") {
                     const decl = statement.declarations?.[0];
@@ -107,7 +115,7 @@ function processFile(code: string) {
                             expr.right.name === varName
                         ) {
                             // var i = { ... }; e.exports = i
-                            Object.assign((exportsData[moduleId] ||= {}), extractExports(varValue));
+                            mergeExports(moduleId, varValue);
                         } else if (
                             expr.type === "CallExpression" &&
                             expr.arguments[0]?.type === "AssignmentExpression" &&
@@ -118,7 +126,7 @@ function processFile(code: string) {
                             expr.arguments[0].right.name === varName
                         ) {
                             // var i = { ... }; n.r((e.exports = i))
-                            Object.assign((exportsData[moduleId] ||= {}), extractExports(varValue));
+                            mergeExports(moduleId, varValue);
                         }
                     }
                 }
@@ -148,18 +156,22 @@ function processExpression(node: acorn.Expression): string {
     } else if (node.type === "Literal" && node.value) {
         return node.value.toString();
     } else if (node.type === "MemberExpression") {
-        if (
-            node.object.type === "CallExpression" &&
-            node.object.arguments[0]?.type === "Literal" &&
-            node.property.type === "Identifier"
-        ) {
+        if (node.object.type === "CallExpression" && node.object.arguments[0]?.type === "Literal") {
             const moduleId = node.object.arguments[0].value;
-            const property = node.property.name;
+            let property: string | undefined;
+
+            // Handle both dot notation (n(1).className) and bracket notation (n(1)["className"])
+            if (node.property.type === "Identifier") {
+                property = node.property.name;
+            } else if (node.property.type === "Literal") {
+                property = node.property.value?.toString();
+            }
+
             if (moduleId && property) {
                 // Return a reference to the class name in another module
                 // This is a way to handle concatenated class names
                 // that are later resolved in a separate step on the extractor
-                // Example: (+1.className)
+                // Example: (+1.className) or (+1.class-name)
                 return `(+${moduleId}.${property})`;
             }
         }
@@ -178,20 +190,43 @@ function isValidClassName(string: string) {
 }
 
 /**
+ * Extracts the semantic name from a class name string.
+ * @param className The full class name string.
+ * @returns The semantic name.
+ */
+function getSemanticName(className: string): string | undefined {
+    const firstClass = className.includes(" ") ? className.split(" ")[0] : className;
+    const semanticName = firstClass?.slice(0, -7); // -7 is to remove the hash and separator part
+    return semanticName || undefined;
+}
+
+/**
  * Extracts the exports from an object expression.
  * @param node The object expression node.
- * @returns The extracted exports.
+ * @returns The extracted exports and mangled name mapping.
  */
 function extractExports(node: acorn.Expression | null | undefined) {
     const exports: Record<string, string> = {};
+    const mangledToSemantic: Record<string, string> = {};
 
     if (node && node.type === "ObjectExpression") {
         node.properties.forEach((prop) => {
             if (prop.type === "Property" && prop.value.type === "BinaryExpression") {
                 // Catch class names concatenated with other class names
                 const className = processExpression(prop.value);
-                if (className && prop.key.type === "Identifier") {
-                    exports[prop.key.name] = className;
+                if (className && (prop.key.type === "Identifier" || prop.key.type === "Literal")) {
+                    const matchedClassName = className.match(CLASS_NAME_REGEX)?.[0];
+                    if (matchedClassName) {
+                        const semanticName = getSemanticName(matchedClassName);
+                        if (semanticName) {
+                            exports[semanticName] = className;
+                            const mangledName =
+                                prop.key.type === "Identifier" ? prop.key.name : prop.key.value?.toString();
+                            if (mangledName) {
+                                mangledToSemantic[mangledName] = semanticName;
+                            }
+                        }
+                    }
                 }
             } else if (
                 prop.type === "Property" &&
@@ -201,48 +236,20 @@ function extractExports(node: acorn.Expression | null | undefined) {
                 isValidClassName(prop.value.value.toString())
             ) {
                 // Catch normal class names
-                const keyName = prop.key.type === "Identifier" ? prop.key.name : prop.key.value;
-                if (keyName) exports[keyName.toString()] = prop.value.value.toString();
+                const className = prop.value.value.toString();
+                const semanticName = getSemanticName(className);
+                if (semanticName) {
+                    exports[semanticName] = className;
+                    const mangledName = prop.key.type === "Identifier" ? prop.key.name : prop.key.value?.toString();
+                    if (mangledName) {
+                        mangledToSemantic[mangledName] = semanticName;
+                    }
+                }
             }
         });
     }
 
-    return exports;
-}
-
-/**
- * Resolves class references in the exports data.
- * @param allExports The exports data.
- */
-function resolveClassReferences(allExports: ExportMap) {
-    Object.keys(allExports).forEach((moduleId) => {
-        const moduleExports = allExports[moduleId];
-        if (!moduleExports) return;
-
-        Object.keys(moduleExports).forEach((className) => {
-            const classValue = moduleExports[className];
-
-            if (typeof classValue === "string") {
-                const regex = /\(\+(\d+)\.(\w+)\)/g;
-                let resolvedClassValue = classValue;
-
-                resolvedClassValue = resolvedClassValue.replace(regex, (match, refModuleId, refProperty) => {
-                    if (allExports[refModuleId]?.[refProperty]) {
-                        return allExports[refModuleId][refProperty];
-                    } else {
-                        core.warning(`Reference to ${refModuleId}.${refProperty} not found.`);
-                        return match;
-                    }
-                });
-
-                if (allExports[moduleId]) {
-                    allExports[moduleId][className] = resolvedClassValue;
-                }
-            } else {
-                core.warning(`Expected a string value for className "${className}", but got ${typeof classValue}.`);
-            }
-        });
-    });
+    return { exports, mangledToSemantic };
 }
 
 /**
@@ -267,7 +274,39 @@ export default function extractClassNames(directory: string) {
     });
 
     core.debug("Resolving class references in exports data");
-    resolveClassReferences(allExports);
+    Object.keys(allExports).forEach((moduleId) => {
+        const moduleExports = allExports[moduleId];
+        if (!moduleExports) return;
+
+        Object.keys(moduleExports).forEach((className) => {
+            const classValue = moduleExports[className];
+
+            if (typeof classValue === "string") {
+                const regex = /\(\+(\d+)\.(.+?)\)/g;
+                let resolvedClassValue = classValue;
+
+                resolvedClassValue = resolvedClassValue.replace(
+                    regex,
+                    (match, refModuleId: string, refProperty: string) => {
+                        const semanticName = mangledMappings[refModuleId]?.[refProperty] || refProperty;
+
+                        if (allExports[refModuleId]?.[semanticName]) {
+                            return allExports[refModuleId][semanticName];
+                        } else {
+                            core.warning(
+                                `Reference to ${refModuleId}.${refProperty} (semantic: ${semanticName}) not found.`,
+                            );
+                            return match;
+                        }
+                    },
+                );
+
+                moduleExports[className] = resolvedClassValue;
+            } else {
+                core.warning(`Expected a string value for className "${className}", but got ${typeof classValue}.`);
+            }
+        });
+    });
 
     // Remove empty exports
     Object.keys(allExports).forEach((key) => {
