@@ -14,6 +14,7 @@
     },
     "scripts": {
         "start": "node dist/extractor/index.js",
+        "start:debug": "node dist/extractor/index.js --debug-extract",
         "build": "tsc && pnpm run build:action && pnpm run build:extractor",
         "build:action": "ncc build src/action.ts -o dist/action -m",
         "build:extractor": "ncc build src/extractor.ts -o dist/extractor -m",
@@ -26,19 +27,19 @@
         "lint:fix": "pnpm run prettier:fix && pnpm run eslint:fix && pnpm run typescript:check"
     },
     "dependencies": {
-        "@actions/core": "^2.0.1",
+        "@actions/core": "^2.0.2",
         "@actions/glob": "^0.5.0",
         "acorn": "^8.15.0",
         "acorn-walk": "^8.3.4"
     },
     "devDependencies": {
         "@eslint/js": "^9.39.2",
-        "@types/node": "^25.0.3",
+        "@types/node": "^25.0.10",
         "eslint": "^9.39.2",
         "eslint-config-prettier": "^10.1.8",
-        "globals": "^16.5.0",
-        "prettier": "^3.7.4",
+        "globals": "^17.1.0",
+        "prettier": "^3.8.1",
         "typescript": "^5.9.3",
-        "typescript-eslint": "^8.50.1"
+        "typescript-eslint": "^8.53.1"
     }
 }

@@ -9,9 +9,10 @@ async function run() {
     try {
         fs.mkdirSync(DATA_DIRECTORY, { recursive: true });
 
-        core.info("Downloading files...");
+        const debugExtract = process.argv.includes("--debug-extract");
+
         const isDownloaded = await downloadScripts(SCRIPTS_DIRECTORY);
-        if (!isDownloaded) {
+        if (!isDownloaded && !debugExtract) {
             core.info("Files already downloaded, skipping download and extraction.");
             return;
         }
