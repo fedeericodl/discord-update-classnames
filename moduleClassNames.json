@@ -9044,6 +9044,11 @@
     "avatar": "avatar__01290",
     "username": "username__01290"
   },
+  "334994": {
+    "container": "container__7ccfa",
+    "icon": "icon__7ccfa",
+    "statusText": "statusText__7ccfa"
+  },
   "335419": {
     "wrapper": "wrapper__260e1",
     "total": "total__260e1",
@@ -14884,6 +14889,20 @@
     "copy": "copy__37ae5",
     "cta": "cta__37ae5",
     "boostIcon": "boostIcon__37ae5"
+  },
+  "573073": {
+    "streamPreviewWrapper": "streamPreviewWrapper__0489e",
+    "streamPreview": "streamPreview__0489e",
+    "streamHeader": "streamHeader__0489e",
+    "streamHeaderIcon": "streamHeaderIcon__0489e",
+    "previewContainer": "previewContainer__0489e",
+    "previewHover": "previewHover__0489e",
+    "skipContainer": "skipContainer__0489e",
+    "previewImage": "previewImage__0489e",
+    "body": "body__0489e",
+    "activityActions": "activityActions__0489e",
+    "protip": "protip__0489e",
+    "white": "white__0489e"
   },
   "573729": {
     "actionButton": "actionButton_f8fa06",
@@ -24426,16 +24445,9 @@
     "error": "error__77bc8"
   },
   "945354": {
-    "body": "body__6da2d",
     "streamPreviewWrapper": "streamPreviewWrapper__6da2d",
     "mounted": "mounted__6da2d",
-    "streamPreview": "streamPreview__6da2d",
-    "previewContainer": "previewContainer__6da2d",
-    "previewHover": "previewHover__6da2d",
-    "previewImage": "previewImage__6da2d",
-    "activityActions": "activityActions__6da2d",
-    "protip": "protip__6da2d",
-    "white": "white__6da2d"
+    "streamPreview": "streamPreview__6da2d"
   },
   "945586": {
     "container": "container__75906",
@@ -24850,6 +24862,17 @@
     "subscribedText": "subscribedText__44563",
     "actionButtons": "actionButtons__44563",
     "ended": "ended__44563"
+  },
+  "962966": {
+    "container": "container__218f7",
+    "headerDivider": "headerDivider__218f7",
+    "voiceChannelGiftingBreadcrumb": "voiceChannelGiftingBreadcrumb__218f7",
+    "hangStatusActivity": "hangStatusActivity__218f7",
+    "hangStatusContent": "hangStatusContent__218f7",
+    "hangStatusIcon": "hangStatusIcon__218f7",
+    "hangStatusText": "hangStatusText__218f7",
+    "streamPreviewWrapper": "streamPreviewWrapper__218f7",
+    "mounted": "mounted__218f7"
   },
   "963879": {
     "container": "container_d55c24",
