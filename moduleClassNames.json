@@ -554,7 +554,8 @@
   },
   "22589": {
     "cloudPlaySection": "cloudPlaySection__1692d",
-    "cloudPlaySectionTextContainer": "cloudPlaySectionTextContainer__1692d"
+    "cloudPlaySectionTextContainer": "cloudPlaySectionTextContainer__1692d",
+    "appWidgetPreview": "appWidgetPreview__1692d"
   },
   "22658": {
     "description": "description__1f7ec",
@@ -4053,6 +4054,7 @@
     "uploadIcon": "uploadIcon__94439",
     "fileInput": "fileInput__94439",
     "container": "container__94439",
+    "collapsedAttachment": "collapsedAttachment__94439",
     "popoutContainer": "popoutContainer__94439",
     "popout": "popout__94439",
     "uploads": "uploads__94439",
@@ -5834,6 +5836,15 @@
     "myServersTitle": "myServersTitle__6de8b",
     "myServersIgnoredWarning": "myServersIgnoredWarning__6de8b",
     "privacyTermsCard": "privacyTermsCard__6de8b"
+  },
+  "208952": {
+    "container": "container__82fb2",
+    "content": "content__82fb2",
+    "applicationIcon": "applicationIcon__82fb2",
+    "previewIcon": "previewIcon__82fb2",
+    "textContent": "textContent__82fb2",
+    "previewImageContainer": "previewImageContainer__82fb2",
+    "previewImage": "previewImage__82fb2"
   },
   "209248": {
     "root": "root__759ac",
@@ -9247,15 +9258,6 @@
     "modalContent": "modalContent__20a09",
     "spinner": "spinner__20a09"
   },
-  "348406": {
-    "container": "container__9dfff",
-    "content": "content__9dfff",
-    "applicationIcon": "applicationIcon__9dfff",
-    "previewIcon": "previewIcon__9dfff",
-    "textContent": "textContent__9dfff",
-    "previewImageContainer": "previewImageContainer__9dfff",
-    "previewImage": "previewImage__9dfff"
-  },
   "348635": {
     "channelHeader": "channelHeader__06fb5",
     "icon": "icon__06fb5",
@@ -10020,7 +10022,8 @@
     "voiceChannelHeading": "voiceChannelHeading__39ec2",
     "voiceChannelDivider": "voiceChannelDivider__39ec2",
     "voiceChannelOverflowCount": "voiceChannelOverflowCount__39ec2",
-    "contextMenu": "contextMenu__39ec2"
+    "contextMenu": "contextMenu__39ec2",
+    "appWidgetPreview": "appWidgetPreview__39ec2"
   },
   "380519": {
     "root": "root__85d05",
@@ -12548,6 +12551,12 @@
     "settingsItemHighlight": "settingsItemHighlight__7cd2d",
     "settingsBackgroundFlashElement": "settingsBackgroundFlashElement__7cd2d"
   },
+  "480463": {
+    "container": "container__39f84",
+    "content": "content__39f84",
+    "icon": "icon__39f84",
+    "viewMoreButton": "viewMoreButton__39f84"
+  },
   "480601": {
     "icon": "icon__402f3"
   },
@@ -14243,9 +14252,7 @@
     "badge": "badge__233f8"
   },
   "545965": {
-    "hidden": "hidden__7d7b6",
-    "image": "image__7d7b6",
-    "video": "video__7d7b6"
+    "image": "image__7d7b6"
   },
   "546190": {
     "container": "container__87dda",
@@ -15159,7 +15166,8 @@
     "badgesContainer": "badgesContainer__635ed",
     "badgesContainerCard": "badgesContainerCard__635ed",
     "badgesContainerGameProfile": "badgesContainerGameProfile__635ed",
-    "badgesContainerPopout": "badgesContainerPopout__635ed"
+    "badgesContainerPopout": "badgesContainerPopout__635ed",
+    "appWidgetPreviewIcon": "appWidgetPreviewIcon__635ed"
   },
   "584878": {
     "circleContainer": "circleContainer_c1b44f",
@@ -19391,9 +19399,9 @@
   },
   "735314": {
     "upload": "upload_aa605f",
+    "smallActionBar": "smallActionBar_aa605f",
     "sizeClip": "sizeClip_aa605f",
     "uploadContainer": "uploadContainer_aa605f",
-    "smallActionBar": "smallActionBar_aa605f",
     "actionBarContainer": "actionBarContainer_aa605f",
     "actionBar": "actionBar_aa605f",
     "miniPopover": "miniPopover_aa605f"
@@ -20589,13 +20597,13 @@
     "contentWrapper": "contentWrapper__42d45",
     "contentWrapperLoading": "contentWrapperLoading__42d45",
     "content": "content__42d45",
-    "heroImageBackground": "heroImageBackground__42d45",
+    "heroBackground": "heroBackground__42d45",
     "backgroundOverlay": "backgroundOverlay__42d45",
-    "heroImage": "heroImage__42d45",
-    "image": "image__42d45",
-    "heroImageBlurred": "heroImageBlurred__42d45",
-    "heroImageBlurredA": "heroImageBlurredA__42d45",
-    "heroImageBlurredB": "heroImageBlurredB__42d45",
+    "heroAsset": "heroAsset__42d45",
+    "asset": "asset__42d45",
+    "heroAssetBlurred": "heroAssetBlurred__42d45",
+    "heroAssetBlurredA": "heroAssetBlurredA__42d45",
+    "heroAssetBlurredB": "heroAssetBlurredB__42d45",
     "contentBody": "contentBody__42d45",
     "logo": "logo__42d45",
     "title": "title__42d45",
