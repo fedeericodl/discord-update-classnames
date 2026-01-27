@@ -5449,6 +5449,7 @@
   "198606": {
     "categoryList": "categoryList_a1e0e0",
     "expressionPickerCategoryList": "expressionPickerCategoryList_a1e0e0",
+    "hasBottomBarUpsell": "hasBottomBarUpsell_a1e0e0",
     "category": "category_a1e0e0",
     "categoryIcon": "categoryIcon_a1e0e0 category_a1e0e0",
     "selected": "selected_a1e0e0",
@@ -19295,6 +19296,7 @@
     "hasPreviewSound": "hasPreviewSound__0b69f",
     "upsellContainerFloating": "upsellContainerFloating__0b69f",
     "upsellContainerInline": "upsellContainerInline__0b69f",
+    "upsellContainerBottom": "upsellContainerBottom__0b69f",
     "soundPreview": "soundPreview__0b69f",
     "soundPreviewName": "soundPreviewName__0b69f",
     "soundPreviewText": "soundPreviewText__0b69f",
