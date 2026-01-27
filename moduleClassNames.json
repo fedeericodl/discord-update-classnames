@@ -19288,9 +19288,14 @@
   "732591": {
     "upsellContainer": "upsellContainer__0b69f",
     "upsellRedesignEnabled": "upsellRedesignEnabled__0b69f",
-    "expressiveGradientBg": "expressiveGradientBg__0b69f",
+    "expressiveGradient": "expressiveGradient__0b69f",
+    "radialMask": "radialMask__0b69f",
+    "hasPreviewSound": "hasPreviewSound__0b69f",
     "upsellContainerFloating": "upsellContainerFloating__0b69f",
     "upsellContainerInline": "upsellContainerInline__0b69f",
+    "soundPreview": "soundPreview__0b69f",
+    "soundPreviewName": "soundPreviewName__0b69f",
+    "soundPreviewText": "soundPreviewText__0b69f",
     "upsellText": "upsellText__0b69f"
   },
   "732611": {
