@@ -6053,7 +6053,8 @@
     "sparkleBottom": "sparkleBottom__05cdc"
   },
   "220264": {
-    "paymentMethodLabel": "paymentMethodLabel_f630da"
+    "paymentMethodContainer": "paymentMethodContainer_f630da",
+    "reviewStepBody": "reviewStepBody_f630da"
   },
   "220636": {
     "menu": "menu__43313",
@@ -9420,7 +9421,8 @@
     "iconContainer": "iconContainer_e9ab2f"
   },
   "355767": {
-    "paymentIcon": "paymentIcon__84bdf"
+    "paymentIcon": "paymentIcon__84bdf",
+    "clickableContainer": "clickableContainer__84bdf"
   },
   "355862": {
     "rewardTileContainer": "rewardTileContainer_d8917e",
@@ -25678,6 +25680,9 @@
     "tag": "tag_e7c728",
     "badge": "badge_e7c728",
     "tagContainer": "tagContainer_e7c728"
+  },
+  "996541": {
+    "countryFlagEmoji": "countryFlagEmoji_ebbc17"
   },
   "996554": {
     "container": "container_a1d343",
