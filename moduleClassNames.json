@@ -9026,6 +9026,11 @@
     "thumbnail": "thumbnail__0f2e8",
     "divider": "divider__0f2e8"
   },
+  "333291": {
+    "offerDetailContainer": "offerDetailContainer__11ee8",
+    "legalContainer": "legalContainer__11ee8",
+    "spinnerContainer": "spinnerContainer__11ee8"
+  },
   "334609": {
     "container": "container__01290",
     "participantItem": "participantItem__01290",
@@ -14463,11 +14468,6 @@
     "headerText": "headerText__5dbf8",
     "headerImage": "headerImage__5dbf8",
     "button": "button__5dbf8"
-  },
-  "555672": {
-    "offerDetailContainer": "offerDetailContainer__11ee8",
-    "legalContainer": "legalContainer__11ee8",
-    "spinnerContainer": "spinnerContainer__11ee8"
   },
   "556309": {
     "flowerStarContainer": "flowerStarContainer__3e3b0",
