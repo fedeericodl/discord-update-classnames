@@ -6056,10 +6056,6 @@
     "sparkleTop": "sparkleTop__05cdc",
     "sparkleBottom": "sparkleBottom__05cdc"
   },
-  "220264": {
-    "paymentMethodContainer": "paymentMethodContainer_f630da",
-    "reviewStepBody": "reviewStepBody_f630da"
-  },
   "220636": {
     "menu": "menu__43313",
     "customMenuItem": "customMenuItem__43313",
@@ -24760,7 +24756,14 @@
     "secret": "secret__07d82"
   },
   "954848": {
-    "stepBody": "stepBody_bb5449"
+    "stepBodyV1": "stepBodyV1_bb5449",
+    "topSpacer": "topSpacer_bb5449",
+    "subscriptionDetailsContainer": "subscriptionDetailsContainer_bb5449",
+    "invoiceSummaryContainer": "invoiceSummaryContainer_bb5449",
+    "paymentMethodContainer": "paymentMethodContainer_bb5449",
+    "reviewStepBody": "reviewStepBody_bb5449",
+    "checkoutInlineNoticeContainer": "checkoutInlineNoticeContainer_bb5449",
+    "loadingContainer": "loadingContainer_bb5449"
   },
   "955562": {
     "container": "container__8f3cb",
