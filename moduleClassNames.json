@@ -236,7 +236,6 @@
   "7946": {
     "imageContainer": "imageContainer_a1bfef",
     "image": "image_a1bfef",
-    "gameServerHostingImage": "gameServerHostingImage_a1bfef",
     "levelImage": "levelImage_a1bfef"
   },
   "8056": {
@@ -5923,6 +5922,7 @@
     "powerupsContainer": "powerupsContainer_ef0711",
     "powerupCard": "powerupCard_ef0711",
     "image": "image_ef0711",
+    "gameServerImage": "gameServerImage_ef0711",
     "contentContainer": "contentContainer_ef0711"
   },
   "213890": {
@@ -14601,8 +14601,7 @@
   },
   "561797": {
     "image": "image__9bf93",
-    "imageContainer": "imageContainer__9bf93",
-    "gradient": "gradient__9bf93"
+    "imageContainer": "imageContainer__9bf93"
   },
   "562628": {
     "root": "root_e4ef5c",
@@ -21447,6 +21446,7 @@
     "intObserver": "intObserver__65e57",
     "illustrationWrapper": "illustrationWrapper__65e57",
     "illustration": "illustration__65e57",
+    "animatedAsset": "animatedAsset__65e57",
     "content": "content__65e57",
     "textContent": "textContent__65e57",
     "title": "title__65e57",
