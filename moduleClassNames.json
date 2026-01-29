@@ -387,7 +387,17 @@
   },
   "15267": {
     "autoThresholdSlider": "autoThresholdSlider__39fa9",
-    "noInputDevicesDetectedWarning": "noInputDevicesDetectedWarning__39fa9"
+    "noInputDevicesDetectedWarning": "noInputDevicesDetectedWarning__39fa9",
+    "sliderBar": "sliderBar__39fa9",
+    "disabled": "disabled__39fa9",
+    "speaking": "speaking__39fa9",
+    "inputSensitivityToggle": "inputSensitivityToggle__39fa9",
+    "manual": "manual__39fa9",
+    "microphone": "microphone__39fa9",
+    "fill": "fill__39fa9",
+    "inputSensitivitySlider": "inputSensitivitySlider__39fa9",
+    "inputSensitivityBar": "inputSensitivityBar__39fa9",
+    "inputSensitivityBarFill": "inputSensitivityBarFill__39fa9"
   },
   "15341": {
     "fixClipping": "fixClipping_efbae7"
@@ -421,6 +431,14 @@
     "categoryText": "categoryText_d02962",
     "categoryIcon": "categoryIcon_d02962",
     "categoryName": "categoryName_d02962"
+  },
+  "17786": {
+    "guildSelector": "guildSelector__673eb",
+    "nitroWheel": "nitroWheel__673eb",
+    "notice": "notice__673eb",
+    "pill": "pill__673eb",
+    "pillText": "pillText__673eb",
+    "pillIcon": "pillIcon__673eb"
   },
   "18318": {
     "pageContainer": "pageContainer__8893c",
@@ -2219,19 +2237,6 @@
     "container": "container__3167a",
     "pageContainer": "pageContainer__3167a",
     "nagbar": "nagbar__3167a"
-  },
-  "90444": {
-    "sensitivity": "sensitivity_ac7648",
-    "sliderBar": "sliderBar_ac7648",
-    "disabled": "disabled_ac7648",
-    "speaking": "speaking_ac7648",
-    "inputSensitivityToggle": "inputSensitivityToggle_ac7648",
-    "manual": "manual_ac7648",
-    "microphone": "microphone_ac7648",
-    "fill": "fill_ac7648",
-    "inputSensitivitySlider": "inputSensitivitySlider_ac7648",
-    "inputSensitivityBar": "inputSensitivityBar_ac7648",
-    "inputSensitivityBarFill": "inputSensitivityBarFill_ac7648"
   },
   "90460": {
     "button": "button__0f074",
@@ -4119,7 +4124,6 @@
   "151000": {
     "backgroundIconOptionIcon": "backgroundIconOptionIcon__53965",
     "backgroundOptions": "backgroundOptions__53965",
-    "backgroundOptionsLarge": "backgroundOptionsLarge__53965 backgroundOptions__53965",
     "backgroundImageOption": "backgroundImageOption__53965",
     "backgroundOptionBackgroundBlurred": "backgroundOptionBackgroundBlurred__53965 backgroundImageOption__53965",
     "backgroundOptionBlurBackground": "backgroundOptionBlurBackground__53965 backgroundOptionBackgroundBlurred__53965 backgroundImageOption__53965",
@@ -16559,11 +16563,6 @@
     "rolePreviewArea": "rolePreviewArea__05e8e",
     "roleIconPreview": "roleIconPreview__05e8e"
   },
-  "637462": {
-    "devices": "devices_fe5040",
-    "deviceColumns": "deviceColumns_fe5040",
-    "column": "column_fe5040"
-  },
   "637577": {
     "subnav": "subnav_e4d939",
     "item": "item_e4d939",
@@ -16907,14 +16906,6 @@
     "errorIcon": "errorIcon__07ded",
     "closeIcon": "closeIcon__07ded",
     "errorText": "errorText__07ded"
-  },
-  "646561": {
-    "guildSelector": "guildSelector_c3d948",
-    "nitroWheel": "nitroWheel_c3d948",
-    "notice": "notice_c3d948",
-    "pill": "pill_c3d948",
-    "pillText": "pillText_c3d948",
-    "pillIcon": "pillIcon_c3d948"
   },
   "646682": {
     "container": "container__3a77d",
@@ -22176,9 +22167,6 @@
     "avatarContainer": "avatarContainer__7dffe",
     "avatar": "avatar__7dffe"
   },
-  "856412": {
-    "krispCard": "krispCard_fb7bea"
-  },
   "856528": {
     "card": "card__0c0bf",
     "addEntryCard": "addEntryCard__0c0bf card__0c0bf",
@@ -22429,10 +22417,6 @@
     "confirmText": "confirmText_b7e1cb",
     "threadRoleMentionFailure": "threadRoleMentionFailure_b7e1cb",
     "ctaButtonContainer": "ctaButtonContainer_b7e1cb"
-  },
-  "867737": {
-    "volumes": "volumes__7072d",
-    "column": "column__7072d"
   },
   "868249": {
     "layer": "layer__95d7b"
