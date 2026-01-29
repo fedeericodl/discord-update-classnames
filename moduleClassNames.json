@@ -575,7 +575,6 @@
     "headerCentered": "headerCentered__8a031",
     "headerLayout": "headerLayout__8a031",
     "headerStepIndicator": "headerStepIndicator__8a031",
-    "progressBar": "progressBar__8a031",
     "headerGradient": "headerGradient__8a031",
     "headerGraphic": "headerGraphic__8a031",
     "headerGraphicContainer": "headerGraphicContainer__8a031",
@@ -5649,7 +5648,6 @@
     "filename": "filename__0ccae",
     "metadata": "metadata__0ccae",
     "progressContainer": "progressContainer__0ccae metadata__0ccae",
-    "progress": "progress__0ccae",
     "cancelButton": "cancelButton__0ccae",
     "size": "size__0ccae",
     "filenameLinkWrapper": "filenameLinkWrapper__0ccae",
@@ -7496,20 +7494,6 @@
   "273351": {
     "instructionsList": "instructionsList__5d321",
     "modalContent": "modalContent__5d321"
-  },
-  "273611": {
-    "progress": "progress__5a6ab",
-    "progressBar": "progressBar__5a6ab",
-    "animating": "animating__5a6ab",
-    "xxsmall": "xxsmall__5a6ab",
-    "xsmall": "xsmall__5a6ab",
-    "small": "small__5a6ab",
-    "large": "large__5a6ab",
-    "indeterminate": "indeterminate__5a6ab",
-    "indeterminateBar1": "indeterminateBar1__5a6ab indeterminate__5a6ab",
-    "indeterminate1": "indeterminate1__5a6ab",
-    "indeterminateBar2": "indeterminateBar2__5a6ab indeterminate__5a6ab",
-    "indeterminate2": "indeterminate2__5a6ab"
   },
   "273764": {
     "emptyOption": "emptyOption_b088b0",
@@ -15244,7 +15228,9 @@
     "selectExistingFormHeader": "selectExistingFormHeader_cba592",
     "confirmChannelItemContainer": "confirmChannelItemContainer_cba592",
     "confirmChannelName": "confirmChannelName_cba592",
-    "lastActiveTimestamp": "lastActiveTimestamp_cba592"
+    "lastActiveTimestamp": "lastActiveTimestamp_cba592",
+    "sectionHeader": "sectionHeader_cba592",
+    "sectionToggleIcon": "sectionToggleIcon_cba592"
   },
   "587496": {
     "nagBar": "nagBar__9d860",
@@ -21557,6 +21543,20 @@
     "scrollbarDefault": "scrollbarDefault__506b3 scrollbar__506b3",
     "scrollbarGhost": "scrollbarGhost__506b3 scrollbar__506b3",
     "scrollbarGhostHairline": "scrollbarGhostHairline__506b3 scrollbar__506b3"
+  },
+  "830149": {
+    "progress": "progress__45530",
+    "progressBar": "progressBar__45530",
+    "animating": "animating__45530",
+    "xxsmall": "xxsmall__45530",
+    "xsmall": "xsmall__45530",
+    "small": "small__45530",
+    "large": "large__45530",
+    "indeterminate": "indeterminate__45530",
+    "indeterminateBar1": "indeterminateBar1__45530 indeterminate__45530",
+    "indeterminate1": "indeterminate1__45530",
+    "indeterminateBar2": "indeterminateBar2__45530 indeterminate__45530",
+    "indeterminate2": "indeterminate2__45530"
   },
   "830786": {
     "container": "container_a92dc5",
