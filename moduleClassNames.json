@@ -6354,7 +6354,6 @@
   "232285": {
     "container": "container__3849c",
     "contentContainer": "contentContainer__3849c",
-    "containerWithOfferCountdown": "containerWithOfferCountdown__3849c",
     "body": "body__3849c",
     "marketingPageTextContainer": "marketingPageTextContainer__3849c",
     "descriptionContainer": "descriptionContainer__3849c",
@@ -6363,8 +6362,7 @@
     "offerPillContainer": "offerPillContainer__3849c",
     "affinitiesContainer": "affinitiesContainer__3849c",
     "referrerAttributionContainer": "referrerAttributionContainer__3849c",
-    "header": "header__3849c",
-    "heroOfferCountdown": "heroOfferCountdown__3849c"
+    "header": "header__3849c"
   },
   "232358": {
     "popoutWrapper": "popoutWrapper__9ac28",
@@ -18006,7 +18004,6 @@
     "isSending": "isSending_c19a55",
     "isFailed": "isFailed_c19a55",
     "isUnsupported": "isUnsupported_c19a55",
-    "markupBidi": "markupBidi_c19a55",
     "edited": "edited_c19a55",
     "communicationDisabled": "communicationDisabled_c19a55",
     "compactCommunicationDisabled": "compactCommunicationDisabled_c19a55",
@@ -23510,13 +23507,6 @@
     "footerButtons": "footerButtons__49094",
     "avatar": "avatar__49094",
     "buttonSection": "buttonSection__49094"
-  },
-  "907700": {
-    "timeUnit": "timeUnit__24bab",
-    "digit": "digit__24bab",
-    "delinator": "delinator__24bab",
-    "gradientCircles": "gradientCircles__24bab",
-    "countdownContainer": "countdownContainer__24bab"
   },
   "907896": {
     "mobileContainer": "mobileContainer__26f4a"
