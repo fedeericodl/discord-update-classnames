@@ -6180,11 +6180,8 @@
     "questionMark": "questionMark_d804ff"
   },
   "227191": {
-    "cardDescriptionTenureReward": "cardDescriptionTenureReward__1f069",
-    "descriptionCTATenureReward": "descriptionCTATenureReward__1f069",
     "cardDescription": "cardDescription__1f069",
-    "nitroGradientBorderHover": "nitroGradientBorderHover__1f069",
-    "promotionRedemptionImage": "promotionRedemptionImage__1f069"
+    "nitroGradientBorderHover": "nitroGradientBorderHover__1f069"
   },
   "227530": {
     "footer": "footer__47d89"
@@ -9126,6 +9123,7 @@
     "container": "container_e99fef",
     "progressHeader": "progressHeader_e99fef",
     "progressBar": "progressBar_e99fef",
+    "progressBarContainer": "progressBarContainer_e99fef",
     "progressBarFill": "progressBarFill_e99fef",
     "progressBarIndicator": "progressBarIndicator_e99fef",
     "cards": "cards_e99fef",
