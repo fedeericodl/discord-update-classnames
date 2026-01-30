@@ -11633,6 +11633,7 @@
   },
   "444736": {
     "clickableSticker": "clickableSticker_abd7a8",
+    "stickerContainer": "stickerContainer_abd7a8",
     "stickerName": "stickerName_abd7a8",
     "stickerIcon": "stickerIcon_abd7a8"
   },
@@ -19271,7 +19272,7 @@
   },
   "732591": {
     "upsellContainer": "upsellContainer__0b69f",
-    "upsellRedesignEnabled": "upsellRedesignEnabled__0b69f",
+    "withGradientBg": "withGradientBg__0b69f",
     "expressiveGradient": "expressiveGradient__0b69f",
     "radialMask": "radialMask__0b69f",
     "hasPreviewSound": "hasPreviewSound__0b69f",
