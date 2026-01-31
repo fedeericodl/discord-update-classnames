@@ -30,9 +30,11 @@ interface ClassReplacerStats {
 /**
  * Process all CSS/SCSS files in the given directory and replace class names.
  * @param files The files to process.
- * @param options The options to use when processing the files.
+ * @param classMap The map of old class names to new class names.
+ * @param ignoredClassNames A list of class names to ignore during replacement.
+ * @returns The statistics of the replacement process.
  */
-export default async function (
+export default async function processThemeFiles(
     files: string[],
     classMap: Record<string, string>,
     ignoredClassNames: string[] = [],
