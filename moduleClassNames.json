@@ -3842,6 +3842,12 @@
     "icon": "icon_a629d4",
     "badge": "badge_a629d4"
   },
+  "143335": {
+    "background": "background_eff18d",
+    "container": "container_eff18d",
+    "description": "description_eff18d",
+    "title": "title_eff18d"
+  },
   "144365": {
     "ephemeralMessage": "ephemeralMessage__124d2",
     "userAppsBetaContent": "userAppsBetaContent__124d2",
