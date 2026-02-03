@@ -4586,9 +4586,6 @@
   "168221": {
     "fastTravelButton": "fastTravelButton_bbe3de"
   },
-  "168389": {
-    "favoriteToggleButton": "favoriteToggleButton_d84b4e"
-  },
   "168785": {
     "disabledButtonWrapper": "disabledButtonWrapper__0cb56",
     "disabledButtonOverlay": "disabledButtonOverlay__0cb56"
@@ -13751,6 +13748,7 @@
     "parentChannelSeparator": "parentChannelSeparator__31961",
     "headerRight": "headerRight__31961",
     "title": "title__31961",
+    "currentlyPlaying": "currentlyPlaying__31961",
     "titleIcon": "titleIcon__31961"
   },
   "532485": {
@@ -20431,6 +20429,9 @@
   },
   "791218": {
     "contentContainer": "contentContainer__77062"
+  },
+  "791895": {
+    "iconOnlyButton": "iconOnlyButton__068c6"
   },
   "792039": {
     "headerContainer": "headerContainer__095fe",
