@@ -3440,7 +3440,8 @@
     "cardContainer": "cardContainer_efc71f",
     "centerAlignSection": "centerAlignSection_efc71f",
     "showAllPerksButton": "showAllPerksButton_efc71f",
-    "showAllPerksButtonCenter": "showAllPerksButtonCenter_efc71f"
+    "showAllPerksButtonCenter": "showAllPerksButtonCenter_efc71f",
+    "footer": "footer_efc71f"
   },
   "129115": {
     "description": "description_c524f4",
@@ -7201,7 +7202,20 @@
     "columns3": "columns3__1b670",
     "columns4": "columns4__1b670",
     "columns5": "columns5__1b670",
-    "columns6": "columns6__1b670"
+    "columns6": "columns6__1b670",
+    "gridItem": "gridItem__1b670",
+    "gridItemColumns1": "gridItemColumns1__1b670",
+    "gridItemColumns2": "gridItemColumns2__1b670",
+    "gridItemColumns3": "gridItemColumns3__1b670",
+    "gridItemColumns4": "gridItemColumns4__1b670",
+    "gridItemColumns5": "gridItemColumns5__1b670",
+    "gridItemColumns6": "gridItemColumns6__1b670",
+    "gridItemRows1": "gridItemRows1__1b670",
+    "gridItemRows2": "gridItemRows2__1b670",
+    "gridItemRows3": "gridItemRows3__1b670",
+    "gridItemRows4": "gridItemRows4__1b670",
+    "gridItemRows5": "gridItemRows5__1b670",
+    "gridItemRows6": "gridItemRows6__1b670"
   },
   "266371": {
     "container": "container_c368fe"
@@ -10203,7 +10217,17 @@
     "withHover": "withHover__979b1",
     "normalIconColor": "normalIconColor__979b1",
     "wishlistedOrHoveredIconColor": "wishlistedOrHoveredIconColor__979b1",
-    "disabledIconColor": "disabledIconColor__979b1"
+    "disabledIconColor": "disabledIconColor__979b1",
+    "iconContainer": "iconContainer__979b1",
+    "iconWrapper": "iconWrapper__979b1",
+    "animationOverlay": "animationOverlay__979b1",
+    "canAnimate": "canAnimate__979b1",
+    "holdScale": "holdScale__979b1",
+    "clickAnimation": "clickAnimation__979b1",
+    "clickScale": "clickScale__979b1",
+    "clickColor": "clickColor__979b1",
+    "canHover": "canHover__979b1",
+    "hoverPulse": "hoverPulse__979b1"
   },
   "394751": {
     "gifTag": "gifTag_f60819"
@@ -19940,6 +19964,7 @@
   "769796": {
     "badge": "badge_c2b88c",
     "default": "default_c2b88c",
+    "brand": "brand_c2b88c",
     "expressive": "expressive_c2b88c"
   },
   "770182": {
@@ -25319,6 +25344,10 @@
   },
   "988912": {
     "body": "body__96722"
+  },
+  "989614": {
+    "avatarWrapper": "avatarWrapper_d8a370",
+    "ring": "ring_d8a370"
   },
   "989712": {
     "content": "content__75e8e",
