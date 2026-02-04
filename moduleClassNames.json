@@ -15387,8 +15387,7 @@
     "noItemsIcon": "noItemsIcon_e335a7",
     "boostingDesktopAppBlurb": "boostingDesktopAppBlurb_e335a7",
     "duplicateSubscriptionsBanner": "duplicateSubscriptionsBanner_e335a7",
-    "duplicateSubscriptionsBannerText": "duplicateSubscriptionsBannerText_e335a7",
-    "helpNoticeDismissIcon": "helpNoticeDismissIcon_e335a7"
+    "duplicateSubscriptionsBannerText": "duplicateSubscriptionsBannerText_e335a7"
   },
   "596020": {
     "menuIcon": "menuIcon__62974"
@@ -17317,8 +17316,8 @@
     "dropIndicatorBefore": "dropIndicatorBefore_d2b0e4",
     "previewImage": "previewImage_d2b0e4",
     "centeredSection": "centeredSection_d2b0e4",
-    "suggestedChannelsHeader": "suggestedChannelsHeader_d2b0e4",
     "suggestedChannelsSection": "suggestedChannelsSection_d2b0e4",
+    "suggestedChannelsHeader": "suggestedChannelsHeader_d2b0e4",
     "suggestedChannels": "suggestedChannels_d2b0e4",
     "suggestedChannel": "suggestedChannel_d2b0e4",
     "suggestedChannelIcon": "suggestedChannelIcon_d2b0e4",
@@ -20467,6 +20466,7 @@
   },
   "792352": {
     "themeSelector": "themeSelector_c85552",
+    "themePillItem": "themePillItem_c85552",
     "themePillItemSelected": "themePillItemSelected_c85552"
   },
   "792427": {
@@ -21185,9 +21185,6 @@
     "shadow": "shadow__68e91",
     "nux": "nux__68e91",
     "noAnimation": "noAnimation__68e91"
-  },
-  "816917": {
-    "customCursors": "customCursors__90b04"
   },
   "816925": {
     "keywordTextAreaContainer": "keywordTextAreaContainer__4546e",
@@ -24091,7 +24088,6 @@
     "content": "content_d77702",
     "radioGroup": "radioGroup_d77702",
     "gameIcon": "gameIcon_d77702",
-    "searchNoToggle": "searchNoToggle_d77702",
     "detectedGameFrame": "detectedGameFrame_d77702",
     "detectedGameIcon": "detectedGameIcon_d77702",
     "detectedGameIconPlaceholder": "detectedGameIconPlaceholder_d77702"
@@ -24873,7 +24869,6 @@
     "baseContainer": "baseContainer__40d5b",
     "card": "card__40d5b",
     "video": "video__40d5b",
-    "betaBadge": "betaBadge__40d5b",
     "progressContainer": "progressContainer__40d5b",
     "bannerImageContainer": "bannerImageContainer__40d5b",
     "bannerImage": "bannerImage__40d5b",
