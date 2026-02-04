@@ -14823,10 +14823,10 @@
     "streamPreviewWrapper": "streamPreviewWrapper__0489e",
     "streamPreview": "streamPreview__0489e",
     "streamHeader": "streamHeader__0489e",
+    "streamHeaderVoiceUserActivities": "streamHeaderVoiceUserActivities__0489e",
     "streamHeaderIcon": "streamHeaderIcon__0489e",
     "previewContainer": "previewContainer__0489e",
     "previewHover": "previewHover__0489e",
-    "skipContainer": "skipContainer__0489e",
     "previewImage": "previewImage__0489e",
     "body": "body__0489e",
     "activityActions": "activityActions__0489e",
@@ -15783,6 +15783,7 @@
     "name": "name__2ef49",
     "timeBarActivityFeed": "timeBarActivityFeed__2ef49",
     "timeBarVoiceChannel": "timeBarVoiceChannel__2ef49",
+    "activityNameUserActivityHover": "activityNameUserActivityHover__2ef49",
     "activityName": "activityName__2ef49",
     "bodyLink": "bodyLink__2ef49 activityName__2ef49",
     "twitchImageContainer": "twitchImageContainer__2ef49",
@@ -15792,6 +15793,7 @@
     "streamName": "streamName__2ef49",
     "streamGame": "streamGame__2ef49",
     "activityVoiceChannel": "activityVoiceChannel__2ef49",
+    "activityVoiceChannelUserHover": "activityVoiceChannelUserHover__2ef49",
     "platformIcon": "platformIcon__2ef49",
     "icon": "icon__2ef49",
     "wrap": "wrap__2ef49",
@@ -24771,9 +24773,7 @@
     "hangStatusActivity": "hangStatusActivity__218f7",
     "hangStatusContent": "hangStatusContent__218f7",
     "hangStatusIcon": "hangStatusIcon__218f7",
-    "hangStatusText": "hangStatusText__218f7",
-    "streamPreviewWrapper": "streamPreviewWrapper__218f7",
-    "mounted": "mounted__218f7"
+    "hangStatusText": "hangStatusText__218f7"
   },
   "963879": {
     "container": "container_d55c24",
