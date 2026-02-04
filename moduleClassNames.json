@@ -3317,6 +3317,7 @@
     "rewardsContainer": "rewardsContainer__58471",
     "balanceContainer": "balanceContainer__58471",
     "videoBackground": "videoBackground__58471",
+    "videoContainer": "videoContainer__58471",
     "content": "content__58471"
   },
   "125908": {
@@ -24875,6 +24876,7 @@
     "baseContainer": "baseContainer__40d5b",
     "card": "card__40d5b",
     "video": "video__40d5b",
+    "betaBadge": "betaBadge__40d5b",
     "progressContainer": "progressContainer__40d5b",
     "bannerImageContainer": "bannerImageContainer__40d5b",
     "bannerImage": "bannerImage__40d5b",
