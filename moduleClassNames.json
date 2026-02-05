@@ -3906,8 +3906,10 @@
     "container": "container__37e49",
     "avatar": "avatar__37e49",
     "redIcon": "redIcon__37e49",
-    "avatarWrapper": "avatarWrapper__37e49",
+    "accountPopoutButtonWrapper": "accountPopoutButtonWrapper__37e49",
     "nameTag": "nameTag__37e49",
+    "accountPopoutButton": "accountPopoutButton__37e49",
+    "accountPopout": "accountPopout__37e49",
     "panelTitleContainer": "panelTitleContainer__37e49",
     "panelSubtextContainer": "panelSubtextContainer__37e49",
     "withDisplayNameStyles": "withDisplayNameStyles__37e49",
@@ -5925,7 +5927,9 @@
     "productVariantsContainer": "productVariantsContainer__2c397",
     "wrap": "wrap__2c397",
     "productVariant": "productVariant__2c397",
+    "productVariantOverflow": "productVariantOverflow__2c397",
     "productVariantCheckmark": "productVariantCheckmark__2c397",
+    "productVariantOverflowIcon": "productVariantOverflowIcon__2c397",
     "expanded": "expanded__2c397",
     "selected": "selected__2c397",
     "collapsed": "collapsed__2c397"
@@ -18776,8 +18780,7 @@
   "708611": {
     "container": "container__72cd3",
     "textSection": "textSection__72cd3",
-    "avatar": "avatar__72cd3",
-    "bannerImage": "bannerImage__72cd3"
+    "avatar": "avatar__72cd3"
   },
   "709246": {
     "pricePerInterval": "pricePerInterval_b39acb"
