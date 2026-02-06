@@ -6386,7 +6386,9 @@
     "toggleButton": "toggleButton_a1e8da",
     "footerContainer": "footerContainer_a1e8da",
     "footerDetails": "footerDetails_a1e8da",
-    "statusContainer": "statusContainer_a1e8da"
+    "statusContainer": "statusContainer_a1e8da",
+    "perkCardImageContainer": "perkCardImageContainer_a1e8da",
+    "badge": "badge_a1e8da"
   },
   "235607": {
     "jumpingWumpusContainer": "jumpingWumpusContainer__82b10",
@@ -6646,7 +6648,8 @@
   "248710": {
     "upsellContainer": "upsellContainer_e75cd3",
     "contentContainer": "contentContainer_e75cd3",
-    "buttonContainer": "buttonContainer_e75cd3"
+    "buttonContainer": "buttonContainer_e75cd3",
+    "wishlistGrid": "wishlistGrid_e75cd3"
   },
   "248789": {
     "popover": "popover_d6f39b",
@@ -16120,6 +16123,12 @@
     "cameraWrapper": "cameraWrapper__11e1f",
     "camera": "camera__11e1f"
   },
+  "614094": {
+    "card": "card_a23cbe",
+    "collectiblesCardHover": "collectiblesCardHover_a23cbe",
+    "skuPreview": "skuPreview_a23cbe",
+    "isOwnerAndHovering": "isOwnerAndHovering_a23cbe"
+  },
   "614221": {
     "container": "container__9a9f9",
     "flexContainer": "flexContainer__9a9f9",
@@ -22370,7 +22379,9 @@
   "865444": {
     "overlay": "overlay__18000",
     "checkmark": "checkmark__18000",
+    "addToWishlist": "addToWishlist__18000",
     "checkmarkHover": "checkmarkHover__18000",
+    "addToWishlistShow": "addToWishlistShow__18000",
     "cardStateIcon": "cardStateIcon__18000",
     "seeMoreOverlay": "seeMoreOverlay__18000"
   },
