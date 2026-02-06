@@ -3360,6 +3360,12 @@
     "header": "header__74f72",
     "usagePill": "usagePill__74f72"
   },
+  "126345": {
+    "messagePreviewLine": "messagePreviewLine__7c4a2",
+    "messageContent": "messageContent__7c4a2",
+    "messageContentTrailingIcon": "messageContentTrailingIcon__7c4a2",
+    "colorTextFeedbackPositive": "colorTextFeedbackPositive__7c4a2"
+  },
   "126418": {
     "star": "star_a54554"
   },
@@ -17597,12 +17603,6 @@
     "breadcrumbFinalWrapper": "breadcrumbFinalWrapper__0f692",
     "breadcrumbArrow": "breadcrumbArrow__0f692"
   },
-  "665524": {
-    "messagePreviewLine": "messagePreviewLine__1f6cf",
-    "messageContent": "messageContent__1f6cf",
-    "messageContentTrailingIcon": "messageContentTrailingIcon__1f6cf",
-    "colorTextFeedbackPositive": "colorTextFeedbackPositive__1f6cf"
-  },
   "665646": {
     "panel": "panel__1d8b2",
     "sectionTitle": "sectionTitle__1d8b2",
@@ -19529,7 +19529,8 @@
     "duration": "duration__49ef0",
     "tabs": "tabs__49ef0",
     "tab": "tab__49ef0",
-    "tabSelected": "tabSelected__49ef0"
+    "tabSelected": "tabSelected__49ef0",
+    "unreadFavoritesDot": "unreadFavoritesDot__49ef0"
   },
   "742898": {
     "error": "error__6e36d"
@@ -25186,6 +25187,7 @@
     "nowPlayingNotificationAnimationWrapper": "nowPlayingNotificationAnimationWrapper__81a05",
     "nowPlayingNotificationContainer": "nowPlayingNotificationContainer__81a05",
     "nowPlayingNotificationWrapper": "nowPlayingNotificationWrapper__81a05",
+    "nowPlayingNotificationClickZone": "nowPlayingNotificationClickZone__81a05",
     "body": "body__81a05",
     "nowPlayingNotificationIcon": "nowPlayingNotificationIcon__81a05",
     "gameIcon": "gameIcon__81a05",
