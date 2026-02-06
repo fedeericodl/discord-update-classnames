@@ -2098,7 +2098,9 @@
     "modalHeaderButton": "modalHeaderButton__38ccf",
     "wishlistButton": "wishlistButton__38ccf",
     "logoContainer": "logoContainer__38ccf",
-    "logo": "logo__38ccf"
+    "logo": "logo__38ccf",
+    "priceContainer": "priceContainer__38ccf",
+    "orbsTextContainer": "orbsTextContainer__38ccf"
   },
   "88808": {
     "backForwardButtons": "backForwardButtons__63abb",
@@ -4228,17 +4230,7 @@
     "tree": "tree_fb0b3f",
     "settingNodeChildren": "settingNodeChildren_fb0b3f",
     "headerBar": "headerBar_fb0b3f",
-    "headerCaret": "headerCaret_fb0b3f",
-    "holidayText": "holidayText_fb0b3f",
-    "holidayLetter": "holidayLetter_fb0b3f",
-    "lightsA": "lightsA_fb0b3f",
-    "lightsB": "lightsB_fb0b3f",
-    "lightsC": "lightsC_fb0b3f",
-    "lightsD": "lightsD_fb0b3f",
-    "rootMigratedLetter": "rootMigratedLetter_fb0b3f",
-    "rootMigratedA": "rootMigratedA_fb0b3f",
-    "rootMigratedB": "rootMigratedB_fb0b3f",
-    "rootMigratedC": "rootMigratedC_fb0b3f"
+    "headerCaret": "headerCaret_fb0b3f"
   },
   "159453": {
     "maxWidthWrapper": "maxWidthWrapper__7449f",
@@ -14387,8 +14379,9 @@
   "552696": {
     "confirmation": "confirmation__9baa5",
     "confirmationHeader": "confirmationHeader__9baa5",
-    "confirmationDescription": "confirmationDescription__9baa5",
-    "skuImage": "skuImage__9baa5"
+    "skuImage": "skuImage__9baa5",
+    "rewardNotice": "rewardNotice__9baa5",
+    "buttonContainer": "buttonContainer__9baa5"
   },
   "552762": {
     "getXboxApp": "getXboxApp__7ba5f",
@@ -15940,7 +15933,8 @@
     "cardButtonContainerHovered": "cardButtonContainerHovered_abfd90",
     "pulse": "pulse_abfd90",
     "placeholderCard": "placeholderCard_abfd90",
-    "placeholderText": "placeholderText_abfd90"
+    "placeholderText": "placeholderText_abfd90",
+    "orbsEarnedContainer": "orbsEarnedContainer_abfd90"
   },
   "610145": {
     "thumbnailStackGallery": "thumbnailStackGallery_c085c7",
@@ -17304,8 +17298,7 @@
     "sectionLabel": "sectionLabel__409aa",
     "label": "label__409aa",
     "fixedContent": "fixedContent__409aa",
-    "searchBarContainer": "searchBarContainer__409aa",
-    "popoverAnchor": "popoverAnchor__409aa"
+    "searchBarContainer": "searchBarContainer__409aa"
   },
   "658938": {
     "container": "container_c66e86",
@@ -20183,7 +20176,8 @@
     "stop5": "stop5__52b47"
   },
   "778560": {
-    "modalBodyText": "modalBodyText__44fbb"
+    "modalBodyText": "modalBodyText__44fbb",
+    "rewardNotice": "rewardNotice__44fbb"
   },
   "778827": {
     "container": "container__06199",
@@ -24650,6 +24644,15 @@
     "faded": "faded_b717a1",
     "error": "error_b717a1"
   },
+  "949317": {
+    "carousel": "carousel_ab8859",
+    "children": "children_ab8859",
+    "child": "child_ab8859",
+    "left": "left_ab8859",
+    "right": "right_ab8859",
+    "center": "center_ab8859",
+    "overflowable": "overflowable_ab8859"
+  },
   "949684": {
     "progressBarContainer": "progressBarContainer_baf530",
     "progressBarText": "progressBarText_baf530",
@@ -25072,6 +25075,15 @@
     "name": "name__24a95",
     "infoContainer": "infoContainer__24a95",
     "caret": "caret__24a95"
+  },
+  "974132": {
+    "offerNoticeContainerShared": "offerNoticeContainerShared__005bd",
+    "offerNoticeContainer": "offerNoticeContainer__005bd",
+    "standard": "standard__005bd",
+    "offerNoticeHeader": "offerNoticeHeader__005bd",
+    "offerNoticeBody": "offerNoticeBody__005bd",
+    "offerNoticeOneLineContainer": "offerNoticeOneLineContainer__005bd",
+    "offerNoticeOneLineText": "offerNoticeOneLineText__005bd"
   },
   "974309": {
     "classificationEvidenceContainer": "classificationEvidenceContainer_a2ffaf"
