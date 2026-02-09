@@ -24717,6 +24717,14 @@
     "pill": "pill__33d66",
     "disabled": "disabled__33d66"
   },
+  "958237": {
+    "scroller": "scroller__19a29",
+    "content": "content__19a29",
+    "cardsRow": "cardsRow__19a29",
+    "wishlistSection": "wishlistSection__19a29",
+    "wishlistGrid": "wishlistGrid__19a29",
+    "wishlistPlaceholder": "wishlistPlaceholder__19a29"
+  },
   "958404": {
     "container": "container__143a4",
     "formContainer": "formContainer__143a4",
