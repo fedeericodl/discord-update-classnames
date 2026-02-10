@@ -11299,7 +11299,8 @@
     "popoutHeaderContainer": "popoutHeaderContainer__4e30a",
     "headerDivider": "headerDivider__4e30a",
     "settingNudgeText": "settingNudgeText__4e30a",
-    "voiceChannelGiftingBreadcrumb": "voiceChannelGiftingBreadcrumb__4e30a"
+    "voiceChannelGiftingBreadcrumb": "voiceChannelGiftingBreadcrumb__4e30a",
+    "isStandardGap": "isStandardGap__4e30a"
   },
   "440526": {
     "applicationIcon": "applicationIcon_c4891f",
@@ -13842,6 +13843,7 @@
   },
   "533848": {
     "popout": "popout__76f04",
+    "isStandardGap": "isStandardGap__76f04",
     "more": "more__76f04",
     "row": "row__76f04",
     "title": "title__76f04",
@@ -19409,7 +19411,9 @@
     "tabs": "tabs__49ef0",
     "tab": "tab__49ef0",
     "tabSelected": "tabSelected__49ef0",
-    "unreadFavoritesDot": "unreadFavoritesDot__49ef0"
+    "unreadFavoritesDot": "unreadFavoritesDot__49ef0",
+    "unreadFavoritesDotPulsing": "unreadFavoritesDotPulsing__49ef0",
+    "favoritesDotPulse": "favoritesDotPulse__49ef0"
   },
   "742898": {
     "error": "error__6e36d"
@@ -24385,6 +24389,7 @@
   "945354": {
     "streamPreviewWrapper": "streamPreviewWrapper__6da2d",
     "mounted": "mounted__6da2d",
+    "isStandardGap": "isStandardGap__6da2d",
     "streamPreview": "streamPreview__6da2d"
   },
   "945586": {
@@ -24815,6 +24820,7 @@
   },
   "962966": {
     "container": "container__218f7",
+    "isStandardGap": "isStandardGap__218f7",
     "headerDivider": "headerDivider__218f7",
     "voiceChannelGiftingBreadcrumb": "voiceChannelGiftingBreadcrumb__218f7",
     "hangStatusActivity": "hangStatusActivity__218f7",
