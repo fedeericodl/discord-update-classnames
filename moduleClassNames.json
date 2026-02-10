@@ -189,6 +189,7 @@
     "usersSummary": "usersSummary__16b66",
     "timeBar": "timeBar__16b66",
     "detailsAndAvatarsContainer": "detailsAndAvatarsContainer__16b66",
+    "detailsAndAvatarsContainerUserActivities": "detailsAndAvatarsContainerUserActivities__16b66 detailsAndAvatarsContainer__16b66",
     "avatar": "avatar__16b66"
   },
   "6694": {
@@ -24607,6 +24608,12 @@
     "arrow": "arrow_baf530",
     "divider": "divider_baf530"
   },
+  "950268": {
+    "section": "section__730fc",
+    "heading": "heading__730fc",
+    "cardContainer": "cardContainer__730fc",
+    "featuredCard": "featuredCard__730fc"
+  },
   "950503": {
     "artContainer": "artContainer__8162d",
     "art": "art__8162d",
@@ -24831,9 +24838,6 @@
   "962966": {
     "container": "container__218f7",
     "isStandardGap": "isStandardGap__218f7",
-    "headerDivider": "headerDivider__218f7",
-    "voiceChannelGiftingBreadcrumb": "voiceChannelGiftingBreadcrumb__218f7",
-    "hangStatusActivity": "hangStatusActivity__218f7",
     "hangStatusContent": "hangStatusContent__218f7",
     "hangStatusIcon": "hangStatusIcon__218f7",
     "hangStatusText": "hangStatusText__218f7"
