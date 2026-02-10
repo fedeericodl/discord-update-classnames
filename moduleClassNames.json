@@ -1203,7 +1203,8 @@
     "activeButton": "activeButton_c15210"
   },
   "50900": {
-    "headerTitle": "headerTitle__450f6"
+    "titleContainer": "titleContainer__450f6",
+    "title": "title__450f6"
   },
   "51057": {
     "content": "content_ea12e5",
