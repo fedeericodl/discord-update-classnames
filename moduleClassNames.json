@@ -2673,10 +2673,14 @@
   },
   "106417": {
     "wrapper": "wrapper__553bf",
-    "withGradientAndBadge": "withGradientAndBadge__553bf",
+    "withGradient": "withGradient__553bf",
+    "withTakeoverContent": "withTakeoverContent__553bf",
+    "withOnboardingContent": "withOnboardingContent__553bf",
     "badge": "badge__553bf",
     "shine": "shine__553bf",
-    "glow": "glow__553bf"
+    "glow": "glow__553bf",
+    "takeoverBackgroundImage": "takeoverBackgroundImage__553bf",
+    "takeoverTooltipImage": "takeoverTooltipImage__553bf"
   },
   "106467": {
     "checklist": "checklist__42e04",
