@@ -12297,14 +12297,6 @@
     "widgetCalloutContainer": "widgetCalloutContainer__3db18",
     "widgetCallout": "widgetCallout__3db18"
   },
-  "477920": {
-    "modal": "modal__5ab33",
-    "header": "header__5ab33",
-    "titleContainer": "titleContainer__5ab33",
-    "closeButton": "closeButton__5ab33",
-    "scroller": "scroller__5ab33",
-    "grid": "grid__5ab33"
-  },
   "478018": {
     "column": "column__1e128",
     "container": "container__1e128",
@@ -25493,8 +25485,7 @@
     "invoiceDiscountText": "invoiceDiscountText__25766",
     "invoiceDiscountTag": "invoiceDiscountTag__25766",
     "totalRow": "totalRow__25766",
-    "slayerStorefrontProductPreview": "slayerStorefrontProductPreview__25766",
-    "rentalDescription": "rentalDescription__25766"
+    "slayerStorefrontProductPreview": "slayerStorefrontProductPreview__25766"
   },
   "991256": {
     "button": "button__46219",
