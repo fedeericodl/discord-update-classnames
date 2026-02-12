@@ -1392,9 +1392,7 @@
     "progressCellHeader": "progressCellHeader__49035",
     "progressCellBody": "progressCellBody__49035",
     "progressCellText": "progressCellText__49035",
-    "actionButton": "actionButton__49035",
-    "actionButtonContents": "actionButtonContents__49035",
-    "actionIcon": "actionIcon__49035"
+    "actionButtonGroup": "actionButtonGroup__49035"
   },
   "60090": {
     "icon": "icon__1a58a",
@@ -2686,10 +2684,10 @@
     "withGradient": "withGradient__553bf",
     "withTakeoverContent": "withTakeoverContent__553bf",
     "withOnboardingContent": "withOnboardingContent__553bf",
+    "takeoverBackgroundImage": "takeoverBackgroundImage__553bf",
     "badge": "badge__553bf",
     "shine": "shine__553bf",
     "glow": "glow__553bf",
-    "takeoverBackgroundImage": "takeoverBackgroundImage__553bf",
     "takeoverTooltipImage": "takeoverTooltipImage__553bf"
   },
   "106467": {
@@ -6089,6 +6087,8 @@
   },
   "228851": {
     "paymentSourceRow": "paymentSourceRow__0eeee",
+    "giftCardRowRight": "giftCardRowRight__0eeee",
+    "giftCardBalance": "giftCardBalance__0eeee",
     "subText": "subText__0eeee",
     "footer": "footer__0eeee",
     "footerContent": "footerContent__0eeee",
@@ -16076,6 +16076,14 @@
     "staffIndicator": "staffIndicator_e1ecd3",
     "applicationSublabel": "applicationSublabel_e1ecd3"
   },
+  "615305": {
+    "inputWrapper": "inputWrapper_ba2c2e",
+    "confirmCountryContainer": "confirmCountryContainer_ba2c2e",
+    "headerFlag": "headerFlag_ba2c2e",
+    "giftCardStatusIcons": "giftCardStatusIcons_ba2c2e",
+    "statusFlag": "statusFlag_ba2c2e",
+    "giftCodeInputWrapper": "giftCodeInputWrapper_ba2c2e"
+  },
   "615434": {
     "container": "container__61306",
     "loading": "loading__61306"
@@ -20448,7 +20456,8 @@
     "indicator": "indicator__43963",
     "defaultIndicator": "defaultIndicator__43963 indicator__43963",
     "premiumIndicator": "premiumIndicator__43963 indicator__43963",
-    "invalidIndicator": "invalidIndicator__43963 indicator__43963"
+    "invalidIndicator": "invalidIndicator__43963 indicator__43963",
+    "giftCardIcon": "giftCardIcon__43963"
   },
   "789906": {
     "wrapper": "wrapper__63f6b",
