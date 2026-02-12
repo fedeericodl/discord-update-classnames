@@ -2232,6 +2232,9 @@
     "controlsRight": "controlsRight_df4c28",
     "controlsBottom": "controlsBottom_df4c28",
     "controlsSection": "controlsSection_df4c28",
+    "colorControl": "colorControl_df4c28",
+    "colorControlInput": "colorControlInput_df4c28",
+    "colorSwatch": "colorSwatch_df4c28",
     "storyContent": "storyContent_df4c28"
   },
   "95252": {
@@ -16658,8 +16661,6 @@
     "guildSidebar": "guildSidebar_f75fb0",
     "guildBreadcrumbIcon": "guildBreadcrumbIcon_f75fb0",
     "loader": "loader_f75fb0",
-    "forumPostTitle": "forumPostTitle_f75fb0",
-    "forumPostSidebarTitle": "forumPostSidebarTitle_f75fb0",
     "subtitleContainer": "subtitleContainer_f75fb0",
     "secureFramesIcon": "secureFramesIcon_f75fb0",
     "shaker": "shaker_f75fb0",
