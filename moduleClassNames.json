@@ -3397,7 +3397,6 @@
   },
   "128478": {
     "questProgressWrapper": "questProgressWrapper_ae7810",
-    "questProgressRewardTile": "questProgressRewardTile_ae7810",
     "questProgressCopy": "questProgressCopy_ae7810",
     "questProgressHint": "questProgressHint_ae7810"
   },
@@ -5233,8 +5232,6 @@
     "confetti": "confetti__956c6",
     "completionAnimation": "completionAnimation__956c6",
     "progressWrapper": "progressWrapper__956c6",
-    "circularRewardTileWrapper": "circularRewardTileWrapper__956c6",
-    "circularQuestRewardTileAsset": "circularQuestRewardTileAsset__956c6",
     "questRewardTileAsset": "questRewardTileAsset__956c6",
     "assetWrapper": "assetWrapper__956c6",
     "textContainer": "textContainer__956c6",
@@ -12896,8 +12893,7 @@
   "500271": {
     "progressWrapper": "progressWrapper__4264a",
     "confetti": "confetti__4264a",
-    "progressCont": "progressCont__4264a",
-    "questProgressRewardTile": "questProgressRewardTile__4264a"
+    "progressCont": "progressCont__4264a"
   },
   "500320": {
     "visuallyHidden": "visuallyHidden__0d242",
@@ -14876,6 +14872,8 @@
   "574268": {
     "section": "section_f2af23",
     "heading": "heading_f2af23",
+    "filterTabs": "filterTabs_f2af23",
+    "filterTab": "filterTab_f2af23",
     "card": "card_f2af23"
   },
   "574377": {
@@ -20055,6 +20053,7 @@
   },
   "773570": {
     "questRewardTile": "questRewardTile__28141",
+    "fullWidth": "fullWidth__28141",
     "rewardHighlight": "rewardHighlight__28141",
     "questRewardTileInteractive": "questRewardTileInteractive__28141",
     "questRewardTileAsset": "questRewardTileAsset__28141",
