@@ -9420,14 +9420,16 @@
   "355313": {
     "card": "card_cf5b44",
     "pill": "pill_cf5b44",
-    "content": "content_cf5b44",
     "description": "description_cf5b44",
+    "featured": "featured_cf5b44",
+    "ctaButton": "ctaButton_cf5b44",
     "captionWrapper": "captionWrapper_cf5b44",
     "primaryAssetWrapper": "primaryAssetWrapper_cf5b44",
     "primaryAssetImage": "primaryAssetImage_cf5b44",
+    "contentContainer": "contentContainer_cf5b44",
+    "blurOverlay": "blurOverlay_cf5b44",
     "textContent": "textContent_cf5b44",
-    "progressBarWrapper": "progressBarWrapper_cf5b44",
-    "ctaButton": "ctaButton_cf5b44"
+    "progressBarWrapper": "progressBarWrapper_cf5b44"
   },
   "355330": {
     "container": "container__4e338",
@@ -13568,8 +13570,7 @@
   },
   "511291": {
     "container": "container__76394",
-    "glowAnimation": "glowAnimation__76394",
-    "card": "card__76394"
+    "glowAnimation": "glowAnimation__76394"
   },
   "511527": {
     "container": "container__333b3",
