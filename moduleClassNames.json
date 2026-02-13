@@ -2683,13 +2683,13 @@
   "106417": {
     "wrapper": "wrapper__553bf",
     "withGradient": "withGradient__553bf",
-    "withTakeoverContent": "withTakeoverContent__553bf",
+    "withQuestHomeHeroContent": "withQuestHomeHeroContent__553bf",
     "withOnboardingContent": "withOnboardingContent__553bf",
-    "takeoverBackgroundImage": "takeoverBackgroundImage__553bf",
+    "questHomeHeroBackgroundImage": "questHomeHeroBackgroundImage__553bf",
     "badge": "badge__553bf",
     "shine": "shine__553bf",
     "glow": "glow__553bf",
-    "takeoverTooltipImage": "takeoverTooltipImage__553bf"
+    "questHomeHeroTooltipImage": "questHomeHeroTooltipImage__553bf"
   },
   "106467": {
     "checklist": "checklist__42e04",
@@ -11155,6 +11155,25 @@
     "row": "row__95bea",
     "rowIcon": "rowIcon__95bea",
     "rowText": "rowText__95bea"
+  },
+  "437176": {
+    "wrapper": "wrapper__5d00f",
+    "wrapperWithOldDiscoveryHeader": "wrapperWithOldDiscoveryHeader__5d00f",
+    "contentWrapper": "contentWrapper__5d00f",
+    "contentWrapperLoading": "contentWrapperLoading__5d00f",
+    "content": "content__5d00f",
+    "heroBackground": "heroBackground__5d00f",
+    "backgroundOverlay": "backgroundOverlay__5d00f",
+    "heroAsset": "heroAsset__5d00f",
+    "asset": "asset__5d00f",
+    "heroAssetBlurred": "heroAssetBlurred__5d00f",
+    "heroAssetBlurredA": "heroAssetBlurredA__5d00f",
+    "heroAssetBlurredB": "heroAssetBlurredB__5d00f",
+    "contentBody": "contentBody__5d00f",
+    "logo": "logo__5d00f",
+    "title": "title__5d00f",
+    "subtitle": "subtitle__5d00f",
+    "sponsoredTag": "sponsoredTag__5d00f"
   },
   "437504": {
     "sectionContainer": "sectionContainer_f8758b",
@@ -20546,25 +20565,6 @@
     "container": "container__1a51c",
     "contentContainer": "contentContainer__1a51c",
     "footerHeader": "footerHeader__1a51c"
-  },
-  "794053": {
-    "wrapper": "wrapper__42d45",
-    "wrapperWithOldDiscoveryHeader": "wrapperWithOldDiscoveryHeader__42d45",
-    "contentWrapper": "contentWrapper__42d45",
-    "contentWrapperLoading": "contentWrapperLoading__42d45",
-    "content": "content__42d45",
-    "heroBackground": "heroBackground__42d45",
-    "backgroundOverlay": "backgroundOverlay__42d45",
-    "heroAsset": "heroAsset__42d45",
-    "asset": "asset__42d45",
-    "heroAssetBlurred": "heroAssetBlurred__42d45",
-    "heroAssetBlurredA": "heroAssetBlurredA__42d45",
-    "heroAssetBlurredB": "heroAssetBlurredB__42d45",
-    "contentBody": "contentBody__42d45",
-    "logo": "logo__42d45",
-    "title": "title__42d45",
-    "subtitle": "subtitle__42d45",
-    "sponsoredTag": "sponsoredTag__42d45"
   },
   "794118": {
     "clickable": "clickable__65fc9",
