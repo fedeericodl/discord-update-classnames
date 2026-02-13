@@ -2086,8 +2086,7 @@
     "wishlistButton": "wishlistButton__38ccf",
     "logoContainer": "logoContainer__38ccf",
     "logo": "logo__38ccf",
-    "priceContainer": "priceContainer__38ccf",
-    "orbsTextContainer": "orbsTextContainer__38ccf"
+    "priceContainer": "priceContainer__38ccf"
   },
   "88808": {
     "backForwardButtons": "backForwardButtons__63abb",
@@ -7104,10 +7103,10 @@
   "265891": {
     "container": "container__011b7",
     "micTest": "micTest__011b7",
+    "small": "small__011b7",
+    "meterOnly": "meterOnly__011b7",
     "micTestCaption": "micTestCaption__011b7",
-    "buttonSizer": "buttonSizer__011b7",
-    "buttonSizerSpacer": "buttonSizerSpacer__011b7",
-    "buttonWrapper": "buttonWrapper__011b7"
+    "buttonSizer": "buttonSizer__011b7"
   },
   "266341": {
     "grid": "grid__1b670",
@@ -8981,7 +8980,8 @@
     "fineprint": "fineprint_b44961",
     "skuHeading": "skuHeading_b44961",
     "skuHeadingText": "skuHeadingText_b44961",
-    "socialLayerGameItemDisclaimer": "socialLayerGameItemDisclaimer_b44961"
+    "socialLayerGameItemDisclaimer": "socialLayerGameItemDisclaimer_b44961",
+    "orbsRewardNotice": "orbsRewardNotice_b44961"
   },
   "342860": {
     "collapseable": "collapseable__217b7",
@@ -21577,7 +21577,6 @@
     "text": "text_e1e832"
   },
   "835818": {
-    "micTest": "micTest__169b3",
     "micTestHelpLink": "micTestHelpLink__169b3"
   },
   "836263": {
@@ -25039,7 +25038,7 @@
     "offerNoticeContainerShared": "offerNoticeContainerShared__005bd",
     "offerNoticeContainer": "offerNoticeContainer__005bd",
     "standard": "standard__005bd",
-    "offerNoticeHeader": "offerNoticeHeader__005bd",
+    "offerNoticeContent": "offerNoticeContent__005bd",
     "offerNoticeBody": "offerNoticeBody__005bd",
     "offerNoticeOneLineContainer": "offerNoticeOneLineContainer__005bd",
     "offerNoticeOneLineText": "offerNoticeOneLineText__005bd"
