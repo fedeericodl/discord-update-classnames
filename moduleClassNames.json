@@ -7819,6 +7819,7 @@
   "293390": {
     "wrapper": "wrapper__83a0c",
     "root": "root__83a0c",
+    "header": "header__83a0c",
     "title": "title__83a0c",
     "location": "location__83a0c",
     "locationIcon": "locationIcon__83a0c",
@@ -7828,8 +7829,10 @@
     "acronymContainer": "acronymContainer__83a0c",
     "acronym": "acronym__83a0c",
     "scroller": "scroller__83a0c",
+    "scrollerTitle": "scrollerTitle__83a0c",
     "voiceUsers": "voiceUsers__83a0c",
     "voiceUser": "voiceUser__83a0c",
+    "voiceUserInfo": "voiceUserInfo__83a0c",
     "actions": "actions__83a0c",
     "center": "center__83a0c"
   },
@@ -15659,6 +15662,7 @@
   "609195": {
     "section": "section__3af27",
     "heading": "heading__3af27",
+    "newPerkCardsEnabled": "newPerkCardsEnabled__3af27",
     "sectionHeader": "sectionHeader__3af27",
     "sectionHeaderSeeAll": "sectionHeaderSeeAll__3af27",
     "container": "container__3af27",
