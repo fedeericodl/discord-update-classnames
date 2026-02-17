@@ -510,6 +510,9 @@
     "previewThemeButton": "previewThemeButton_fbfab6",
     "premiumTier2Divider": "premiumTier2Divider_fbfab6",
     "divider": "divider_fbfab6",
+    "displayClientThemesTitle": "displayClientThemesTitle_fbfab6",
+    "displayClientThemesHeading": "displayClientThemesHeading_fbfab6",
+    "displayPremiumIcon": "displayPremiumIcon_fbfab6",
     "colorThemesBackground": "colorThemesBackground_fbfab6"
   },
   "21998": {
@@ -24669,14 +24672,15 @@
   },
   "954848": {
     "stepBodyV1": "stepBodyV1_bb5449",
-    "topSpacer": "topSpacer_bb5449",
+    "topInBetweenSpacer": "topInBetweenSpacer_bb5449",
     "subscriptionDetailsContainer": "subscriptionDetailsContainer_bb5449",
     "invoiceSummaryContainer": "invoiceSummaryContainer_bb5449",
     "paymentMethodContainer": "paymentMethodContainer_bb5449",
     "reviewStepBody": "reviewStepBody_bb5449",
     "checkoutInlineNoticeContainer": "checkoutInlineNoticeContainer_bb5449",
     "loadingContainer": "loadingContainer_bb5449",
-    "giftRedemptionLink": "giftRedemptionLink_bb5449"
+    "giftRedemptionLink": "giftRedemptionLink_bb5449",
+    "totalDueReviewStep": "totalDueReviewStep_bb5449"
   },
   "955562": {
     "container": "container__8f3cb",
@@ -25657,6 +25661,7 @@
   },
   "996554": {
     "container": "container_a1d343",
+    "displayContainer": "displayContainer_a1d343",
     "iconContainer": "iconContainer_a1d343",
     "bannerImage": "bannerImage_a1d343",
     "textContent": "textContent_a1d343",
