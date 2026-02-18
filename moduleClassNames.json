@@ -8498,6 +8498,9 @@
     "jumpMessageButton": "jumpMessageButton__95796 jumpButton_ed0c8c",
     "message": "message__95796"
   },
+  "318624": {
+    "ctaContent": "ctaContent__225ab"
+  },
   "318880": {
     "friendWrapper": "friendWrapper_bbd192",
     "disabled": "disabled_bbd192",
@@ -8553,6 +8556,14 @@
   "321018": {
     "backNotice": "backNotice__84419",
     "closeButton": "closeButton__84419"
+  },
+  "321365": {
+    "container": "container__28d4e",
+    "cardBase": "cardBase__28d4e",
+    "gameCard": "gameCard__28d4e cardBase__28d4e",
+    "gameImage": "gameImage__28d4e",
+    "addCard": "addCard__28d4e cardBase__28d4e",
+    "addIconWrapper": "addIconWrapper__28d4e"
   },
   "321774": {
     "nativePickerGuide": "nativePickerGuide_afdbcd",
