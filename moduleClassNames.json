@@ -1105,7 +1105,8 @@
     "mutedIcon": "mutedIcon__972a0",
     "activityStatusText": "activityStatusText__972a0",
     "decorator": "decorator__972a0",
-    "dm": "dm__972a0"
+    "dm": "dm__972a0",
+    "waveButton": "waveButton__972a0"
   },
   "45298": {
     "container": "container__9b0bb",
@@ -1132,6 +1133,7 @@
     "nicknameWithDisplayNameStyles": "nicknameWithDisplayNameStyles__63ed3",
     "nicknameIcons": "nicknameIcons__63ed3",
     "usernameRow": "usernameRow__63ed3",
+    "botTag": "botTag__63ed3",
     "tags": "tags__63ed3",
     "pronouns": "pronouns__63ed3",
     "userTag": "userTag__63ed3",
@@ -24899,6 +24901,7 @@
     "container": "container__218f7",
     "isReducedWidth": "isReducedWidth__218f7",
     "isStandardGap": "isStandardGap__218f7",
+    "voiceChannelGiftingBreadcrumb": "voiceChannelGiftingBreadcrumb__218f7",
     "hangStatusContent": "hangStatusContent__218f7",
     "hangStatusIcon": "hangStatusIcon__218f7",
     "hangStatusText": "hangStatusText__218f7"
@@ -25827,6 +25830,7 @@
   },
   "999630": {
     "richTooltipContent": "richTooltipContent_a89985",
+    "richTooltipContentLg": "richTooltipContentLg_a89985",
     "assetContainer": "assetContainer_a89985",
     "textContent": "textContent_a89985",
     "noAsset": "noAsset_a89985"
