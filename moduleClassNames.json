@@ -8463,6 +8463,11 @@
     "effectContainer": "effectContainer_caa50c",
     "effectText": "effectText_caa50c"
   },
+  "317911": {
+    "preview": "preview__1533e",
+    "messages": "messages__1533e",
+    "avatars": "avatars__1533e"
+  },
   "318012": {
     "churnDiscountBadge": "churnDiscountBadge_b65b20",
     "churnDiscountAcknowledgedBadge": "churnDiscountAcknowledgedBadge_b65b20",
@@ -22566,6 +22571,8 @@
     "scroller": "scroller__6131a",
     "tabBar": "tabBar__6131a",
     "notice": "notice__6131a",
+    "decorationWrapper": "decorationWrapper__6131a",
+    "sticky": "sticky__6131a",
     "categories": "categories__6131a",
     "divider": "divider__6131a"
   },
