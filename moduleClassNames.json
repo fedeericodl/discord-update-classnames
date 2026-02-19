@@ -1749,6 +1749,9 @@
   },
   "72939": {
     "card": "card__9ed47",
+    "sizeSmall": "sizeSmall__9ed47",
+    "sizeLarge": "sizeLarge__9ed47",
+    "cardPreview": "cardPreview__9ed47",
     "skuPreview": "skuPreview__9ed47"
   },
   "73187": {
@@ -4882,6 +4885,8 @@
     "activityActionsContainer": "activityActionsContainer__7ba6e"
   },
   "185316": {
+    "guildRowIcon": "guildRowIcon__7db08",
+    "guildRowSwitch": "guildRowSwitch__7db08",
     "guildsList": "guildsList__7db08",
     "infoDot": "infoDot__7db08",
     "controlsContainer": "controlsContainer__7db08",
@@ -5182,6 +5187,7 @@
     "wishlistBanner": "wishlistBanner_b05cb4",
     "wishlistBannerHeader": "wishlistBannerHeader_b05cb4",
     "wishlistBannerGrid": "wishlistBannerGrid_b05cb4",
+    "hasSquareItems": "hasSquareItems_b05cb4",
     "wishlistBannerTitleContainer": "wishlistBannerTitleContainer_b05cb4",
     "backgroundImage": "backgroundImage_b05cb4",
     "wishlistBannerListItem": "wishlistBannerListItem_b05cb4",
@@ -10302,6 +10308,7 @@
   },
   "401775": {
     "grid": "grid__80f54",
+    "hasSquareItems": "hasSquareItems__80f54",
     "container": "container__80f54"
   },
   "402314": {
@@ -14378,7 +14385,6 @@
     "cardContainer": "cardContainer__73abe",
     "card": "card__73abe",
     "wishlistCard": "wishlistCard__73abe",
-    "cardSingle": "cardSingle__73abe",
     "cardPreview": "cardPreview__73abe",
     "scaledSkuPreview": "scaledSkuPreview__73abe",
     "avatarDecorationPreview": "avatarDecorationPreview__73abe",
@@ -20930,7 +20936,6 @@
     "voiceChannelEffectEmoji": "voiceChannelEffectEmoji__66db8"
   },
   "804810": {
-    "card": "card_d87184",
     "bundleSkuPreview": "bundleSkuPreview_d87184",
     "nameplate": "nameplate_d87184"
   },
@@ -21014,8 +21019,7 @@
     "applicationIcon": "applicationIcon__3a590",
     "items": "items__3a590",
     "spinner": "spinner__3a590",
-    "contextContainer": "contextContainer__3a590",
-    "smallSquareCard": "smallSquareCard__3a590"
+    "contextContainer": "contextContainer__3a590"
   },
   "809719": {
     "entryActions": "entryActions__3f339",
@@ -22919,10 +22923,6 @@
     "linkIcon": "linkIcon_a4b5f8",
     "rowContainer": "rowContainer_a4b5f8"
   },
-  "885794": {
-    "singleItemInfo": "singleItemInfo__08054",
-    "singleItemName": "singleItemName__08054"
-  },
   "886083": {
     "page": "page__12efe",
     "logoContainer": "logoContainer__12efe",
@@ -23173,7 +23173,6 @@
     "container": "container__85bea",
     "deleteButtonHoveringOrFocusing": "deleteButtonHoveringOrFocusing__85bea",
     "dragHandle": "dragHandle__85bea",
-    "card": "card__85bea",
     "collectiblesCardHover": "collectiblesCardHover__85bea",
     "skuPreview": "skuPreview__85bea",
     "isOwned": "isOwned__85bea"
@@ -24898,6 +24897,7 @@
   },
   "962966": {
     "container": "container__218f7",
+    "isReducedWidth": "isReducedWidth__218f7",
     "isStandardGap": "isStandardGap__218f7",
     "hangStatusContent": "hangStatusContent__218f7",
     "hangStatusIcon": "hangStatusIcon__218f7",
