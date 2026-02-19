@@ -10496,16 +10496,6 @@
     "blockedMessageText": "blockedMessageText__7a70a",
     "blockedAction": "blockedAction__7a70a"
   },
-  "410280": {
-    "container": "container__9a52c",
-    "activityRow": "activityRow__9a52c",
-    "activitySettings": "activitySettings__9a52c",
-    "connectionIcon": "connectionIcon__9a52c",
-    "metadataContainer": "metadataContainer__9a52c",
-    "metadataItem": "metadataItem__9a52c",
-    "metadataRefreshButton": "metadataRefreshButton__9a52c",
-    "dot": "dot__9a52c"
-  },
   "410387": {
     "sidebar": "sidebar__75f8c",
     "sidebarHeader": "sidebarHeader__75f8c",
@@ -22100,6 +22090,8 @@
     "narrow": "narrow__6df1a",
     "card": "card__6df1a",
     "withGiftBanner": "withGiftBanner__6df1a",
+    "giftSelectionModalContext": "giftSelectionModalContext__6df1a",
+    "cardTitle": "cardTitle__6df1a",
     "borderGradient": "borderGradient__6df1a",
     "tier0": "tier0__6df1a",
     "pillMargin": "pillMargin__6df1a",
@@ -22108,6 +22100,7 @@
     "inCard": "inCard__6df1a",
     "outerCorner": "outerCorner__6df1a",
     "insideCorner": "insideCorner__6df1a",
+    "giftSelectionModal": "giftSelectionModal__6df1a",
     "bigCloud": "bigCloud__6df1a",
     "smallCloud": "smallCloud__6df1a",
     "divider": "divider__6df1a",
@@ -22123,7 +22116,6 @@
     "tier0CardOrder": "tier0CardOrder__6df1a",
     "tier2CardOrder": "tier2CardOrder__6df1a",
     "premiumGroupCardOrder": "premiumGroupCardOrder__6df1a",
-    "cardTitle": "cardTitle__6df1a",
     "betaPill": "betaPill__6df1a",
     "cardHeader": "cardHeader__6df1a"
   },
