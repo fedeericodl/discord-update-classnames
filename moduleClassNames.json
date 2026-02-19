@@ -18694,7 +18694,6 @@
     "tileChild": "tileChild__2f4f7",
     "border": "border__2f4f7",
     "voiceChannelEffect": "voiceChannelEffect__2f4f7",
-    "latchedNotSpeaking": "latchedNotSpeaking__2f4f7",
     "noBorder": "noBorder__2f4f7",
     "overlayContainer": "overlayContainer__2f4f7",
     "compact": "compact__2f4f7",
@@ -18765,8 +18764,7 @@
   },
   "709502": {
     "pttIndicator": "pttIndicator_a18ea4",
-    "speaking": "speaking_a18ea4",
-    "latched": "latched_a18ea4"
+    "speaking": "speaking_a18ea4"
   },
   "709710": {
     "product": "product__7c3bf"
