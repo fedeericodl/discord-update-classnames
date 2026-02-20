@@ -8889,13 +8889,6 @@
   "338497": {
     "formSection": "formSection__78ebf"
   },
-  "339451": {
-    "card": "card_aa9005",
-    "cardInfo": "cardInfo_aa9005",
-    "statusRow": "statusRow_aa9005",
-    "statusLabel": "statusLabel_aa9005",
-    "guildSummary": "guildSummary_aa9005"
-  },
   "340091": {
     "cardContainer": "cardContainer_cf5b44",
     "card": "card_cf5b44",
@@ -21604,6 +21597,13 @@
     "fullbleedContent": "fullbleedContent__10a0c",
     "iframe": "iframe__10a0c",
     "footer": "footer__10a0c"
+  },
+  "832974": {
+    "card": "card_c3d27e",
+    "cardInfo": "cardInfo_c3d27e",
+    "statusRow": "statusRow_c3d27e",
+    "statusLabel": "statusLabel_c3d27e",
+    "guildSummary": "guildSummary_c3d27e"
   },
   "834201": {
     "iconLive": "iconLive__46869"
