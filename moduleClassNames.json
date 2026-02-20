@@ -14484,6 +14484,7 @@
     "giftAvatar": "giftAvatar_da8ac7",
     "priceContainer": "priceContainer_da8ac7",
     "currentPrice": "currentPrice_da8ac7",
+    "strikethroughPrice": "strikethroughPrice_da8ac7",
     "originalPrice": "originalPrice_da8ac7",
     "icon": "icon_da8ac7",
     "expressiveGradient": "expressiveGradient_da8ac7",
@@ -20162,6 +20163,7 @@
     "modalTextContainer": "modalTextContainer__4d95d"
   },
   "772992": {
+    "currencyWrapper": "currencyWrapper_b41cc5",
     "previewTotalSectionContainer": "previewTotalSectionContainer_b41cc5"
   },
   "773570": {
