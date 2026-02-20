@@ -20114,6 +20114,9 @@
     "messagePreview": "messagePreview_fb64c9",
     "iconWrapper": "iconWrapper_fb64c9"
   },
+  "770747": {
+    "tabs": "tabs__3f3a2"
+  },
   "770778": {
     "container": "container_e03deb"
   },
@@ -25602,9 +25605,6 @@
   },
   "993013": {
     "container": "container__71cd5"
-  },
-  "993128": {
-    "tabs": "tabs__3f3a2"
   },
   "993169": {
     "row": "row__6fddf",
