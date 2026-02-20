@@ -8358,7 +8358,8 @@
     "textInputWrapper": "textInputWrapper__14160"
   },
   "314654": {
-    "renewalInvoiceDate": "renewalInvoiceDate_d313e6"
+    "renewalInvoiceDate": "renewalInvoiceDate_d313e6",
+    "unifiedCheckoutInvoicePreviewLoader": "unifiedCheckoutInvoicePreviewLoader_d313e6"
   },
   "315253": {
     "pictureInPicture": "pictureInPicture__6341f",
@@ -8999,7 +9000,7 @@
     "skuHeading": "skuHeading_b44961",
     "skuHeadingText": "skuHeadingText_b44961",
     "socialLayerGameItemDisclaimer": "socialLayerGameItemDisclaimer_b44961",
-    "orbsRewardNotice": "orbsRewardNotice_b44961"
+    "oneTimePurchaseRewardNotice": "oneTimePurchaseRewardNotice_b44961"
   },
   "342860": {
     "collapseable": "collapseable__217b7",
@@ -17107,6 +17108,15 @@
     "container": "container__733ad",
     "errorContainer": "errorContainer__733ad container__733ad"
   },
+  "654739": {
+    "offerNoticeContainerShared": "offerNoticeContainerShared__3e43f",
+    "offerNoticeContainer": "offerNoticeContainer__3e43f",
+    "standard": "standard__3e43f",
+    "offerNoticeContent": "offerNoticeContent__3e43f",
+    "offerNoticeBody": "offerNoticeBody__3e43f",
+    "offerNoticeOneLineContainer": "offerNoticeOneLineContainer__3e43f",
+    "offerNoticeOneLineText": "offerNoticeOneLineText__3e43f"
+  },
   "654923": {
     "bugReporterSubmitModalRoot": "bugReporterSubmitModalRoot__341b5",
     "modalContent": "modalContent__341b5",
@@ -21008,9 +21018,7 @@
     "roleMemberList": "roleMemberList__1a4ef",
     "divider": "divider__1a4ef",
     "memberRow": "memberRow__1a4ef",
-    "rowHeight": "rowHeight__1a4ef",
-    "rowLabel": "rowLabel__1a4ef",
-    "rowBotTag": "rowBotTag__1a4ef",
+    "memberRowBody": "memberRowBody__1a4ef",
     "rowLabelSubText": "rowLabelSubText__1a4ef",
     "removeIconContainer": "removeIconContainer__1a4ef",
     "removeIcon": "removeIcon__1a4ef",
@@ -24763,7 +24771,8 @@
     "checkoutInlineNoticeContainer": "checkoutInlineNoticeContainer_bb5449",
     "loadingContainer": "loadingContainer_bb5449",
     "giftRedemptionLink": "giftRedemptionLink_bb5449",
-    "totalDueReviewStep": "totalDueReviewStep_bb5449"
+    "totalDueReviewStep": "totalDueReviewStep_bb5449",
+    "promotionalNoticeContainer": "promotionalNoticeContainer_bb5449"
   },
   "955562": {
     "container": "container__8f3cb",
@@ -25104,15 +25113,6 @@
     "name": "name__24a95",
     "infoContainer": "infoContainer__24a95",
     "caret": "caret__24a95"
-  },
-  "974132": {
-    "offerNoticeContainerShared": "offerNoticeContainerShared__005bd",
-    "offerNoticeContainer": "offerNoticeContainer__005bd",
-    "standard": "standard__005bd",
-    "offerNoticeContent": "offerNoticeContent__005bd",
-    "offerNoticeBody": "offerNoticeBody__005bd",
-    "offerNoticeOneLineContainer": "offerNoticeOneLineContainer__005bd",
-    "offerNoticeOneLineText": "offerNoticeOneLineText__005bd"
   },
   "974309": {
     "classificationEvidenceContainer": "classificationEvidenceContainer_a2ffaf"
