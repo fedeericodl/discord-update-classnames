@@ -3301,6 +3301,7 @@
     "cardImage": "cardImage__20585",
     "itemIcon": "itemIcon__20585",
     "itemIconHeart": "itemIconHeart__20585",
+    "itemIconHeartWhite": "itemIconHeartWhite__20585",
     "itemIconShop": "itemIconShop__20585"
   },
   "125986": {
@@ -19744,6 +19745,7 @@
     "container": "container__39b32",
     "smallCard": "smallCard__39b32",
     "smallSquareCard": "smallSquareCard__39b32",
+    "mediumSquareCard": "mediumSquareCard__39b32",
     "largeCard": "largeCard__39b32",
     "flexCard": "flexCard__39b32",
     "isOwned": "isOwned__39b32",
@@ -19761,6 +19763,7 @@
     "overlay": "overlay__39b32",
     "itemIcon": "itemIcon__39b32",
     "itemIconHeart": "itemIconHeart__39b32",
+    "itemIconHeartWhite": "itemIconHeartWhite__39b32",
     "itemIconShop": "itemIconShop__39b32",
     "placeholderPulse": "placeholderPulse__39b32",
     "placeholderCard": "placeholderCard__39b32",
@@ -24821,8 +24824,7 @@
     "wishlistSection": "wishlistSection__19a29",
     "wishlistHeader": "wishlistHeader__19a29",
     "wishlistTitle": "wishlistTitle__19a29",
-    "wishlistGrid": "wishlistGrid__19a29",
-    "wishlistPlaceholder": "wishlistPlaceholder__19a29"
+    "wishlistGrid": "wishlistGrid__19a29"
   },
   "958404": {
     "container": "container__143a4",
