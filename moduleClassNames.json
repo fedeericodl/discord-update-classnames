@@ -24695,7 +24695,8 @@
     "heading": "heading__730fc",
     "cardContainer": "cardContainer__730fc",
     "featuredCard": "featuredCard__730fc",
-    "upcomingBadgeImage": "upcomingBadgeImage__730fc"
+    "badgeImage": "badgeImage__730fc",
+    "upcoming": "upcoming__730fc"
   },
   "950503": {
     "artContainer": "artContainer__8162d",
