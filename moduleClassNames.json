@@ -1106,7 +1106,8 @@
     "activityStatusText": "activityStatusText__972a0",
     "decorator": "decorator__972a0",
     "dm": "dm__972a0",
-    "waveButton": "waveButton__972a0"
+    "waveButton": "waveButton__972a0",
+    "waveSticker": "waveSticker__972a0"
   },
   "45298": {
     "container": "container__9b0bb",
@@ -22768,6 +22769,7 @@
   },
   "879716": {
     "animationWrapper": "animationWrapper_e8d31f",
+    "animationWrapperStacked": "animationWrapperStacked_e8d31f",
     "clickZone": "clickZone_e8d31f",
     "clickable": "clickable_e8d31f",
     "overflowWrapper": "overflowWrapper_e8d31f",
