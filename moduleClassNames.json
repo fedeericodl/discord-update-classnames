@@ -1752,8 +1752,6 @@
   },
   "72939": {
     "card": "card__9ed47",
-    "sizeSmall": "sizeSmall__9ed47",
-    "sizeLarge": "sizeLarge__9ed47",
     "cardPreview": "cardPreview__9ed47",
     "skuPreview": "skuPreview__9ed47"
   },
@@ -15868,8 +15866,7 @@
     "pulse": "pulse_abfd90",
     "placeholderCard": "placeholderCard_abfd90",
     "placeholderText": "placeholderText_abfd90",
-    "orbsEarnedContainer": "orbsEarnedContainer_abfd90",
-    "purchaseButtonFauxDisabled": "purchaseButtonFauxDisabled_abfd90"
+    "orbsEarnedContainer": "orbsEarnedContainer_abfd90"
   },
   "610145": {
     "thumbnailStackGallery": "thumbnailStackGallery_c085c7",
@@ -18734,7 +18731,7 @@
     "overlayButton": "overlayButton__2f4f7",
     "overlayButtonContainer": "overlayButtonContainer__2f4f7",
     "hideWhenInactive": "hideWhenInactive__2f4f7",
-    "experimentTitleIcon": "experimentTitleIcon__2f4f7",
+    "titleIcon": "titleIcon__2f4f7",
     "secureFramesIcon": "secureFramesIcon__2f4f7",
     "status": "status__2f4f7",
     "interactive": "interactive__2f4f7",
@@ -23984,7 +23981,6 @@
     "detailsTitleDescription": "detailsTitleDescription_e95ba0",
     "detailsDescription": "detailsDescription_e95ba0",
     "iconAsset": "iconAsset_e95ba0",
-    "purchaseButtonFauxDisabled": "purchaseButtonFauxDisabled_e95ba0",
     "orbsEarnedContainer": "orbsEarnedContainer_e95ba0"
   },
   "929252": {
@@ -25743,9 +25739,6 @@
     "verticallyCenterAlign": "verticallyCenterAlign_c3d3d9",
     "accessory": "accessory_c3d3d9",
     "restrictWidth": "restrictWidth_c3d3d9"
-  },
-  "996150": {
-    "multiLineTitleHack": "multiLineTitleHack__53030"
   },
   "996316": {
     "container": "container__16eb0",
