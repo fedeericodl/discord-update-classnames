@@ -6800,7 +6800,7 @@
     "cardImage": "cardImage__20585",
     "itemIcon": "itemIcon__20585",
     "itemIconHeart": "itemIconHeart__20585",
-    "itemIconHeartWhite": "itemIconHeartWhite__20585",
+    "itemIconHeartGreyscale": "itemIconHeartGreyscale__20585",
     "itemIconShop": "itemIconShop__20585"
   },
   "252956": {
@@ -25252,7 +25252,7 @@
     "overlay": "overlay__39b32",
     "itemIcon": "itemIcon__39b32",
     "itemIconHeart": "itemIconHeart__39b32",
-    "itemIconHeartWhite": "itemIconHeartWhite__39b32",
+    "itemIconHeartGreyscale": "itemIconHeartGreyscale__39b32",
     "itemIconShop": "itemIconShop__39b32",
     "placeholderPulse": "placeholderPulse__39b32",
     "placeholderCard": "placeholderCard__39b32",
