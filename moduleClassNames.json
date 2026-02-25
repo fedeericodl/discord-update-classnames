@@ -617,17 +617,23 @@
     "type": "type__675f9 logo__675f9"
   },
   "23373": {
+    "progressBarContainer": "progressBarContainer_e5e85f",
+    "fillBar": "fillBar_e5e85f",
+    "fillBarWhite": "fillBarWhite_e5e85f",
     "cont": "cont_e5e85f",
     "hitboxArea": "hitboxArea_e5e85f",
     "interactionEnabled": "interactionEnabled_e5e85f",
-    "progress": "progress_e5e85f",
     "progressGlow": "progressGlow_e5e85f",
     "buffer": "buffer_e5e85f",
     "seekableBar": "seekableBar_e5e85f",
     "timeDisplay": "timeDisplay_e5e85f",
     "grabber": "grabber_e5e85f",
     "roundedV1": "roundedV1_e5e85f",
-    "roundedV2": "roundedV2_e5e85f"
+    "roundedV2": "roundedV2_e5e85f",
+    "segmentWrapper": "segmentWrapper_e5e85f",
+    "segmentBufferClip": "segmentBufferClip_e5e85f",
+    "segmentBufferContent": "segmentBufferContent_e5e85f",
+    "glowBar": "glowBar_e5e85f"
   },
   "23456": {
     "container": "container_c66e86",
@@ -12695,8 +12701,7 @@
     "activityStatusText": "activityStatusText__972a0",
     "decorator": "decorator__972a0",
     "dm": "dm__972a0",
-    "waveButton": "waveButton__972a0",
-    "waveSticker": "waveSticker__972a0"
+    "waveButton": "waveButton__972a0"
   },
   "477943": {
     "content": "content_c7fee2"
@@ -19835,6 +19840,12 @@
     "widgetPreviews": "widgetPreviews__7f9c0",
     "wishlistBreadcrumb": "wishlistBreadcrumb__7f9c0"
   },
+  "750813": {
+    "fillBarGreen": "fillBarGreen_b256a2",
+    "fillBarWhite": "fillBarWhite_b256a2",
+    "progressGlowGreen": "progressGlowGreen_b256a2",
+    "progressGlowWhite": "progressGlowWhite_b256a2"
+  },
   "751102": {
     "linkIcon": "linkIcon_a4b5f8",
     "rowContainer": "rowContainer_a4b5f8"
@@ -21742,6 +21753,14 @@
   },
   "828012": {
     "container": "container__4d63b"
+  },
+  "828080": {
+    "rewardIndicatorContainer": "rewardIndicatorContainer__27539",
+    "rewardIndicatorContainerGreenFill": "rewardIndicatorContainerGreenFill__27539",
+    "rewardIndicatorContainerWhiteFill": "rewardIndicatorContainerWhiteFill__27539",
+    "rewardIconWrapper": "rewardIconWrapper__27539",
+    "rewardTooltip": "rewardTooltip__27539",
+    "rewardTooltipDivider": "rewardTooltipDivider__27539"
   },
   "828225": {
     "paymentSourceRow": "paymentSourceRow__0eeee",
