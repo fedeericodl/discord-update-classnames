@@ -332,6 +332,7 @@
     "iconMentionText": "iconMentionText_b75563"
   },
   "13499": {
+    "checkoutFooterPortal": "checkoutFooterPortal_ebbc17",
     "countryFlagEmoji": "countryFlagEmoji_ebbc17"
   },
   "13600": {
@@ -5016,10 +5017,10 @@
     "subscriptionDetailsContainer": "subscriptionDetailsContainer_bb5449",
     "invoiceSummaryContainer": "invoiceSummaryContainer_bb5449",
     "paymentMethodContainer": "paymentMethodContainer_bb5449",
-    "stepBodyMinHeight": "stepBodyMinHeight_bb5449",
     "checkoutInlineNoticeContainer": "checkoutInlineNoticeContainer_bb5449",
     "loadingContainer": "loadingContainer_bb5449",
     "giftRedemptionLink": "giftRedemptionLink_bb5449",
+    "spinnerColor": "spinnerColor_bb5449",
     "totalDueReviewStep": "totalDueReviewStep_bb5449",
     "promotionalNoticeContainer": "promotionalNoticeContainer_bb5449"
   },
@@ -5511,7 +5512,8 @@
     "transitionGroup": "transitionGroup__4cb8a"
   },
   "211936": {
-    "sliderBody": "sliderBody_c6f1a4"
+    "sliderBody": "sliderBody_c6f1a4",
+    "sliderBodyUnifiedReviewStep": "sliderBodyUnifiedReviewStep_c6f1a4"
   },
   "211980": {
     "content": "content__444a0"
@@ -6496,6 +6498,10 @@
     "gameImageLoading": "gameImageLoading_a3ec8a",
     "gameImageBackground": "gameImageBackground_a3ec8a",
     "gameName": "gameName_a3ec8a"
+  },
+  "242859": {
+    "button": "button__11ddb",
+    "ctaInner": "ctaInner__11ddb"
   },
   "243486": {
     "root": "root__2f580",
@@ -7502,9 +7508,6 @@
   },
   "281258": {
     "overflow": "overflow_b0dfc2"
-  },
-  "281491": {
-    "orbUnifiedReviewStepBody": "orbUnifiedReviewStepBody_a22556"
   },
   "281568": {
     "gameProfileMedia": "gameProfileMedia_a1cc72",
@@ -13427,6 +13430,9 @@
     "bundlePreview": "bundlePreview__9baf3",
     "spinnerContainer": "spinnerContainer__9baf3"
   },
+  "504743": {
+    "purchaseItemGraphic": "purchaseItemGraphic__2455b"
+  },
   "505295": {
     "card": "card__896d4",
     "overflowable": "overflowable__896d4"
@@ -14714,7 +14720,6 @@
     "headerIcon": "headerIcon_da8ac7",
     "details": "details_da8ac7",
     "text": "text_da8ac7",
-    "giftMessage": "giftMessage_da8ac7",
     "giftAvatar": "giftAvatar_da8ac7",
     "priceContainer": "priceContainer_da8ac7",
     "currentPrice": "currentPrice_da8ac7",
@@ -24050,6 +24055,9 @@
   },
   "930625": {
     "taskPresetSelect": "taskPresetSelect_a8dbb2"
+  },
+  "930720": {
+    "slayerProductPreview": "slayerProductPreview_a9f4c8"
   },
   "930821": {
     "panel": "panel_fe7ab2",
