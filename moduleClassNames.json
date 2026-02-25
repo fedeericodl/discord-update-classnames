@@ -675,6 +675,10 @@
     "clickableHover": "clickableHover_efa868",
     "icon": "icon_efa868"
   },
+  "25327": {
+    "header": "header_feae96",
+    "questIcon": "questIcon_feae96"
+  },
   "25470": {
     "container": "container__14992",
     "button": "button__14992",
@@ -4862,6 +4866,7 @@
     "heading": "heading_f2af23",
     "filterTabs": "filterTabs_f2af23",
     "filterTab": "filterTab_f2af23",
+    "scrollContainer": "scrollContainer_f2af23",
     "card": "card_f2af23"
   },
   "186413": {
