@@ -2482,7 +2482,10 @@
   },
   "95610": {
     "actions": "actions__4cd01",
-    "panelButtonContainer": "panelButtonContainer__4cd01"
+    "panelButtonContainer": "panelButtonContainer__4cd01",
+    "shineWipe": "shineWipe__4cd01",
+    "panelButtonShineWipeContainer": "panelButtonShineWipeContainer__4cd01",
+    "panelButtonShineWipe": "panelButtonShineWipe__4cd01"
   },
   "96373": {
     "wrapper": "wrapper_f7a803",
