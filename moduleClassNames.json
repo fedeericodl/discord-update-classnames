@@ -7548,17 +7548,6 @@
     "arrowClickable": "arrowClickable_a1cc72",
     "arrow": "arrow_a1cc72"
   },
-  "281630": {
-    "progressContainer": "progressContainer__9258b",
-    "blue": "blue__9258b",
-    "orange": "orange__9258b",
-    "light": "light__9258b",
-    "medium": "medium__9258b",
-    "progress": "progress__9258b",
-    "glow": "glow__9258b",
-    "empty": "empty__9258b",
-    "bar": "bar__9258b"
-  },
   "281812": {
     "guildSeparator": "guildSeparator__252b6",
     "fullWidth": "fullWidth__252b6"
@@ -23267,6 +23256,17 @@
     "colorX": "colorX__3299f",
     "colorY": "colorY__3299f"
   },
+  "898434": {
+    "progressContainer": "progressContainer__0fd7d",
+    "blue": "blue__0fd7d",
+    "orange": "orange__0fd7d",
+    "light": "light__0fd7d",
+    "medium": "medium__0fd7d",
+    "progress": "progress__0fd7d",
+    "glow": "glow__0fd7d",
+    "empty": "empty__0fd7d",
+    "bar": "bar__0fd7d"
+  },
   "898619": {
     "linkCalloutContainer": "linkCalloutContainer__7d76d"
   },
@@ -25118,6 +25118,7 @@
     "scrollRight": "scrollRight__28842",
     "scrollLeft": "scrollLeft__28842",
     "scrollBoth": "scrollBoth__28842",
+    "keyboardScrolling": "keyboardScrolling__28842",
     "actions": "actions__28842",
     "button": "button__28842",
     "disabled": "disabled__28842"
