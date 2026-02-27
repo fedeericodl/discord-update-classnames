@@ -11266,10 +11266,12 @@
   },
   "439792": {
     "container": "container__4e30a",
+    "isReducedWidth": "isReducedWidth__4e30a",
     "popoutHeaderContainer": "popoutHeaderContainer__4e30a",
     "headerDivider": "headerDivider__4e30a",
     "settingNudgeText": "settingNudgeText__4e30a",
     "voiceChannelGiftingBreadcrumb": "voiceChannelGiftingBreadcrumb__4e30a",
+    "voiceChannelGiftingBreadcrumbSkuPreview": "voiceChannelGiftingBreadcrumbSkuPreview__4e30a",
     "isStandardGap": "isStandardGap__4e30a"
   },
   "440526": {
@@ -22852,6 +22854,7 @@
     "title": "title_faf161",
     "header": "header_faf161",
     "wishlistItemsContainer": "wishlistItemsContainer_faf161",
+    "wishlistItemsContainerSkuPreview": "wishlistItemsContainerSkuPreview_faf161",
     "loading": "loading_faf161",
     "contextContainer": "contextContainer_faf161"
   },
@@ -25049,6 +25052,7 @@
     "container": "container__218f7",
     "isReducedWidth": "isReducedWidth__218f7",
     "isStandardGap": "isStandardGap__218f7",
+    "voiceChannelGiftingBreadcrumbSkuPreview": "voiceChannelGiftingBreadcrumbSkuPreview__218f7",
     "hangStatusContent": "hangStatusContent__218f7",
     "hangStatusIcon": "hangStatusIcon__218f7",
     "hangStatusText": "hangStatusText__218f7"
