@@ -4529,9 +4529,6 @@
     "absolute": "absolute_cc1cc5",
     "emptyWidgetIcon": "emptyWidgetIcon_cc1cc5"
   },
-  "168221": {
-    "fastTravelButton": "fastTravelButton_bbe3de"
-  },
   "168785": {
     "disabledButtonWrapper": "disabledButtonWrapper__0cb56",
     "disabledButtonOverlay": "disabledButtonOverlay__0cb56"
@@ -9037,9 +9034,6 @@
     "header": "header__217b7",
     "contentExpandContainer": "contentExpandContainer__217b7",
     "showOverflow": "showOverflow__217b7"
-  },
-  "342910": {
-    "actionBarButton": "actionBarButton__18c2e"
   },
   "343154": {
     "popoutList": "popoutList__92efc",
@@ -22883,8 +22877,6 @@
   },
   "878251": {
     "title": "title_edbb22",
-    "fastTravel": "fastTravel_edbb22",
-    "fastTravelChevron": "fastTravelChevron_edbb22",
     "appIcon": "appIcon_edbb22",
     "guildIcon": "guildIcon_edbb22"
   },
@@ -22893,10 +22885,6 @@
     "selected": "selected__5bc7e",
     "circleIcon": "circleIcon__5bc7e",
     "pill": "pill__5bc7e"
-  },
-  "878559": {
-    "voiceEffectsActionBar": "voiceEffectsActionBar__68198",
-    "divider": "divider__68198"
   },
   "878753": {
     "container": "container_d806b9"
