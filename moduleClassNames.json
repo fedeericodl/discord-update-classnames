@@ -1106,7 +1106,8 @@
     "activityStatusText": "activityStatusText__972a0",
     "decorator": "decorator__972a0",
     "dm": "dm__972a0",
-    "waveButton": "waveButton__972a0"
+    "waveButton": "waveButton__972a0",
+    "channelNameMeasurement": "channelNameMeasurement__972a0"
   },
   "45298": {
     "container": "container__9b0bb",
