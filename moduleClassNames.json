@@ -6968,8 +6968,7 @@
     "buttonContainer": "buttonContainer_c0ec5e"
   },
   "260175": {
-    "button": "button__85643",
-    "smallButton": "smallButton__85643"
+    "button": "button__85643"
   },
   "260484": {
     "container": "container__89401",
@@ -17212,8 +17211,7 @@
   "656678": {
     "clickable": "clickable_c99c29",
     "withHighlight": "withHighlight_c99c29",
-    "badge": "badge_c99c29",
-    "smol": "smol_c99c29"
+    "badge": "badge_c99c29"
   },
   "656930": {
     "paginationContainer": "paginationContainer_e8f197",
@@ -18290,11 +18288,8 @@
   "687836": {
     "iconWrapper": "iconWrapper_ede711",
     "clickableContainer": "clickableContainer_ede711",
-    "withHoverHighlight": "withHoverHighlight_ede711",
     "icon": "icon_ede711",
-    "unreadDot": "unreadDot_ede711",
-    "refresh_sm": "refresh_sm_ede711",
-    "sm": "sm_ede711"
+    "unreadDot": "unreadDot_ede711"
   },
   "688142": {
     "banner": "banner__6157a",
