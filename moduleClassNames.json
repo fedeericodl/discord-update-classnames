@@ -11730,7 +11730,8 @@
   },
   "453561": {
     "header": "header_feae96",
-    "questIcon": "questIcon_feae96"
+    "questIcon": "questIcon_feae96",
+    "questIconContainer": "questIconContainer_feae96"
   },
   "453729": {
     "gameSection": "gameSection__3b7e0",
@@ -18028,16 +18029,6 @@
     "communicationDisabledOpacity": "communicationDisabledOpacity_c19a55",
     "badgesContainer": "badgesContainer_c19a55"
   },
-  "680000": {
-    "frequentFriendsRow": "frequentFriendsRow__1fc18",
-    "frequentFriendsHeader": "frequentFriendsHeader__1fc18",
-    "frequentFriendsTitle": "frequentFriendsTitle__1fc18",
-    "frequentFriendsInfoIcon": "frequentFriendsInfoIcon__1fc18",
-    "frequentFriendsAvatars": "frequentFriendsAvatars__1fc18",
-    "scrollMaskLeft": "scrollMaskLeft__1fc18",
-    "scrollMaskRight": "scrollMaskRight__1fc18",
-    "frequentFriendAvatarButton": "frequentFriendAvatarButton__1fc18"
-  },
   "680020": {
     "boostIconContainer": "boostIconContainer__8dbf5",
     "boostIcon": "boostIcon__8dbf5",
@@ -23906,9 +23897,7 @@
     "avatarBorder": "avatarBorder__44b0c",
     "pointerEvents": "pointerEvents__44b0c",
     "avatarDecorationContainer": "avatarDecorationContainer__44b0c",
-    "avatarDecoration": "avatarDecoration__44b0c",
-    "cutoutIcon": "cutoutIcon__44b0c",
-    "largeEmoji": "largeEmoji__44b0c"
+    "avatarDecoration": "avatarDecoration__44b0c"
   },
   "920660": {
     "container": "container__9aed4",
