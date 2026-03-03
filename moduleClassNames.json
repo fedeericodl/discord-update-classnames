@@ -22432,7 +22432,10 @@
     "header": "header_b963df",
     "lineItemsContainer": "lineItemsContainer_b963df",
     "lineItem": "lineItem_b963df",
-    "lineItemLabel": "lineItemLabel_b963df"
+    "lineItemLabel": "lineItemLabel_b963df",
+    "strikethroughText": "strikethroughText_b963df",
+    "valueColumnContainer": "valueColumnContainer_b963df",
+    "valueTextItem": "valueTextItem_b963df"
   },
   "861379": {
     "draggable": "draggable__55bab",
