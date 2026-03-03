@@ -2510,7 +2510,8 @@
     "guildName": "guildName__6e500"
   },
   "101865": {
-    "tidaDescription": "tidaDescription_f18f4f"
+    "tidaDescription": "tidaDescription_f18f4f",
+    "tidaBulletList": "tidaBulletList_f18f4f"
   },
   "101937": {
     "graphContainer": "graphContainer_effb26",
@@ -3863,7 +3864,10 @@
     "twoColumnMainContent": "twoColumnMainContent__81040",
     "twoColumnSidebar": "twoColumnSidebar__81040",
     "oneColumnMainContent": "oneColumnMainContent__81040",
-    "content": "content__81040"
+    "twoColumnCoverArt": "twoColumnCoverArt__81040",
+    "oneColumnCoverArtStoreLinksSummaryContainer": "oneColumnCoverArtStoreLinksSummaryContainer__81040",
+    "oneColumnStoreLinksSummaryContainer": "oneColumnStoreLinksSummaryContainer__81040",
+    "oneColumnCoverArt": "oneColumnCoverArt__81040"
   },
   "146373": {
     "pulse": "pulse_e4f643",
@@ -5189,7 +5193,9 @@
     "giftIcon": "giftIcon__82222"
   },
   "194878": {
-    "container": "container__0ccef"
+    "container": "container__0ccef",
+    "column": "column__0ccef",
+    "actions": "actions__0ccef"
   },
   "194976": {
     "separator": "separator__2dc49",
@@ -20281,7 +20287,6 @@
     "newMosaicStyle": "newMosaicStyle__4d95d",
     "codeView": "codeView__4d95d",
     "wordWrap": "wordWrap__4d95d",
-    "expanded": "expanded__4d95d",
     "footer": "footer__4d95d",
     "openFullPreviewSection": "openFullPreviewSection__4d95d",
     "footerGap": "footerGap__4d95d",
@@ -24368,6 +24373,9 @@
     "detectedGameFrame": "detectedGameFrame_d77702",
     "detectedGameIcon": "detectedGameIcon_d77702",
     "detectedGameIconPlaceholder": "detectedGameIconPlaceholder_d77702"
+  },
+  "937418": {
+    "buttonContainer": "buttonContainer__3f9c0"
   },
   "937474": {
     "card": "card__2023f",
