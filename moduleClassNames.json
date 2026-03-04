@@ -970,7 +970,8 @@
     "baseLayout": "baseLayout__44061",
     "previewsContainer": "previewsContainer__44061",
     "previewTitle": "previewTitle__44061",
-    "formContent": "formContent__44061"
+    "formContent": "formContent__44061",
+    "isSticky": "isSticky__44061"
   },
   "39427": {
     "headerRow": "headerRow__4fbcc",
@@ -4351,6 +4352,10 @@
     "bulkBanProgressFill": "bulkBanProgressFill_b4ec0b",
     "bulkBanProgress": "bulkBanProgress_b4ec0b",
     "rowsDisabled": "rowsDisabled_b4ec0b"
+  },
+  "160664": {
+    "badgeImage": "badgeImage__940cb",
+    "upcoming": "upcoming__940cb"
   },
   "161222": {
     "media": "media__9c640",
@@ -8072,8 +8077,6 @@
     "metadata": "metadata__857bf",
     "libraryLink": "libraryLink__857bf",
     "libraryIcon": "libraryIcon__857bf",
-    "invalidPoop": "invalidPoop__857bf",
-    "invalidPoopHorizontal": "invalidPoopHorizontal__857bf",
     "legacySeasonalGiftEmbedWrapper": "legacySeasonalGiftEmbedWrapper__857bf",
     "customGiftEmbedWrapper": "customGiftEmbedWrapper__857bf",
     "giftEmbedWrapperHorizontal": "giftEmbedWrapperHorizontal__857bf",
@@ -11736,13 +11739,15 @@
   },
   "453561": {
     "header": "header_feae96",
+    "questInfo": "questInfo_feae96",
     "questIcon": "questIcon_feae96",
     "questIconContainer": "questIconContainer_feae96",
     "progressContainer": "progressContainer_feae96",
     "progressBar": "progressBar_feae96",
     "progressBarFill": "progressBarFill_feae96",
     "progressBarGlowContainer": "progressBarGlowContainer_feae96",
-    "progressBarGlow": "progressBarGlow_feae96"
+    "progressBarGlow": "progressBarGlow_feae96",
+    "questProgress": "questProgress_feae96"
   },
   "453729": {
     "gameSection": "gameSection__3b7e0",
@@ -16074,7 +16079,8 @@
     "imageWrapperBackground": "imageWrapperBackground_af017a",
     "imagePlaceholder": "imagePlaceholder_af017a",
     "imageErrorWrapper": "imageErrorWrapper_af017a",
-    "imageError": "imageError_af017a",
+    "imageErrorIllustration": "imageErrorIllustration_af017a",
+    "imageErrorText": "imageErrorText_af017a",
     "imagePlaceholderFastFade": "imagePlaceholderFastFade_af017a",
     "imagePlaceholderVisible": "imagePlaceholderVisible_af017a",
     "imageLoadingOverlay": "imageLoadingOverlay_af017a",
@@ -24155,13 +24161,6 @@
     "experimentUpsellIcon": "experimentUpsellIcon__9b0f4",
     "experimentUpsellText": "experimentUpsellText__9b0f4",
     "experimentGetNitro": "experimentGetNitro__9b0f4",
-    "errorContent": "errorContent__9b0f4",
-    "errorImage": "errorImage__9b0f4",
-    "errorBody": "errorBody__9b0f4",
-    "iconContainer": "iconContainer__9b0f4",
-    "iconSparklePlus": "iconSparklePlus__9b0f4",
-    "iconLink": "iconLink__9b0f4",
-    "iconSparkleStar": "iconSparkleStar__9b0f4",
     "acceptAsAvatar": "acceptAsAvatar__9b0f4"
   },
   "929376": {
@@ -24866,9 +24865,7 @@
     "section": "section__730fc",
     "heading": "heading__730fc",
     "cardContainer": "cardContainer__730fc",
-    "featuredCard": "featuredCard__730fc",
-    "badgeImage": "badgeImage__730fc",
-    "upcoming": "upcoming__730fc"
+    "featuredCard": "featuredCard__730fc"
   },
   "950503": {
     "artContainer": "artContainer__8162d",
