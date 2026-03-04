@@ -8528,7 +8528,8 @@
   "317911": {
     "preview": "preview__1533e",
     "messages": "messages__1533e",
-    "avatars": "avatars__1533e"
+    "avatars": "avatars__1533e",
+    "previewRight": "previewRight__1533e"
   },
   "318012": {
     "churnDiscountBadge": "churnDiscountBadge_b65b20",
@@ -14573,6 +14574,7 @@
   "559485": {
     "container": "container_da8ac7",
     "content": "content_da8ac7",
+    "bottomSubText": "bottomSubText_da8ac7",
     "header": "header_da8ac7",
     "headerIcon": "headerIcon_da8ac7",
     "details": "details_da8ac7",
@@ -16140,24 +16142,6 @@
     "headerFlag": "headerFlag_ba2c2e",
     "giftCodeInputWrapper": "giftCodeInputWrapper_ba2c2e"
   },
-  "615349": {
-    "container": "container__243fe",
-    "isStandardGap": "isStandardGap__243fe",
-    "popoutHeader": "popoutHeader__243fe",
-    "channelName": "channelName__243fe",
-    "historyListHeader": "historyListHeader__243fe",
-    "historyList": "historyList__243fe",
-    "eventRow": "eventRow__243fe",
-    "eventConnector": "eventConnector__243fe",
-    "eventIconContainer": "eventIconContainer__243fe",
-    "eventIcon": "eventIcon__243fe",
-    "eventContent": "eventContent__243fe",
-    "eventHeader": "eventHeader__243fe",
-    "activityHeader": "activityHeader__243fe",
-    "eventHeaderUsername": "eventHeaderUsername__243fe",
-    "eventHeaderLabel": "eventHeaderLabel__243fe",
-    "eventTime": "eventTime__243fe"
-  },
   "615434": {
     "container": "container__61306",
     "loading": "loading__61306"
@@ -16723,7 +16707,6 @@
     "header": "header_a00e6e",
     "headings": "headings_a00e6e",
     "title": "title_a00e6e",
-    "premiumIcon": "premiumIcon_a00e6e",
     "titleText": "titleText_a00e6e"
   },
   "638990": {
@@ -20305,7 +20288,8 @@
   },
   "772992": {
     "currencyWrapper": "currencyWrapper_b41cc5",
-    "previewTotalSectionContainer": "previewTotalSectionContainer_b41cc5"
+    "previewTotalSectionContainer": "previewTotalSectionContainer_b41cc5",
+    "premiumSwitchPlanSelectText": "premiumSwitchPlanSelectText_b41cc5"
   },
   "773570": {
     "questRewardTile": "questRewardTile__28141",
