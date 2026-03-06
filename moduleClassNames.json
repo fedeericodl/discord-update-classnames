@@ -8141,12 +8141,6 @@
     "subHeaderText": "subHeaderText__75e8e",
     "buttonContainer": "buttonContainer__75e8e"
   },
-  "308581": {
-    "grid": "grid__80f54",
-    "hasSquareItems": "hasSquareItems__80f54",
-    "container": "container__80f54",
-    "header": "header__80f54"
-  },
   "308982": {
     "attachmentRow": "attachmentRow__1e7f0",
     "attachmentDownloadButton": "attachmentDownloadButton__1e7f0"
@@ -11474,11 +11468,11 @@
     "hasPreviewSound": "hasPreviewSound__0b69f",
     "upsellContainerFloating": "upsellContainerFloating__0b69f",
     "upsellContainerInline": "upsellContainerInline__0b69f",
-    "upsellContainerBottom": "upsellContainerBottom__0b69f",
     "soundPreview": "soundPreview__0b69f",
     "soundPreviewName": "soundPreviewName__0b69f",
     "soundPreviewText": "soundPreviewText__0b69f",
-    "upsellText": "upsellText__0b69f"
+    "upsellText": "upsellText__0b69f",
+    "legacyUpsellButton": "legacyUpsellButton__0b69f"
   },
   "431055": {
     "scrollbar": "scrollbar__506b3",
@@ -20199,6 +20193,12 @@
     "selectedOption": "selectedOption_c2c6a6",
     "containerWithRightCaret": "containerWithRightCaret_c2c6a6"
   },
+  "757424": {
+    "grid": "grid__16960",
+    "hasSquareItems": "hasSquareItems__16960",
+    "container": "container__16960",
+    "header": "header__16960"
+  },
   "757526": {
     "errorPageContainer": "errorPageContainer__5a176",
     "errorPageContent": "errorPageContent__5a176",
@@ -22794,7 +22794,6 @@
   "873080": {
     "categoryList": "categoryList_a1e0e0",
     "expressionPickerCategoryList": "expressionPickerCategoryList_a1e0e0",
-    "hasBottomBarUpsell": "hasBottomBarUpsell_a1e0e0",
     "category": "category_a1e0e0",
     "categoryIcon": "categoryIcon_a1e0e0 category_a1e0e0",
     "selected": "selected_a1e0e0",
