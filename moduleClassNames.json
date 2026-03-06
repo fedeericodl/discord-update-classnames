@@ -4656,6 +4656,11 @@
     "base": "base_e3f659",
     "widget": "widget_e3f659"
   },
+  "176959": {
+    "trailerSection": "trailerSection__1b436",
+    "haloCanvas": "haloCanvas__1b436",
+    "trailerVideo": "trailerVideo__1b436"
+  },
   "176983": {
     "max-width": "max-width__5b321",
     "container": "container__5b321 max-width__5b321"
@@ -5344,6 +5349,13 @@
   "203473": {
     "cardContentsContainer": "cardContentsContainer__3c5e8"
   },
+  "203540": {
+    "section": "section_d9246e",
+    "sectionTitle": "sectionTitle_d9246e",
+    "container": "container_d9246e",
+    "detailsRow": "detailsRow_d9246e",
+    "iconRow": "iconRow_d9246e"
+  },
   "204038": {
     "speaker": "speaker__708d1",
     "guild": "guild__708d1",
@@ -5834,6 +5846,7 @@
     "threadMessageAccessoryAvatar": "threadMessageAccessoryAvatar_c19a55",
     "replyIcon": "replyIcon_c19a55",
     "clanTagChiplet": "clanTagChiplet_c19a55",
+    "usernameText": "usernameText_c19a55",
     "ticketIcon": "ticketIcon_c19a55",
     "userJoinSystemMessageIcon": "userJoinSystemMessageIcon_c19a55",
     "commandIcon": "commandIcon_c19a55",
@@ -16452,10 +16465,15 @@
   },
   "613060": {
     "chipletContainerInner": "chipletContainerInner__10651",
+    "messageChipletContainerInner": "messageChipletContainerInner__10651",
+    "messageText": "messageText__10651",
+    "messageBadge": "messageBadge__10651",
     "chipletContainerInline": "chipletContainerInline__10651",
     "clickable": "clickable__10651",
     "text": "text__10651",
+    "copyOnlyText": "copyOnlyText__10651",
     "badge": "badge__10651",
+    "badgePlaceholder": "badgePlaceholder__10651",
     "noTooltip": "noTooltip__10651",
     "tagText": "tagText__10651"
   },
