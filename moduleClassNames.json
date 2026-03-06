@@ -6188,7 +6188,8 @@
   "232970": {
     "currencyWrapper": "currencyWrapper_b41cc5",
     "previewTotalSectionContainer": "previewTotalSectionContainer_b41cc5",
-    "premiumSwitchPlanSelectText": "premiumSwitchPlanSelectText_b41cc5"
+    "premiumSwitchPlanSelectText": "premiumSwitchPlanSelectText_b41cc5",
+    "purchaseItemImage": "purchaseItemImage_b41cc5"
   },
   "233274": {
     "cameraWrapper": "cameraWrapper__11e1f",
@@ -14826,7 +14827,7 @@
     "headerIcon": "headerIcon_da8ac7",
     "details": "details_da8ac7",
     "text": "text_da8ac7",
-    "giftAvatar": "giftAvatar_da8ac7",
+    "targetIcon": "targetIcon_da8ac7",
     "priceContainer": "priceContainer_da8ac7",
     "currentPrice": "currentPrice_da8ac7",
     "strikethroughPrice": "strikethroughPrice_da8ac7",
@@ -15138,7 +15139,8 @@
     "invoiceDiscountText": "invoiceDiscountText__25766",
     "invoiceDiscountTag": "invoiceDiscountTag__25766",
     "totalRow": "totalRow__25766",
-    "slayerStorefrontProductPreview": "slayerStorefrontProductPreview__25766"
+    "slayerStorefrontProductPreview": "slayerStorefrontProductPreview__25766",
+    "applicationProductPreview": "applicationProductPreview__25766"
   },
   "560125": {
     "libraryFilter": "libraryFilter__3fb48",
@@ -16279,7 +16281,6 @@
   },
   "607216": {
     "skuPreview": "skuPreview_d87184",
-    "nameplate": "nameplate_d87184",
     "collectiblesCardHover": "collectiblesCardHover_d87184"
   },
   "607290": {
@@ -23535,8 +23536,7 @@
     "socialLayerCard": "socialLayerCard__517e1",
     "profileEffectPreview": "profileEffectPreview__517e1",
     "nameplatePreview": "nameplatePreview__517e1",
-    "nameplateTopLeft": "nameplateTopLeft__517e1",
-    "nameplateBottomRight": "nameplateBottomRight__517e1",
+    "nameplatePreviewRescaler": "nameplatePreviewRescaler__517e1",
     "bundlePreview": "bundlePreview__517e1"
   },
   "902390": {
