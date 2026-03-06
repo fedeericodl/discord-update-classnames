@@ -21091,7 +21091,10 @@
     "expandedUserNameContainer": "expandedUserNameContainer_e72588",
     "actionsRow": "actionsRow_e72588",
     "voiceIcons": "voiceIcons_e72588",
-    "voiceIcon": "voiceIcon_e72588"
+    "voiceIcon": "voiceIcon_e72588",
+    "expandedUserGameIcon": "expandedUserGameIcon_e72588",
+    "gameActivitySecondaryText": "gameActivitySecondaryText_e72588",
+    "gameControllerIcon": "gameControllerIcon_e72588"
   },
   "796579": {
     "cancelModalBody": "cancelModalBody__339fa",
