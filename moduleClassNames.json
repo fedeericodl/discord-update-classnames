@@ -20038,9 +20038,7 @@
     "channel": "channel__5c799",
     "category": "category__5c799",
     "channelIcon": "channelIcon__5c799",
-    "channelText": "channelText__5c799",
-    "role": "role__5c799",
-    "roleCircle": "roleCircle__5c799"
+    "channelText": "channelText__5c799"
   },
   "751421": {
     "previewContainer": "previewContainer_b4d1aa",
@@ -24076,7 +24074,6 @@
     "emptyStateDescription": "emptyStateDescription_adb41f",
     "emptyWumpus": "emptyWumpus_adb41f",
     "emptyStateLarge": "emptyStateLarge_adb41f emptyState_adb41f",
-    "emptyStateSmall": "emptyStateSmall_adb41f emptyState_adb41f",
     "rowWrapperDim": "rowWrapperDim_adb41f"
   },
   "924780": {
