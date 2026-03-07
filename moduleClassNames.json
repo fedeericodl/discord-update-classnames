@@ -117,8 +117,7 @@
   "6022": {
     "buttonsContainer": "buttonsContainer__89253",
     "removeButton": "removeButton__89253",
-    "buttonHighlighted": "buttonHighlighted__89253",
-    "overrideButtonsContainer": "overrideButtonsContainer__89253"
+    "buttonHighlighted": "buttonHighlighted__89253"
   },
   "6211": {
     "root": "root_da9de7",
@@ -16323,10 +16322,6 @@
     "selected": "selected_f391e3",
     "siblingSelected": "siblingSelected_f391e3",
     "titleDivider": "titleDivider_f391e3"
-  },
-  "608696": {
-    "mainContainer": "mainContainer__844a1",
-    "compact": "compact__844a1"
   },
   "609132": {
     "box": "box_f8c98c"
