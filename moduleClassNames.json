@@ -5617,6 +5617,9 @@
     "inner": "inner_c0bea0",
     "overlay": "overlay_c0bea0"
   },
+  "215899": {
+    "riveHoverTarget": "riveHoverTarget_e54f51"
+  },
   "216102": {
     "inspectorContainer": "inspectorContainer__583eb",
     "traceContainer": "traceContainer__583eb",
@@ -9944,6 +9947,8 @@
   "366096": {
     "card": "card_a23cbe",
     "skuPreview": "skuPreview_a23cbe",
+    "scaledSkuPreview": "scaledSkuPreview_a23cbe",
+    "collectiblesSkuPreview": "collectiblesSkuPreview_a23cbe",
     "isOwnerAndHovering": "isOwnerAndHovering_a23cbe"
   },
   "366231": {
