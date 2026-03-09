@@ -20821,8 +20821,9 @@
     "expanded": "expanded__7a70a",
     "blockedSystemMessage": "blockedSystemMessage__7a70a",
     "blockedIcon": "blockedIcon__7a70a",
-    "blockedIconClickable": "blockedIconClickable__7a70a",
+    "suspendedIcon": "suspendedIcon__7a70a",
     "blockedMessageText": "blockedMessageText__7a70a",
+    "blockedMessageTextMuted": "blockedMessageTextMuted__7a70a",
     "blockedAction": "blockedAction__7a70a"
   },
   "785352": {
@@ -25565,6 +25566,10 @@
     "waveform": "waveform__76084",
     "playButton": "playButton__76084",
     "playIcon": "playIcon__76084"
+  },
+  "978707": {
+    "serverCard": "serverCard__49af9",
+    "warning": "warning__49af9"
   },
   "979190": {
     "container": "container__12f17",
