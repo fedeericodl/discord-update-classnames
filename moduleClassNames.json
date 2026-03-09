@@ -8989,6 +8989,16 @@
     "activityDetails": "activityDetails__2ef49",
     "activityStreamPreview": "activityStreamPreview__2ef49"
   },
+  "332690": {
+    "popoutContainer": "popoutContainer_e2f0c6",
+    "streamPreviewWrapper": "streamPreviewWrapper_e2f0c6",
+    "streamPreview": "streamPreview_e2f0c6",
+    "streamPreviewLiveIndicator": "streamPreviewLiveIndicator_e2f0c6",
+    "channelName": "channelName_e2f0c6",
+    "participantsInfo": "participantsInfo_e2f0c6",
+    "showNicknames": "showNicknames_e2f0c6",
+    "buttonContainer": "buttonContainer_e2f0c6"
+  },
   "332822": {
     "striked": "striked_e77b99"
   },
@@ -18765,6 +18775,9 @@
   },
   "692799": {
     "wrapper": "wrapper_d852db"
+  },
+  "692827": {
+    "voiceChannelBadge": "voiceChannelBadge_f25a6e"
   },
   "693612": {
     "container": "container__04119",
