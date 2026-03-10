@@ -5743,6 +5743,10 @@
     "code": "code_e13eda",
     "notificationIcon": "notificationIcon_e13eda"
   },
+  "210276": {
+    "favoritesEmptyStateTitle": "favoritesEmptyStateTitle__3651c",
+    "favoritesEmptyStateBody": "favoritesEmptyStateBody__3651c"
+  },
   "210320": {
     "premiumIcon": "premiumIcon__7b750"
   },
