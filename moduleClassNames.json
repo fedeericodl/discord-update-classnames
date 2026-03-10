@@ -17573,6 +17573,7 @@
   "661388": {
     "root": "root__9c3be",
     "editingToolbar": "editingToolbar__9c3be",
+    "closeButton": "closeButton__9c3be",
     "toast": "toast__9c3be",
     "interactionToast": "interactionToast__9c3be",
     "backdrop": "backdrop__9c3be",
