@@ -6944,34 +6944,6 @@
     "overlayLabel": "overlayLabel__31fc2",
     "positionedLayer": "positionedLayer__31fc2"
   },
-  "259878": {
-    "authedAppV2": "authedAppV2__50a54",
-    "headerV2": "headerV2__50a54",
-    "headerText": "headerText__50a54",
-    "headerTextContainerV2": "headerTextContainerV2__50a54",
-    "appDetailsContainer": "appDetailsContainer__50a54",
-    "appDetailsSection": "appDetailsSection__50a54",
-    "appDetailsSectionHeader": "appDetailsSectionHeader__50a54",
-    "appDetailsContent": "appDetailsContent__50a54",
-    "appAvatarV2": "appAvatarV2__50a54",
-    "permissionsDescription": "permissionsDescription__50a54",
-    "permission": "permission__50a54",
-    "permissionCheckmark": "permissionCheckmark__50a54",
-    "disclosureIcon": "disclosureIcon__50a54",
-    "deleteModalBody": "deleteModalBody__50a54",
-    "warningContainer": "warningContainer__50a54",
-    "warningOuterContainer": "warningOuterContainer__50a54",
-    "warningIcon": "warningIcon__50a54",
-    "searchContainer": "searchContainer__50a54",
-    "tosPrivacy": "tosPrivacy__50a54",
-    "tos": "tos__50a54",
-    "privacy": "privacy__50a54",
-    "externalLinkIcon": "externalLinkIcon__50a54",
-    "divider": "divider__50a54",
-    "footer": "footer__50a54",
-    "deauthorizeButton": "deauthorizeButton__50a54",
-    "headingCard": "headingCard__50a54"
-  },
   "260171": {
     "systemMessageContainer": "systemMessageContainer_c0ec5e",
     "embedContainer": "embedContainer_c0ec5e",
@@ -10137,6 +10109,9 @@
     "blockedPaymentsWarningIcon": "blockedPaymentsWarningIcon_b7b2cf",
     "blockedPaymentsWarning": "blockedPaymentsWarning_b7b2cf"
   },
+  "390472": {
+    "actionMenuButton": "actionMenuButton__12cd0"
+  },
   "390734": {
     "inventory": "inventory__6980e",
     "inventoryControls": "inventoryControls__6980e",
@@ -12875,7 +12850,11 @@
     "positionedContainer": "positionedContainer__629e4",
     "unreadTop": "unreadTop__629e4 unread__629e4 container__3b95d",
     "voiceUserSummary": "voiceUserSummary__629e4",
-    "sectionDivider": "sectionDivider__629e4"
+    "sectionDivider": "sectionDivider__629e4",
+    "favoritesPlaceholderRows": "favoritesPlaceholderRows__629e4",
+    "favoritesPlaceholderRow": "favoritesPlaceholderRow__629e4",
+    "favoritesPlaceholderBarLong": "favoritesPlaceholderBarLong__629e4",
+    "favoritesPlaceholderBarShort": "favoritesPlaceholderBarShort__629e4"
   },
   "495439": {
     "formItem": "formItem__1b11b"
@@ -23163,9 +23142,6 @@
     "creator": "creator__4591d",
     "divider": "divider__4591d"
   },
-  "888897": {
-    "actionMenuButton": "actionMenuButton_d84e0f"
-  },
   "888920": {
     "section": "section__25879"
   },
@@ -23417,6 +23393,34 @@
     "emptySearchImage": "emptySearchImage__83bd4",
     "emptySearchTitle": "emptySearchTitle__83bd4",
     "emptySearchSubtitle": "emptySearchSubtitle__83bd4"
+  },
+  "898969": {
+    "authedAppV2": "authedAppV2__24605",
+    "headerV2": "headerV2__24605",
+    "headerText": "headerText__24605",
+    "headerTextContainerV2": "headerTextContainerV2__24605",
+    "appDetailsContainer": "appDetailsContainer__24605",
+    "appDetailsSection": "appDetailsSection__24605",
+    "appDetailsSectionHeader": "appDetailsSectionHeader__24605",
+    "appDetailsContent": "appDetailsContent__24605",
+    "appAvatarV2": "appAvatarV2__24605",
+    "permissionsDescription": "permissionsDescription__24605",
+    "permission": "permission__24605",
+    "permissionCheckmark": "permissionCheckmark__24605",
+    "disclosureIcon": "disclosureIcon__24605",
+    "deleteModalBody": "deleteModalBody__24605",
+    "warningContainer": "warningContainer__24605",
+    "warningOuterContainer": "warningOuterContainer__24605",
+    "warningIcon": "warningIcon__24605",
+    "searchContainer": "searchContainer__24605",
+    "tosPrivacy": "tosPrivacy__24605",
+    "tos": "tos__24605",
+    "privacy": "privacy__24605",
+    "externalLinkIcon": "externalLinkIcon__24605",
+    "divider": "divider__24605",
+    "footer": "footer__24605",
+    "deauthorizeButton": "deauthorizeButton__24605",
+    "headingCard": "headingCard__24605"
   },
   "899959": {
     "popout": "popout__91e7a"
