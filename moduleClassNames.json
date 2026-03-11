@@ -5798,6 +5798,10 @@
     "listElement": "listElement__527b1",
     "listElementWrapper": "listElementWrapper__527b1"
   },
+  "212590": {
+    "subtext": "subtext_a90f4d",
+    "channelIcon": "channelIcon_a90f4d"
+  },
   "212603": {
     "bulletContainer": "bulletContainer__03273",
     "iconContainer": "iconContainer__03273",
@@ -16479,10 +16483,6 @@
     "heroAssetWrapper": "heroAssetWrapper_b5b7aa",
     "heroAssetCont": "heroAssetCont_b5b7aa",
     "overlay": "overlay_b5b7aa",
-    "darkThemeGradient": "darkThemeGradient_b5b7aa",
-    "darkerThemeGradient": "darkerThemeGradient_b5b7aa",
-    "midnightThemeGradient": "midnightThemeGradient_b5b7aa",
-    "lightThemeGradient": "lightThemeGradient_b5b7aa",
     "topRow": "topRow_b5b7aa",
     "pills": "pills_b5b7aa",
     "pill": "pill_b5b7aa",
