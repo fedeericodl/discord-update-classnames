@@ -617,15 +617,6 @@
     "avatarDecorationPreview": "avatarDecorationPreview_c40875",
     "nameplatePreview": "nameplatePreview_c40875"
   },
-  "22999": {
-    "item": "item__6be08",
-    "removeBuildOverride": "removeBuildOverride__6be08",
-    "buildOverrideGroup": "buildOverrideGroup__6be08",
-    "removeBuildOverrideDisabled": "removeBuildOverrideDisabled__6be08",
-    "row": "row__6be08",
-    "buttonsContainer": "buttonsContainer__6be08",
-    "surveyOverride": "surveyOverride__6be08"
-  },
   "23012": {
     "logo": "logo__675f9",
     "clyde": "clyde__675f9 logo__675f9",
@@ -3966,8 +3957,13 @@
   },
   "156614": {
     "root": "root__9c3be",
-    "editingToolbar": "editingToolbar__9c3be",
-    "closeButton": "closeButton__9c3be",
+    "layoutContainer": "layoutContainer__9c3be",
+    "themeContainer": "themeContainer__9c3be",
+    "hasEditingPanel": "hasEditingPanel__9c3be",
+    "editingPanel": "editingPanel__9c3be",
+    "editingPanelExpandButton": "editingPanelExpandButton__9c3be",
+    "pendingChangesToolbar": "pendingChangesToolbar__9c3be",
+    "modalCloseButton": "modalCloseButton__9c3be",
     "toast": "toast__9c3be",
     "interactionToast": "interactionToast__9c3be",
     "backdrop": "backdrop__9c3be",
@@ -6989,6 +6985,13 @@
     "emojiImage": "emojiImage__4dd8e",
     "emojiName": "emojiName__4dd8e"
   },
+  "258588": {
+    "item": "item_f53f62",
+    "removeBuildOverride": "removeBuildOverride_f53f62",
+    "buildOverrideGroup": "buildOverrideGroup_f53f62",
+    "removeBuildOverrideDisabled": "removeBuildOverrideDisabled_f53f62",
+    "row": "row_f53f62"
+  },
   "259481": {
     "iconContainer": "iconContainer__98cf7",
     "filledIcon": "filledIcon__98cf7"
@@ -8083,6 +8086,7 @@
     "insufficientOrbs": "insufficientOrbs__3b1b0"
   },
   "306989": {
+    "closeButtonContainer": "closeButtonContainer__62e7a",
     "modalContainerV1": "modalContainerV1__62e7a",
     "bannerV1": "bannerV1__62e7a",
     "fixedContentWrapper": "fixedContentWrapper__62e7a",
@@ -9156,6 +9160,12 @@
     "extrasEmptySpace": "extrasEmptySpace__6d791",
     "button": "button__6d791 bgShade__6d791",
     "active": "active__6d791"
+  },
+  "336092": {
+    "panel": "panel_b08638",
+    "header": "header_b08638",
+    "collapseButton": "collapseButton_b08638",
+    "scroller": "scroller_b08638"
   },
   "336612": {
     "root": "root_ccf174"
