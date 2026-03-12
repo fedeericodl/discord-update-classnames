@@ -11554,6 +11554,7 @@
     "icon": "icon_f34534",
     "guildIconBadge": "guildIconBadge_f34534",
     "iconInactive": "iconInactive_f34534",
+    "iconActiveSmol": "iconActiveSmol_f34534",
     "iconActiveMini": "iconActiveMini_f34534",
     "iconActiveSmaller": "iconActiveSmaller_f34534",
     "iconActiveSmall": "iconActiveSmall_f34534",
@@ -15081,7 +15082,7 @@
     "invoiceDiscountTag": "invoiceDiscountTag__25766",
     "totalRow": "totalRow__25766",
     "slayerStorefrontProductPreview": "slayerStorefrontProductPreview__25766",
-    "applicationProductPreview": "applicationProductPreview__25766"
+    "invoiceProductPreviewImage": "invoiceProductPreviewImage__25766"
   },
   "560125": {
     "libraryFilter": "libraryFilter__3fb48",
@@ -20363,7 +20364,8 @@
   "767659": {
     "seasonalGiftBoxHeaderIcon": "seasonalGiftBoxHeaderIcon_ae16b8",
     "container": "container_ae16b8",
-    "closeButton": "closeButton_ae16b8"
+    "closeButton": "closeButton_ae16b8",
+    "fullWidthGraphicHeaderForManaModal": "fullWidthGraphicHeaderForManaModal_ae16b8"
   },
   "767944": {
     "container": "container_f50ddc",
@@ -20509,14 +20511,6 @@
   "773777": {
     "container": "container_d3846c",
     "spinnerContainer": "spinnerContainer_d3846c"
-  },
-  "773975": {
-    "preview": "preview__5d148",
-    "previewMessage": "previewMessage__5d148",
-    "previewHeader": "previewHeader__5d148",
-    "previewAvatars": "previewAvatars__5d148",
-    "reducedMotion": "reducedMotion__5d148",
-    "appearanceUpsell": "appearanceUpsell__5d148"
   },
   "774126": {
     "fileUpload": "fileUpload__8b203"
@@ -21611,6 +21605,12 @@
   },
   "818393": {
     "mediaArea": "mediaArea_e03578"
+  },
+  "818499": {
+    "preview": "preview_d32fd4",
+    "previewMessage": "previewMessage_d32fd4",
+    "previewHeader": "previewHeader_d32fd4",
+    "previewAvatars": "previewAvatars_d32fd4"
   },
   "819387": {
     "headerDivider": "headerDivider__7fc1d",
