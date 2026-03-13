@@ -257,6 +257,18 @@
     "spinner": "spinner__3a590",
     "contextContainer": "contextContainer__3a590"
   },
+  "10971": {
+    "layout": "layout__81b99",
+    "header": "header__81b99",
+    "kaomojiContainer": "kaomojiContainer__81b99",
+    "kaomojiList": "kaomojiList__81b99",
+    "kaomojiCategory": "kaomojiCategory__81b99",
+    "categoryLabel": "categoryLabel__81b99",
+    "kaomojiGrid": "kaomojiGrid__81b99",
+    "kaomojiGridItem": "kaomojiGridItem__81b99",
+    "emptyState": "emptyState__81b99",
+    "wrapper": "wrapper__81b99"
+  },
   "11239": {
     "combo": "combo__257af",
     "comboValue": "comboValue__257af",
@@ -6029,10 +6041,6 @@
     "suggestedColor": "suggestedColor__459fb",
     "noColor": "noColor__459fb"
   },
-  "227156": {
-    "textButton": "textButton__7b3e8",
-    "iconButton": "iconButton__7b3e8"
-  },
   "228131": {
     "stepBody": "stepBody_a3d32e"
   },
@@ -8031,10 +8039,8 @@
     "callContainer": "callContainer_cb9592",
     "leftTrayIcon": "leftTrayIcon_cb9592",
     "rightTrayIcon": "rightTrayIcon_cb9592",
-    "viewersButton": "viewersButton_cb9592",
     "iconWrapper": "iconWrapper_cb9592",
     "volumeSlider": "volumeSlider_cb9592",
-    "badge": "badge_cb9592",
     "headerWrapper": "headerWrapper_cb9592",
     "channelChatWrapper": "channelChatWrapper_cb9592",
     "chatToasts": "chatToasts_cb9592"
@@ -18298,7 +18304,8 @@
     "gradientTop": "gradientTop_bfe55a gradientContainer_bfe55a",
     "gradientBottom": "gradientBottom_bfe55a gradientContainer_bfe55a",
     "controlSection": "controlSection_bfe55a",
-    "edgeControls": "edgeControls_bfe55a"
+    "edgeControls": "edgeControls_bfe55a",
+    "centerControls": "centerControls_bfe55a"
   },
   "678783": {
     "boxBackdrop": "boxBackdrop__53b4c",
