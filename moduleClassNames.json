@@ -14335,7 +14335,9 @@
     "scores": "scores_b18605",
     "scoreItem": "scoreItem_b18605",
     "conversationMeta": "conversationMeta_b18605",
-    "loadMoreFooter": "loadMoreFooter_b18605"
+    "conversationItemInViewport": "conversationItemInViewport_b18605",
+    "loadMoreFooter": "loadMoreFooter_b18605",
+    "loadMoreButton": "loadMoreButton_b18605"
   },
   "530504": {
     "fauxDisabled": "fauxDisabled__666fa"
