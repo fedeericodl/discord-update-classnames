@@ -7616,9 +7616,6 @@
     "wrap": "wrap_e5a45e"
   },
   "282893": {
-    "channelRow": "channelRow_d295eb",
-    "channelRowDisabled": "channelRowDisabled_d295eb",
-    "channelName": "channelName_d295eb",
     "actionBarInput": "actionBarInput_d295eb",
     "emptyState": "emptyState_d295eb"
   },
@@ -21019,6 +21016,14 @@
     "settingsItemHighlight": "settingsItemHighlight__7cd2d",
     "settingsBackgroundFlashElement": "settingsBackgroundFlashElement__7cd2d"
   },
+  "792938": {
+    "destinationRow": "destinationRow_ba7598",
+    "disabled": "disabled_ba7598",
+    "identity": "identity_ba7598",
+    "labels": "labels_ba7598",
+    "iconWrapper": "iconWrapper_ba7598",
+    "checkbox": "checkbox_ba7598"
+  },
   "793275": {
     "message": "message__51673",
     "saveNoticeContainer": "saveNoticeContainer__51673"
@@ -23243,15 +23248,9 @@
     "textarea": "textarea__9daae input__0ed4f"
   },
   "893323": {
-    "destinationRow": "destinationRow__62280",
-    "disabled": "disabled__62280",
-    "identity": "identity__62280",
-    "labels": "labels__62280",
     "threadSubLabel": "threadSubLabel__62280",
     "subLabelIcon": "subLabelIcon__62280",
     "subLabelSeparator": "subLabelSeparator__62280",
-    "iconWrapper": "iconWrapper__62280",
-    "checkbox": "checkbox__62280",
     "noResults": "noResults__62280",
     "messageInput": "messageInput__62280",
     "slowmodeWarning": "slowmodeWarning__62280"
