@@ -2044,7 +2044,6 @@
   },
   "76014": {
     "iconContainer": "iconContainer__0ecc4",
-    "smallText": "smallText__0ecc4",
     "textContainer": "textContainer__0ecc4"
   },
   "76269": {
@@ -15963,7 +15962,9 @@
     "cardInfo": "cardInfo_c3d27e",
     "statusRow": "statusRow_c3d27e",
     "statusLabel": "statusLabel_c3d27e",
-    "guildSummary": "guildSummary_c3d27e"
+    "guildSummary": "guildSummary_c3d27e",
+    "clickable": "clickable_c3d27e",
+    "trailingIcons": "trailingIcons_c3d27e"
   },
   "594183": {
     "card": "card_d7fb2d",
