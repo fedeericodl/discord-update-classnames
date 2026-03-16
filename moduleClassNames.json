@@ -5153,6 +5153,7 @@
     "avatarDecoration": "avatarDecoration__0b5ea",
     "nameplateContainer": "nameplateContainer__0b5ea",
     "externalProductAsset": "externalProductAsset__0b5ea",
+    "bundleMiniStaticPreview": "bundleMiniStaticPreview__0b5ea",
     "bundleMiniPreview": "bundleMiniPreview__0b5ea",
     "bundleMiniProfileEffectContainer": "bundleMiniProfileEffectContainer__0b5ea",
     "bundleMiniAvatarDecorationContainer": "bundleMiniAvatarDecorationContainer__0b5ea",
@@ -8026,7 +8027,8 @@
   "300902": {
     "previewPanel": "previewPanel__6dc2e",
     "previewSection": "previewSection__6dc2e",
-    "divider": "divider__6dc2e"
+    "divider": "divider__6dc2e",
+    "toggleSection": "toggleSection__6dc2e"
   },
   "300937": {
     "metadata": "metadata__857bf",
@@ -17089,6 +17091,8 @@
     "twoItemBundle": "twoItemBundle__6d099",
     "threeItemBundle": "threeItemBundle__6d099",
     "nameplatePreview": "nameplatePreview__6d099",
+    "staticPreview": "staticPreview__6d099",
+    "staticPreviewHighlighted": "staticPreviewHighlighted__6d099",
     "avatar": "avatar__6d099"
   },
   "650964": {
