@@ -3256,15 +3256,6 @@
     "container": "container__7bdb0",
     "appIcon": "appIcon__7bdb0"
   },
-  "123568": {
-    "artContainer": "artContainer_ee7791",
-    "art": "art_ee7791",
-    "subscribeButton": "subscribeButton_ee7791",
-    "subHeader": "subHeader_ee7791",
-    "secondaryCTA": "secondaryCTA_ee7791",
-    "footer": "footer_ee7791",
-    "header": "header_ee7791"
-  },
   "124070": {
     "container": "container_a51e6d",
     "resizeHandle": "resizeHandle_a51e6d",
@@ -16466,6 +16457,7 @@
     "heroAssetWrapper": "heroAssetWrapper_b5b7aa",
     "heroAssetCont": "heroAssetCont_b5b7aa",
     "overlay": "overlay_b5b7aa",
+    "heroImage": "heroImage_b5b7aa",
     "topRow": "topRow_b5b7aa",
     "pills": "pills_b5b7aa",
     "pill": "pill_b5b7aa",
