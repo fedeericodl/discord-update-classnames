@@ -4918,7 +4918,9 @@
     "card": "card__5be3e",
     "footer": "footer__5be3e",
     "backdrop": "backdrop__5be3e",
-    "toast": "toast__5be3e"
+    "toast": "toast__5be3e",
+    "friendRequestToastContainer": "friendRequestToastContainer__5be3e",
+    "friendRequestToast": "friendRequestToast__5be3e"
   },
   "184042": {
     "container": "container_ad8aad",
@@ -25330,7 +25332,9 @@
   },
   "973273": {
     "bannerButton": "bannerButton_fb7f94",
-    "disabled": "disabled_fb7f94"
+    "disabled": "disabled_fb7f94",
+    "spinner": "spinner_fb7f94",
+    "spinnerInner": "spinnerInner_fb7f94"
   },
   "973738": {
     "wrapper": "wrapper__4d7bb",
