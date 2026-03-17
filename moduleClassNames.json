@@ -4606,6 +4606,11 @@
     "bannerContainer": "bannerContainer__1d97f",
     "bannerHeader": "bannerHeader__1d97f"
   },
+  "170147": {
+    "eyebrow": "eyebrow_e558df",
+    "channelIcon": "channelIcon_e558df",
+    "chevronIcon": "chevronIcon_e558df"
+  },
   "170985": {
     "desktopTooltip": "desktopTooltip__7b565",
     "infoIcon": "infoIcon__7b565"
@@ -13615,6 +13620,31 @@
     "favoriteIcon": "favoriteIcon__8c6be",
     "centerAlign": "centerAlign__8c6be"
   },
+  "519934": {
+    "container": "container__16577",
+    "live": "live__16577",
+    "streamPreviewContainer": "streamPreviewContainer__16577",
+    "placeholder": "placeholder__16577",
+    "streamPreviewImage": "streamPreviewImage__16577",
+    "body": "body__16577",
+    "content": "content__16577",
+    "labels": "labels__16577",
+    "sublabel": "sublabel__16577",
+    "facepile": "facepile__16577",
+    "chin": "chin__16577",
+    "glow": "glow__16577",
+    "dots": "dots__16577",
+    "drifting-dots": "drifting-dots__16577",
+    "backdrop": "backdrop__16577",
+    "streamPreviewBackdrop": "streamPreviewBackdrop__16577",
+    "streamPreviewLoading": "streamPreviewLoading__16577",
+    "streamPreviewBackdropOverlay": "streamPreviewBackdropOverlay__16577",
+    "streamPreview": "streamPreview__16577",
+    "streamPreviewHover": "streamPreviewHover__16577",
+    "streamPreviewInner": "streamPreviewInner__16577",
+    "liveIndicator": "liveIndicator__16577",
+    "streamPreviewHoverText": "streamPreviewHoverText__16577"
+  },
   "520089": {
     "container": "container__80907",
     "newPerkCardsEnabled": "newPerkCardsEnabled__80907",
@@ -14552,6 +14582,11 @@
     "channelBenefitTagline": "channelBenefitTagline_fa0751",
     "intangibleBenefitRow": "intangibleBenefitRow_fa0751",
     "intangibleBenefitIcon": "intangibleBenefitIcon_fa0751"
+  },
+  "558770": {
+    "cloud": "cloud__53c90",
+    "avatar": "avatar__53c90",
+    "overflowBadge": "overflowBadge__53c90"
   },
   "558837": {
     "erroredContainer": "erroredContainer_bf2caa",
