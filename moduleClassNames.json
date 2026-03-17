@@ -18418,6 +18418,23 @@
   "688196": {
     "divider": "divider__1de9c"
   },
+  "688414": {
+    "keybindMessage": "keybindMessage__57111",
+    "item": "item__57111",
+    "switch": "switch__57111",
+    "removeKeybind": "removeKeybind__57111",
+    "keybindGroup": "keybindGroup__57111",
+    "keybindGroupContent": "keybindGroupContent__57111",
+    "defaultKeybindGroup": "defaultKeybindGroup__57111",
+    "defaultKeybind": "defaultKeybind__57111",
+    "defaultKeybindShortcutGroup": "defaultKeybindShortcutGroup__57111",
+    "shortcut": "shortcut__57111",
+    "browserNotice": "browserNotice__57111",
+    "systemServiceUpsell": "systemServiceUpsell__57111",
+    "ctaContainer": "ctaContainer__57111",
+    "warning": "warning__57111",
+    "addButton": "addButton__57111"
+  },
   "688564": {
     "text-md/normal": "text-md/normal__5a092",
     "textArea": "textArea__5a092"
@@ -20442,13 +20459,6 @@
     "chooseAccountAuthBox": "chooseAccountAuthBox_df9c06",
     "chooseAccountHelpText": "chooseAccountHelpText_df9c06",
     "actions": "actions_df9c06"
-  },
-  "777563": {
-    "channelIdSection": "channelIdSection__25eff",
-    "guildName": "guildName__25eff",
-    "selectedVoiceChannel": "selectedVoiceChannel__25eff",
-    "noVoiceChannelSelected": "noVoiceChannelSelected__25eff",
-    "voiceListSearchEmpty": "voiceListSearchEmpty__25eff"
   },
   "778052": {
     "container": "container_f284f6",
@@ -24115,23 +24125,6 @@
     "container": "container__3f864",
     "headerContainer": "headerContainer__3f864"
   },
-  "924348": {
-    "keybindMessage": "keybindMessage__740f2",
-    "item": "item__740f2",
-    "switch": "switch__740f2",
-    "removeKeybind": "removeKeybind__740f2",
-    "keybindGroup": "keybindGroup__740f2",
-    "keybindGroupContent": "keybindGroupContent__740f2",
-    "defaultKeybindGroup": "defaultKeybindGroup__740f2",
-    "defaultKeybind": "defaultKeybind__740f2",
-    "defaultKeybindShortcutGroup": "defaultKeybindShortcutGroup__740f2",
-    "shortcut": "shortcut__740f2",
-    "browserNotice": "browserNotice__740f2",
-    "systemServiceUpsell": "systemServiceUpsell__740f2",
-    "ctaContainer": "ctaContainer__740f2",
-    "warning": "warning__740f2",
-    "addButton": "addButton__740f2"
-  },
   "926157": {
     "wrapper": "wrapper__14245",
     "header": "header__14245",
@@ -25349,6 +25342,13 @@
     "applicationIcon": "applicationIcon__750de",
     "applicationNameContainer": "applicationNameContainer__750de",
     "applicationNameText": "applicationNameText__750de"
+  },
+  "971953": {
+    "channelIdSection": "channelIdSection__9112d",
+    "guildName": "guildName__9112d",
+    "selectedVoiceChannel": "selectedVoiceChannel__9112d",
+    "noVoiceChannelSelected": "noVoiceChannelSelected__9112d",
+    "voiceListSearchEmpty": "voiceListSearchEmpty__9112d"
   },
   "973184": {
     "keywordsTextArea": "keywordsTextArea__6a631",
