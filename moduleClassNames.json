@@ -21697,6 +21697,11 @@
   "831752": {
     "questEmbedCard": "questEmbedCard__4d6dc"
   },
+  "832381": {
+    "componentEmbedContainer": "componentEmbedContainer__6e6eb",
+    "isHidden": "isHidden__6e6eb",
+    "embedSuppressButton": "embedSuppressButton__6e6eb"
+  },
   "832974": {
     "card": "card_c3d27e",
     "cardInfo": "cardInfo_c3d27e",
@@ -24573,10 +24578,6 @@
     "upsellHeader": "upsellHeader__73000",
     "upsellButton": "upsellButton__73000",
     "upsellClose": "upsellClose__73000"
-  },
-  "945213": {
-    "poggermodeIcon": "poggermodeIcon__581ea",
-    "premiumTab": "premiumTab__581ea"
   },
   "945280": {
     "error": "error__77bc8"
