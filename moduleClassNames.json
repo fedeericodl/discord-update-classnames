@@ -4903,7 +4903,8 @@
     "backdrop": "backdrop__5be3e",
     "toast": "toast__5be3e",
     "friendRequestToastContainer": "friendRequestToastContainer__5be3e",
-    "friendRequestToast": "friendRequestToast__5be3e"
+    "friendRequestToast": "friendRequestToast__5be3e",
+    "xIcon": "xIcon__5be3e"
   },
   "184042": {
     "container": "container_ad8aad",
