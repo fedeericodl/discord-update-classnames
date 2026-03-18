@@ -998,8 +998,7 @@
     "emptyStateContainer": "emptyStateContainer__4fbcc",
     "emptyStateText": "emptyStateText__4fbcc",
     "scroller": "scroller__4fbcc",
-    "privateNotice": "privateNotice__4fbcc",
-    "teenNotice": "teenNotice__4fbcc",
+    "notice": "notice__4fbcc",
     "recommendationsContainerEmptyWishlist": "recommendationsContainerEmptyWishlist__4fbcc",
     "recommendationsContainerWithWishlist": "recommendationsContainerWithWishlist__4fbcc"
   },
@@ -22973,7 +22972,6 @@
     "accountName": "accountName__9bfb9",
     "accountNameText": "accountNameText__9bfb9",
     "platformUrlAnchor": "platformUrlAnchor__9bfb9",
-    "platformUrlIcon": "platformUrlIcon__9bfb9",
     "metadata": "metadata__9bfb9",
     "connectedAppRoleAccountClickable": "connectedAppRoleAccountClickable__9bfb9",
     "connectedAppRoleAccountPoweredBy": "connectedAppRoleAccountPoweredBy__9bfb9"
