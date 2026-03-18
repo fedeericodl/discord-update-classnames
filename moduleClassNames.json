@@ -10147,6 +10147,7 @@
   "394236": {
     "wishlistButton": "wishlistButton__979b1",
     "disabled": "disabled__979b1",
+    "xs": "xs__979b1",
     "sm": "sm__979b1",
     "md": "md__979b1",
     "variantDefault": "variantDefault__979b1",
@@ -21693,6 +21694,9 @@
     "fullbleedContent": "fullbleedContent__10a0c",
     "iframe": "iframe__10a0c",
     "footer": "footer__10a0c"
+  },
+  "831752": {
+    "questEmbedCard": "questEmbedCard__4d6dc"
   },
   "832974": {
     "card": "card_c3d27e",
