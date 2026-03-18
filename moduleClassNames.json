@@ -21176,6 +21176,28 @@
     "wrapper": "wrapper__8b9fc",
     "lowImportance": "lowImportance__8b9fc"
   },
+  "809222": {
+    "cardsArea": "cardsArea__250d5",
+    "mainCard": "mainCard__250d5",
+    "mainCardImageContainer": "mainCardImageContainer__250d5",
+    "mainCardImage": "mainCardImage__250d5",
+    "mainCardBody": "mainCardBody__250d5",
+    "loadingContainer": "loadingContainer__250d5",
+    "scrollContainer": "scrollContainer__250d5",
+    "smallCard": "smallCard__250d5",
+    "smallCardImageContainer": "smallCardImageContainer__250d5",
+    "smallCardImage": "smallCardImage__250d5",
+    "smallCardBody": "smallCardBody__250d5",
+    "mainTitle": "mainTitle__250d5",
+    "smallTitle": "smallTitle__250d5",
+    "description": "description__250d5",
+    "mainDescription": "mainDescription__250d5",
+    "smallDescription": "smallDescription__250d5",
+    "imageLoading": "imageLoading__250d5",
+    "imageLoaded": "imageLoaded__250d5",
+    "imageSpinner": "imageSpinner__250d5",
+    "spinner": "spinner__250d5"
+  },
   "809519": {
     "container": "container__3a590",
     "header": "header__3a590",
