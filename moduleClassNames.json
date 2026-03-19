@@ -3016,6 +3016,7 @@
     "titleContainer": "titleContainer_abfd90",
     "descriptionContainer": "descriptionContainer_abfd90",
     "buttonHover": "buttonHover_abfd90",
+    "titleContainerNoPrice": "titleContainerNoPrice_abfd90",
     "bottomGradient": "bottomGradient_abfd90",
     "iconAsset": "iconAsset_abfd90",
     "badge": "badge_abfd90",
@@ -18887,6 +18888,23 @@
     "container": "container__78320",
     "content": "content__78320",
     "preAlphaText": "preAlphaText__78320"
+  },
+  "707143": {
+    "container": "container__243fe",
+    "popoutHeader": "popoutHeader__243fe",
+    "channelName": "channelName__243fe",
+    "historyListHeader": "historyListHeader__243fe",
+    "historyList": "historyList__243fe",
+    "eventRow": "eventRow__243fe",
+    "eventConnector": "eventConnector__243fe",
+    "eventIconContainer": "eventIconContainer__243fe",
+    "eventIcon": "eventIcon__243fe",
+    "eventContent": "eventContent__243fe",
+    "eventHeader": "eventHeader__243fe",
+    "activityHeader": "activityHeader__243fe",
+    "eventHeaderUsername": "eventHeaderUsername__243fe",
+    "eventHeaderLabel": "eventHeaderLabel__243fe",
+    "eventTime": "eventTime__243fe"
   },
   "709450": {
     "ctaContent": "ctaContent__225ab"
