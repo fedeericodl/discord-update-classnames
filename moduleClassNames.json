@@ -23121,7 +23121,6 @@
     "toolsButtons": "toolsButtons__84995",
     "toolsButton": "toolsButton__84995",
     "premiumSettingsPushButton": "premiumSettingsPushButton__84995",
-    "secondaryBannerTextButtonContainerWithPause": "secondaryBannerTextButtonContainerWithPause__84995",
     "secondaryBannerTextButtonContainer": "secondaryBannerTextButtonContainer__84995",
     "detailsContainer": "detailsContainer__84995",
     "discountPill": "discountPill__84995",
@@ -26009,7 +26008,11 @@
     "toolbar": "toolbar__0939d",
     "subPanel": "subPanel__0939d",
     "subPanelHeaderBar": "subPanelHeaderBar__0939d",
-    "inspectorContainer": "inspectorContainer__0939d"
+    "inspectorContainer": "inspectorContainer__0939d",
+    "editContainer": "editContainer__0939d",
+    "editTextarea": "editTextarea__0939d",
+    "editError": "editError__0939d",
+    "editActions": "editActions__0939d"
   },
   "998918": {
     "productPreview": "productPreview__00f8b",
