@@ -7511,7 +7511,8 @@
     "checkbox": "checkbox__60870"
   },
   "281258": {
-    "overflow": "overflow_b0dfc2"
+    "overflow": "overflow_b0dfc2",
+    "lineClamp2Plus": "lineClamp2Plus_b0dfc2"
   },
   "281568": {
     "gameProfileMedia": "gameProfileMedia_a1cc72",
@@ -25594,13 +25595,13 @@
     "streamPreviewImage": "streamPreviewImage__16577",
     "body": "body__16577",
     "content": "content__16577",
+    "facecloud": "facecloud__16577",
     "labels": "labels__16577",
     "sublabel": "sublabel__16577",
     "facepile": "facepile__16577",
     "chin": "chin__16577",
     "glow": "glow__16577",
     "dots": "dots__16577",
-    "drifting-dots": "drifting-dots__16577",
     "backdrop": "backdrop__16577",
     "streamPreviewBackdrop": "streamPreviewBackdrop__16577",
     "streamPreviewLoading": "streamPreviewLoading__16577",
