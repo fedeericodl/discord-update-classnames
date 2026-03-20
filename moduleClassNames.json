@@ -24420,13 +24420,17 @@
     "container": "container__22cef",
     "background": "background__22cef",
     "gemWrapper": "gemWrapper__22cef",
+    "gemWrapperFirstBooster": "gemWrapperFirstBooster__22cef gemWrapper__22cef",
     "progressRing": "progressRing__22cef",
     "gem": "gem__22cef",
+    "gemFull": "gemFull__22cef",
     "content": "content__22cef",
+    "contentFirstBooster": "contentFirstBooster__22cef content__22cef",
     "title": "title__22cef",
     "body": "body__22cef",
     "facepile": "facepile__22cef",
-    "footer": "footer__22cef"
+    "footer": "footer__22cef",
+    "heartButton": "heartButton__22cef"
   },
   "943025": {
     "wrapper": "wrapper_ac2cfb",
