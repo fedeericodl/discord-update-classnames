@@ -2979,6 +2979,9 @@
     "to": "to__5149c",
     "roleSubscriptionText": "roleSubscriptionText__5149c"
   },
+  "113958": {
+    "tabs": "tabs__9a3e9"
+  },
   "114403": {
     "sectionContainer": "sectionContainer__04485",
     "resetButton": "resetButton__04485",
@@ -5184,18 +5187,6 @@
     "subtitle": "subtitle_efe2ea",
     "contentContainer": "contentContainer_efe2ea"
   },
-  "193291": {
-    "card": "card__5cea9",
-    "header": "header__5cea9",
-    "text": "text__5cea9",
-    "iconContainer": "iconContainer__5cea9",
-    "usersList": "usersList__5cea9",
-    "row": "row__5cea9",
-    "lastRow": "lastRow__5cea9",
-    "userInfo": "userInfo__5cea9",
-    "loadMoreContainer": "loadMoreContainer__5cea9",
-    "loadMoreButton": "loadMoreButton__5cea9"
-  },
   "194597": {
     "giftButton": "giftButton__82222",
     "innerGiftButton": "innerGiftButton__82222",
@@ -5670,10 +5661,6 @@
     "number": "number__19fd1",
     "tableRowGroup": "tableRowGroup__19fd1",
     "content": "content__19fd1"
-  },
-  "208227": {
-    "guildSelectOptionIcon": "guildSelectOptionIcon_b476ba",
-    "clydeIconContainer": "clydeIconContainer_b476ba"
   },
   "208555": {
     "primaryIcon": "primaryIcon__962c6",
@@ -6471,6 +6458,10 @@
     "progressWrapper": "progressWrapper__5790c",
     "confetti": "confetti__5790c",
     "progressCont": "progressCont__5790c"
+  },
+  "245425": {
+    "guildSelectOptionIcon": "guildSelectOptionIcon__6c044",
+    "clydeIconContainer": "clydeIconContainer__6c044"
   },
   "245639": {
     "text-sm/medium": "text-sm/medium__13cf1",
@@ -10656,18 +10647,6 @@
     "searchHeader": "searchHeader_fed6d3",
     "backButton": "backButton_fed6d3"
   },
-  "419205": {
-    "header": "header_de8069",
-    "gameNamesHeader": "gameNamesHeader_de8069",
-    "gameIcons": "gameIcons_de8069",
-    "divider": "divider_de8069",
-    "icon": "icon_de8069",
-    "moreIcon": "moreIcon_de8069 icon_de8069",
-    "manageGamesLink": "manageGamesLink_de8069",
-    "manageGamesChevron": "manageGamesChevron_de8069",
-    "emptyContainer": "emptyContainer_de8069",
-    "noGamesConnectedText": "noGamesConnectedText_de8069"
-  },
   "419548": {
     "wrapper": "wrapper__0d616",
     "wrapperInvisible": "wrapperInvisible__0d616",
@@ -11788,9 +11767,6 @@
   "456107": {
     "icymiMessageWrapper": "icymiMessageWrapper__7d14e"
   },
-  "456144": {
-    "tabs": "tabs__90767"
-  },
   "456665": {
     "role": "role_af3987",
     "roleDot": "roleDot_af3987",
@@ -12637,6 +12613,14 @@
     "participant": "participant__0e7cc",
     "hovering": "hovering__0e7cc",
     "avatar": "avatar__0e7cc"
+  },
+  "490110": {
+    "tabBar": "tabBar_eeedb9",
+    "vertical": "vertical_eeedb9",
+    "tabBarPanel": "tabBarPanel_eeedb9",
+    "tab": "tab_eeedb9",
+    "selected": "selected_eeedb9",
+    "tabbedSettingsContainer": "tabbedSettingsContainer_eeedb9"
   },
   "490602": {
     "container": "container_d4630c"
@@ -19266,11 +19250,6 @@
     "obscureWrapper": "obscureWrapper_b2eddf",
     "obscure": "obscure_b2eddf"
   },
-  "721267": {
-    "select": "select_b2fe93",
-    "selectItemRow": "selectItemRow_b2fe93",
-    "title": "title_b2fe93"
-  },
   "721746": {
     "previewContentContainer": "previewContentContainer__9c6a8",
     "previewContent": "previewContent__9c6a8",
@@ -20113,6 +20092,18 @@
     "goOnlineButton": "goOnlineButton_fa8995",
     "divider": "divider_fa8995"
   },
+  "762765": {
+    "card": "card__416c7",
+    "header": "header__416c7",
+    "text": "text__416c7",
+    "iconContainer": "iconContainer__416c7",
+    "usersList": "usersList__416c7",
+    "row": "row__416c7",
+    "lastRow": "lastRow__416c7",
+    "userInfo": "userInfo__416c7",
+    "loadMoreContainer": "loadMoreContainer__416c7",
+    "loadMoreButton": "loadMoreButton__416c7"
+  },
   "763481": {
     "ping": "ping_f0dcaf",
     "checklistRow": "checklistRow_f0dcaf",
@@ -20947,6 +20938,18 @@
   "798521": {
     "header": "header_d55719",
     "loading": "loading_d55719"
+  },
+  "799391": {
+    "header": "header__5348b",
+    "gameNamesHeader": "gameNamesHeader__5348b",
+    "gameIcons": "gameIcons__5348b",
+    "divider": "divider__5348b",
+    "icon": "icon__5348b",
+    "moreIcon": "moreIcon__5348b icon__5348b",
+    "manageGamesLink": "manageGamesLink__5348b",
+    "manageGamesChevron": "manageGamesChevron__5348b",
+    "emptyContainer": "emptyContainer__5348b",
+    "noGamesConnectedText": "noGamesConnectedText__5348b"
   },
   "799764": {
     "formItem": "formItem__4e29d",
@@ -22074,14 +22077,6 @@
     "authenticationFailImage": "authenticationFailImage__28393",
     "authenticationRequiredImage": "authenticationRequiredImage__28393",
     "authenticationSuccessImage": "authenticationSuccessImage__28393"
-  },
-  "847568": {
-    "tabBar": "tabBar_f8303a",
-    "vertical": "vertical_f8303a",
-    "tabBarPanel": "tabBarPanel_f8303a",
-    "tab": "tab_f8303a",
-    "selected": "selected_f8303a",
-    "tabbedSettingsContainer": "tabbedSettingsContainer_f8303a"
   },
   "847688": {
     "container": "container__44ee9",
@@ -25346,6 +25341,11 @@
     "toggleExpandCell": "toggleExpandCell__35651",
     "caretIcon": "caretIcon__35651",
     "caretDownIcon": "caretDownIcon__35651"
+  },
+  "975237": {
+    "select": "select_c47b93",
+    "selectItemRow": "selectItemRow_c47b93",
+    "title": "title_c47b93"
   },
   "975398": {
     "checklistItem": "checklistItem__54e17",
