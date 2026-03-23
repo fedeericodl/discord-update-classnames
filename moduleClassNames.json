@@ -8293,6 +8293,10 @@
     "imageUploaderIcon": "imageUploaderIcon_e4d0bf",
     "imageUploaderIconDisabled": "imageUploaderIconDisabled_e4d0bf"
   },
+  "315997": {
+    "cameraWrapper": "cameraWrapper__36486",
+    "camera": "camera__36486"
+  },
   "316128": {
     "inputField": "inputField__085ad",
     "inputFieldRange": "inputFieldRange__085ad inputField__085ad",
@@ -11411,6 +11415,9 @@
     "stickerContainer": "stickerContainer_abd7a8",
     "stickerName": "stickerName_abd7a8",
     "stickerIcon": "stickerIcon_abd7a8"
+  },
+  "445139": {
+    "micTestHelpLink": "micTestHelpLink_bd498a"
   },
   "445180": {
     "container": "container_d96a9c",
@@ -16081,10 +16088,6 @@
     "clickable": "clickable_af017a",
     "originalLink": "originalLink_af017a"
   },
-  "613844": {
-    "cameraWrapper": "cameraWrapper__11e1f",
-    "camera": "camera__11e1f"
-  },
   "614094": {
     "card": "card_a23cbe",
     "skuPreview": "skuPreview_a23cbe",
@@ -16378,10 +16381,10 @@
     "gemWrapper": "gemWrapper__22cef",
     "gemWrapperFirstBooster": "gemWrapperFirstBooster__22cef gemWrapper__22cef",
     "progressRing": "progressRing__22cef",
-    "gem": "gem__22cef",
+    "gemWithRing": "gemWithRing__22cef",
     "gemFull": "gemFull__22cef",
     "content": "content__22cef",
-    "contentFirstBooster": "contentFirstBooster__22cef content__22cef",
+    "contentFirstBooster": "contentFirstBooster__22cef",
     "title": "title__22cef",
     "body": "body__22cef",
     "facepile": "facepile__22cef",
@@ -21842,9 +21845,6 @@
     "notification": "notification_e1e832",
     "icon": "icon_e1e832",
     "text": "text_e1e832"
-  },
-  "835818": {
-    "micTestHelpLink": "micTestHelpLink__169b3"
   },
   "836263": {
     "loadingContainer": "loadingContainer_f3bc7c",
