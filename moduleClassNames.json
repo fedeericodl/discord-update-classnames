@@ -16683,6 +16683,7 @@
   },
   "637676": {
     "tierComparisonTable": "tierComparisonTable__744ff",
+    "perksTable": "perksTable__744ff",
     "boosterRecognitionCard": "boosterRecognitionCard__744ff",
     "faq": "faq__744ff",
     "blockedPaymentsWarning": "blockedPaymentsWarning__744ff",
@@ -23831,8 +23832,6 @@
   "912579": {
     "outgoing-call-pulse": "outgoing-call-pulse__67dba",
     "outgoing-call-ellipsis": "outgoing-call-ellipsis__67dba",
-    "wrapper": "wrapper__67dba",
-    "hasSections": "hasSections__67dba",
     "channelIcon": "channelIcon__67dba",
     "inviteSectionHeader": "inviteSectionHeader__67dba",
     "inviteSectionToggleIcon": "inviteSectionToggleIcon__67dba",
