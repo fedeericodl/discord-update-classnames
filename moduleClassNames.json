@@ -1066,6 +1066,11 @@
     "channel": "channel_e34850",
     "channelCoverageHint": "channelCoverageHint_e34850"
   },
+  "42584": {
+    "floatingNitroUpsell": "floatingNitroUpsell_e110d6",
+    "nameplatePreviewPlaceholder": "nameplatePreviewPlaceholder_e110d6",
+    "tryItOutButton": "tryItOutButton_e110d6"
+  },
   "42768": {
     "verification": "verification_d43202",
     "header": "header_d43202",
@@ -4495,11 +4500,6 @@
     "gifTag": "gifTag__68edb",
     "mask": "mask__68edb"
   },
-  "166378": {
-    "floatingNitroUpsell": "floatingNitroUpsell__39749",
-    "nameplatePreviewPlaceholder": "nameplatePreviewPlaceholder__39749",
-    "tryItOutButton": "tryItOutButton__39749"
-  },
   "166789": {
     "paymentPane": "paymentPane__01014",
     "paymentRow": "paymentRow__01014",
@@ -6966,9 +6966,6 @@
     "leadingIcon": "leadingIcon__714a9",
     "label": "label__714a9"
   },
-  "264671": {
-    "sectionsContainer": "sectionsContainer_def11f"
-  },
   "264869": {
     "qrCodeOverlay": "qrCodeOverlay_c28498",
     "size-40": "size-40_c28498",
@@ -7841,9 +7838,6 @@
     "successNoticeContainer": "successNoticeContainer__7fffd",
     "successNotice": "successNotice__7fffd",
     "successNoticeMessage": "successNoticeMessage__7fffd"
-  },
-  "295057": {
-    "settingsPage": "settingsPage_f131e9"
   },
   "295260": {
     "hoverButtonGroup": "hoverButtonGroup__06ab4",
@@ -10803,6 +10797,9 @@
     "mask": "mask__2dbe1",
     "guildAcronym": "guildAcronym__2dbe1",
     "guildIconWithoutImage": "guildIconWithoutImage__2dbe1"
+  },
+  "424750": {
+    "sectionsContainer": "sectionsContainer_e396b4"
   },
   "424850": {
     "churnDiscountBanner": "churnDiscountBanner__32fe3",
@@ -18871,6 +18868,9 @@
   "709994": {
     "notice": "notice__51057",
     "info": "info__51057"
+  },
+  "710010": {
+    "settingsPage": "settingsPage_f87b00"
   },
   "710032": {
     "container": "container__459fb",
