@@ -39733,5 +39733,8 @@
   "ceece4f260fd0d49-customPaymentElementContainer": "customPaymentElementContainer_ceece4",
   "_7bdb06a4e863b838-container": "container__7bdb0",
   "_7bdb06a4e863b838-appIcon": "appIcon__7bdb0",
-  "contentFirstBooster__22cef content__22cef": "contentFirstBooster__22cef"
+  "contentFirstBooster__22cef content__22cef": "contentFirstBooster__22cef",
+  "card_e1364f": "card_e1364f gameWidgetGrid__7f3a7",
+  "placeholderDetailsCard__7a78a": "placeholderDetailsCard__7a78a gameWidgetGrid__7f3a7",
+  "placeholderCoverGrid__7a78a": "placeholderCoverGrid__7a78a gameWidgetGrid__7f3a7"
 }
