@@ -4153,7 +4153,9 @@
     "coachmarkFooterContainer": "coachmarkFooterContainer__5a2df",
     "nitroIcon": "nitroIcon__5a2df",
     "controlLabelContainer": "controlLabelContainer__5a2df",
-    "controlLabelInput": "controlLabelInput__5a2df"
+    "controlLabelInput": "controlLabelInput__5a2df",
+    "footerUpsellRow": "footerUpsellRow__5a2df",
+    "footerWishlistButton": "footerWishlistButton__5a2df"
   },
   "153153": {
     "headingWrapper": "headingWrapper__57454",
@@ -5884,6 +5886,8 @@
     "editorFooter": "editorFooter_cf6da1",
     "closeCircleButton": "closeCircleButton_cf6da1",
     "closeCircle": "closeCircle_cf6da1",
+    "footerUpsellRow": "footerUpsellRow_cf6da1",
+    "footerWishlistButton": "footerWishlistButton_cf6da1",
     "bannerUpsell": "bannerUpsell_cf6da1",
     "premiumIcon": "premiumIcon_cf6da1"
   },
@@ -21637,6 +21641,8 @@
   "827025": {
     "root": "root_a66361",
     "infoText": "infoText_a66361",
+    "ctaContainer": "ctaContainer_a66361",
+    "wishlistButton": "wishlistButton_a66361",
     "ctaButton": "ctaButton_a66361",
     "premiumShine": "premiumShine_a66361",
     "premiumIcon": "premiumIcon_a66361",
