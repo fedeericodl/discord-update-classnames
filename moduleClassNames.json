@@ -16336,7 +16336,12 @@
     "body": "body__22cef",
     "facepile": "facepile__22cef",
     "footer": "footer__22cef",
-    "heartButton": "heartButton__22cef"
+    "heartButton": "heartButton__22cef",
+    "compactContainer": "compactContainer__22cef",
+    "compactBackground": "compactBackground__22cef",
+    "compactGemWrapper": "compactGemWrapper__22cef",
+    "compactContent": "compactContent__22cef",
+    "compactActions": "compactActions__22cef"
   },
   "626108": {
     "badgeImageContainer": "badgeImageContainer__9953c",
