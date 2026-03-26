@@ -8714,6 +8714,18 @@
     "textAreaMobileThemed": "textAreaMobileThemed__74017",
     "announcementScrollableContainer": "announcementScrollableContainer__74017 scrollableContainer__74017"
   },
+  "352017": {
+    "profileFrame": "profileFrame__7d80f",
+    "profileFrameLayer": "profileFrameLayer__7d80f",
+    "front": "front__7d80f",
+    "back": "back__7d80f",
+    "staple": "staple__7d80f",
+    "top": "top__7d80f",
+    "bottom": "bottom__7d80f",
+    "rail": "rail__7d80f",
+    "responsive": "responsive__7d80f",
+    "left": "left__7d80f"
+  },
   "352461": {
     "micTestHelpLink": "micTestHelpLink_bd498a"
   },
