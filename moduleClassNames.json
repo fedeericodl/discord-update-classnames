@@ -7836,7 +7836,10 @@
     "container": "container__1c7f8",
     "content": "content__1c7f8",
     "headerContainer": "headerContainer__1c7f8",
-    "twoButtonContainer": "twoButtonContainer__1c7f8"
+    "twoButtonContainer": "twoButtonContainer__1c7f8",
+    "reverseTrialContainer": "reverseTrialContainer__1c7f8",
+    "reverseTrialTextContainer": "reverseTrialTextContainer__1c7f8",
+    "reverseTrialArtContainer": "reverseTrialArtContainer__1c7f8"
   },
   "321386": {
     "avatar": "avatar__75742",
@@ -17375,6 +17378,16 @@
     "flairContainer": "flairContainer__795fb",
     "upsell": "upsell__795fb"
   },
+  "674247": {
+    "rtBoltContainer": "rtBoltContainer__283dc",
+    "rtHammerContainer": "rtHammerContainer__283dc",
+    "rtKeyContainer": "rtKeyContainer__283dc",
+    "rtStarContainer": "rtStarContainer__283dc",
+    "rtStarTrinket": "rtStarTrinket__283dc",
+    "rtHammerTrinket": "rtHammerTrinket__283dc",
+    "rtKeyTrinket": "rtKeyTrinket__283dc",
+    "rtBoltTrinket": "rtBoltTrinket__283dc"
+  },
   "674801": {
     "icon": "icon_fbdcfd"
   },
@@ -25711,6 +25724,7 @@
   "992284": {
     "boxBackdrop": "boxBackdrop__53b4c",
     "bentoSectionHeader": "bentoSectionHeader__53b4c",
+    "highlightBento": "highlightBento__53b4c",
     "bentoBoxesGrid": "bentoBoxesGrid__53b4c",
     "bentoBoxButton": "bentoBoxButton__53b4c",
     "backgroundColor": "backgroundColor__53b4c",
