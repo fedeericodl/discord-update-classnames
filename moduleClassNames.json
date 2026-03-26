@@ -17424,7 +17424,7 @@
   "661388": {
     "root": "root__9c3be",
     "layoutContainer": "layoutContainer__9c3be",
-    "themeContainer": "themeContainer__9c3be",
+    "profileContentContainer": "profileContentContainer__9c3be",
     "hasEditingPanel": "hasEditingPanel__9c3be",
     "editingPanel": "editingPanel__9c3be",
     "editingPanelExpandButton": "editingPanelExpandButton__9c3be",
@@ -23141,11 +23141,6 @@
   "888920": {
     "section": "section__25879"
   },
-  "889599": {
-    "container": "container_a46475",
-    "icon": "icon_a46475",
-    "statusText": "statusText_a46475"
-  },
   "889801": {
     "content": "content__2ff9f",
     "infoBox": "infoBox__2ff9f",
@@ -25002,9 +24997,7 @@
     "container": "container__218f7",
     "voiceChannelGiftingBreadcrumb": "voiceChannelGiftingBreadcrumb__218f7",
     "voiceChannelRewardOfferNotice": "voiceChannelRewardOfferNotice__218f7",
-    "hangStatusContent": "hangStatusContent__218f7",
-    "hangStatusIcon": "hangStatusIcon__218f7",
-    "hangStatusText": "hangStatusText__218f7"
+    "hangStatusContainer": "hangStatusContainer__218f7"
   },
   "963879": {
     "container": "container_d55c24",
