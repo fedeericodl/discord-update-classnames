@@ -9299,6 +9299,7 @@
     "banner": "banner__7f9c0",
     "backdrop": "backdrop__7f9c0",
     "toast": "toast__7f9c0",
+    "profileFramePadding": "profileFramePadding__7f9c0",
     "widgetPreviews": "widgetPreviews__7f9c0",
     "wishlistBreadcrumb": "wishlistBreadcrumb__7f9c0"
   },
@@ -25585,7 +25586,8 @@
   },
   "986849": {
     "footer": "footer__272c7",
-    "footerButton": "footerButton__272c7"
+    "footerButton": "footerButton__272c7",
+    "footerContainer": "footerContainer__272c7"
   },
   "987378": {
     "diversitySelector": "diversitySelector_a45a2a",
