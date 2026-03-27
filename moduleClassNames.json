@@ -6342,6 +6342,7 @@
     "upsellsContainer": "upsellsContainer__2c3b4"
   },
   "266603": {
+    "tabButton": "tabButton_b08638",
     "panel": "panel_b08638",
     "header": "header_b08638",
     "collapseButton": "collapseButton_b08638",
@@ -14555,9 +14556,10 @@
     "profileContentContainer": "profileContentContainer__9c3be",
     "hasEditingPanel": "hasEditingPanel__9c3be",
     "editingPanel": "editingPanel__9c3be",
-    "editingPanelExpandButton": "editingPanelExpandButton__9c3be",
+    "editingPanelExpandButtonDefault": "editingPanelExpandButtonDefault__9c3be",
+    "editingPanelExpandButtonCompact": "editingPanelExpandButtonCompact__9c3be",
     "pendingChangesToolbar": "pendingChangesToolbar__9c3be",
-    "modalCloseButton": "modalCloseButton__9c3be",
+    "modalHeaderButtons": "modalHeaderButtons__9c3be",
     "toast": "toast__9c3be",
     "interactionToast": "interactionToast__9c3be",
     "backdrop": "backdrop__9c3be",
