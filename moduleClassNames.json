@@ -23229,7 +23229,9 @@
   },
   "904914": {
     "peopleListItem": "peopleListItem_cc6179",
-    "active": "active_cc6179"
+    "active": "active_cc6179",
+    "divider": "divider_cc6179",
+    "activeDivider": "activeDivider_cc6179"
   },
   "904964": {
     "container": "container__2c5f3",
