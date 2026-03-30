@@ -6577,6 +6577,7 @@
     "progressHeader": "progressHeader_e99fef",
     "progressBar": "progressBar_e99fef",
     "progressBarContainer": "progressBarContainer_e99fef",
+    "monthlyCodeCountdownLabel": "monthlyCodeCountdownLabel_e99fef",
     "progressBarFill": "progressBarFill_e99fef",
     "progressBarIndicator": "progressBarIndicator_e99fef",
     "cards": "cards_e99fef",
@@ -6586,11 +6587,14 @@
     "promoCardContentText": "promoCardContentText_e99fef",
     "promoCardAssetContainer": "promoCardAssetContainer_e99fef",
     "promoCardAsset": "promoCardAsset_e99fef",
+    "promoCardAssetImageRounded": "promoCardAssetImageRounded_e99fef",
     "lockIconContainer": "lockIconContainer_e99fef",
     "claimedFooterContainer": "claimedFooterContainer_e99fef",
     "claimedFooter": "claimedFooter_e99fef",
     "claimedFooterCode": "claimedFooterCode_e99fef",
-    "extraCodeButton": "extraCodeButton_e99fef"
+    "extraCodeButton": "extraCodeButton_e99fef",
+    "progressBarSlim": "progressBarSlim_e99fef",
+    "footerClaimButton": "footerClaimButton_e99fef"
   },
   "276781": {
     "emptyStateContainer": "emptyStateContainer_cce1d3"
@@ -23409,10 +23413,6 @@
     "code": "code__4ed1a",
     "marketingBadgeTooltip": "marketingBadgeTooltip__4ed1a",
     "marketingBadgeTooltipContent": "marketingBadgeTooltipContent__4ed1a",
-    "shopMarketingTooltipContent": "shopMarketingTooltipContent__4ed1a",
-    "shopMarketingTooltipText": "shopMarketingTooltipText__4ed1a",
-    "avatarContainer": "avatarContainer__4ed1a",
-    "avatar": "avatar__4ed1a",
     "newBadge": "newBadge__4ed1a",
     "marketingButtonBackgroundNew": "marketingButtonBackgroundNew__4ed1a",
     "marketingButtonBackgroundImage": "marketingButtonBackgroundImage__4ed1a",
