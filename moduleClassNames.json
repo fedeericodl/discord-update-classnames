@@ -11728,6 +11728,9 @@
     "card": "card__896d4",
     "overflowable": "overflowable__896d4"
   },
+  "460696": {
+    "popover": "popover_b438e7"
+  },
   "461917": {
     "appIconSelectionContainer": "appIconSelectionContainer__8a3d7",
     "appIconSelection": "appIconSelection__8a3d7",
@@ -17655,9 +17658,10 @@
     "streamPreviewBackdropOverlay": "streamPreviewBackdropOverlay__16577",
     "streamPreview": "streamPreview__16577",
     "streamPreviewHover": "streamPreviewHover__16577",
+    "clickable": "clickable__16577",
     "streamPreviewInner": "streamPreviewInner__16577",
     "liveIndicator": "liveIndicator__16577",
-    "streamPreviewHoverText": "streamPreviewHoverText__16577"
+    "streamPreviewFade": "streamPreviewFade__16577"
   },
   "683757": {
     "circleContainer": "circleContainer_c1b44f",
