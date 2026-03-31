@@ -51,6 +51,7 @@
   "2398": {
     "overlayHeader": "overlayHeader__4774c",
     "overlayGradient": "overlayGradient__4774c",
+    "minimized": "minimized__4774c",
     "overlayContent": "overlayContent__4774c",
     "textInfo": "textInfo__4774c",
     "titleRow": "titleRow__4774c",
@@ -7658,8 +7659,8 @@
     "upsellContainer": "upsellContainer__0b69f",
     "withGradientBg": "withGradientBg__0b69f",
     "updatedStyling": "updatedStyling__0b69f",
-    "expressiveGradient": "expressiveGradient__0b69f",
     "hasPreviewSound": "hasPreviewSound__0b69f",
+    "expressiveGradient": "expressiveGradient__0b69f",
     "upsellContainerFloating": "upsellContainerFloating__0b69f",
     "upsellContainerInline": "upsellContainerInline__0b69f",
     "soundPreview": "soundPreview__0b69f",
