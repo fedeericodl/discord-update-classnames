@@ -6483,6 +6483,7 @@
     "compactBackground": "compactBackground__22cef",
     "compactGemWrapper": "compactGemWrapper__22cef",
     "compactContent": "compactContent__22cef",
+    "icon": "icon__22cef",
     "iconContainer": "iconContainer__22cef",
     "messageLink": "messageLink__22cef",
     "compactActions": "compactActions__22cef"
@@ -12992,10 +12993,8 @@
     "rowsDisabled": "rowsDisabled_b4ec0b"
   },
   "509754": {
-    "containerDefault": "containerDefault__6c253",
     "containerCompact": "containerCompact__6c253",
     "content": "content__6c253",
-    "image": "image__6c253 content__6c253",
     "boostIcon": "boostIcon__6c253",
     "exampleMessage": "exampleMessage__6c253",
     "textContainer": "textContainer__6c253 content__6c253"
@@ -23283,8 +23282,7 @@
     "lowerBodyContentWrapper": "lowerBodyContentWrapper__00843 content__00843",
     "ctaBarReducedMargin": "ctaBarReducedMargin__00843",
     "persistentCtaSpacer": "persistentCtaSpacer__00843",
-    "perksTable": "perksTable__00843",
-    "videoHeading": "videoHeading__00843"
+    "perksTable": "perksTable__00843"
   },
   "909406": {
     "bulletContainer": "bulletContainer__03273",
@@ -25714,11 +25712,6 @@
     "row": "row_fec266",
     "rowContent": "rowContent_fec266",
     "iconContainer": "iconContainer_fec266"
-  },
-  "994003": {
-    "container": "container__52d93",
-    "description": "description__52d93",
-    "highlight": "highlight__52d93"
   },
   "994520": {
     "ripple": "ripple_fc7141",
