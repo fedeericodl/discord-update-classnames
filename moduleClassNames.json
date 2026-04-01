@@ -2052,6 +2052,12 @@
     "supplemental": "supplemental__38b7f",
     "left": "left__38b7f"
   },
+  "92106": {
+    "container": "container__2a988",
+    "inner": "inner__2a988",
+    "fill": "fill__2a988",
+    "glow": "glow__2a988"
+  },
   "92577": {
     "noticeContainer": "noticeContainer_f2a57a"
   },
@@ -2326,6 +2332,7 @@
   "102810": {
     "wrapper": "wrapper_f7a803",
     "copy": "copy_f7a803",
+    "rewardTextRow": "rewardTextRow_f7a803",
     "rewardTile": "rewardTile_f7a803"
   },
   "103043": {
@@ -2916,7 +2923,6 @@
     "heading": "heading__11054",
     "headingGameTile": "headingGameTile__11054",
     "headingCopy": "headingCopy__11054",
-    "instructions": "instructions__11054",
     "ctas": "ctas__11054",
     "rewardTileWithInstructions": "rewardTileWithInstructions__11054"
   },
@@ -10375,6 +10381,9 @@
     "messageContentTrailingIcon": "messageContentTrailingIcon__7c4a2",
     "colorTextFeedbackPositive": "colorTextFeedbackPositive__7c4a2"
   },
+  "404777": {
+    "pill": "pill_ebc727"
+  },
   "404819": {
     "container": "container__8b924",
     "img": "img__8b924"
@@ -12724,6 +12733,7 @@
     "questRewardEmbedSm": "questRewardEmbedSm_fbc6f7",
     "questRewardEmbedXs": "questRewardEmbedXs_fbc6f7",
     "taskDetails": "taskDetails_fbc6f7",
+    "instructionsRow": "instructionsRow_fbc6f7",
     "taskInstructions": "taskInstructions_fbc6f7",
     "learnMoreLink": "learnMoreLink_fbc6f7",
     "root": "root_fbc6f7",
@@ -15204,6 +15214,7 @@
     "textContainer": "textContainer__956c6",
     "justifyCenter": "justifyCenter__956c6",
     "questName": "questName__956c6",
+    "subtitleRow": "subtitleRow__956c6",
     "header": "header__956c6",
     "orbsBalanceIcon": "orbsBalanceIcon__956c6",
     "description": "description__956c6",
@@ -21728,9 +21739,11 @@
     "postEnrollmentBackgroundExpanded": "postEnrollmentBackgroundExpanded__24e2c",
     "previewPlayButtonCont": "previewPlayButtonCont__24e2c",
     "previewPlayButton": "previewPlayButton__24e2c",
+    "premiumOrbsGlow": "premiumOrbsGlow__24e2c",
     "contentCollapsedBackgroundWrapper": "contentCollapsedBackgroundWrapper__24e2c",
     "contentCollapsedBackground": "contentCollapsedBackground__24e2c",
-    "blur": "blur__24e2c"
+    "blur": "blur__24e2c",
+    "instructionRow": "instructionRow__24e2c"
   },
   "833932": {
     "levelContainer": "levelContainer__3dcc3",
