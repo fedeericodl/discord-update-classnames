@@ -10218,6 +10218,7 @@
   "413525": {
     "container": "container__3f982",
     "sizeSmall": "sizeSmall__3f982",
+    "containerV2": "containerV2__3f982",
     "content": "content__3f982",
     "header": "header__3f982",
     "divider": "divider__3f982",
@@ -12698,6 +12699,7 @@
   },
   "513156": {
     "container": "container__425a9",
+    "sizeSmall": "sizeSmall__425a9",
     "content": "content__425a9",
     "header": "header__425a9",
     "divider": "divider__425a9",
