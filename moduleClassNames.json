@@ -15941,6 +15941,7 @@
     "sidebar": "sidebar__61aee",
     "contentContainer": "contentContainer__61aee",
     "description": "description__61aee",
+    "cooldownInfo": "cooldownInfo__61aee",
     "footer": "footer__61aee",
     "powerupImageContainer": "powerupImageContainer__61aee",
     "powerupImage": "powerupImage__61aee",
@@ -23762,11 +23763,6 @@
     "cell": "cell_a45742",
     "cellType": "cellType_a45742",
     "cellCount": "cellCount_a45742"
-  },
-  "914841": {
-    "graphicContainer": "graphicContainer__7f843",
-    "progressBarWrapper": "progressBarWrapper__7f843",
-    "progressBar": "progressBar__7f843"
   },
   "915047": {
     "container": "container_adb50a",
