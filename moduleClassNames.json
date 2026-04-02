@@ -2491,13 +2491,15 @@
     "ticketIconContainer": "ticketIconContainer_abfd90",
     "ticketIcon": "ticketIcon_abfd90",
     "details": "details_abfd90",
+    "inGameItemLabelContainer": "inGameItemLabelContainer_abfd90",
     "titleContainer": "titleContainer_abfd90",
     "descriptionContainer": "descriptionContainer_abfd90",
     "buttonHover": "buttonHover_abfd90",
+    "applicationIconBadge": "applicationIconBadge_abfd90",
+    "badge": "badge_abfd90",
     "titleContainerNoPrice": "titleContainerNoPrice_abfd90",
     "bottomGradient": "bottomGradient_abfd90",
     "iconAsset": "iconAsset_abfd90",
-    "badge": "badge_abfd90",
     "cardButtonsContainer": "cardButtonsContainer_abfd90",
     "wishlistButton": "wishlistButton_abfd90",
     "forwardButton": "forwardButton_abfd90",
@@ -3206,7 +3208,7 @@
     "wishlistButton": "wishlistButton__38ccf",
     "logoContainer": "logoContainer__38ccf",
     "logo": "logo__38ccf",
-    "priceContainer": "priceContainer__38ccf",
+    "priceSectionContainer": "priceSectionContainer__38ccf",
     "offerNoticeContainer": "offerNoticeContainer__38ccf",
     "offerNoticeContent": "offerNoticeContent__38ccf",
     "offerNoticeBody": "offerNoticeBody__38ccf"
@@ -8829,6 +8831,9 @@
     "content": "content_f70307",
     "completedText": "completedText_f70307"
   },
+  "349599": {
+    "container": "container__1c9de"
+  },
   "350129": {
     "roleIcon": "roleIcon_ee71ee",
     "clickable": "clickable_ee71ee"
@@ -13728,6 +13733,14 @@
     "compact": "compact_b7ab2c",
     "ephemeralAccessories": "ephemeralAccessories_b7ab2c",
     "learnMore": "learnMore_b7ab2c"
+  },
+  "526845": {
+    "configDetails": "configDetails__25956",
+    "configListItem": "configListItem__25956",
+    "surfaceEntry": "surfaceEntry__25956",
+    "configListItemSelected": "configListItemSelected__25956 configListItem__25956",
+    "configListItemClickable": "configListItemClickable__25956",
+    "root": "root__25956"
   },
   "527573": {
     "container": "container__37bfc",
@@ -25591,6 +25604,10 @@
     "previewSelector": "previewSelector__77347",
     "panelModeControl": "panelModeControl__77347",
     "panelModeControlOption": "panelModeControlOption__77347",
+    "assetControls": "assetControls__77347",
+    "assetControlRow": "assetControlRow__77347",
+    "assetControlLabel": "assetControlLabel__77347",
+    "heroLogoSlider": "heroLogoSlider__77347",
     "validationSummary": "validationSummary__77347",
     "validationIssuesList": "validationIssuesList__77347"
   },
