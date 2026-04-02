@@ -605,7 +605,9 @@
     "details": "details_e95ba0",
     "detailsTitleDescription": "detailsTitleDescription_e95ba0",
     "detailsDescription": "detailsDescription_e95ba0",
+    "promotionsContainer": "promotionsContainer_e95ba0",
     "iconAsset": "iconAsset_e95ba0",
+    "strikethrough": "strikethrough_e95ba0",
     "orbsEarnedContainer": "orbsEarnedContainer_e95ba0"
   },
   "23703": {
@@ -2492,7 +2494,10 @@
     "applicationIconBadge": "applicationIconBadge_abfd90",
     "badge": "badge_abfd90",
     "titleContainerNoPrice": "titleContainerNoPrice_abfd90",
+    "titleContainerExtendedHeight": "titleContainerExtendedHeight_abfd90",
     "bottomGradient": "bottomGradient_abfd90",
+    "priceContainer": "priceContainer_abfd90",
+    "strikethrough": "strikethrough_abfd90",
     "iconAsset": "iconAsset_abfd90",
     "cardButtonsContainer": "cardButtonsContainer_abfd90",
     "wishlistButton": "wishlistButton_abfd90",
@@ -3197,6 +3202,8 @@
     "logoContainer": "logoContainer__38ccf",
     "logo": "logo__38ccf",
     "priceSectionContainer": "priceSectionContainer__38ccf",
+    "promotionalPriceContainer": "promotionalPriceContainer__38ccf",
+    "strikethrough": "strikethrough__38ccf",
     "offerNoticeContainer": "offerNoticeContainer__38ccf",
     "offerNoticeContent": "offerNoticeContent__38ccf",
     "offerNoticeBody": "offerNoticeBody__38ccf"
