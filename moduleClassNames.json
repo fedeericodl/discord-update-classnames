@@ -2549,7 +2549,6 @@
     "clanTag": "clanTag__972a0",
     "clanTagMuted": "clanTagMuted__972a0",
     "interactiveSelected": "interactiveSelected__972a0",
-    "avatarWithText": "avatarWithText__972a0",
     "link": "link__972a0",
     "linkButton": "linkButton__972a0",
     "linkButtonIcon": "linkButtonIcon__972a0",
@@ -2568,8 +2567,10 @@
     "activityStatusText": "activityStatusText__972a0",
     "decorator": "decorator__972a0",
     "dm": "dm__972a0",
+    "avatarWithText": "avatarWithText__972a0",
     "waveButton": "waveButton__972a0",
-    "channelNameMeasurement": "channelNameMeasurement__972a0"
+    "channelNameMeasurement": "channelNameMeasurement__972a0",
+    "tabHoverGradient": "tabHoverGradient__972a0"
   },
   "108085": {
     "showConnectionsButton": "showConnectionsButton_b69c3a"
@@ -5431,6 +5432,15 @@
     "banner": "banner__68edb",
     "gifTag": "gifTag__68edb",
     "mask": "mask__68edb"
+  },
+  "222094": {
+    "scroller": "scroller__9ff51",
+    "root": "root__9ff51",
+    "stopsGrid": "stopsGrid__9ff51",
+    "stopLabel": "stopLabel__9ff51",
+    "previewList": "previewList__9ff51",
+    "yamlBlock": "yamlBlock__9ff51",
+    "colorSwatch": "colorSwatch__9ff51"
   },
   "222327": {
     "header": "header__94b08",
@@ -8516,7 +8526,6 @@
   "337637": {
     "popoutContainer": "popoutContainer_ce8328",
     "profileFrameMargin": "profileFrameMargin_ce8328",
-    "profileFrameMarginBottom": "profileFrameMarginBottom_ce8328",
     "body": "body_ce8328",
     "menus": "menus_ce8328",
     "menuOverlay": "menuOverlay_ce8328",
