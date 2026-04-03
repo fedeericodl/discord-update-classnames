@@ -59,7 +59,9 @@
     "metadata": "metadata__4774c",
     "title": "title__4774c",
     "clickableGameName": "clickableGameName__4774c",
-    "avatars": "avatars__4774c"
+    "avatars": "avatars__4774c",
+    "participantAvatar": "participantAvatar__4774c",
+    "participantOverflow": "participantOverflow__4774c"
   },
   "2571": {
     "section": "section__9e177",
@@ -837,6 +839,15 @@
     "headerContainer": "headerContainer_a419e0",
     "preview": "preview_a419e0",
     "body": "body_a419e0"
+  },
+  "38445": {
+    "wrapper": "wrapper__1acb4",
+    "videoContainer": "videoContainer__1acb4",
+    "panel": "panel__1acb4",
+    "panelHeader": "panelHeader__1acb4",
+    "list": "list__1acb4",
+    "row": "row__1acb4",
+    "emptyState": "emptyState__1acb4"
   },
   "38456": {
     "notice": "notice_c15d44"
@@ -6858,6 +6869,18 @@
     "barHeading": "barHeading_d8a230",
     "fixedBarContainer": "fixedBarContainer_d8a230",
     "fixedBarWrapper": "fixedBarWrapper_d8a230"
+  },
+  "279480": {
+    "cards": "cards__055d0",
+    "card": "card__055d0",
+    "cardHeader": "cardHeader__055d0",
+    "guildInfo": "guildInfo__055d0",
+    "dotSeparator": "dotSeparator__055d0",
+    "boostRow": "boostRow__055d0",
+    "boostRowLast": "boostRowLast__055d0",
+    "boostRowInfo": "boostRowInfo__055d0",
+    "rowThumbnail": "rowThumbnail__055d0",
+    "moreButton": "moreButton__055d0"
   },
   "279859": {
     "media": "media__9c640",
