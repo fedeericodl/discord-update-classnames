@@ -721,12 +721,6 @@
     "caret": "caret_dc2e44",
     "clickable": "clickable_dc2e44"
   },
-  "30565": {
-    "infoNotice": "infoNotice_b25217",
-    "paymentModalBreadcrumbs": "paymentModalBreadcrumbs_b25217",
-    "paymentModalError": "paymentModalError_b25217",
-    "giftCardRedemptionLink": "giftCardRedemptionLink_b25217"
-  },
   "30741": {
     "exemptionHint": "exemptionHint__54558"
   },
@@ -2871,15 +2865,6 @@
     "tooltipRed": "tooltipRed_c36707",
     "tooltipGreen": "tooltipGreen_c36707",
     "tooltipPointerBg": "tooltipPointerBg_c36707"
-  },
-  "119010": {
-    "wrapper": "wrapper__8bf38 scrollbarGhost__506b3 scrollbar__506b3",
-    "rightSplit": "rightSplit__8bf38",
-    "embedded": "embedded__8bf38",
-    "leftSplit": "leftSplit__8bf38",
-    "nonEmbeddedLeftSplit": "nonEmbeddedLeftSplit__8bf38",
-    "mobileWave": "mobileWave__8bf38",
-    "logo": "logo__8bf38"
   },
   "120042": {
     "skeletonContainer": "skeletonContainer_d6411f",
@@ -8521,6 +8506,10 @@
     "getRolesButton": "getRolesButton__86331",
     "viewConnectionsButton": "viewConnectionsButton__86331",
     "botTag": "botTag__86331"
+  },
+  "334551": {
+    "background": "background__7778d",
+    "content": "content__7778d"
   },
   "334556": {
     "attachWrapper": "attachWrapper__0923f",
@@ -25325,6 +25314,12 @@
     "callAvatarMask": "callAvatarMask_f910d0",
     "callAvatarMaskContainer": "callAvatarMaskContainer_f910d0"
   },
+  "963145": {
+    "infoNotice": "infoNotice__9b260",
+    "paymentModalBreadcrumbs": "paymentModalBreadcrumbs__9b260",
+    "paymentModalError": "paymentModalError__9b260",
+    "giftCardRedemptionLink": "giftCardRedemptionLink__9b260"
+  },
   "963420": {
     "paymentPane": "paymentPane__01014",
     "paymentRow": "paymentRow__01014",
@@ -26086,12 +26081,6 @@
     "channelHeader": "channelHeader__9f71b",
     "header": "header__9f71b",
     "icon": "icon__9f71b"
-  },
-  "990275": {
-    "canvas": "canvas_e99198",
-    "fallbackImage": "fallbackImage_e99198",
-    "visible": "visible_e99198",
-    "embedded": "embedded_e99198"
   },
   "990353": {
     "eyebrow": "eyebrow__2b1f5",
