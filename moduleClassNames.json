@@ -6740,7 +6740,6 @@
     "footer": "footer__22cef",
     "heartButton": "heartButton__22cef",
     "compactContainer": "compactContainer__22cef",
-    "compactBackground": "compactBackground__22cef",
     "compactGemWrapper": "compactGemWrapper__22cef",
     "compactGemImage": "compactGemImage__22cef",
     "compactContent": "compactContent__22cef",
@@ -14364,6 +14363,7 @@
     "footerButtonContainer": "footerButtonContainer_fcbddd",
     "footerButtonGroup": "footerButtonGroup_fcbddd",
     "hovered": "hovered_fcbddd",
+    "noHoverLift": "noHoverLift_fcbddd",
     "footerGradient": "footerGradient_fcbddd",
     "productName": "productName_fcbddd"
   },
