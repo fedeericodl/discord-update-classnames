@@ -2534,14 +2534,13 @@
     "titleContainer": "titleContainer_abfd90",
     "descriptionContainer": "descriptionContainer_abfd90",
     "buttonHover": "buttonHover_abfd90",
-    "applicationIconBadge": "applicationIconBadge_abfd90",
-    "badge": "badge_abfd90",
     "titleContainerNoPrice": "titleContainerNoPrice_abfd90",
     "titleContainerExtendedHeight": "titleContainerExtendedHeight_abfd90",
     "bottomGradient": "bottomGradient_abfd90",
     "priceContainer": "priceContainer_abfd90",
     "strikethrough": "strikethrough_abfd90",
     "iconAsset": "iconAsset_abfd90",
+    "badge": "badge_abfd90",
     "cardButtonsContainer": "cardButtonsContainer_abfd90",
     "wishlistButton": "wishlistButton_abfd90",
     "forwardButton": "forwardButton_abfd90",
@@ -4088,8 +4087,8 @@
     "artContainer": "artContainer__7dbcf",
     "followupArtContainer": "followupArtContainer__7dbcf artContainer__7dbcf",
     "content": "content__7dbcf",
-    "body": "body__7dbcf",
     "header": "header__7dbcf",
+    "body": "body__7dbcf",
     "buttonRow": "buttonRow__7dbcf"
   },
   "164778": {
@@ -15693,9 +15692,9 @@
   },
   "598745": {
     "streamerModeEnabled": "streamerModeEnabled_aa3ffd",
+    "userSettingsStreamerModeEnabled": "userSettingsStreamerModeEnabled_aa3ffd",
     "streamerModeEnabledImage": "streamerModeEnabledImage_aa3ffd",
-    "streamerModeEnabledBtn": "streamerModeEnabledBtn_aa3ffd",
-    "disabled": "disabled_aa3ffd"
+    "streamerModeEnabledBtn": "streamerModeEnabledBtn_aa3ffd"
   },
   "598855": {
     "quickswitcher": "quickswitcher_ac6cb0",
@@ -24768,7 +24767,7 @@
     "fixed": "fixed_c1e9c4",
     "flexible": "flexible_c1e9c4",
     "item": "item_c1e9c4",
-    "hideInteraction": "hideInteraction_c1e9c4",
+    "interactive": "interactive_c1e9c4",
     "customItem": "customItem_c1e9c4",
     "labelContainer": "labelContainer_c1e9c4",
     "label": "label_c1e9c4",
@@ -24803,6 +24802,7 @@
     "radioSelection": "radioSelection_c1e9c4",
     "check": "check_c1e9c4",
     "checkboxContainer": "checkboxContainer_c1e9c4",
+    "hideInteraction": "hideInteraction_c1e9c4",
     "colorBrand": "colorBrand_c1e9c4 colorDefault_c1e9c4",
     "colorDanger": "colorDanger_c1e9c4 colorDefault_c1e9c4",
     "colorPremium": "colorPremium_c1e9c4 colorDefault_c1e9c4",
