@@ -8695,7 +8695,8 @@
     "erroredAvatar": "erroredAvatar__2441a"
   },
   "344991": {
-    "giftCardCreditsCheckbox": "giftCardCreditsCheckbox_b90acf"
+    "giftCardCreditsCheckboxAbove": "giftCardCreditsCheckboxAbove_b90acf",
+    "giftCardCreditsCheckboxBelow": "giftCardCreditsCheckboxBelow_b90acf"
   },
   "345085": {
     "wrapper": "wrapper_a6f654",
