@@ -11400,12 +11400,6 @@
     "forumPost": "forumPost__7d15e",
     "container": "container__7d15e"
   },
-  "440693": {
-    "content": "content_a58267",
-    "emphasized": "emphasized_a58267",
-    "message": "message_a58267",
-    "actions": "actions_a58267"
-  },
   "440754": {
     "formText": "formText_ddd181",
     "default": "default_ddd181 formText_ddd181",
@@ -25837,6 +25831,12 @@
     "description": "description__00de6",
     "emptyChannelIcon": "emptyChannelIcon__00de6",
     "emptyChannelIconComponent": "emptyChannelIconComponent__00de6"
+  },
+  "983152": {
+    "content": "content__43fa9",
+    "emphasized": "emphasized__43fa9",
+    "message": "message__43fa9",
+    "actions": "actions__43fa9"
   },
   "983606": {
     "container": "container__5f4c1"
