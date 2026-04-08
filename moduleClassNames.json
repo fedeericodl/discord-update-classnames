@@ -5753,7 +5753,9 @@
     "svgCopy": "svgCopy__8f49b"
   },
   "221177": {
-    "previewContainer": "previewContainer__70c78"
+    "previewContainer": "previewContainer__70c78",
+    "wishlistActionBar": "wishlistActionBar__70c78",
+    "wishlistActionBarButtons": "wishlistActionBarButtons__70c78"
   },
   "221553": {
     "badge": "badge__436c9",
