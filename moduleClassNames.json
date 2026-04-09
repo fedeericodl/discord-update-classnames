@@ -5755,6 +5755,7 @@
   "221177": {
     "previewContainer": "previewContainer__70c78",
     "wishlistActionBar": "wishlistActionBar__70c78",
+    "wishlistButton": "wishlistButton__70c78",
     "wishlistActionBarButtons": "wishlistActionBarButtons__70c78"
   },
   "221553": {
@@ -6149,6 +6150,7 @@
   "235852": {
     "productCardContainer": "productCardContainer_fcbddd",
     "productCardContentContainer": "productCardContentContainer_fcbddd",
+    "staticBundleBackgroundAsset": "staticBundleBackgroundAsset_fcbddd",
     "productPreviewContainer": "productPreviewContainer_fcbddd",
     "hasBottomContent": "hasBottomContent_fcbddd",
     "headerContainer": "headerContainer_fcbddd",
@@ -15825,7 +15827,8 @@
     "extraCodeButton": "extraCodeButton_e99fef",
     "progressBarSlim": "progressBarSlim_e99fef",
     "sectionSpacer": "sectionSpacer_e99fef",
-    "footerClaimButton": "footerClaimButton_e99fef"
+    "footerClaimButton": "footerClaimButton_e99fef",
+    "copyIconButton": "copyIconButton_e99fef"
   },
   "616873": {
     "panelInner": "panelInner__9b718",
