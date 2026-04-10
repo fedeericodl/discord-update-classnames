@@ -1437,6 +1437,11 @@
     "selected": "selected_eeedb9",
     "tabbedSettingsContainer": "tabbedSettingsContainer_eeedb9"
   },
+  "65958": {
+    "container": "container__41037",
+    "bannerOverlay": "bannerOverlay__41037",
+    "editButton": "editButton__41037"
+  },
   "66374": {
     "username": "username__7b869",
     "discriminator": "discriminator__7b869",
