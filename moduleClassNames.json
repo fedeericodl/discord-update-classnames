@@ -3688,8 +3688,6 @@
     "section": "section__2a871"
   },
   "151885": {
-    "sessionIconWrapper": "sessionIconWrapper_dc792a",
-    "muted": "muted_dc792a",
     "sessionLogoutButton": "sessionLogoutButton_dc792a"
   },
   "152120": {
@@ -14777,6 +14775,9 @@
     "remove": "remove_b7f4b4",
     "reactors": "reactors_b7f4b4"
   },
+  "565441": {
+    "phoneNumber": "phoneNumber__61e24"
+  },
   "566043": {
     "divider": "divider_f18716",
     "moreList": "moreList_f18716",
@@ -23727,7 +23728,10 @@
     "descriptionContainer": "descriptionContainer__02d09",
     "buttonHover": "buttonHover__02d09",
     "titleContainerNoPrice": "titleContainerNoPrice__02d09",
+    "titleContainerExtendedHeight": "titleContainerExtendedHeight__02d09",
     "bottomGradient": "bottomGradient__02d09",
+    "priceContainer": "priceContainer__02d09",
+    "strikethrough": "strikethrough__02d09",
     "iconAsset": "iconAsset__02d09",
     "orbsEarnedContainer": "orbsEarnedContainer__02d09"
   },
