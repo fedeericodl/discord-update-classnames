@@ -5518,7 +5518,6 @@
     "sidebarRegionScroller": "sidebarRegionScroller__23e6b",
     "sidebar": "sidebar__23e6b",
     "mobileSidebar": "mobileSidebar__23e6b",
-    "contentTransitionWrap": "contentTransitionWrap__23e6b",
     "contentRegionScroller": "contentRegionScroller__23e6b",
     "toolsContainer": "toolsContainer__23e6b",
     "tools": "tools__23e6b",
@@ -26098,7 +26097,9 @@
     "footerContainer": "footerContainer__272c7"
   },
   "987118": {
-    "emptyPreview": "emptyPreview_e3aa7b"
+    "emptyPreview": "emptyPreview_e3aa7b",
+    "fadeInAvatarImg": "fadeInAvatarImg_e3aa7b",
+    "fadeIn": "fadeIn_e3aa7b"
   },
   "987378": {
     "diversitySelector": "diversitySelector_a45a2a",
