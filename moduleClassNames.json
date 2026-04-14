@@ -11392,10 +11392,7 @@
     "toastIcon": "toastIcon_e19fa4"
   },
   "439695": {
-    "myServersContainer": "myServersContainer__40524",
-    "myServersHeaderContainer": "myServersHeaderContainer__40524",
-    "myServersTitle": "myServersTitle__40524",
-    "myServersIgnoredWarning": "myServersIgnoredWarning__40524"
+    "notice": "notice__40524"
   },
   "439837": {
     "modalBody": "modalBody__94f78"
@@ -21592,9 +21589,9 @@
   "829505": {
     "guildRowIcon": "guildRowIcon__7db08",
     "guildRowSwitch": "guildRowSwitch__7db08",
-    "guildsList": "guildsList__7db08",
-    "infoDot": "infoDot__7db08",
     "controlsContainer": "controlsContainer__7db08",
+    "sortDropdown": "sortDropdown__7db08",
+    "guildsList": "guildsList__7db08",
     "wrapper": "wrapper__7db08",
     "noResultsContainer": "noResultsContainer__7db08",
     "noResultsText": "noResultsText__7db08",
