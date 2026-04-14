@@ -16636,6 +16636,7 @@
     "voiceChannelEffectsContainer": "voiceChannelEffectsContainer__2f4f7",
     "stopStreamForeground": "stopStreamForeground__2f4f7",
     "slayerGiftingPlayingGameBadge": "slayerGiftingPlayingGameBadge__2f4f7",
+    "slayerGiftingPlayingGameButtonContainer": "slayerGiftingPlayingGameButtonContainer__2f4f7",
     "slayerGiftingPlayingGameButton": "slayerGiftingPlayingGameButton__2f4f7",
     "slayerGiftingPlayingGameIconContainer": "slayerGiftingPlayingGameIconContainer__2f4f7",
     "slayerGiftingPlayingGameIcon": "slayerGiftingPlayingGameIcon__2f4f7"
@@ -20795,6 +20796,7 @@
   },
   "798963": {
     "container": "container_fdd8e1",
+    "iconContainer": "iconContainer_fdd8e1",
     "subtitle": "subtitle_fdd8e1"
   },
   "799297": {
