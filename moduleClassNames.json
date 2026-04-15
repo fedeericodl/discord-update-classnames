@@ -10777,6 +10777,7 @@
     "zIndex1": "zIndex1__94da4",
     "trialMarketingMargin": "trialMarketingMargin__94da4",
     "bottomOfPageVisibilitySensor": "bottomOfPageVisibilitySensor__94da4",
+    "heroWrapper": "heroWrapper__94da4",
     "wishlistButton": "wishlistButton__94da4",
     "offerSplashWrapper": "offerSplashWrapper__94da4"
   },
@@ -22853,6 +22854,16 @@
     "footerWishlistButton": "footerWishlistButton_cf6da1",
     "bannerUpsell": "bannerUpsell_cf6da1",
     "premiumIcon": "premiumIcon_cf6da1"
+  },
+  "871829": {
+    "verificationRoleCard": "verificationRoleCard__866a0",
+    "verificationRoleHeader": "verificationRoleHeader__866a0",
+    "verificationRoleContent": "verificationRoleContent__866a0",
+    "verificationRoleTitleRow": "verificationRoleTitleRow__866a0",
+    "verificationRoleDivider": "verificationRoleDivider__866a0",
+    "verificationRoleDetails": "verificationRoleDetails__866a0",
+    "verificationRoleAssigned": "verificationRoleAssigned__866a0",
+    "verificationRoleStats": "verificationRoleStats__866a0"
   },
   "871850": {
     "freeTrialText": "freeTrialText__1995d"
