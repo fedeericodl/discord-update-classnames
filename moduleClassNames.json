@@ -25579,6 +25579,11 @@
     "premiumTrialAcknowledgedBadge": "premiumTrialAcknowledgedBadge_e4ef22",
     "BogoBadgeClockIcon": "BogoBadgeClockIcon_e4ef22"
   },
+  "968965": {
+    "container": "container__47fbb",
+    "editOverlay": "editOverlay__47fbb",
+    "editButton": "editButton__47fbb"
+  },
   "969189": {
     "heading": "heading__9b910",
     "headingBackgroundBlack": "headingBackgroundBlack__9b910",
