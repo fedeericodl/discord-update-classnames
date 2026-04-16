@@ -4263,8 +4263,9 @@
     "content": "content_ea79f0",
     "header": "header_ea79f0",
     "description": "description_ea79f0",
-    "keybindHintKeys": "keybindHintKeys_ea79f0",
-    "keybindShortcut": "keybindShortcut_ea79f0"
+    "cards": "cards_ea79f0",
+    "card": "card_ea79f0",
+    "changeKeybindButton": "changeKeybindButton_ea79f0"
   },
   "174720": {
     "row": "row__6fddf",
@@ -6664,6 +6665,7 @@
   },
   "274647": {
     "container": "container_f7398d",
+    "containerContents": "containerContents_f7398d",
     "applicationIcon": "applicationIcon_f7398d",
     "applicationWidget": "applicationWidget_f7398d",
     "header": "header_f7398d",
