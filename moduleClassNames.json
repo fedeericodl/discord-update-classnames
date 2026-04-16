@@ -7067,10 +7067,16 @@
     "pulseGradient": "pulseGradient__11664"
   },
   "289286": {
+    "fadeIn": "fadeIn_eff18d",
+    "fadeInContentFullMotion": "fadeInContentFullMotion_eff18d",
     "background": "background_eff18d",
+    "sunbeamGradient": "sunbeamGradient_eff18d",
+    "gradientRive": "gradientRive_eff18d",
     "container": "container_eff18d",
+    "fadeInContent": "fadeInContent_eff18d",
+    "riveIllustration": "riveIllustration_eff18d",
     "description": "description_eff18d",
-    "title": "title_eff18d"
+    "footer": "footer_eff18d"
   },
   "289404": {
     "container": "container__1656b",
