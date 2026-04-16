@@ -4078,6 +4078,10 @@
     "container": "container__80bf8",
     "searchResult": "searchResult__80bf8",
     "message": "message__80bf8",
+    "spoilerPlaceholder": "spoilerPlaceholder__80bf8",
+    "spoilerAvatar": "spoilerAvatar__80bf8",
+    "spoilerContent": "spoilerContent__80bf8",
+    "spoilerText": "spoilerText__80bf8",
     "buttonsContainer": "buttonsContainer__80bf8",
     "button": "button__80bf8"
   },
