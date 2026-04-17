@@ -902,7 +902,7 @@
     "fixed": "fixed_c1e9c4",
     "flexible": "flexible_c1e9c4",
     "item": "item_c1e9c4",
-    "interactive": "interactive_c1e9c4",
+    "nonInteractive": "nonInteractive_c1e9c4",
     "customItem": "customItem_c1e9c4",
     "labelContainer": "labelContainer_c1e9c4",
     "label": "label_c1e9c4",
@@ -8147,7 +8147,9 @@
     "top": "top__7d80f",
     "bottom": "bottom__7d80f",
     "rail": "rail__7d80f",
-    "responsive": "responsive__7d80f"
+    "responsive": "responsive__7d80f",
+    "center": "center__7d80f",
+    "border": "border__7d80f"
   },
   "326112": {
     "libraryFilter": "libraryFilter__3fb48",
