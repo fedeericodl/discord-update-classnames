@@ -180,21 +180,21 @@
     "icon": "icon_fc7141"
   },
   "6821": {
-    "progressBarContainer": "progressBarContainer__68788",
-    "fillBar": "fillBar__68788",
+    "timelineContainer": "timelineContainer__68788",
+    "progressToPlayheadBar": "progressToPlayheadBar__68788",
     "cont": "cont__68788",
     "hitboxArea": "hitboxArea__68788",
     "interactionEnabled": "interactionEnabled__68788",
-    "defaultProgress": "defaultProgress__68788",
-    "buffer": "buffer__68788",
+    "defaultProgressToPlayheadTheme": "defaultProgressToPlayheadTheme__68788",
+    "bufferedBar": "bufferedBar__68788",
     "seekableBar": "seekableBar__68788",
     "timeDisplay": "timeDisplay__68788",
-    "grabber": "grabber__68788",
+    "playhead": "playhead__68788",
     "smoothPlayback": "smoothPlayback__68788",
-    "glowBar": "glowBar__68788",
-    "segmentWrapper": "segmentWrapper__68788",
-    "segmentBufferClip": "segmentBufferClip__68788",
-    "segmentBufferContent": "segmentBufferContent__68788"
+    "progressToPlayheadGlowBar": "progressToPlayheadGlowBar__68788",
+    "segmentContainer": "segmentContainer__68788",
+    "segmentMask": "segmentMask__68788",
+    "segmentPanningLayer": "segmentPanningLayer__68788"
   },
   "6858": {
     "container": "container__5808f",
@@ -696,7 +696,8 @@
     "avatarWrapper": "avatarWrapper__69074"
   },
   "25920": {
-    "overlayPadding": "overlayPadding__58e02"
+    "overlayPadding": "overlayPadding__58e02",
+    "transcriptPanel": "transcriptPanel__58e02"
   },
   "26692": {
     "rowContainer": "rowContainer__0e124"
