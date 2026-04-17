@@ -4315,6 +4315,14 @@
     "modalContent": "modalContent__8310d",
     "actionsHeader": "actionsHeader__8310d"
   },
+  "172079": {
+    "container": "container_f627e4",
+    "imageWrapper": "imageWrapper_f627e4",
+    "image": "image_f627e4",
+    "video": "video_f627e4",
+    "videoWrapper": "videoWrapper_f627e4",
+    "mediaPlayer": "mediaPlayer_f627e4"
+  },
   "172115": {
     "container": "container__3a8da",
     "tabs": "tabs__3a8da",
@@ -8541,6 +8549,38 @@
     "textContainer": "textContainer__9851a",
     "header": "header__9851a",
     "description": "description__9851a"
+  },
+  "334588": {
+    "modalRoot": "modalRoot__4a37a",
+    "modalContent": "modalContent__4a37a",
+    "offerBanner": "offerBanner__4a37a",
+    "offerBannerContent": "offerBannerContent__4a37a",
+    "panelsContainer": "panelsContainer__4a37a",
+    "infoContainer": "infoContainer__4a37a",
+    "infoBottomSection": "infoBottomSection__4a37a",
+    "infoBottomSectionBorder": "infoBottomSectionBorder__4a37a",
+    "exclusiveBadge": "exclusiveBadge__4a37a",
+    "logoContainer": "logoContainer__4a37a",
+    "logo": "logo__4a37a",
+    "infoContentSection": "infoContentSection__4a37a",
+    "titleSection": "titleSection__4a37a",
+    "bundleContentsSection": "bundleContentsSection__4a37a",
+    "itemDetailsSection": "itemDetailsSection__4a37a",
+    "labelIconContainer": "labelIconContainer__4a37a",
+    "labelIcon": "labelIcon__4a37a",
+    "buttonsContainer": "buttonsContainer__4a37a",
+    "primaryButtonsRow": "primaryButtonsRow__4a37a",
+    "giftButton": "giftButton__4a37a",
+    "titleDescriptionContainer": "titleDescriptionContainer__4a37a",
+    "mediaContainer": "mediaContainer__4a37a",
+    "modalHeaderButtonsContainer": "modalHeaderButtonsContainer__4a37a",
+    "modalHeaderButton": "modalHeaderButton__4a37a",
+    "wishlistButton": "wishlistButton__4a37a",
+    "priceSectionContainer": "priceSectionContainer__4a37a",
+    "salePriceRow": "salePriceRow__4a37a",
+    "originalPrice": "originalPrice__4a37a",
+    "discountBadge": "discountBadge__4a37a",
+    "orbsEarnedContainer": "orbsEarnedContainer__4a37a"
   },
   "335020": {
     "userMenuItem": "userMenuItem_d40c56",
@@ -25078,6 +25118,13 @@
     "channelPill": "channelPill_e34850",
     "channel": "channel_e34850",
     "channelCoverageHint": "channelCoverageHint_e34850"
+  },
+  "964421": {
+    "container": "container__3ed21",
+    "grid": "grid__3ed21",
+    "thumbnail": "thumbnail__3ed21",
+    "thumbnailSelected": "thumbnailSelected__3ed21",
+    "thumbnailImage": "thumbnailImage__3ed21"
   },
   "964623": {
     "chat": "chat_f75fb0",
