@@ -217,7 +217,6 @@
     "planSelectorPreviewPrice": "planSelectorPreviewPrice__945b8",
     "planSelectDivider": "planSelectDivider__945b8",
     "planSelectorSubtotal": "planSelectorSubtotal__945b8",
-    "paymentSourceWrapper": "paymentSourceWrapper__945b8",
     "confirmationContainer": "confirmationContainer__945b8",
     "confirmationAnimation": "confirmationAnimation__945b8",
     "confirmationText": "confirmationText__945b8",
@@ -369,6 +368,14 @@
     "sectionDivider": "sectionDivider_e9cb00 divider_e9cb00",
     "guildProductBenefits": "guildProductBenefits_e9cb00",
     "guildProductBenefitLabel": "guildProductBenefitLabel_e9cb00"
+  },
+  "12960": {
+    "modal": "modal_f41999",
+    "modalFooter": "modalFooter_f41999",
+    "modalHeader": "modalHeader_f41999",
+    "modalCloseButton": "modalCloseButton_f41999",
+    "modalContent": "modalContent_f41999",
+    "spinner": "spinner_f41999"
   },
   "13297": {
     "outerWrapper": "outerWrapper_d1405b",
@@ -2031,7 +2038,6 @@
   "80223": {
     "container": "container__73abe",
     "card": "card__73abe",
-    "wishlistCard": "wishlistCard__73abe",
     "cardPreview": "cardPreview__73abe",
     "scaledSkuPreview": "scaledSkuPreview__73abe",
     "avatarDecorationPreview": "avatarDecorationPreview__73abe",
@@ -2589,6 +2595,9 @@
     "reverseTrialContainer": "reverseTrialContainer__101ad",
     "reverseTrialTextContainer": "reverseTrialTextContainer__101ad",
     "reverseTrialArtContainer": "reverseTrialArtContainer__101ad"
+  },
+  "97803": {
+    "currencyWrapper": "currencyWrapper__054b0"
   },
   "98090": {
     "listWrapper": "listWrapper_c656ac",
@@ -5973,6 +5982,10 @@
     "divider": "divider_ee23ac",
     "animation": "animation_ee23ac"
   },
+  "238780": {
+    "buttonsContainer": "buttonsContainer__1811e",
+    "removeButton": "removeButton__1811e"
+  },
   "238918": {
     "nowrap": "nowrap__5db79"
   },
@@ -6274,14 +6287,6 @@
     "guildName": "guildName__2ac03"
   },
   "251321": {
-    "invoiceTable": "invoiceTable__25766",
-    "invoiceRow": "invoiceRow__25766",
-    "invoiceTagColumn": "invoiceTagColumn__25766",
-    "invoiceDescriptionColumn": "invoiceDescriptionColumn__25766",
-    "invoiceRegularText": "invoiceRegularText__25766",
-    "invoiceDiscountText": "invoiceDiscountText__25766",
-    "invoiceDiscountTag": "invoiceDiscountTag__25766",
-    "totalRow": "totalRow__25766",
     "slayerStorefrontProductPreview": "slayerStorefrontProductPreview__25766"
   },
   "251436": {
@@ -7359,7 +7364,6 @@
     "searchBarContainer": "searchBarContainer_e02058"
   },
   "299279": {
-    "currencyWrapper": "currencyWrapper_b41cc5",
     "previewTotalSectionContainer": "previewTotalSectionContainer_b41cc5",
     "premiumSwitchPlanSelectText": "premiumSwitchPlanSelectText_b41cc5"
   },
@@ -10373,7 +10377,6 @@
     "fauxDisabled": "fauxDisabled_e131a9",
     "buttonActive": "buttonActive_e131a9",
     "buttonContents": "buttonContents_e131a9",
-    "buttonIcon": "buttonIcon_e131a9",
     "withText": "withText_e131a9",
     "voicePanelIntroductionHeader": "voicePanelIntroductionHeader_e131a9",
     "voicePanelIntroductionText": "voicePanelIntroductionText_e131a9",
@@ -12224,14 +12227,6 @@
   },
   "465380": {
     "suggestedGames": "suggestedGames_dbb349"
-  },
-  "465753": {
-    "profileEffectContainer": "profileEffectContainer_a84142",
-    "nameplateContainer": "nameplateContainer_a84142",
-    "nameplate": "nameplate_a84142",
-    "giftMainAnimationWrapper": "giftMainAnimationWrapper_a84142",
-    "avatar": "avatar_a84142",
-    "bundlePreviewWrapper": "bundlePreviewWrapper_a84142"
   },
   "465919": {
     "upsell": "upsell__3b4ae"
@@ -15450,6 +15445,7 @@
   },
   "575581": {
     "container": "container__85bea",
+    "card": "card__85bea",
     "dragHandle": "dragHandle__85bea",
     "collectiblesCardHover": "collectiblesCardHover__85bea",
     "skuPreview": "skuPreview__85bea",
@@ -17780,16 +17776,7 @@
     "carousel": "carousel__759ac"
   },
   "666995": {
-    "stepBody": "stepBody_b44961",
-    "invoiceSpinner": "invoiceSpinner_b44961",
-    "errorBlock": "errorBlock_b44961",
-    "fineprint": "fineprint_b44961",
-    "skuHeading": "skuHeading_b44961",
-    "skuHeadingText": "skuHeadingText_b44961",
-    "socialLayerGameItemDisclaimer": "socialLayerGameItemDisclaimer_b44961",
-    "paymentMethodContainer": "paymentMethodContainer_b44961",
-    "giftCardRedemptionLink": "giftCardRedemptionLink_b44961",
-    "oneTimePurchaseRewardNotice": "oneTimePurchaseRewardNotice_b44961"
+    "fineprint": "fineprint_b44961"
   },
   "667055": {
     "wrapper": "wrapper__5c108",
@@ -23369,6 +23356,15 @@
     "streamerIconWrapper": "streamerIconWrapper__99ff4",
     "streamerIcon": "streamerIcon__99ff4"
   },
+  "900183": {
+    "icon": "icon__2ed4c",
+    "notAllowedIcon": "notAllowedIcon__2ed4c icon__2ed4c",
+    "frameGridItem": "frameGridItem__2ed4c",
+    "selected": "selected__2ed4c",
+    "section": "section__2ed4c",
+    "list": "list__2ed4c",
+    "shopIcon": "shopIcon__2ed4c icon__2ed4c"
+  },
   "900376": {
     "drawerSizingWrapper": "drawerSizingWrapper__9c62c",
     "contentWrapper": "contentWrapper__9c62c",
@@ -23589,14 +23585,6 @@
   "908504": {
     "container": "container_a5fa1d",
     "divider": "divider_a5fa1d"
-  },
-  "909598": {
-    "container": "container_faf161",
-    "title": "title_faf161",
-    "header": "header_faf161",
-    "wishlistItemsContainer": "wishlistItemsContainer_faf161",
-    "loading": "loading_faf161",
-    "rewardOfferNotice": "rewardOfferNotice_faf161"
   },
   "909714": {
     "card": "card__3eaf0",
@@ -25481,12 +25469,6 @@
     "coverContent": "coverContent__2f300",
     "coverTitle": "coverTitle__2f300",
     "guildImage": "guildImage__2f300"
-  },
-  "975197": {
-    "guildPickerContainer": "guildPickerContainer__99854",
-    "breadcrumbs": "breadcrumbs__99854",
-    "userSubscriptionDetailsContainer": "userSubscriptionDetailsContainer__99854",
-    "guildNameContainer": "guildNameContainer__99854"
   },
   "975424": {
     "gridContainer": "gridContainer_f3e8a7",
