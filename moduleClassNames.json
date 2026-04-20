@@ -190,11 +190,10 @@
     "seekableBar": "seekableBar__68788",
     "timeDisplay": "timeDisplay__68788",
     "playhead": "playhead__68788",
-    "smoothPlayback": "smoothPlayback__68788",
-    "progressToPlayheadGlowBar": "progressToPlayheadGlowBar__68788",
     "segmentContainer": "segmentContainer__68788",
     "segmentMask": "segmentMask__68788",
-    "segmentPanningLayer": "segmentPanningLayer__68788"
+    "segmentPanningLayer": "segmentPanningLayer__68788",
+    "progressToPlayheadGlowBar": "progressToPlayheadGlowBar__68788"
   },
   "6858": {
     "container": "container__5808f",
@@ -11509,6 +11508,7 @@
     "mobile": "mobile_e9e3ed",
     "mobileNavigationOpen": "mobileNavigationOpen_e9e3ed",
     "contentHeader": "contentHeader_e9e3ed",
+    "hasButton": "hasButton_e9e3ed",
     "contentHeaderLeft": "contentHeaderLeft_e9e3ed",
     "contentBody": "contentBody_e9e3ed"
   },
