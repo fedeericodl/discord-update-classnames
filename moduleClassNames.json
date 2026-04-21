@@ -4197,7 +4197,8 @@
     "daysRow": "daysRow__3a865",
     "dayButton": "dayButton__3a865",
     "selected": "selected__3a865",
-    "durationHint": "durationHint__3a865"
+    "durationHint": "durationHint__3a865",
+    "overlapWarningContent": "overlapWarningContent__3a865"
   },
   "166988": {
     "wrapper": "wrapper__3b397"
@@ -13410,6 +13411,9 @@
     "imageIcon": "imageIcon_d2d51d",
     "name": "name_d2d51d"
   },
+  "499963": {
+    "fields": "fields__12532"
+  },
   "499997": {
     "root": "root_bfe55a",
     "idle": "idle_bfe55a",
@@ -19328,6 +19332,13 @@
   },
   "734520": {
     "riveHoverTarget": "riveHoverTarget__438ba"
+  },
+  "734627": {
+    "container": "container_bbd422",
+    "row": "row_bbd422",
+    "rowContent": "rowContent_bbd422",
+    "rowActions": "rowActions_bbd422",
+    "empty": "empty_bbd422"
   },
   "734646": {
     "effect": "effect__263e4",
