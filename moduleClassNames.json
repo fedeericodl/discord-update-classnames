@@ -11972,6 +11972,10 @@
     "hiddenVoiceStatesAvatar": "hiddenVoiceStatesAvatar_adebba",
     "hiddenVoiceStatesText": "hiddenVoiceStatesText_adebba"
   },
+  "459391": {
+    "nitroOrbsAssetContainer": "nitroOrbsAssetContainer_f9c729",
+    "nitroOrbsSmokeVideo": "nitroOrbsSmokeVideo_f9c729"
+  },
   "459875": {
     "block": "block__8dcfb",
     "clickable": "clickable__8dcfb",
@@ -14856,6 +14860,7 @@
   "555599": {
     "cardContainer": "cardContainer__5b393",
     "card": "card__5b393",
+    "backgroundElement": "backgroundElement__5b393",
     "pill": "pill__5b393",
     "descriptionWrapper": "descriptionWrapper__5b393",
     "description": "description__5b393",
@@ -14874,6 +14879,7 @@
     "primaryAssetImage": "primaryAssetImage__5b393",
     "contentContainer": "contentContainer__5b393",
     "textContent": "textContent__5b393",
+    "footerContentWrapper": "footerContentWrapper__5b393",
     "progressBarWrapper": "progressBarWrapper__5b393"
   },
   "555644": {
@@ -22768,6 +22774,12 @@
     "toon-animation": "toon-animation_dfb989",
     "pop-animation-main": "pop-animation-main_dfb989",
     "pop-animation-shadow": "pop-animation-shadow_dfb989"
+  },
+  "875679": {
+    "container": "container__2ecd5",
+    "row": "row__2ecd5",
+    "divider": "divider__2ecd5",
+    "label": "label__2ecd5"
   },
   "876096": {
     "section": "section__07d82",
