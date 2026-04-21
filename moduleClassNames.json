@@ -1268,11 +1268,10 @@
     "pointerCover": "pointerCover_d125d2"
   },
   "45861": {
-    "attributionBannerContainerRebranded": "attributionBannerContainerRebranded_e6e64d",
-    "attributionBannerContentApplicationHomeRebranded": "attributionBannerContentApplicationHomeRebranded_e6e64d",
-    "textContainerRebranded": "textContainerRebranded_e6e64d",
-    "iconContainerApplicationHome": "iconContainerApplicationHome_e6e64d",
-    "icon": "icon_e6e64d"
+    "attributionBannerContainer": "attributionBannerContainer_e6e64d",
+    "attributionBannerContentApplicationHome": "attributionBannerContentApplicationHome_e6e64d",
+    "textContainer": "textContainer_e6e64d",
+    "iconContainerApplicationHome": "iconContainerApplicationHome_e6e64d"
   },
   "45945": {
     "container": "container__5a2df",
@@ -4201,8 +4200,7 @@
     "durationHint": "durationHint__3a865"
   },
   "166988": {
-    "offerPill": "offerPill__3b397",
-    "premiumBrandRefreshOfferPill": "premiumBrandRefreshOfferPill__3b397"
+    "wrapper": "wrapper__3b397"
   },
   "167338": {
     "selector": "selector__8b341",
@@ -7848,7 +7846,6 @@
     "guildTag": "guildTag__63ed3"
   },
   "312867": {
-    "stepBodyV1": "stepBodyV1_bb5449",
     "unifiedReviewStepBodyBottomPadding": "unifiedReviewStepBodyBottomPadding_bb5449",
     "topInBetweenSpacer": "topInBetweenSpacer_bb5449",
     "subscriptionDetailsContainer": "subscriptionDetailsContainer_bb5449",
