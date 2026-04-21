@@ -4320,7 +4320,11 @@
   "172079": {
     "container": "container_f627e4",
     "imageWrapper": "imageWrapper_f627e4",
+    "fadeIn": "fadeIn_f627e4",
+    "fadeOut": "fadeOut_f627e4",
     "image": "image_f627e4",
+    "prevImage": "prevImage_f627e4",
+    "videoFadeIn": "videoFadeIn_f627e4",
     "video": "video_f627e4",
     "videoWrapper": "videoWrapper_f627e4",
     "mediaPlayer": "mediaPlayer_f627e4"
