@@ -11677,8 +11677,6 @@
   },
   "447349": {
     "popoutContainer": "popoutContainer_ce8328",
-    "profileFrameMargin": "profileFrameMargin_ce8328",
-    "profileFrameBottomMargin": "profileFrameBottomMargin_ce8328",
     "body": "body_ce8328",
     "menus": "menus_ce8328",
     "menuOverlay": "menuOverlay_ce8328",
@@ -18907,8 +18905,8 @@
     "recentAvatarList": "recentAvatarList__1df30",
     "recentAvatarButtonContainer": "recentAvatarButtonContainer__1df30",
     "recentAvatarButton": "recentAvatarButton__1df30 circular__1df30",
-    "deleteButton": "deleteButton__1df30",
     "recentAvatar": "recentAvatar__1df30 circular__1df30",
+    "deleteButton": "deleteButton__1df30",
     "deleteIcon": "deleteIcon__1df30",
     "emptyAvatarSlots": "emptyAvatarSlots__1df30",
     "avatarPlaceholder": "avatarPlaceholder__1df30 circular__1df30"
