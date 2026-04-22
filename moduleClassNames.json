@@ -25035,9 +25035,8 @@
     "backIcon": "backIcon_aa7162",
     "frame": "frame_aa7162",
     "frameRounded": "frameRounded_aa7162",
-    "frameSquircle": "frameSquircle_aa7162",
-    "squircleFrameInner": "squircleFrameInner_aa7162",
-    "iconContent": "iconContent_aa7162"
+    "squircleIconWrapper": "squircleIconWrapper_aa7162",
+    "squircleBorder": "squircleBorder_aa7162"
   },
   "959495": {
     "pill": "pill_c9fddf",
