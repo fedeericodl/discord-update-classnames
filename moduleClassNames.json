@@ -8738,6 +8738,7 @@
   },
   "338165": {
     "container": "container__47fbb",
+    "menuOpen": "menuOpen__47fbb",
     "editOverlay": "editOverlay__47fbb",
     "editButton": "editButton__47fbb"
   },
