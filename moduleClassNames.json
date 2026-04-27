@@ -3090,6 +3090,13 @@
     "avatarDeco": "avatarDeco__7d30a",
     "avatarDecoImage": "avatarDecoImage__7d30a"
   },
+  "113626": {
+    "container": "container__631c2",
+    "guildContainer": "guildContainer__631c2",
+    "header": "header__631c2",
+    "guildInfo": "guildInfo__631c2",
+    "guildIcon": "guildIcon__631c2"
+  },
   "113697": {
     "label": "label__27da5",
     "createLabel": "createLabel__27da5",
@@ -7584,11 +7591,6 @@
     "guildInfo": "guildInfo__7c626",
     "guildIcon": "guildIcon__7c626"
   },
-  "306125": {
-    "premiumTabTooltipContainer": "premiumTabTooltipContainer__83ef9",
-    "premiumTabTooltipImage": "premiumTabTooltipImage__83ef9",
-    "premiumTabTooltipContent": "premiumTabTooltipContent__83ef9"
-  },
   "306571": {
     "wrapper": "wrapper_d5f3cd",
     "header": "header_d5f3cd",
@@ -8682,13 +8684,6 @@
     "shadow": "shadow__68e91",
     "nux": "nux__68e91",
     "noAnimation": "noAnimation__68e91"
-  },
-  "336007": {
-    "container": "container__631c2",
-    "guildContainer": "guildContainer__631c2",
-    "header": "header__631c2",
-    "guildInfo": "guildInfo__631c2",
-    "guildIcon": "guildIcon__631c2"
   },
   "336541": {
     "backButton": "backButton__6fa7b",
@@ -10983,6 +10978,7 @@
   "416408": {
     "nameplate": "nameplate__2c8c0",
     "profileEffectShopPreview": "profileEffectShopPreview__2c8c0",
+    "profileFrameShopPreview": "profileFrameShopPreview__2c8c0",
     "bundlePreview": "bundlePreview__2c8c0",
     "bundleStaticPreview": "bundleStaticPreview__2c8c0",
     "easterEggContainer": "easterEggContainer__2c8c0"
@@ -16706,6 +16702,13 @@
     "scroller": "scroller__06800",
     "popoutWrapper": "popoutWrapper__06800"
   },
+  "622697": {
+    "container": "container__422b8",
+    "backgroundImage": "backgroundImage__422b8",
+    "content": "content__422b8",
+    "header": "header__422b8",
+    "titleColumn": "titleColumn__422b8"
+  },
   "623515": {
     "icon": "icon_cf9ac1"
   },
@@ -18735,10 +18738,10 @@
     "closeButtonContainer": "closeButtonContainer_d06335",
     "video": "video_d06335",
     "content": "content_d06335",
+    "textGroup": "textGroup_d06335",
     "modalTopPill": "modalTopPill_d06335",
     "subHeader": "subHeader_d06335",
     "bodyText": "bodyText_d06335",
-    "buttonContainer": "buttonContainer_d06335",
     "featureCardGroup": "featureCardGroup_d06335",
     "wideStyle": "wideStyle_d06335",
     "featureCard": "featureCard_d06335",
@@ -23597,6 +23600,9 @@
     "helpMessageWrapper": "helpMessageWrapper__65b48",
     "copy": "copy__65b48",
     "loadingWrapper": "loadingWrapper__65b48"
+  },
+  "899159": {
+    "baseSettingWrapper": "baseSettingWrapper__32428"
   },
   "899177": {
     "icon": "icon__99ff4",
