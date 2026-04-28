@@ -8085,6 +8085,19 @@
     "messageEmbedContentSecondaryLineSkeleton": "messageEmbedContentSecondaryLineSkeleton__89401 skeleton__89401",
     "messageEmbedContentActionSkeleton": "messageEmbedContentActionSkeleton__89401 skeleton__89401"
   },
+  "321513": {
+    "content": "content__0b2e7",
+    "background": "background__0b2e7",
+    "closeButton": "closeButton__0b2e7",
+    "body": "body__0b2e7",
+    "titleContainer": "titleContainer__0b2e7",
+    "title": "title__0b2e7",
+    "cards": "cards__0b2e7",
+    "card": "card__0b2e7",
+    "cardImage": "cardImage__0b2e7",
+    "cardCopy": "cardCopy__0b2e7",
+    "buttonContainer": "buttonContainer__0b2e7"
+  },
   "321880": {
     "guildSelectOptionIcon": "guildSelectOptionIcon__6c044",
     "clydeIconContainer": "clydeIconContainer__6c044"
@@ -13114,7 +13127,17 @@
   },
   "490308": {
     "modalRoot": "modalRoot__6db38",
-    "modalContent": "modalContent__6db38"
+    "modalContent": "modalContent__6db38",
+    "loading": "loading__6db38",
+    "directoryPanel": "directoryPanel__6db38",
+    "directoryHeader": "directoryHeader__6db38",
+    "directoryContent": "directoryContent__6db38",
+    "badgeSection": "badgeSection__6db38",
+    "badgeGrid": "badgeGrid__6db38",
+    "badgeSlot": "badgeSlot__6db38",
+    "badgeSlotSelected": "badgeSlotSelected__6db38",
+    "badgeSlotIcon": "badgeSlotIcon__6db38",
+    "detailPanel": "detailPanel__6db38"
   },
   "490334": {
     "container": "container__0a12b",
@@ -14304,8 +14327,7 @@
     "listItemContents": "listItemContents_e1ecd3",
     "actions": "actions_e1ecd3",
     "staffIndicator": "staffIndicator_e1ecd3",
-    "applicationSublabel": "applicationSublabel_e1ecd3",
-    "friendLabel": "friendLabel_e1ecd3"
+    "applicationSublabel": "applicationSublabel_e1ecd3"
   },
   "525748": {
     "container": "container__551b0",
@@ -17520,9 +17542,7 @@
     "easterEggAnimation": "easterEggAnimation__6db1d",
     "easterEggAnimationReverse": "easterEggAnimationReverse__6db1d",
     "categories": "categories__6db1d",
-    "products": "products__6db1d",
-    "paginationContainer": "paginationContainer__6db1d",
-    "bannerContainer": "bannerContainer__6db1d"
+    "paginationContainer": "paginationContainer__6db1d"
   },
   "647926": {
     "container": "container__949a0",
