@@ -7705,6 +7705,7 @@
     "loadingContainer": "loadingContainer__9b0f4",
     "modalContainer": "modalContainer__9b0f4",
     "contentWrapper": "contentWrapper__9b0f4",
+    "acceptUsername": "acceptUsername__9b0f4",
     "inviteContent": "inviteContent__9b0f4",
     "inviteSplash": "inviteSplash__9b0f4",
     "experimentUpsellError": "experimentUpsellError__9b0f4",
@@ -25386,7 +25387,8 @@
     "socialLinksWrapper": "socialLinksWrapper__62e7a",
     "categoriesWrapper": "categoriesWrapper__62e7a",
     "socialIcon": "socialIcon__62e7a",
-    "guildCapPremiumUpsell": "guildCapPremiumUpsell__62e7a"
+    "guildCapPremiumUpsell": "guildCapPremiumUpsell__62e7a",
+    "acceptUsername": "acceptUsername__62e7a"
   },
   "963925": {
     "container": "container__8823a",
