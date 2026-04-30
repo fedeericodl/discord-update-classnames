@@ -20522,6 +20522,7 @@
     "filterSection": "filterSection__11877",
     "itemType": "itemType__11877",
     "filterTitle": "filterTitle__11877",
+    "filterWithBadge": "filterWithBadge__11877",
     "colorSwatchRow": "colorSwatchRow__11877",
     "themeRow": "themeRow__11877",
     "theme": "theme__11877",
@@ -21411,7 +21412,6 @@
   "808469": {
     "list": "list__83c7c",
     "container": "container__83c7c",
-    "header": "header__83c7c",
     "permission": "permission__83c7c",
     "check": "check__83c7c",
     "cross": "cross__83c7c"
@@ -21444,7 +21444,9 @@
     "collapseButton": "collapseButton_b08638",
     "scroller": "scroller_b08638",
     "group": "group_b08638",
-    "groupLabel": "groupLabel_b08638"
+    "groupLabel": "groupLabel_b08638",
+    "groupLabelHeading": "groupLabelHeading_b08638",
+    "groupLabelIcon": "groupLabelIcon_b08638"
   },
   "809657": {
     "button": "button__201d5",
