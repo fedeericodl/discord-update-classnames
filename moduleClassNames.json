@@ -1113,10 +1113,7 @@
     "content": "content__53455",
     "title": "title__53455",
     "logo": "logo__53455",
-    "cta": "cta__53455",
-    "divider": "divider__53455",
-    "perksSection": "perksSection__53455",
-    "footer": "footer__53455"
+    "cta": "cta__53455"
   },
   "35783": {
     "displayNameContent": "displayNameContent_b51b39"
@@ -18789,13 +18786,10 @@
     "labelReversed": "labelReversed__09aca"
   },
   "694354": {
-    "expandedProgressBarContainer": "expandedProgressBarContainer__2c345",
     "expandedProgressBarContainerSettingsPage": "expandedProgressBarContainerSettingsPage__2c345",
     "allReferralsSentBorder": "allReferralsSentBorder__2c345",
-    "containerWithGlowWithoutBanner": "containerWithGlowWithoutBanner__2c345",
-    "containerWithoutGlow": "containerWithoutGlow__2c345",
-    "containerWithMargins": "containerWithMargins__2c345",
-    "containerWithGlowOnSettingsPage": "containerWithGlowOnSettingsPage__2c345",
+    "container": "container__2c345",
+    "withGlow": "withGlow__2c345",
     "expandedProgressBarContent": "expandedProgressBarContent__2c345",
     "userAvatarProgressBarContainer": "userAvatarProgressBarContainer__2c345",
     "userAvatarProgressBarUnit": "userAvatarProgressBarUnit__2c345",
@@ -18804,13 +18798,11 @@
     "fullHighlight": "fullHighlight__2c345",
     "halfHighlight": "halfHighlight__2c345",
     "expandedProgressBarButtonContainer": "expandedProgressBarButtonContainer__2c345",
-    "expandedProgressBarButtonContainerLayout": "expandedProgressBarButtonContainerLayout__2c345",
     "expandedProgressBarSelectFriendsCTA": "expandedProgressBarSelectFriendsCTA__2c345",
     "referralInfoContent": "referralInfoContent__2c345",
     "expandedProgressBarSelectFriendsCTAInner": "expandedProgressBarSelectFriendsCTAInner__2c345",
     "expandedProgressBarSelectFriendsIcon": "expandedProgressBarSelectFriendsIcon__2c345",
     "expandedProgressBarHeader": "expandedProgressBarHeader__2c345",
-    "referralProgressBarIcon": "referralProgressBarIcon__2c345",
     "referralProgressBarIconSettings": "referralProgressBarIconSettings__2c345",
     "userAvatarProgressBarUnitNum": "userAvatarProgressBarUnitNum__2c345"
   },
@@ -18839,6 +18831,7 @@
   "695594": {
     "root": "root_d06335",
     "largeBorderRadius": "largeBorderRadius_d06335",
+    "gradientWrapper": "gradientWrapper_d06335",
     "headerText": "headerText_d06335",
     "closeButtonContainer": "closeButtonContainer_d06335",
     "video": "video_d06335",
@@ -18848,14 +18841,15 @@
     "subHeader": "subHeader_d06335",
     "bodyText": "bodyText_d06335",
     "featureCardGroup": "featureCardGroup_d06335",
-    "wideStyle": "wideStyle_d06335",
     "featureCard": "featureCard_d06335",
+    "wideStyle": "wideStyle_d06335",
     "featureCardImg": "featureCardImg_d06335",
     "featureCardTextGroup": "featureCardTextGroup_d06335",
     "featureCardTextHeader": "featureCardTextHeader_d06335",
     "featureCardTag": "featureCardTag_d06335",
     "tag": "tag_d06335",
-    "disclaimer": "disclaimer_d06335"
+    "disclaimer": "disclaimer_d06335",
+    "footerContainer": "footerContainer_d06335"
   },
   "695661": {
     "banner": "banner__4524c",
