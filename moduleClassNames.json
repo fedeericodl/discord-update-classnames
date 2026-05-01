@@ -7165,8 +7165,7 @@
     "usernameOuterContainer": "usernameOuterContainer_cb862a",
     "unreadDot": "unreadDot_cb862a",
     "actionIcon": "actionIcon_cb862a",
-    "action": "action_cb862a",
-    "overflowText": "overflowText_cb862a"
+    "action": "action_cb862a"
   },
   "285802": {
     "keybindContainer": "keybindContainer__55f57"
@@ -8743,10 +8742,6 @@
     "inviteIcon": "inviteIcon__921c5",
     "inviteLargeIcon": "inviteLargeIcon__921c5 inviteIcon__921c5",
     "downloadButtonSubtext": "downloadButtonSubtext__921c5"
-  },
-  "337376": {
-    "headerButton": "headerButton_c485a2",
-    "enabled": "enabled_c485a2"
   },
   "337485": {
     "wrapper": "wrapper_cdf8a9"
@@ -17541,6 +17536,7 @@
   "645875": {
     "messagesPopoutWrap": "messagesPopoutWrap__0aee3",
     "messagesPopout": "messagesPopout__0aee3",
+    "ungroupedPadding": "ungroupedPadding__0aee3",
     "messagesGroupHeaderWrap": "messagesGroupHeaderWrap__0aee3",
     "messagesGroupHeader": "messagesGroupHeader__0aee3",
     "chevron": "chevron__0aee3",
@@ -20566,6 +20562,8 @@
     "guildBadgeAndName": "guildBadgeAndName_f37cb1",
     "addActionButton": "addActionButton_f37cb1",
     "inviteButton": "inviteButton_f37cb1",
+    "inboxHeading": "inboxHeading_f37cb1 guildDropdown_f37cb1",
+    "inboxFilterButtons": "inboxFilterButtons_f37cb1",
     "themedHeaderMobile": "themedHeaderMobile_f37cb1",
     "headerEllipseForeground": "headerEllipseForeground_f37cb1",
     "headerEllipseBackdrop": "headerEllipseBackdrop_f37cb1",
@@ -26270,6 +26268,14 @@
     "roleHeader": "roleHeader__75297",
     "roleScroller": "roleScroller__75297",
     "timestamp": "timestamp__75297"
+  },
+  "993429": {
+    "button": "button__039e0",
+    "secondary": "secondary__039e0",
+    "pressed": "pressed__039e0",
+    "tertiary": "tertiary__039e0",
+    "overlay-secondary": "overlay-secondary__039e0",
+    "overlay-tertiary": "overlay-tertiary__039e0"
   },
   "993560": {
     "container": "container_c530da",
