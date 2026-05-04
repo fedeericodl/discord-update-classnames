@@ -2828,10 +2828,7 @@
   },
   "102338": {
     "section": "section__3af27",
-    "heading": "heading__3af27",
-    "subtitle": "subtitle__3af27",
     "leftAlignSection": "leftAlignSection__3af27",
-    "leftAlignSubtitle": "leftAlignSubtitle__3af27",
     "footer": "footer__3af27"
   },
   "103257": {
@@ -20947,21 +20944,6 @@
     "sectionContentContainer": "sectionContentContainer_b18295",
     "sectionActivitiesContentContainer": "sectionActivitiesContentContainer_b18295",
     "searchOpenAppDetailAppCard": "searchOpenAppDetailAppCard_b18295"
-  },
-  "787413": {
-    "baseContainer": "baseContainer__40d5b",
-    "card": "card__40d5b",
-    "video": "video__40d5b",
-    "betaBadge": "betaBadge__40d5b",
-    "progressContainer": "progressContainer__40d5b",
-    "bannerImageContainer": "bannerImageContainer__40d5b",
-    "bannerImage": "bannerImage__40d5b",
-    "textContainer": "textContainer__40d5b",
-    "heading": "heading__40d5b",
-    "actionButtonContainer": "actionButtonContainer__40d5b",
-    "totalLifetimeRewardsContainer": "totalLifetimeRewardsContainer__40d5b",
-    "stackedGradientOverlay": "stackedGradientOverlay__40d5b",
-    "bodyText": "bodyText__40d5b"
   },
   "787426": {
     "wrapper": "wrapper_d144f8",
