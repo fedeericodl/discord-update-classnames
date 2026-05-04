@@ -10976,7 +10976,7 @@
     "experimentContainer": "experimentContainer_d7bc5d",
     "scroller": "scroller_d7bc5d",
     "durationContainer": "durationContainer_d7bc5d",
-    "user": "user_d7bc5d",
+    "text": "text_d7bc5d",
     "avatar": "avatar_d7bc5d"
   },
   "415779": {
@@ -13356,7 +13356,7 @@
   },
   "494213": {
     "mainTableContainer": "mainTableContainer__09a38",
-    "horizatonalScroller": "horizatonalScroller__09a38",
+    "horizontalScroller": "horizontalScroller__09a38",
     "loaderContainer": "loaderContainer__09a38",
     "loaderBar": "loaderBar__09a38",
     "loadingBar": "loadingBar__09a38"
@@ -26025,6 +26025,8 @@
     "infoRow": "infoRow__6b102",
     "accountLabel": "accountLabel__6b102",
     "actionContainer": "actionContainer__6b102",
+    "openInterviewButton": "openInterviewButton__6b102",
+    "actionInfo": "actionInfo__6b102",
     "actionedInfo": "actionedInfo__6b102",
     "dot": "dot__6b102"
   },
