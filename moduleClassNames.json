@@ -14136,6 +14136,7 @@
     "contentColumnScrollable": "contentColumnScrollable__23e6b",
     "customHeader": "customHeader__23e6b",
     "customContainer": "customContainer__23e6b",
+    "customContent": "customContent__23e6b",
     "customScroller": "customScroller__23e6b",
     "noticeRegion": "noticeRegion__23e6b",
     "noticeRegionHiddenSidebar": "noticeRegionHiddenSidebar__23e6b",
@@ -24893,6 +24894,9 @@
   "942300": {
     "wrapper": "wrapper_b8ebcd",
     "cards": "cards_b8ebcd"
+  },
+  "942460": {
+    "orbsRedeemButtonText": "orbsRedeemButtonText__8fc46"
   },
   "943128": {
     "description": "description_a47d61"
