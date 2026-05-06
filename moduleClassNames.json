@@ -6033,8 +6033,6 @@
     "art": "art__47998",
     "description": "description__47998",
     "conflictButton": "conflictButton__47998",
-    "linkButtonSize": "linkButtonSize__47998",
-    "linkButton": "linkButton__47998",
     "retryButton": "retryButton__47998",
     "conflictButtonInner": "conflictButtonInner__47998",
     "title": "title__47998",
@@ -15864,7 +15862,9 @@
     "gameIcon": "gameIcon__43a4b"
   },
   "581448": {
-    "popover": "popover_b438e7"
+    "popover": "popover_b438e7",
+    "userListItem": "userListItem_b438e7",
+    "userListItemText": "userListItemText_b438e7"
   },
   "581796": {
     "wrapper": "wrapper_d81f48",
@@ -18734,29 +18734,14 @@
   },
   "692236": {
     "container": "container__16577",
-    "live": "live__16577",
-    "streamPreviewContainer": "streamPreviewContainer__16577",
-    "placeholder": "placeholder__16577",
-    "streamPreviewImage": "streamPreviewImage__16577",
     "body": "body__16577",
     "content": "content__16577",
     "facecloud": "facecloud__16577",
     "labels": "labels__16577",
     "sublabel": "sublabel__16577",
-    "facepile": "facepile__16577",
     "chin": "chin__16577",
     "glow": "glow__16577",
-    "dots": "dots__16577",
-    "backdrop": "backdrop__16577",
-    "streamPreviewBackdrop": "streamPreviewBackdrop__16577",
-    "streamPreviewLoading": "streamPreviewLoading__16577",
-    "streamPreviewBackdropOverlay": "streamPreviewBackdropOverlay__16577",
-    "streamPreview": "streamPreview__16577",
-    "streamPreviewHover": "streamPreviewHover__16577",
-    "clickable": "clickable__16577",
-    "streamPreviewInner": "streamPreviewInner__16577",
-    "liveIndicator": "liveIndicator__16577",
-    "streamPreviewFade": "streamPreviewFade__16577"
+    "dots": "dots__16577"
   },
   "692275": {
     "table": "table__49035",
@@ -23534,7 +23519,9 @@
     "container": "container_c40875",
     "purchasePlaceholder": "purchasePlaceholder_c40875",
     "avatarDecorationPreview": "avatarDecorationPreview_c40875",
-    "nameplatePreview": "nameplatePreview_c40875"
+    "nameplatePreview": "nameplatePreview_c40875",
+    "profileFramePreview": "profileFramePreview_c40875",
+    "profileFrameInner": "profileFrameInner_c40875"
   },
   "893489": {
     "nagBar": "nagBar__9d860",
@@ -24468,6 +24455,9 @@
     "removeIcon": "removeIcon__3f339",
     "removeContainer": "removeContainer__3f339"
   },
+  "925932": {
+    "watchStreamRow": "watchStreamRow__43481"
+  },
   "926081": {
     "userContainer": "userContainer__3e7e2",
     "quotes": "quotes__3e7e2",
@@ -24874,6 +24864,7 @@
     "blockHeader": "blockHeader__08415",
     "headerLeft": "headerLeft__08415",
     "headerRight": "headerRight__08415",
+    "sortGroup": "sortGroup__08415",
     "feedblockInteractiveBackground": "feedblockInteractiveBackground__08415",
     "sortSelect": "sortSelect__08415",
     "title": "title__08415",
