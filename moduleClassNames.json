@@ -3609,9 +3609,10 @@
     "label": "label_ddf599"
   },
   "133112": {
-    "confirmCountryContainer": "confirmCountryContainer_ba2c2e",
+    "redemptionFormContainer": "redemptionFormContainer_ba2c2e",
     "headerFlag": "headerFlag_ba2c2e",
-    "giftCodeInputWrapper": "giftCodeInputWrapper_ba2c2e"
+    "giftCodeInputWrapper": "giftCodeInputWrapper_ba2c2e",
+    "legalText": "legalText_ba2c2e"
   },
   "133191": {
     "title": "title__2412b",
