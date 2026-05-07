@@ -503,13 +503,6 @@
     "container": "container_ca98d9",
     "footer": "footer_ca98d9"
   },
-  "16640": {
-    "action": "action__19ea7",
-    "options": "options__19ea7",
-    "previewAndJoin": "previewAndJoin__19ea7",
-    "voicePreview": "voicePreview__19ea7",
-    "joinButton": "joinButton__19ea7"
-  },
   "17095": {
     "serverCard": "serverCard__7bc6f",
     "guildIcon": "guildIcon__7bc6f",
@@ -11730,7 +11723,8 @@
     "section": "section__409aa",
     "sectionLabel": "sectionLabel__409aa",
     "label": "label__409aa",
-    "fixedContent": "fixedContent__409aa"
+    "fixedContent": "fixedContent__409aa",
+    "withShadow": "withShadow__409aa"
   },
   "444282": {
     "gameIcon": "gameIcon_b52e4f",
@@ -12053,10 +12047,6 @@
     "breadcrumbActive": "breadcrumbActive_befe67",
     "breadcrumbInactive": "breadcrumbInactive_befe67"
   },
-  "458330": {
-    "action": "action__2f109",
-    "button": "button__2f109"
-  },
   "458372": {
     "contentImage": "contentImage__42bf5"
   },
@@ -12313,13 +12303,6 @@
     "tabBarPanel": "tabBarPanel__37bfc",
     "tabPanelScroller": "tabPanelScroller__37bfc"
   },
-  "464429": {
-    "events": "events_fc210a",
-    "event": "event_fc210a",
-    "eventActiveBackground": "eventActiveBackground_fc210a",
-    "eventInfo": "eventInfo_fc210a",
-    "eventTimePeriod": "eventTimePeriod_fc210a"
-  },
   "464466": {
     "root": "root_c8dbe9",
     "sprite": "sprite_c8dbe9",
@@ -12354,6 +12337,11 @@
   },
   "466573": {
     "container": "container_caf802"
+  },
+  "466681": {
+    "previewCard": "previewCard_ee133f",
+    "previewBackgroundImage": "previewBackgroundImage_ee133f",
+    "previewEffectImage": "previewEffectImage_ee133f"
   },
   "466757": {
     "avatarBackground": "avatarBackground_eb2508",
@@ -14121,17 +14109,6 @@
     "voiceChannelOverflowCount": "voiceChannelOverflowCount__39ec2",
     "contextMenu": "contextMenu__39ec2",
     "appWidgetPreview": "appWidgetPreview__39ec2"
-  },
-  "514783": {
-    "container": "container_cda68a",
-    "background": "background_cda68a",
-    "header": "header_cda68a",
-    "logo": "logo_cda68a",
-    "heading": "heading_cda68a",
-    "avatar": "avatar_cda68a",
-    "content": "content_cda68a",
-    "manualOptions": "manualOptions_cda68a",
-    "upcomingEvents": "upcomingEvents_cda68a"
   },
   "515052": {
     "image": "image_d93468",
@@ -23459,6 +23436,7 @@
     "tile": "tile__4e9aa",
     "square": "square__4e9aa",
     "bar": "bar__4e9aa",
+    "full-height-bar": "full-height-bar__4e9aa",
     "tileButton": "tileButton__4e9aa",
     "disabled": "disabled__4e9aa",
     "content": "content__4e9aa",
