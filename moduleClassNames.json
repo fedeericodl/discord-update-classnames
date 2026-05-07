@@ -5959,12 +5959,17 @@
     "addFriendInputWrapper": "addFriendInputWrapper__72ba7",
     "error": "error__72ba7",
     "success": "success__72ba7",
+    "errorWithBg": "errorWithBg__72ba7",
+    "addFriendUsernameRow": "addFriendUsernameRow__72ba7",
     "addFriendWumpusWrapper": "addFriendWumpusWrapper__72ba7",
     "inputText": "inputText__72ba7",
     "addFriendInput": "addFriendInput__72ba7 inputText__72ba7",
     "input": "input__72ba7 inputText__72ba7",
     "addFriendHint": "addFriendHint__72ba7 inputText__72ba7",
-    "ring": "ring__72ba7"
+    "ring": "ring__72ba7",
+    "friendNoteTextContainer": "friendNoteTextContainer__72ba7",
+    "friendNoteTextArea": "friendNoteTextArea__72ba7 inputText__72ba7",
+    "characterCount": "characterCount__72ba7"
   },
   "235684": {
     "container": "container_f6db19"
@@ -14368,7 +14373,9 @@
     "listItemContents": "listItemContents_e1ecd3",
     "actions": "actions_e1ecd3",
     "staffIndicator": "staffIndicator_e1ecd3",
-    "applicationSublabel": "applicationSublabel_e1ecd3"
+    "applicationSublabel": "applicationSublabel_e1ecd3",
+    "noteSpoiler": "noteSpoiler_e1ecd3",
+    "noteText": "noteText_e1ecd3"
   },
   "525748": {
     "container": "container__551b0",
