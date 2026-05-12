@@ -8883,6 +8883,12 @@
     "progressTextOverlay": "progressTextOverlay__146e2",
     "progressText": "progressText__146e2"
   },
+  "337796": {
+    "root": "root_b92f52",
+    "hasPrivateBanner": "hasPrivateBanner_b92f52",
+    "outer": "outer_b92f52",
+    "modalHeaderButtons": "modalHeaderButtons_b92f52"
+  },
   "337889": {
     "label": "label__0d242",
     "labelChecked": "labelChecked__0d242",
@@ -12028,7 +12034,7 @@
     "animatedText": "animatedText_d79086"
   },
   "449572": {
-    "root": "root_fdf9c0",
+    "themeContainer": "themeContainer_fdf9c0",
     "background": "background_fdf9c0",
     "content": "content_fdf9c0",
     "textContainer": "textContainer_fdf9c0",
@@ -17619,21 +17625,20 @@
     "disabled": "disabled__8fea4"
   },
   "645625": {
-    "root": "root__9c3be",
     "layoutContainer": "layoutContainer__9c3be",
-    "hasPrivateBanner": "hasPrivateBanner__9c3be",
     "editingPanelEnabled": "editingPanelEnabled__9c3be",
     "isAnimating": "isAnimating__9c3be",
     "editingPanelExpanded": "editingPanelExpanded__9c3be",
-    "profileContentContainer": "profileContentContainer__9c3be",
+    "profileContentOuter": "profileContentOuter__9c3be",
+    "profileContentInner": "profileContentInner__9c3be",
     "editingPanelSlideIn": "editingPanelSlideIn__9c3be",
     "editingPanelBorderRadiusExpand": "editingPanelBorderRadiusExpand__9c3be",
     "editingPanel": "editingPanel__9c3be",
     "isExpanded": "isExpanded__9c3be",
     "editingPanelExpandButtonCompact": "editingPanelExpandButtonCompact__9c3be",
+    "editingPanelExpandButtonDefaultContainer": "editingPanelExpandButtonDefaultContainer__9c3be",
     "editingPanelExpandButtonDefault": "editingPanelExpandButtonDefault__9c3be",
     "pendingChangesToolbar": "pendingChangesToolbar__9c3be",
-    "modalHeaderButtons": "modalHeaderButtons__9c3be",
     "toast": "toast__9c3be",
     "interactionToast": "interactionToast__9c3be",
     "backgroundImage": "backgroundImage__9c3be",
@@ -21594,8 +21599,13 @@
     "expandTabSlideIn": "expandTabSlideIn_b08638",
     "tabButton": "tabButton_b08638",
     "panel": "panel_b08638",
+    "withGradient": "withGradient_b08638",
     "header": "header_b08638",
     "collapseButton": "collapseButton_b08638",
+    "guildProfileUpsell": "guildProfileUpsell_b08638",
+    "guildProfileUpsellContent": "guildProfileUpsellContent_b08638",
+    "lockDivider": "lockDivider_b08638",
+    "lockDividerCircle": "lockDividerCircle_b08638",
     "scroller": "scroller_b08638",
     "group": "group_b08638",
     "groupLabel": "groupLabel_b08638",
