@@ -9759,6 +9759,10 @@
     "chooseAccountHelpText": "chooseAccountHelpText_df9c06",
     "actions": "actions_df9c06"
   },
+  "365714": {
+    "headerLeft": "headerLeft__3e715",
+    "informationIcon": "informationIcon__3e715"
+  },
   "365863": {
     "actionContainer": "actionContainer_bc4513",
     "actionIconContainer": "actionIconContainer_bc4513",
@@ -18547,6 +18551,20 @@
     "rtsSidebarOpen": "rtsSidebarOpen__722ff",
     "channelChatWrapper": "channelChatWrapper__722ff"
   },
+  "678773": {
+    "track": "track__55b14",
+    "fill": "fill__55b14",
+    "animating": "animating__55b14",
+    "xs": "xs__55b14",
+    "sm": "sm__55b14",
+    "md": "md__55b14",
+    "lg": "lg__55b14",
+    "indeterminate": "indeterminate__55b14",
+    "indeterminateBar1": "indeterminateBar1__55b14 indeterminate__55b14",
+    "indeterminate1": "indeterminate1__55b14",
+    "indeterminateBar2": "indeterminateBar2__55b14 indeterminate__55b14",
+    "indeterminate2": "indeterminate2__55b14"
+  },
   "678871": {
     "container": "container__5682d",
     "image": "image__5682d",
@@ -21721,7 +21739,6 @@
     "premiumBrandRefreshInputBackground": "premiumBrandRefreshInputBackground_e4d803",
     "paymentSourceWrapper": "paymentSourceWrapper_e4d803",
     "paymentSourceOptionalWarning": "paymentSourceOptionalWarning_e4d803",
-    "currencyWrapper": "currencyWrapper_e4d803",
     "loader": "loader_e4d803",
     "contentWrapper": "contentWrapper_e4d803",
     "reviewWarningMessageContainer": "reviewWarningMessageContainer_e4d803",
@@ -24959,13 +24976,11 @@
     "heroHeaderLogo": "heroHeaderLogo__08415",
     "popularPicksSection": "popularPicksSection__08415",
     "blockHeader": "blockHeader__08415",
-    "headerLeft": "headerLeft__08415",
     "headerRight": "headerRight__08415",
     "sortGroup": "sortGroup__08415",
     "feedblockInteractiveBackground": "feedblockInteractiveBackground__08415",
     "sortSelect": "sortSelect__08415",
     "title": "title__08415",
-    "informationIcon": "informationIcon__08415",
     "subHeaderText": "subHeaderText__08415",
     "orbsSubHeaderText": "orbsSubHeaderText__08415",
     "heroHeaderButtonContainer": "heroHeaderButtonContainer__08415",
