@@ -17636,6 +17636,7 @@
     "editingPanel": "editingPanel__9c3be",
     "isExpanded": "isExpanded__9c3be",
     "editingPanelExpandButtonCompact": "editingPanelExpandButtonCompact__9c3be",
+    "anchorTabButtonDuringPanelCollapse": "anchorTabButtonDuringPanelCollapse__9c3be",
     "editingPanelExpandButtonDefaultContainer": "editingPanelExpandButtonDefaultContainer__9c3be",
     "editingPanelExpandButtonDefault": "editingPanelExpandButtonDefault__9c3be",
     "pendingChangesToolbar": "pendingChangesToolbar__9c3be",
@@ -21596,7 +21597,6 @@
     "emojiInput": "emojiInput__82d84"
   },
   "809467": {
-    "expandTabSlideIn": "expandTabSlideIn_b08638",
     "tabButton": "tabButton_b08638",
     "panel": "panel_b08638",
     "withGradient": "withGradient_b08638",
