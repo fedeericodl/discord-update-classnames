@@ -10858,6 +10858,9 @@
     "optionHelp": "optionHelp_b088b0",
     "fileInput": "fileInput_b088b0"
   },
+  "403095": {
+    "container": "container__2baeb"
+  },
   "403404": {
     "panel": "panel__79a1f",
     "panelHeader": "panelHeader__79a1f",
@@ -25838,6 +25841,10 @@
     "friend": "friend_bbd192",
     "match": "match_bbd192",
     "discordTag": "discordTag_bbd192",
+    "subtitleLine": "subtitleLine_bbd192",
+    "subtitleDot": "subtitleDot_bbd192",
+    "mutualGuildStack": "mutualGuildStack_bbd192",
+    "mutualGuildCount": "mutualGuildCount_bbd192",
     "friendSelected": "friendSelected_bbd192"
   },
   "973606": {
@@ -26060,6 +26067,7 @@
     "windows": "windows__4a98c",
     "linux": "linux__4a98c",
     "ios": "ios__4a98c",
+    "metaQuest": "metaQuest__4a98c",
     "downloadButton": "downloadButton__4a98c"
   },
   "982186": {
