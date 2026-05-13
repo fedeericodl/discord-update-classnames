@@ -3721,6 +3721,14 @@
     "benefitsContainer": "benefitsContainer__4328f",
     "benefit": "benefit__4328f"
   },
+  "138325": {
+    "container": "container_cfc01a",
+    "selectButton": "selectButton_cfc01a",
+    "guildIcon": "guildIcon_cfc01a",
+    "selectButtonLabel": "selectButtonLabel_cfc01a",
+    "selectButtonChevron": "selectButtonChevron_cfc01a",
+    "listbox": "listbox_cfc01a"
+  },
   "138984": {
     "scroller": "scroller__16663",
     "noticeContainer": "noticeContainer__16663",
@@ -7759,9 +7767,6 @@
     "backgroundImage": "backgroundImage_b05cb4",
     "wishlistBannerListItem": "wishlistBannerListItem_b05cb4",
     "orbsRewardNoticeFooter": "orbsRewardNoticeFooter_b05cb4"
-  },
-  "308696": {
-    "guildIcon": "guildIcon_b5e12d"
   },
   "308808": {
     "body": "body__968a4",
