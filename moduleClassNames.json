@@ -5440,9 +5440,6 @@
     "wrapper": "wrapper_fce7ca",
     "shine": "shine_fce7ca"
   },
-  "206989": {
-    "circleButtonBase": "circleButtonBase__90d72"
-  },
   "207715": {
     "renewalInvoiceDate": "renewalInvoiceDate_d313e6",
     "unifiedCheckoutInvoicePreviewLoader": "unifiedCheckoutInvoicePreviewLoader_d313e6"
@@ -14968,7 +14965,6 @@
   },
   "547732": {
     "listItemWrapper": "listItemWrapper__91816",
-    "listItemTooltipContent": "listItemTooltipContent__91816",
     "selected": "selected__91816"
   },
   "547735": {
