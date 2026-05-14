@@ -18215,10 +18215,6 @@
     "checkCircleCompleted": "checkCircleCompleted_c66e86",
     "icon": "icon_c66e86"
   },
-  "664184": {
-    "graphicSection": "graphicSection_a2cab2",
-    "headerCentered": "headerCentered_a2cab2"
-  },
   "664875": {
     "container": "container_bfcda3",
     "waveformCanvas": "waveformCanvas_bfcda3"
@@ -24280,11 +24276,6 @@
   },
   "910772": {
     "container": "container_abd9a8"
-  },
-  "912293": {
-    "container": "container_ad8aad",
-    "orbContainer": "orbContainer_ad8aad",
-    "value": "value_ad8aad"
   },
   "912802": {
     "hidden": "hidden_d2e74b",
