@@ -7842,7 +7842,9 @@
     "error": "error__7ff28"
   },
   "310882": {
-    "shareCTA": "shareCTA__18cbd"
+    "shareCTAButton": "shareCTAButton__18cbd",
+    "inactivePlayer": "inactivePlayer__18cbd",
+    "active": "active__18cbd"
   },
   "310887": {
     "placeholderPulse": "placeholderPulse__27cc6",
@@ -10879,9 +10881,6 @@
     "optionIcon": "optionIcon_b088b0",
     "optionHelp": "optionHelp_b088b0",
     "fileInput": "fileInput_b088b0"
-  },
-  "403095": {
-    "container": "container__2baeb"
   },
   "403404": {
     "panel": "panel__79a1f",
