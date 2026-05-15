@@ -1744,6 +1744,7 @@
   "63639": {
     "closeButton": "closeButton__23c09",
     "modal": "modal__23c09",
+    "refWrapper": "refWrapper__23c09",
     "modalContent": "modalContent__23c09",
     "leftPanel": "leftPanel__23c09",
     "rightPanel": "rightPanel__23c09",
@@ -16057,6 +16058,11 @@
     "boostIconCanceled": "boostIconCanceled__7402e",
     "snowflake": "snowflake__7402e"
   },
+  "583144": {
+    "trigger": "trigger__5d51e",
+    "logo": "logo__5d51e",
+    "placeholder": "placeholder__5d51e"
+  },
   "584105": {
     "streamerModeEnabled": "streamerModeEnabled_aa3ffd",
     "userSettingsStreamerModeEnabled": "userSettingsStreamerModeEnabled_aa3ffd",
@@ -16090,6 +16096,8 @@
     "tab": "tab__354ec",
     "tabContent": "tabContent__354ec",
     "tabWithChevron": "tabWithChevron__354ec",
+    "tabWithDisclosure": "tabWithDisclosure__354ec",
+    "disclosure": "disclosure__354ec",
     "more": "more__354ec",
     "tabWithIcon": "tabWithIcon__354ec",
     "newBadge": "newBadge__354ec"
@@ -23670,7 +23678,6 @@
     "iconAlignCenter": "iconAlignCenter__4e9aa",
     "iconAlignRight": "iconAlignRight__4e9aa",
     "deleteButtonWrapper": "deleteButtonWrapper__4e9aa",
-    "overlayIconBounceIn": "overlayIconBounceIn__4e9aa",
     "overlayIcon": "overlayIcon__4e9aa"
   },
   "890321": {
@@ -25284,6 +25291,17 @@
     "guildCategorySeparator": "guildCategorySeparator__3ad28",
     "standardStickerShortcut": "standardStickerShortcut__3ad28",
     "invisibleShortcut": "invisibleShortcut__3ad28"
+  },
+  "951259": {
+    "headerContainer": "headerContainer__57bc9",
+    "shopHomeButton": "shopHomeButton__57bc9",
+    "divider": "divider__57bc9",
+    "dropdown": "dropdown__57bc9",
+    "titles": "titles__57bc9",
+    "titleWrapper": "titleWrapper__57bc9",
+    "pageTitleContainer": "pageTitleContainer__57bc9",
+    "selectedPageIndicator": "selectedPageIndicator__57bc9",
+    "iconButton": "iconButton__57bc9"
   },
   "952311": {
     "container": "container__81040",
