@@ -2570,8 +2570,7 @@
     "soundEmojiContainer": "soundEmojiContainer_d54fab",
     "refresh": "refresh_d54fab",
     "animation": "animation_d54fab",
-    "spinner": "spinner_d54fab",
-    "giftBoxOptionContainer": "giftBoxOptionContainer_d54fab"
+    "spinner": "spinner_d54fab"
   },
   "93072": {
     "iconContainer": "iconContainer__45eb7",
@@ -25184,7 +25183,6 @@
     "submitButton": "submitButton_b962dc",
     "formItem": "formItem_b962dc",
     "resendButtonContainer": "resendButtonContainer_b962dc",
-    "notice": "notice_b962dc",
     "disclaimerFooter": "disclaimerFooter_b962dc",
     "guildProfile": "guildProfile_b962dc",
     "sidebarGradientOverlay": "sidebarGradientOverlay_b962dc"
