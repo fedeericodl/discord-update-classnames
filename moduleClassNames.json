@@ -3907,6 +3907,13 @@
     "activityClickable": "activityClickable__4364d",
     "title": "title__4364d"
   },
+  "145339": {
+    "entry": "entry_cd9a44",
+    "action": "action_cd9a44",
+    "shortcut": "shortcut_cd9a44",
+    "controls": "controls_cd9a44",
+    "switchChannel": "switchChannel_cd9a44"
+  },
   "146003": {
     "row": "row__28071",
     "divider": "divider__28071",
