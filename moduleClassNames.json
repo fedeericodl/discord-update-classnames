@@ -2714,6 +2714,7 @@
     "closeButton": "closeButton__9c640"
   },
   "97451": {
+    "modalContainer": "modalContainer__38295",
     "editorPane": "editorPane__38295",
     "editorContent": "editorContent__38295",
     "displayVideo": "displayVideo__38295",
@@ -11892,7 +11893,8 @@
     "attachmentItemSmall": "attachmentItemSmall__41ea0",
     "actionBarIcon": "actionBarIcon__41ea0",
     "action": "action__41ea0",
-    "clipOverlayHeader": "clipOverlayHeader__41ea0"
+    "clipOverlayHeader": "clipOverlayHeader__41ea0",
+    "clipOverlayHeaderContent": "clipOverlayHeaderContent__41ea0"
   },
   "443263": {
     "sidebar": "sidebar__409aa",
