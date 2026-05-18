@@ -1831,6 +1831,9 @@
     "editable": "editable__3f11f",
     "roleChiplet": "roleChiplet__3f11f"
   },
+  "66979": {
+    "icon": "icon_a1c007"
+  },
   "67468": {
     "pill": "pill_f19a5c",
     "pillGradient": "pillGradient_f19a5c",
@@ -2306,6 +2309,7 @@
   "82644": {
     "avatar": "avatar__49508",
     "divider": "divider__49508",
+    "channelStatusTooltipAnchor": "channelStatusTooltipAnchor__49508",
     "channelStatusClickable": "channelStatusClickable__49508",
     "channelStatus": "channelStatus__49508",
     "hoverable": "hoverable__49508",
@@ -4176,7 +4180,8 @@
     "item": "item_d17ea2"
   },
   "157841": {
-    "root": "root__4063d"
+    "root": "root__4063d",
+    "text": "text__4063d"
   },
   "158226": {
     "pro": "pro__30cbe",
@@ -8277,7 +8282,9 @@
     "content": "content_ad132e",
     "textContent": "textContent_ad132e",
     "progressContainer": "progressContainer_ad132e",
-    "progress": "progress_ad132e"
+    "progress": "progress_ad132e",
+    "progressText": "progressText_ad132e",
+    "textLeft": "textLeft_ad132e"
   },
   "321513": {
     "content": "content__0b2e7",
@@ -16401,8 +16408,7 @@
     "avatarWrapper": "avatarWrapper__70e41",
     "clockBadge": "clockBadge__70e41",
     "label": "label__70e41",
-    "username": "username__70e41",
-    "wasHere": "wasHere__70e41"
+    "username": "username__70e41"
   },
   "601961": {
     "inviteDetailsContainer": "inviteDetailsContainer_da5e8d",
@@ -18557,7 +18563,6 @@
     "eventHeader": "eventHeader__243fe",
     "activityHeader": "activityHeader__243fe",
     "eventHeaderUsername": "eventHeaderUsername__243fe",
-    "eventHeaderLabel": "eventHeaderLabel__243fe",
     "eventTime": "eventTime__243fe"
   },
   "672743": {
@@ -19215,7 +19220,7 @@
     "title": "title__61a6b"
   },
   "701054": {
-    "icon": "icon_eba32a"
+    "container": "container_eba32a"
   },
   "701628": {
     "ephemeral": "ephemeral__5126c",
@@ -19295,8 +19300,8 @@
     "skeletonGrid": "skeletonGrid_df3014"
   },
   "702769": {
-    "value": "value__4a231",
-    "icon": "icon__4a231"
+    "container": "container__4a231",
+    "value": "value__4a231"
   },
   "702923": {
     "wrapper": "wrapper__8b9fc",
