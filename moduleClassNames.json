@@ -13308,16 +13308,24 @@
     "badgeSlotSelected": "badgeSlotSelected__6db38",
     "badgeSlotIcon": "badgeSlotIcon__6db38",
     "detailPanel": "detailPanel__6db38",
-    "closeButton": "closeButton__6db38",
+    "descriptionCardExtras": "descriptionCardExtras__6db38",
     "badgeGraphic": "badgeGraphic__6db38",
     "badgeInfo": "badgeInfo__6db38",
+    "badgeDetails": "badgeDetails__6db38",
+    "closeButton": "closeButton__6db38",
     "badgeIdentity": "badgeIdentity__6db38",
     "badgeTitle": "badgeTitle__6db38",
     "uppercaseItalic": "uppercaseItalic__6db38",
-    "badgeDetails": "badgeDetails__6db38",
     "rarityCard": "rarityCard__6db38",
     "descriptionCard": "descriptionCard__6db38",
-    "descriptionText": "descriptionText__6db38"
+    "descriptionText": "descriptionText__6db38",
+    "descriptionDivider": "descriptionDivider__6db38",
+    "nitroTierUnlockDescription": "nitroTierUnlockDescription__6db38",
+    "nitroTierGrid": "nitroTierGrid__6db38",
+    "nitroTierItem": "nitroTierItem__6db38",
+    "nitroTierItemLocked": "nitroTierItemLocked__6db38",
+    "nitroTierIcon": "nitroTierIcon__6db38",
+    "nitroTierText": "nitroTierText__6db38"
   },
   "490334": {
     "container": "container__0a12b",
@@ -23290,6 +23298,11 @@
   },
   "873581": {
     "gameIcon": "gameIcon__5a366"
+  },
+  "873861": {
+    "container": "container__09698",
+    "label": "label__09698",
+    "paymentIcon": "paymentIcon__09698"
   },
   "874280": {
     "wrapper": "wrapper_f7ecac",
