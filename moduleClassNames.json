@@ -6916,6 +6916,12 @@
     "groupCollapsedRow": "groupCollapsedRow__5d030",
     "selected": "selected__5d030"
   },
+  "269999": {
+    "reward": "reward_e3f38d",
+    "rewardTileContainer": "rewardTileContainer_e3f38d",
+    "orbsBalanceIcon": "orbsBalanceIcon_e3f38d",
+    "gameTitle": "gameTitle_e3f38d"
+  },
   "270082": {
     "button": "button__67645",
     "redGlow": "redGlow__67645",
@@ -8110,6 +8116,10 @@
     "configListItemSelected": "configListItemSelected__25956 configListItem__25956",
     "configListItemClickable": "configListItemClickable__25956",
     "root": "root__25956"
+  },
+  "315767": {
+    "footerDescription": "footerDescription__44846",
+    "questDescriptionText": "questDescriptionText__44846"
   },
   "316305": {
     "popoutItem": "popoutItem__40caf",
@@ -9876,9 +9886,6 @@
     "heroImage": "heroImage_b5b7aa",
     "topRow": "topRow_b5b7aa",
     "pills": "pills_b5b7aa",
-    "pill": "pill_b5b7aa",
-    "pillBrand": "pillBrand_b5b7aa",
-    "eyebrowText": "eyebrowText_b5b7aa",
     "utilButtonWrapper": "utilButtonWrapper_b5b7aa",
     "utilButtonIcon": "utilButtonIcon_b5b7aa",
     "partnerBranding": "partnerBranding_b5b7aa",
@@ -12931,17 +12938,6 @@
     "mediaBarWrapperVolume": "mediaBarWrapperVolume_b26b79",
     "mediaBarProgress": "mediaBarProgress_b26b79 fakeEdges_b26b79"
   },
-  "478699": {
-    "container": "container__56dee",
-    "author": "author__56dee",
-    "closeIcon": "closeIcon__56dee",
-    "inline": "inline__56dee",
-    "discordIcon": "discordIcon__56dee",
-    "title": "title__56dee",
-    "notice": "notice__56dee",
-    "infoIcon": "infoIcon__56dee",
-    "separator": "separator__56dee"
-  },
   "478799": {
     "header": "header__4591d",
     "description": "description__4591d",
@@ -14979,6 +14975,17 @@
     "dismissButton": "dismissButton__29444",
     "dismiss": "dismiss__29444",
     "refreshVoiceChannelsButton": "refreshVoiceChannelsButton__29444"
+  },
+  "547032": {
+    "container": "container__6d3d8",
+    "heroBackground": "heroBackground__6d3d8",
+    "heroVideo": "heroVideo__6d3d8",
+    "heroVideoVisible": "heroVideoVisible__6d3d8",
+    "scrim": "scrim__6d3d8",
+    "scrimHovering": "scrimHovering__6d3d8",
+    "header": "header__6d3d8",
+    "circularOverlayButton": "circularOverlayButton__6d3d8",
+    "circularOverlayButtonHovering": "circularOverlayButtonHovering__6d3d8"
   },
   "547732": {
     "listItemWrapper": "listItemWrapper__91816",
@@ -18968,10 +18975,8 @@
     "shelfCardIntroVideo": "shelfCardIntroVideo_c676ef",
     "introCardCta": "introCardCta_c676ef",
     "shelfCardQuest": "shelfCardQuest_c676ef",
-    "shelfCardQuestLogo": "shelfCardQuestLogo_c676ef",
     "shelfCardQuestDetails": "shelfCardQuestDetails_c676ef",
     "progressWrapper": "progressWrapper_c676ef",
-    "gameTile": "gameTile_c676ef",
     "rewardName": "rewardName_c676ef",
     "viewQuestCta": "viewQuestCta_c676ef"
   },
@@ -19592,6 +19597,11 @@
   "718699": {
     "effectsWrapper": "effectsWrapper__78936",
     "effects": "effects__78936"
+  },
+  "719021": {
+    "badge": "badge_d5a27a",
+    "badgeTask": "badgeTask_d5a27a",
+    "badgeIcon": "badgeIcon_d5a27a"
   },
   "719938": {
     "loadingContainer": "loadingContainer_f3bc7c",
@@ -24499,6 +24509,11 @@
     "value": "value_e0d4cd",
     "optionSpacer": "optionSpacer_e0d4cd",
     "infoBox": "infoBox_e0d4cd"
+  },
+  "919500": {
+    "cta": "cta_bdbd5b",
+    "ctaVisible": "ctaVisible_bdbd5b",
+    "ctaContent": "ctaContent_bdbd5b"
   },
   "919563": {
     "container": "container__10b77",
