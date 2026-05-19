@@ -1150,7 +1150,10 @@
     "content": "content__53455",
     "title": "title__53455",
     "logo": "logo__53455",
-    "cta": "cta__53455"
+    "cta": "cta__53455",
+    "divider": "divider__53455",
+    "perksSection": "perksSection__53455",
+    "footer": "footer__53455"
   },
   "35783": {
     "displayNameContent": "displayNameContent_b51b39"
@@ -10874,9 +10877,6 @@
     "optionHelp": "optionHelp_b088b0",
     "fileInput": "fileInput_b088b0"
   },
-  "403095": {
-    "container": "container__2baeb"
-  },
   "403404": {
     "panel": "panel__79a1f",
     "panelHeader": "panelHeader__79a1f",
@@ -12516,6 +12516,26 @@
   },
   "465380": {
     "suggestedGames": "suggestedGames_dbb349"
+  },
+  "465388": {
+    "modal": "modal__4331e",
+    "header": "header__4331e",
+    "logoRow": "logoRow__4331e",
+    "xboxLogo": "xboxLogo__4331e",
+    "logoSeparator": "logoSeparator__4331e",
+    "subtitle": "subtitle__4331e",
+    "perkList": "perkList__4331e",
+    "perkCard": "perkCard__4331e",
+    "perkContent": "perkContent__4331e",
+    "perkIcon": "perkIcon__4331e",
+    "perkTitleRow": "perkTitleRow__4331e",
+    "perkDescription": "perkDescription__4331e",
+    "progressBar": "progressBar__4331e",
+    "perkThumbnail": "perkThumbnail__4331e",
+    "perkThumbnailImage": "perkThumbnailImage__4331e",
+    "orbsMultiplierThumbnailImage": "orbsMultiplierThumbnailImage__4331e",
+    "shopDiscountThumbnailImage": "shopDiscountThumbnailImage__4331e",
+    "footer": "footer__4331e"
   },
   "465919": {
     "upsell": "upsell__3b4ae"
@@ -15863,6 +15883,20 @@
     "searchIndexForeground": "searchIndexForeground__8a209",
     "magnifyingGlass": "magnifyingGlass__8a209",
     "mask": "mask__8a209"
+  },
+  "576633": {
+    "banner": "banner_ea1e6c",
+    "artContainer": "artContainer_ea1e6c",
+    "artOverlay": "artOverlay_ea1e6c",
+    "blur": "blur_ea1e6c",
+    "content": "content_ea1e6c",
+    "copy": "copy_ea1e6c",
+    "perks": "perks_ea1e6c",
+    "perk": "perk_ea1e6c",
+    "perkIcon": "perkIcon_ea1e6c",
+    "actions": "actions_ea1e6c",
+    "learnMoreButton": "learnMoreButton_ea1e6c",
+    "bannerWrapper": "bannerWrapper_ea1e6c"
   },
   "576642": {
     "roleContainer": "roleContainer__37066",
@@ -20618,7 +20652,9 @@
   },
   "760345": {
     "inputField": "inputField__085ad",
+    "inputFieldMinute": "inputFieldMinute__085ad inputField__085ad",
     "inputFieldRange": "inputFieldRange__085ad inputField__085ad",
+    "inputFieldRangeMinute": "inputFieldRangeMinute__085ad inputField__085ad",
     "inputFieldFullWidth": "inputFieldFullWidth__085ad inputField__085ad",
     "picker": "picker__085ad",
     "placeholder": "placeholder__085ad",
@@ -24628,8 +24664,6 @@
     "searchBar": "searchBar_e6b769",
     "familyCenterLinkButton": "familyCenterLinkButton_e6b769",
     "friendsButtonContainer": "friendsButtonContainer_e6b769",
-    "friendsBadge": "friendsBadge_e6b769",
-    "confetti": "confetti_e6b769",
     "themedHeaderMobile": "themedHeaderMobile_e6b769",
     "familyCenterButtonContainer": "familyCenterButtonContainer_e6b769",
     "withPadding": "withPadding_e6b769",
@@ -24683,12 +24717,12 @@
     "info": "info__51057"
   },
   "928661": {
-    "marginContainer": "marginContainer_f5f9ed",
+    "headerContainer": "headerContainer_f5f9ed",
+    "promotions": "promotions_f5f9ed",
     "gradientContainer": "gradientContainer_f5f9ed",
     "promoHeaderContainer": "promoHeaderContainer_f5f9ed",
     "promoDescription": "promoDescription_f5f9ed",
     "promoNitroButton": "promoNitroButton_f5f9ed",
-    "skuCard": "skuCard_f5f9ed",
     "emptyState": "emptyState_f5f9ed",
     "emptyStateHeader": "emptyStateHeader_f5f9ed",
     "emptyStateSubtext": "emptyStateSubtext_f5f9ed",
@@ -26243,6 +26277,8 @@
   },
   "985176": {
     "container": "container__9bfb9",
+    "connectionList": "connectionList__9bfb9",
+    "addConnectionButton": "addConnectionButton__9bfb9",
     "connection": "connection__9bfb9",
     "connectionInfo": "connectionInfo__9bfb9",
     "platformIconContainer": "platformIconContainer__9bfb9",
