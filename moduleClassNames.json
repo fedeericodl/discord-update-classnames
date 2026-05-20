@@ -4341,6 +4341,11 @@
     "badgesContainerPopout": "badgesContainerPopout__635ed",
     "appWidgetPreviewIcon": "appWidgetPreviewIcon__635ed"
   },
+  "164720": {
+    "stickyMessage": "stickyMessage__451f5",
+    "scroller": "scroller__451f5",
+    "divider": "divider__451f5"
+  },
   "165553": {
     "container": "container__935b3",
     "titleContainer": "titleContainer__935b3",
