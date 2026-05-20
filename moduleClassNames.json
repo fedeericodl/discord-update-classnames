@@ -16132,8 +16132,6 @@
     "tab": "tab__354ec",
     "tabContent": "tabContent__354ec",
     "tabWithChevron": "tabWithChevron__354ec",
-    "tabWithDisclosure": "tabWithDisclosure__354ec",
-    "disclosure": "disclosure__354ec",
     "more": "more__354ec",
     "tabWithIcon": "tabWithIcon__354ec",
     "newBadge": "newBadge__354ec"
@@ -25735,7 +25733,17 @@
     "linkedLobbyApplicationIcon": "linkedLobbyApplicationIcon_f75fb0",
     "linkedLobbyEducationTooltip": "linkedLobbyEducationTooltip_f75fb0",
     "linkedLobbyEducationTooltipCloseClickContainer": "linkedLobbyEducationTooltipCloseClickContainer_f75fb0",
-    "linkedLobbyEducationTooltipCloseIcon": "linkedLobbyEducationTooltipCloseIcon_f75fb0"
+    "linkedLobbyEducationTooltipCloseIcon": "linkedLobbyEducationTooltipCloseIcon_f75fb0",
+    "akaPopoverContent": "akaPopoverContent_f75fb0",
+    "akaPopoverHeader": "akaPopoverHeader_f75fb0",
+    "akaPopoverUsername": "akaPopoverUsername_f75fb0",
+    "akaPopoverDivider": "akaPopoverDivider_f75fb0",
+    "akaPopoverBadge": "akaPopoverBadge_f75fb0",
+    "akaPopoverNicknames": "akaPopoverNicknames_f75fb0",
+    "akaPopoverRow": "akaPopoverRow_f75fb0",
+    "akaPopoverNickname": "akaPopoverNickname_f75fb0",
+    "dmHeaderActivityStatus": "dmHeaderActivityStatus_f75fb0",
+    "dmHeaderActivityStatusClickable": "dmHeaderActivityStatusClickable_f75fb0"
   },
   "964837": {
     "titleBar": "titleBar__421ed",
