@@ -1024,8 +1024,7 @@
   },
   "32304": {
     "container": "container__343c1",
-    "sectionWrapper": "sectionWrapper__343c1",
-    "hidden": "hidden__343c1"
+    "sectionWrapper": "sectionWrapper__343c1"
   },
   "32589": {
     "divider": "divider__98b95",
@@ -6947,9 +6946,14 @@
   },
   "269999": {
     "reward": "reward_e3f38d",
+    "textContainer": "textContainer_e3f38d",
     "rewardTileContainer": "rewardTileContainer_e3f38d",
+    "questRewardTileWrapper": "questRewardTileWrapper_e3f38d",
     "orbsBalanceIcon": "orbsBalanceIcon_e3f38d",
-    "gameTitle": "gameTitle_e3f38d"
+    "gameTitle": "gameTitle_e3f38d",
+    "questRewardTileOverlay": "questRewardTileOverlay_e3f38d",
+    "questRewardTileCompletedIcon": "questRewardTileCompletedIcon_e3f38d",
+    "questRewardTileExpiredIcon": "questRewardTileExpiredIcon_e3f38d"
   },
   "270082": {
     "button": "button__67645",
@@ -16952,9 +16956,13 @@
     "currentPrice": "currentPrice_da8ac7",
     "strikethroughPrice": "strikethroughPrice_da8ac7",
     "originalPrice": "originalPrice_da8ac7",
+    "iconDefaultBackground": "iconDefaultBackground_da8ac7",
     "icon": "icon_da8ac7",
     "expressiveGradient": "expressiveGradient_da8ac7",
+    "nitroGradient": "nitroGradient_da8ac7",
+    "nitroGradientLayer": "nitroGradientLayer_da8ac7",
     "nitroCredit": "nitroCredit_da8ac7",
+    "nitroBasic": "nitroBasic_da8ac7",
     "bundleMiniStaticPreview": "bundleMiniStaticPreview_da8ac7",
     "purchaseItemImage": "purchaseItemImage_da8ac7"
   },
@@ -22506,8 +22514,8 @@
   "834312": {
     "root": "root__5ab06",
     "header": "header__5ab06",
-    "imageSkeleton": "imageSkeleton__5ab06",
-    "image": "image__5ab06"
+    "image": "image__5ab06",
+    "imageSkeleton": "imageSkeleton__5ab06"
   },
   "834581": {
     "safetyBanner": "safetyBanner__51e4d",
