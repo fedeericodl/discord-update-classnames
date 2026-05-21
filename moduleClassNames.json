@@ -1144,15 +1144,18 @@
   "34934": {
     "sectionHeader": "sectionHeader__53455",
     "card": "card__53455",
+    "background": "background__53455",
+    "art": "art__53455",
     "progressiveBlur": "progressiveBlur__53455",
+    "fade": "fade__53455",
     "overlay": "overlay__53455",
-    "content": "content__53455",
-    "title": "title__53455",
+    "top": "top__53455",
+    "topRow": "topRow__53455",
     "logo": "logo__53455",
+    "title": "title__53455",
     "cta": "cta__53455",
     "divider": "divider__53455",
-    "perksSection": "perksSection__53455",
-    "footer": "footer__53455"
+    "bottom": "bottom__53455"
   },
   "35783": {
     "displayNameContent": "displayNameContent_b51b39"
@@ -5621,18 +5624,6 @@
     "errorsContainer": "errorsContainer__5b400",
     "tooltip": "tooltip__5b400"
   },
-  "213178": {
-    "closeButton": "closeButton__3bf54",
-    "upsellImage": "upsellImage__3bf54",
-    "upsellImageWithTrialOffer": "upsellImageWithTrialOffer__3bf54",
-    "premiumTrialBadge": "premiumTrialBadge__3bf54",
-    "bodyText": "bodyText__3bf54",
-    "perksList": "perksList__3bf54",
-    "perkIconGuild": "perkIconGuild__3bf54",
-    "perkIconUpload": "perkIconUpload__3bf54",
-    "perkIconStream": "perkIconStream__3bf54",
-    "perkIconChatPerks": "perkIconChatPerks__3bf54"
-  },
   "213494": {
     "card": "card__9ed47",
     "cardPreview": "cardPreview__9ed47",
@@ -6416,6 +6407,9 @@
     "constrainedRow": "constrainedRow_a9178b",
     "usernameRow": "usernameRow_a9178b",
     "usernameInnerRow": "usernameInnerRow_a9178b"
+  },
+  "246950": {
+    "notEditable": "notEditable_fb1442"
   },
   "247651": {
     "icon": "icon_c76ab6"
@@ -10949,6 +10943,18 @@
     "optionIcon": "optionIcon_b088b0",
     "optionHelp": "optionHelp_b088b0",
     "fileInput": "fileInput_b088b0"
+  },
+  "403052": {
+    "closeButton": "closeButton__2d726",
+    "upsellImage": "upsellImage__2d726",
+    "upsellImageWithTrialOffer": "upsellImageWithTrialOffer__2d726",
+    "premiumTrialBadge": "premiumTrialBadge__2d726",
+    "bodyText": "bodyText__2d726",
+    "perksList": "perksList__2d726",
+    "perkIconGuild": "perkIconGuild__2d726",
+    "perkIconUpload": "perkIconUpload__2d726",
+    "perkIconStream": "perkIconStream__2d726",
+    "perkIconChatPerks": "perkIconChatPerks__2d726"
   },
   "403095": {
     "container": "container__2baeb"
@@ -17338,6 +17344,7 @@
     "stepIndicator": "stepIndicator_a99139",
     "stepIconWrapper": "stepIconWrapper_a99139",
     "stepWrapperComplete": "stepWrapperComplete_a99139",
+    "stepWrapperCurrent": "stepWrapperCurrent_a99139",
     "stepConnector": "stepConnector_a99139",
     "stepIcon": "stepIcon_a99139"
   },
@@ -17895,7 +17902,8 @@
     "profileBanner": "profileBanner__9c3be",
     "profileButtons": "profileButtons__9c3be",
     "profileRolesSection": "profileRolesSection__9c3be",
-    "profileAppConnections": "profileAppConnections__9c3be"
+    "profileAppConnections": "profileAppConnections__9c3be",
+    "memberSinceText": "memberSinceText__9c3be"
   },
   "645650": {
     "applicationEducation": "applicationEducation__526cc",
@@ -26691,6 +26699,21 @@
     "maybeClickable": "maybeClickable_af3b89",
     "popoutGiftingBreadcrumb": "popoutGiftingBreadcrumb_af3b89",
     "popoutRewardOfferNotice": "popoutRewardOfferNotice_af3b89"
+  },
+  "994182": {
+    "panel": "panel__3932d",
+    "tabBar": "tabBar__3932d",
+    "tabItem": "tabItem__3932d",
+    "tabItemSelected": "tabItemSelected__3932d",
+    "tabContent": "tabContent__3932d",
+    "section": "section__3932d",
+    "gamesSection": "gamesSection__3932d",
+    "card": "card__3932d",
+    "cardHeader": "cardHeader__3932d",
+    "appIcon": "appIcon__3932d",
+    "appInfo": "appInfo__3932d",
+    "callLogHeader": "callLogHeader__3932d",
+    "eligible": "eligible__3932d"
   },
   "994190": {
     "icon": "icon__58921"
