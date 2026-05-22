@@ -14294,6 +14294,8 @@
     "primaryButton": "primaryButton__39ec2",
     "customButtons": "customButtons__39ec2",
     "fullWidth": "fullWidth__39ec2",
+    "verticalStackedButtons": "verticalStackedButtons__39ec2",
+    "horizontalWrappingButtons": "horizontalWrappingButtons__39ec2",
     "badges": "badges__39ec2",
     "clickableContainer": "clickableContainer__39ec2",
     "clickableImage": "clickableImage__39ec2",
