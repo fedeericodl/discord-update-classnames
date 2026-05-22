@@ -13366,12 +13366,6 @@
     "descriptionText": "descriptionText__6db38",
     "legacyLabel": "legacyLabel__6db38",
     "descriptionCardExtras": "descriptionCardExtras__6db38",
-    "nitroTierUnlockDescription": "nitroTierUnlockDescription__6db38",
-    "nitroTierGrid": "nitroTierGrid__6db38",
-    "nitroTierItem": "nitroTierItem__6db38",
-    "nitroTierItemLocked": "nitroTierItemLocked__6db38",
-    "nitroTierIcon": "nitroTierIcon__6db38",
-    "nitroTierText": "nitroTierText__6db38",
     "directoryFooter": "directoryFooter__6db38",
     "badgeOwnership": "badgeOwnership__6db38",
     "badgeOwnershipText": "badgeOwnershipText__6db38"
@@ -24128,6 +24122,16 @@
     "streaming": "streaming__99ff4",
     "streamerIconWrapper": "streamerIconWrapper__99ff4",
     "streamerIcon": "streamerIcon__99ff4"
+  },
+  "899696": {
+    "tierTimelineDescription": "tierTimelineDescription_bf9073",
+    "tierTimelineGrid": "tierTimelineGrid_bf9073",
+    "tierTimelineRow": "tierTimelineRow_bf9073",
+    "tierTimelineItem": "tierTimelineItem_bf9073",
+    "tierTimelineGridCompact": "tierTimelineGridCompact_bf9073",
+    "tierTimelineItemLocked": "tierTimelineItemLocked_bf9073",
+    "tierTimelineIcon": "tierTimelineIcon_bf9073",
+    "tierTimelineText": "tierTimelineText_bf9073"
   },
   "900183": {
     "icon": "icon__2ed4c",
