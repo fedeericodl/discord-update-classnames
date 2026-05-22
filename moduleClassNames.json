@@ -6159,7 +6159,7 @@
     "characterCount": "characterCount__72ba7"
   },
   "235684": {
-    "container": "container_f6db19"
+    "upsell": "upsell_f6db19"
   },
   "235686": {
     "root": "root_b1a15e",
@@ -21857,12 +21857,14 @@
     "lockDivider": "lockDivider_b08638",
     "lockDividerCircle": "lockDividerCircle_b08638",
     "scroller": "scroller_b08638",
+    "withUpsellSafePadding": "withUpsellSafePadding_b08638",
     "group": "group_b08638",
     "groupLabel": "groupLabel_b08638",
     "groupLabelHeading": "groupLabelHeading_b08638",
     "groupLabelIcon": "groupLabelIcon_b08638",
     "perServerNotice": "perServerNotice_b08638",
-    "perServerNoticeDismissButton": "perServerNoticeDismissButton_b08638"
+    "perServerNoticeDismissButton": "perServerNoticeDismissButton_b08638",
+    "floatingUpsellContainer": "floatingUpsellContainer_b08638"
   },
   "809657": {
     "button": "button__201d5",
