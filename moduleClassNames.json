@@ -7573,6 +7573,21 @@
     "iconButton": "iconButton__8a7fc",
     "floatingSearchTabsMask": "floatingSearchTabsMask__8a7fc"
   },
+  "296364": {
+    "cardContainer": "cardContainer__01785",
+    "card": "card__01785",
+    "thumbnail": "thumbnail__01785",
+    "thumbnailWrap": "thumbnailWrap__01785",
+    "thumbnailFallback": "thumbnailFallback__01785",
+    "gradient": "gradient__01785",
+    "gameBadge": "gameBadge__01785",
+    "topActions": "topActions__01785",
+    "gameBadgeIcon": "gameBadgeIcon__01785",
+    "overlay": "overlay__01785",
+    "iconBadge": "iconBadge__01785",
+    "actionsPlaceholder": "actionsPlaceholder__01785",
+    "actions": "actions__01785"
+  },
   "296589": {
     "paymentNote": "paymentNote__56a21"
   },
@@ -12187,6 +12202,12 @@
     "title": "title__4c385",
     "spinner": "spinner__4c385"
   },
+  "452143": {
+    "section": "section__59668",
+    "header": "header__59668",
+    "heading": "heading__59668",
+    "scrollContainer": "scrollContainer__59668"
+  },
   "452732": {
     "modalContent": "modalContent__2bb83",
     "spamRequest": "spamRequest__2bb83",
@@ -16507,7 +16528,8 @@
     "divider": "divider__92059",
     "footer": "footer__92059",
     "deauthorizeButton": "deauthorizeButton__92059",
-    "headingCard": "headingCard__92059"
+    "headingCard": "headingCard__92059",
+    "emptyState": "emptyState__92059"
   },
   "601884": {
     "row": "row__70e41",
@@ -21268,7 +21290,8 @@
     "metadataRefreshButton": "metadataRefreshButton__41de9",
     "connectedAccountVanityMetadataCreatedAt": "connectedAccountVanityMetadataCreatedAt__41de9",
     "connectionMetadataUpsellTag": "connectionMetadataUpsellTag__41de9",
-    "connectionMetadataUpsellDescription": "connectionMetadataUpsellDescription__41de9"
+    "connectionMetadataUpsellDescription": "connectionMetadataUpsellDescription__41de9",
+    "emptyState": "emptyState__41de9"
   },
   "781516": {
     "container": "container_d3846c",
@@ -21980,6 +22003,21 @@
   },
   "812001": {
     "infoMessage": "infoMessage__56d1c"
+  },
+  "812924": {
+    "overlayHeader": "overlayHeader__0a5bd",
+    "isFullscreen": "isFullscreen__0a5bd",
+    "overlayGradient": "overlayGradient__0a5bd",
+    "minimized": "minimized__0a5bd",
+    "overlayContent": "overlayContent__0a5bd",
+    "textInfo": "textInfo__0a5bd",
+    "titleRow": "titleRow__0a5bd",
+    "titleIcon": "titleIcon__0a5bd",
+    "metadata": "metadata__0a5bd",
+    "title": "title__0a5bd",
+    "clickableGameName": "clickableGameName__0a5bd",
+    "avatars": "avatars__0a5bd",
+    "participantAvatar": "participantAvatar__0a5bd"
   },
   "813433": {
     "hidden": "hidden_b54fe3"
@@ -24049,21 +24087,6 @@
     "buttonText": "buttonText__270d7",
     "newBadge": "newBadge__270d7"
   },
-  "895054": {
-    "overlayHeader": "overlayHeader__4774c",
-    "isFullscreen": "isFullscreen__4774c",
-    "overlayGradient": "overlayGradient__4774c",
-    "minimized": "minimized__4774c",
-    "overlayContent": "overlayContent__4774c",
-    "textInfo": "textInfo__4774c",
-    "titleRow": "titleRow__4774c",
-    "titleIcon": "titleIcon__4774c",
-    "metadata": "metadata__4774c",
-    "title": "title__4774c",
-    "clickableGameName": "clickableGameName__4774c",
-    "avatars": "avatars__4774c",
-    "participantAvatar": "participantAvatar__4774c"
-  },
   "895533": {
     "gradientButtonContainer": "gradientButtonContainer__488d9",
     "colorSelectorPopoutContainer": "colorSelectorPopoutContainer__488d9",
@@ -24421,6 +24444,13 @@
   "908504": {
     "container": "container_a5fa1d",
     "divider": "divider_a5fa1d"
+  },
+  "909022": {
+    "bar": "bar_a750ac",
+    "emojis": "emojis_a750ac",
+    "minimized": "minimized_a750ac",
+    "button": "button_a750ac",
+    "divider": "divider_a750ac"
   },
   "909714": {
     "card": "card__3eaf0",
@@ -25063,6 +25093,13 @@
     "icon": "icon__56d75",
     "closeButton": "closeButton__56d75",
     "closeIcon": "closeIcon__56d75"
+  },
+  "933668": {
+    "timeline": "timeline__76ea6",
+    "minimized": "minimized__76ea6",
+    "marker": "marker__76ea6",
+    "emoji": "emoji__76ea6",
+    "chatIcon": "chatIcon__76ea6"
   },
   "933928": {
     "headerContainer": "headerContainer__095fe",
