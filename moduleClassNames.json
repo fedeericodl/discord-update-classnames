@@ -4873,13 +4873,6 @@
     "midnightIcon": "midnightIcon__36dee",
     "lightIcon": "lightIcon__36dee"
   },
-  "180846": {
-    "container": "container__3f21e",
-    "disabled": "disabled__3f21e",
-    "checked": "checked__3f21e",
-    "input": "input__3f21e",
-    "slider": "slider__3f21e"
-  },
   "180984": {
     "container": "container__71cd5"
   },
@@ -14642,6 +14635,14 @@
     "navItem": "navItem__551b0",
     "selected": "selected__551b0"
   },
+  "525897": {
+    "container": "container_b39700",
+    "barRow": "barRow_b39700",
+    "progressBarTrack": "progressBarTrack_b39700",
+    "progressBarFill": "progressBarFill_b39700",
+    "labels": "labels_b39700",
+    "tierIcon": "tierIcon_b39700"
+  },
   "526399": {
     "tier2Animation": "tier2Animation__387d4",
     "panningAnimation": "panningAnimation__387d4",
@@ -16916,6 +16917,13 @@
   },
   "615170": {
     "wrapper": "wrapper_d852db"
+  },
+  "615876": {
+    "content": "content_e6ca69",
+    "progressRow": "progressRow_e6ca69",
+    "messageSection": "messageSection_e6ca69",
+    "levelUpCopy": "levelUpCopy_e6ca69",
+    "badgeIcon": "badgeIcon_e6ca69"
   },
   "615990": {
     "serverDetailsContainer": "serverDetailsContainer__9ca53",
@@ -20383,7 +20391,9 @@
     "previewContainer": "previewContainer_c9a5b2",
     "profileContainer": "profileContainer_c9a5b2",
     "sampleProfile": "sampleProfile_c9a5b2",
-    "small": "small_c9a5b2"
+    "small": "small_c9a5b2",
+    "transparentSampleProfile": "transparentSampleProfile_c9a5b2",
+    "backLayerMask": "backLayerMask_c9a5b2"
   },
   "744315": {
     "container": "container_db6581",
@@ -23056,6 +23066,14 @@
     "descriptionClamp": "descriptionClamp_f5f93a",
     "maxBioHeight": "maxBioHeight_f5f93a"
   },
+  "852406": {
+    "row": "row_cda434",
+    "content": "content_cda434",
+    "progressBarTrack": "progressBarTrack_cda434",
+    "progressBarFill": "progressBarFill_cda434",
+    "labels": "labels_cda434",
+    "tierIcon": "tierIcon_cda434"
+  },
   "852456": {
     "container": "container__78320",
     "content": "content__78320",
@@ -24125,6 +24143,7 @@
     "headerRight": "headerRight_df4c28",
     "copyLinkSplit": "copyLinkSplit_df4c28",
     "sidebar": "sidebar_df4c28",
+    "deprecationNotice": "deprecationNotice_df4c28",
     "page": "page_df4c28",
     "content": "content_df4c28",
     "main": "main_df4c28",
@@ -26920,6 +26939,7 @@
     "nameplatePreview": "nameplatePreview__517e1",
     "nameplatePreviewRescaler": "nameplatePreviewRescaler__517e1",
     "bundlePreview": "bundlePreview__517e1",
+    "profileFramePreview": "profileFramePreview__517e1",
     "premiumPreview": "premiumPreview__517e1",
     "premiumRive": "premiumRive__517e1",
     "premiumCardHover": "premiumCardHover__517e1"
