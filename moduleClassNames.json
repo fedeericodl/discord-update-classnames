@@ -1177,6 +1177,20 @@
     "cancel": "cancel__7e919",
     "image": "image__7e919"
   },
+  "36482": {
+    "container": "container__2bb7a",
+    "controls": "controls__2bb7a",
+    "row": "row__2bb7a",
+    "divider": "divider__2bb7a",
+    "label": "label__2bb7a",
+    "modeSelector": "modeSelector__2bb7a",
+    "slider": "slider__2bb7a",
+    "modeButton": "modeButton__2bb7a",
+    "modeButtonActive": "modeButtonActive__2bb7a",
+    "visualizer": "visualizer__2bb7a",
+    "canvas": "canvas__2bb7a",
+    "avatar": "avatar__2bb7a"
+  },
   "36721": {
     "popoutWrapper": "popoutWrapper_d6b206",
     "scroller": "scroller_d6b206",
@@ -18022,21 +18036,6 @@
     "previewImageContainer": "previewImageContainer__82fb2",
     "previewImage": "previewImage__82fb2"
   },
-  "647160": {
-    "container": "container__13517",
-    "controls": "controls__13517",
-    "heading": "heading__13517",
-    "row": "row__13517",
-    "divider": "divider__13517",
-    "label": "label__13517",
-    "modeSelector": "modeSelector__13517",
-    "slider": "slider__13517",
-    "modeButton": "modeButton__13517",
-    "modeButtonActive": "modeButtonActive__13517",
-    "visualizer": "visualizer__13517",
-    "canvas": "canvas__13517",
-    "avatar": "avatar__13517"
-  },
   "647685": {
     "shopViewWrapper": "shopViewWrapper__6db1d",
     "visible": "visible__6db1d",
@@ -19405,8 +19404,8 @@
     "thumbnailRow": "thumbnailRow__848b5",
     "thumbnail": "thumbnail__848b5",
     "thumbnailSelected": "thumbnailSelected__848b5",
+    "thumbnailContent": "thumbnailContent__848b5",
     "activeItem": "activeItem__848b5",
-    "bundleSlideFadeIn": "bundleSlideFadeIn__848b5",
     "activeItemName": "activeItemName__848b5"
   },
   "701628": {
@@ -20386,7 +20385,7 @@
     "collectiblePreviewsContainer": "collectiblePreviewsContainer__7f14f",
     "previewContainer": "previewContainer__7f14f",
     "previewSurface": "previewSurface__7f14f",
-    "bundleSlideFadeIn": "bundleSlideFadeIn__7f14f",
+    "previewFadeIn": "previewFadeIn__7f14f",
     "collectiblePreviewsContainerNoChat": "collectiblePreviewsContainerNoChat__7f14f collectiblePreviewsContainer__7f14f",
     "collectiblePreviewsContainerWithChat": "collectiblePreviewsContainerWithChat__7f14f collectiblePreviewsContainer__7f14f",
     "fractionalNitroPreviewContainer": "fractionalNitroPreviewContainer__7f14f collectiblePreviewsContainer__7f14f",
@@ -22037,6 +22036,9 @@
     "question": "question__5b98e",
     "questionIcon": "questionIcon__5b98e",
     "answer": "answer__5b98e"
+  },
+  "811229": {
+    "menu": "menu_f727ab"
   },
   "811308": {
     "avatarContainer": "avatarContainer_efaad4",
