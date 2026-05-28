@@ -1569,26 +1569,6 @@
     "wrapper": "wrapper_c0e5ec",
     "wrapperActive": "wrapperActive_c0e5ec"
   },
-  "55607": {
-    "item": "item__87d05",
-    "currentItem": "currentItem__87d05",
-    "itemImage": "itemImage__87d05",
-    "currentImage": "currentImage__87d05 itemImage__87d05",
-    "itemImageWrapper": "itemImageWrapper__87d05",
-    "paginationItem": "paginationItem__87d05",
-    "storePaginationImg": "storePaginationImg__87d05",
-    "selectedStorePaginationItem": "selectedStorePaginationItem__87d05",
-    "unselectedStorePaginationItem": "unselectedStorePaginationItem__87d05",
-    "pagination": "pagination__87d05",
-    "carouselButtonsContainer": "carouselButtonsContainer__87d05",
-    "arrow": "arrow__87d05",
-    "arrowHovered": "arrowHovered__87d05",
-    "scroller": "scroller__87d05",
-    "video": "video__87d05",
-    "videoWrapper": "videoWrapper__87d05",
-    "mediaPlayer": "mediaPlayer__87d05",
-    "carousel": "carousel__87d05"
-  },
   "55881": {
     "fileUpload": "fileUpload__8b203"
   },
@@ -1901,7 +1881,8 @@
   },
   "68644": {
     "externalProductWrapper": "externalProductWrapper__320c6",
-    "orbProfileBadgeAsset": "orbProfileBadgeAsset__320c6"
+    "orbProfileBadgeAsset": "orbProfileBadgeAsset__320c6",
+    "fractionalNitroRive": "fractionalNitroRive__320c6"
   },
   "68817": {
     "previewContentContainer": "previewContentContainer__9c6a8",
@@ -5380,26 +5361,35 @@
   "199138": {
     "modalRoot": "modalRoot__38ccf",
     "modalContent": "modalContent__38ccf",
+    "offerBanner": "offerBanner__38ccf",
+    "offerBannerContent": "offerBannerContent__38ccf",
+    "panelsContainer": "panelsContainer__38ccf",
     "infoContainer": "infoContainer__38ccf",
+    "infoContainerExclusive": "infoContainerExclusive__38ccf",
+    "infoBottomSection": "infoBottomSection__38ccf",
+    "infoBottomSectionBorder": "infoBottomSectionBorder__38ccf",
+    "exclusiveBadge": "exclusiveBadge__38ccf",
+    "logoContainer": "logoContainer__38ccf",
+    "logo": "logo__38ccf",
+    "infoContentSection": "infoContentSection__38ccf",
+    "titleSection": "titleSection__38ccf",
+    "bundleContentsSection": "bundleContentsSection__38ccf",
+    "itemDetailsSection": "itemDetailsSection__38ccf",
     "labelIconContainer": "labelIconContainer__38ccf",
     "labelIcon": "labelIcon__38ccf",
     "buttonsContainer": "buttonsContainer__38ccf",
-    "detailsContainer": "detailsContainer__38ccf",
-    "exclusiveBadge": "exclusiveBadge__38ccf",
+    "primaryButtonsRow": "primaryButtonsRow__38ccf",
+    "giftButton": "giftButton__38ccf",
     "titleDescriptionContainer": "titleDescriptionContainer__38ccf",
-    "carouselContainer": "carouselContainer__38ccf",
-    "carousel": "carousel__38ccf",
+    "mediaContainer": "mediaContainer__38ccf",
     "modalHeaderButtonsContainer": "modalHeaderButtonsContainer__38ccf",
     "modalHeaderButton": "modalHeaderButton__38ccf",
     "wishlistButton": "wishlistButton__38ccf",
-    "logoContainer": "logoContainer__38ccf",
-    "logo": "logo__38ccf",
     "priceSectionContainer": "priceSectionContainer__38ccf",
-    "promotionalPriceContainer": "promotionalPriceContainer__38ccf",
-    "strikethrough": "strikethrough__38ccf",
-    "offerNoticeContainer": "offerNoticeContainer__38ccf",
-    "offerNoticeContent": "offerNoticeContent__38ccf",
-    "offerNoticeBody": "offerNoticeBody__38ccf"
+    "salePriceRow": "salePriceRow__38ccf",
+    "originalPrice": "originalPrice__38ccf",
+    "discountBadge": "discountBadge__38ccf",
+    "orbsEarnedContainer": "orbsEarnedContainer__38ccf"
   },
   "199199": {
     "applicationIcon": "applicationIcon__2c2b3",
@@ -8908,39 +8898,6 @@
   },
   "334488": {
     "gameWidgetGrid": "gameWidgetGrid__7f3a7"
-  },
-  "334588": {
-    "modalRoot": "modalRoot__4a37a",
-    "modalContent": "modalContent__4a37a",
-    "offerBanner": "offerBanner__4a37a",
-    "offerBannerContent": "offerBannerContent__4a37a",
-    "panelsContainer": "panelsContainer__4a37a",
-    "infoContainer": "infoContainer__4a37a",
-    "infoContainerExclusive": "infoContainerExclusive__4a37a",
-    "infoBottomSection": "infoBottomSection__4a37a",
-    "infoBottomSectionBorder": "infoBottomSectionBorder__4a37a",
-    "exclusiveBadge": "exclusiveBadge__4a37a",
-    "logoContainer": "logoContainer__4a37a",
-    "logo": "logo__4a37a",
-    "infoContentSection": "infoContentSection__4a37a",
-    "titleSection": "titleSection__4a37a",
-    "bundleContentsSection": "bundleContentsSection__4a37a",
-    "itemDetailsSection": "itemDetailsSection__4a37a",
-    "labelIconContainer": "labelIconContainer__4a37a",
-    "labelIcon": "labelIcon__4a37a",
-    "buttonsContainer": "buttonsContainer__4a37a",
-    "primaryButtonsRow": "primaryButtonsRow__4a37a",
-    "giftButton": "giftButton__4a37a",
-    "titleDescriptionContainer": "titleDescriptionContainer__4a37a",
-    "mediaContainer": "mediaContainer__4a37a",
-    "modalHeaderButtonsContainer": "modalHeaderButtonsContainer__4a37a",
-    "modalHeaderButton": "modalHeaderButton__4a37a",
-    "wishlistButton": "wishlistButton__4a37a",
-    "priceSectionContainer": "priceSectionContainer__4a37a",
-    "salePriceRow": "salePriceRow__4a37a",
-    "originalPrice": "originalPrice__4a37a",
-    "discountBadge": "discountBadge__4a37a",
-    "orbsEarnedContainer": "orbsEarnedContainer__4a37a"
   },
   "334859": {
     "tabs": "tabs__70e05"
@@ -15170,21 +15127,6 @@
   "547732": {
     "listItemWrapper": "listItemWrapper__91816",
     "selected": "selected__91816"
-  },
-  "547735": {
-    "content": "content_d9185c",
-    "closeButton": "closeButton_d9185c",
-    "logo": "logo_d9185c",
-    "artwork": "artwork_d9185c",
-    "titleContainer": "titleContainer_d9185c",
-    "title": "title_d9185c",
-    "subtitle": "subtitle_d9185c",
-    "features": "features_d9185c",
-    "feature": "feature_d9185c",
-    "iconLabel": "iconLabel_d9185c",
-    "featureCopy": "featureCopy_d9185c",
-    "featureIcon": "featureIcon_d9185c",
-    "buttonContainer": "buttonContainer_d9185c"
   },
   "547886": {
     "container": "container_de50c1"
