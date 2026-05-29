@@ -923,26 +923,6 @@
     "formContainer": "formContainer_fc200b",
     "header": "header_fc200b"
   },
-  "31823": {
-    "card": "card__823e1",
-    "progressContainer": "progressContainer__823e1",
-    "progress": "progress__823e1",
-    "full": "full__823e1",
-    "half": "half__823e1",
-    "none": "none__823e1",
-    "start": "start__823e1",
-    "middle": "middle__823e1",
-    "end": "end__823e1",
-    "active": "active__823e1",
-    "boostContainer": "boostContainer__823e1",
-    "boostContainerActive": "boostContainerActive__823e1",
-    "boost": "boost__823e1",
-    "perkRowContainer": "perkRowContainer__823e1",
-    "perkRow": "perkRow__823e1",
-    "perkText": "perkText__823e1",
-    "button": "button__823e1",
-    "footer": "footer__823e1"
-  },
   "31950": {
     "mainContainer": "mainContainer__700c9",
     "imageContainer": "imageContainer__700c9",
@@ -6653,6 +6633,26 @@
     "dotOnline": "dotOnline__0c0bf statusDot__0c0bf",
     "dotOffline": "dotOffline__0c0bf statusDot__0c0bf",
     "joinButton": "joinButton__0c0bf"
+  },
+  "254204": {
+    "card": "card__823e1",
+    "progressContainer": "progressContainer__823e1",
+    "progress": "progress__823e1",
+    "full": "full__823e1",
+    "half": "half__823e1",
+    "none": "none__823e1",
+    "start": "start__823e1",
+    "middle": "middle__823e1",
+    "end": "end__823e1",
+    "active": "active__823e1",
+    "boostContainer": "boostContainer__823e1",
+    "boostContainerActive": "boostContainerActive__823e1",
+    "boost": "boost__823e1",
+    "perkRowContainer": "perkRowContainer__823e1",
+    "perkRow": "perkRow__823e1",
+    "perkText": "perkText__823e1",
+    "button": "button__823e1",
+    "footer": "footer__823e1"
   },
   "255041": {
     "badgeImageContainer": "badgeImageContainer__9953c",
@@ -18224,10 +18224,7 @@
     "card": "card__5be3e",
     "footer": "footer__5be3e",
     "backdrop": "backdrop__5be3e",
-    "toast": "toast__5be3e",
-    "friendRequestToastContainer": "friendRequestToastContainer__5be3e",
-    "friendRequestToast": "friendRequestToast__5be3e",
-    "xIcon": "xIcon__5be3e"
+    "toast": "toast__5be3e"
   },
   "657127": {
     "churnDiscountBanner": "churnDiscountBanner__32fe3",
