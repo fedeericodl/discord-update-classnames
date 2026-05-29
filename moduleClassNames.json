@@ -2733,8 +2733,7 @@
     "displayVideo": "displayVideo__38295",
     "displayScreenshot": "displayScreenshot__38295 displayVideo__38295",
     "clipsPlayer": "clipsPlayer__38295",
-    "videoSizer": "videoSizer__38295",
-    "editorHeader": "editorHeader__38295"
+    "videoSizer": "videoSizer__38295"
   },
   "97584": {
     "flexCentered": "flexCentered__101ad",
@@ -15067,9 +15066,7 @@
     "timelineCropOverlay": "timelineCropOverlay_f18995",
     "waveform": "waveform_f18995",
     "timelineDragging": "timelineDragging_f18995",
-    "timelineVideo": "timelineVideo_f18995",
     "timelineBackground": "timelineBackground_f18995",
-    "hiddenCanvas": "hiddenCanvas_f18995",
     "dragHandle": "dragHandle_f18995",
     "dragHandleLeft": "dragHandleLeft_f18995 dragHandle_f18995",
     "dragHandleRight": "dragHandleRight_f18995 dragHandle_f18995",
@@ -19884,6 +19881,23 @@
     "guildBoostingIcon": "guildBoostingIcon_aea6af",
     "subscribeButton": "subscribeButton_aea6af"
   },
+  "724993": {
+    "sidebar": "sidebar_ac0f9f",
+    "sidebarHeader": "sidebarHeader_ac0f9f",
+    "sidebarHeaderTitleGroup": "sidebarHeaderTitleGroup_ac0f9f",
+    "sidebarContent": "sidebarContent_ac0f9f",
+    "section": "section_ac0f9f",
+    "sectionLabel": "sectionLabel_ac0f9f",
+    "facetSection": "facetSection_ac0f9f",
+    "facetList": "facetList_ac0f9f",
+    "row": "row_ac0f9f",
+    "rowSelected": "rowSelected_ac0f9f",
+    "rowDisabled": "rowDisabled_ac0f9f",
+    "rowIcon": "rowIcon_ac0f9f",
+    "rowLabel": "rowLabel_ac0f9f",
+    "rowTrailer": "rowTrailer_ac0f9f",
+    "showAllRow": "showAllRow_ac0f9f"
+  },
   "725287": {
     "container": "container__1dc07",
     "emoji": "emoji__1dc07",
@@ -22181,6 +22195,23 @@
     "content": "content__9a244",
     "previewImage": "previewImage__9a244"
   },
+  "817480": {
+    "popout": "popout_fe4819",
+    "presetColumn": "presetColumn_fe4819",
+    "sectionLabel": "sectionLabel_fe4819",
+    "presetList": "presetList_fe4819",
+    "presetItem": "presetItem_fe4819",
+    "presetItemActive": "presetItemActive_fe4819",
+    "customRow": "customRow_fe4819",
+    "customChevron": "customChevron_fe4819",
+    "customPanel": "customPanel_fe4819",
+    "popoutExpanded": "popoutExpanded_fe4819",
+    "customInner": "customInner_fe4819",
+    "fieldBlock": "fieldBlock_fe4819",
+    "fieldLabel": "fieldLabel_fe4819",
+    "fieldRow": "fieldRow_fe4819",
+    "customFooter": "customFooter_fe4819"
+  },
   "817789": {
     "editableGdmIcon": "editableGdmIcon_ec5bef",
     "editableGdmIconIndicator": "editableGdmIconIndicator_ec5bef"
@@ -23027,6 +23058,7 @@
     "modalContainer": "modalContainer__578ba",
     "content": "content__578ba",
     "contentHeader": "contentHeader__578ba",
+    "contentHeaderTitle": "contentHeaderTitle__578ba",
     "headerActions": "headerActions__578ba",
     "editPanel": "editPanel__578ba",
     "active": "active__578ba",
