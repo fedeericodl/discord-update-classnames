@@ -2133,6 +2133,10 @@
     "lightbox": "lightbox__40128",
     "pointerEventsNone": "pointerEventsNone__40128"
   },
+  "76060": {
+    "highlightedWrapper": "highlightedWrapper__46ac1",
+    "reflect": "reflect__46ac1"
+  },
   "76488": {
     "labelSpacing": "labelSpacing__5f877",
     "applyChangesButton": "applyChangesButton__5f877",
@@ -5082,8 +5086,7 @@
     "compactIcon": "compactIcon__403f1",
     "compactInfo": "compactInfo__403f1",
     "compactAppName": "compactAppName__403f1",
-    "compactExpired": "compactExpired__403f1",
-    "blockedEmbed": "blockedEmbed__403f1"
+    "compactExpired": "compactExpired__403f1"
   },
   "193270": {
     "svgContentRight": "svgContentRight__7b484",
@@ -8731,6 +8734,11 @@
     "badgePlaceholder": "badgePlaceholder__10651",
     "noTooltip": "noTooltip__10651",
     "tagText": "tagText__10651"
+  },
+  "330539": {
+    "tags": "tags__513ed",
+    "error": "error__513ed",
+    "selectAllButton": "selectAllButton__513ed"
   },
   "330837": {
     "locatorEntry": "locatorEntry__19739",
@@ -15140,9 +15148,7 @@
   "548636": {
     "carouselItems": "carouselItems__02563",
     "extraSpacingPlaceholder": "extraSpacingPlaceholder__02563",
-    "highlightedWrapper": "highlightedWrapper__02563",
-    "questTile": "questTile__02563",
-    "reflect": "reflect__02563"
+    "questTile": "questTile__02563"
   },
   "548934": {
     "panelGroup": "panelGroup__2f37f",
@@ -15356,6 +15362,7 @@
     "primaryAssetImage": "primaryAssetImage__5b393",
     "primaryAssetImageLarge": "primaryAssetImageLarge__5b393",
     "primaryAssetScaleDownOnHover": "primaryAssetScaleDownOnHover__5b393",
+    "stickerPrimaryAsset": "stickerPrimaryAsset__5b393",
     "contentContainer": "contentContainer__5b393",
     "textContent": "textContent__5b393",
     "footerContentWrapper": "footerContentWrapper__5b393",
@@ -19041,6 +19048,9 @@
     "actionDescription": "actionDescription__915cb",
     "resetButton": "resetButton__915cb"
   },
+  "690360": {
+    "embed": "embed__1911c"
+  },
   "690362": {
     "userAvatar": "userAvatar__9ec1a",
     "svg": "svg__9ec1a"
@@ -21675,6 +21685,7 @@
     "clipHoverButtons": "clipHoverButtons__1d12e",
     "clipThumbOverlay": "clipThumbOverlay__1d12e",
     "selected": "selected__1d12e",
+    "focusWrapper": "focusWrapper__1d12e",
     "clipBadge": "clipBadge__1d12e",
     "clipBottomBadges": "clipBottomBadges__1d12e",
     "clipThumb": "clipThumb__1d12e",
