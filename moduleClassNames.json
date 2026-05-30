@@ -2767,6 +2767,7 @@
     "treatmentHeading": "treatmentHeading__101ad",
     "treatmentContent": "treatmentContent__101ad",
     "treatmentGraphic": "treatmentGraphic__101ad",
+    "headerContainerB": "headerContainerB__101ad",
     "reverseTrialContainer": "reverseTrialContainer__101ad",
     "reverseTrialTextContainer": "reverseTrialTextContainer__101ad",
     "reverseTrialArtContainer": "reverseTrialArtContainer__101ad"
@@ -5479,6 +5480,18 @@
   },
   "201972": {
     "loading": "loading__6ef4d"
+  },
+  "202241": {
+    "flyingWumpusContainer": "flyingWumpusContainer__9e793",
+    "flyingWumpusAsset": "flyingWumpusAsset__9e793",
+    "boltContainer": "boltContainer__9e793",
+    "hammerContainer": "hammerContainer__9e793",
+    "keyContainer": "keyContainer__9e793",
+    "starContainer": "starContainer__9e793",
+    "starTrinket": "starTrinket__9e793",
+    "hammerTrinket": "hammerTrinket__9e793",
+    "keyTrinket": "keyTrinket__9e793",
+    "boltTrinket": "boltTrinket__9e793"
   },
   "202447": {
     "popoutWrapper": "popoutWrapper_a1f71e",
