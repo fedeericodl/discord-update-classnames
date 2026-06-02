@@ -7655,21 +7655,6 @@
     "iconButton": "iconButton__8a7fc",
     "floatingSearchTabsMask": "floatingSearchTabsMask__8a7fc"
   },
-  "296364": {
-    "cardContainer": "cardContainer__01785",
-    "card": "card__01785",
-    "thumbnail": "thumbnail__01785",
-    "thumbnailWrap": "thumbnailWrap__01785",
-    "thumbnailFallback": "thumbnailFallback__01785",
-    "gradient": "gradient__01785",
-    "gameBadge": "gameBadge__01785",
-    "topActions": "topActions__01785",
-    "gameBadgeIcon": "gameBadgeIcon__01785",
-    "overlay": "overlay__01785",
-    "iconBadge": "iconBadge__01785",
-    "actionsPlaceholder": "actionsPlaceholder__01785",
-    "actions": "actions__01785"
-  },
   "296589": {
     "paymentNote": "paymentNote__56a21"
   },
@@ -12284,7 +12269,8 @@
     "backgroundActive": "backgroundActive__59668",
     "header": "header__59668",
     "eyebrow": "eyebrow__59668",
-    "scrollContainer": "scrollContainer__59668"
+    "scrollContainer": "scrollContainer__59668",
+    "cardWrapper": "cardWrapper__59668"
   },
   "452732": {
     "modalContent": "modalContent__2bb83",
@@ -25587,7 +25573,12 @@
     "gcLegend": "gcLegend__3c20e",
     "gcLegendItem": "gcLegendItem__3c20e",
     "gcLegendSwatch": "gcLegendSwatch__3c20e",
-    "gcLegendLabel": "gcLegendLabel__3c20e"
+    "gcLegendLabel": "gcLegendLabel__3c20e",
+    "gameHeader": "gameHeader__3c20e",
+    "gameIcon": "gameIcon__3c20e",
+    "gameTitleColumn": "gameTitleColumn__3c20e",
+    "gameName": "gameName__3c20e",
+    "gameEmpty": "gameEmpty__3c20e"
   },
   "939422": {
     "body": "body__269fe",
