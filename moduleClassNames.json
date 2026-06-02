@@ -525,6 +525,13 @@
     "effect": "effect_e5f2cb",
     "effects": "effects_e5f2cb"
   },
+  "15632": {
+    "nav": "nav__77616",
+    "navItem": "navItem__77616",
+    "navItemSelected": "navItemSelected__77616",
+    "navLabel": "navLabel__77616",
+    "navDecoration": "navDecoration__77616"
+  },
   "16459": {
     "container": "container_ca98d9",
     "footer": "footer_ca98d9"
@@ -10655,7 +10662,6 @@
     "overlayTitleText": "overlayTitleText__2f4f7",
     "overlayButton": "overlayButton__2f4f7",
     "overlayIconsContainer": "overlayIconsContainer__2f4f7",
-    "reducedGap": "reducedGap__2f4f7",
     "overlayButtonContainer": "overlayButtonContainer__2f4f7",
     "hideWhenInactive": "hideWhenInactive__2f4f7",
     "titleIcon": "titleIcon__2f4f7",
@@ -15388,6 +15394,11 @@
     "guildSelection": "guildSelection__5a555",
     "guildSelectorContainer": "guildSelectorContainer__5a555",
     "createGuildButton": "createGuildButton__5a555"
+  },
+  "553706": {
+    "surface": "surface__5b95d",
+    "nagbarOverride": "nagbarOverride__5b95d",
+    "chatInputSurface": "chatInputSurface__5b95d"
   },
   "554518": {
     "paymentRestrictionBannerContainer": "paymentRestrictionBannerContainer__52623",
@@ -21603,9 +21614,6 @@
     "categories": "categories_ed45d7",
     "category": "category_ed45d7"
   },
-  "788143": {
-    "card": "card__92e92"
-  },
   "788332": {
     "clipTriggerBadge": "clipTriggerBadge__90e9a",
     "clipTriggerBadgeAvatar": "clipTriggerBadgeAvatar__90e9a"
@@ -24455,6 +24463,17 @@
     "checkbox": "checkbox__6fddf",
     "emoji": "emoji__6fddf"
   },
+  "898525": {
+    "inputWrapper": "inputWrapper_f08f8d",
+    "hasStaticToolbar": "hasStaticToolbar_f08f8d",
+    "scroller": "scroller_f08f8d",
+    "editorContainer": "editorContainer_f08f8d",
+    "editor": "editor_f08f8d",
+    "staticToolbar": "staticToolbar_f08f8d",
+    "emojiButtonContainer": "emojiButtonContainer_f08f8d",
+    "floatingEmojiButtonContainer": "floatingEmojiButtonContainer_f08f8d",
+    "emojiButton": "emojiButton_f08f8d"
+  },
   "898640": {
     "externalErrorBlock": "externalErrorBlock__65b48",
     "helpMessageWrapper": "helpMessageWrapper__65b48",
@@ -27164,6 +27183,9 @@
     "sadFace": "sadFace__5c58b emoji__5c58b",
     "neutralFace": "neutralFace__5c58b emoji__5c58b",
     "happyFace": "happyFace__5c58b emoji__5c58b",
+    "sadFaceRefresh": "sadFaceRefresh__5c58b emoji__5c58b",
+    "neutralFaceRefresh": "neutralFaceRefresh__5c58b emoji__5c58b",
+    "happyFaceRefresh": "happyFaceRefresh__5c58b emoji__5c58b",
     "thumbsDown": "thumbsDown__5c58b emoji__5c58b",
     "thumbsUp": "thumbsUp__5c58b emoji__5c58b",
     "animatedFace": "animatedFace__5c58b emoji__5c58b"
