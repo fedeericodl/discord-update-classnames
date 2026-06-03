@@ -12295,7 +12295,10 @@
     "background": "background__59668",
     "backgroundActive": "backgroundActive__59668",
     "header": "header__59668",
+    "headerLeftContent": "headerLeftContent__59668",
     "eyebrow": "eyebrow__59668",
+    "title": "title__59668",
+    "headerRightContent": "headerRightContent__59668",
     "scrollContainer": "scrollContainer__59668",
     "cardWrapper": "cardWrapper__59668"
   },
