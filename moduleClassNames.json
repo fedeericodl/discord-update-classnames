@@ -266,12 +266,12 @@
     "divider": "divider__91f99"
   },
   "9934": {
-    "container": "container__50387",
+    "container": "container__50387 popover_d6f39b",
     "tabs": "tabs__50387",
     "tabBarItem": "tabBarItem__50387",
     "tabPanel": "tabPanel__50387",
     "tabPanelHidden": "tabPanelHidden__50387",
-    "debugPanelStandalone": "debugPanelStandalone__50387"
+    "debugPanelStandalone": "debugPanelStandalone__50387 popover_d6f39b"
   },
   "10185": {
     "translate": "translate_faf9c0",
@@ -4777,7 +4777,7 @@
     "pendingIncoming": "pendingIncoming_d2fc4f"
   },
   "176277": {
-    "popover": "popover__1bad5",
+    "popover": "popover__1bad5 popover_d6f39b",
     "inner": "inner__1bad5",
     "title": "title__1bad5",
     "list": "list__1bad5",
@@ -10016,8 +10016,7 @@
   },
   "367414": {
     "container": "container__9fc7d",
-    "dndKeyboardHelpBar": "dndKeyboardHelpBar__9fc7d",
-    "pendingChangesNotice": "pendingChangesNotice__9fc7d"
+    "dndKeyboardHelpBar": "dndKeyboardHelpBar__9fc7d"
   },
   "367644": {
     "stepBody": "stepBody_a3d32e"
@@ -10296,7 +10295,7 @@
   },
   "380668": {
     "streamPreviewWrapper": "streamPreviewWrapper__0489e",
-    "streamPreview": "streamPreview__0489e",
+    "streamPreview": "streamPreview__0489e popover_d6f39b",
     "streamHeader": "streamHeader__0489e",
     "streamHeaderVoiceUserActivities": "streamHeaderVoiceUserActivities__0489e",
     "streamHeaderIcon": "streamHeaderIcon__0489e",
@@ -11313,11 +11312,11 @@
     "arrow": "arrow_eb2cd2"
   },
   "415679": {
-    "container": "container_d7bc5d",
+    "container": "container_d7bc5d popover_d6f39b",
     "voiceChannelGiftingBreadcrumb": "voiceChannelGiftingBreadcrumb_d7bc5d",
     "voiceChannelRewardOfferNotice": "voiceChannelRewardOfferNotice_d7bc5d",
-    "experimentContainer": "experimentContainer_d7bc5d",
-    "scroller": "scroller_d7bc5d",
+    "experimentContainer": "experimentContainer_d7bc5d popover_d6f39b",
+    "scroller": "scroller_d7bc5d popover_d6f39b",
     "durationContainer": "durationContainer_d7bc5d",
     "text": "text_d7bc5d",
     "avatar": "avatar_d7bc5d"
@@ -12171,9 +12170,9 @@
     "menuItemLabelText": "menuItemLabelText_ce8328",
     "menuItemInner": "menuItemInner_ce8328",
     "menuItemContent": "menuItemContent_ce8328",
+    "submenuIconWrapper": "submenuIconWrapper_ce8328",
     "menuItemLabel": "menuItemLabel_ce8328",
     "menuItemIcon": "menuItemIcon_ce8328",
-    "submenuIconWrapper": "submenuIconWrapper_ce8328",
     "submenuPaddingContainer": "submenuPaddingContainer_ce8328",
     "statusPickerModalMenu": "statusPickerModalMenu_ce8328",
     "themeContainer": "themeContainer_ce8328",
@@ -15322,7 +15321,7 @@
     "radioSelection": "radioSelection__786f4"
   },
   "550837": {
-    "popout": "popout__76f04",
+    "popout": "popout__76f04 popover_d6f39b",
     "title": "title__76f04",
     "list": "list__76f04",
     "row": "row__76f04",
@@ -15417,6 +15416,7 @@
   "553706": {
     "surface": "surface__5b95d",
     "nagbarOverride": "nagbarOverride__5b95d",
+    "promotionSelector": "promotionSelector__5b95d",
     "chatInputSurface": "chatInputSurface__5b95d"
   },
   "554518": {
@@ -16318,7 +16318,7 @@
     "gameIcon": "gameIcon__43a4b"
   },
   "581448": {
-    "popover": "popover_b438e7",
+    "popover": "popover_b438e7 popover_d6f39b",
     "userList": "userList_b438e7"
   },
   "581874": {
@@ -16998,7 +16998,7 @@
     "topRimPillWithSparkles": "topRimPillWithSparkles_a45ed3",
     "rimGlowTier2": "rimGlowTier2_a45ed3",
     "trialHeader": "trialHeader_a45ed3",
-    "fractionalPremiumTopRimPill": "fractionalPremiumTopRimPill_a45ed3",
+    "topRimPill": "topRimPill_a45ed3",
     "fractionalPremiumSubheader": "fractionalPremiumSubheader_a45ed3",
     "premiumGroupHeader": "premiumGroupHeader_a45ed3"
   },
@@ -20029,7 +20029,7 @@
     "error": "error__1dc07"
   },
   "725673": {
-    "container": "container__349bd",
+    "container": "container__349bd popover_d6f39b",
     "content": "content__349bd",
     "buttonContainer": "buttonContainer__349bd",
     "primaryButton": "primaryButton__349bd",
@@ -21975,7 +21975,7 @@
     "statusText": "statusText_a7f798"
   },
   "802625": {
-    "container": "container__4e30a",
+    "container": "container__4e30a popover_d6f39b",
     "popoutHeaderContainer": "popoutHeaderContainer__4e30a",
     "headerDivider": "headerDivider__4e30a"
   },
