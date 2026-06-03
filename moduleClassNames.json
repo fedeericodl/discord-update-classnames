@@ -11371,8 +11371,8 @@
   },
   "416497": {
     "footer": "footer__272c7",
-    "footerButton": "footerButton__272c7",
-    "footerContainer": "footerContainer__272c7"
+    "footerContainer": "footerContainer__272c7",
+    "footerButton": "footerButton__272c7"
   },
   "416620": {
     "container": "container_b7e1cb",
@@ -22144,6 +22144,7 @@
     "tabButton": "tabButton_b08638",
     "panel": "panel_b08638",
     "withGradient": "withGradient_b08638",
+    "panelInner": "panelInner_b08638",
     "header": "header_b08638",
     "collapseButton": "collapseButton_b08638",
     "guildProfileUpsell": "guildProfileUpsell_b08638",
@@ -23265,7 +23266,7 @@
     "referredFriendAvatar": "referredFriendAvatar_ce5f0d",
     "availableReferralSlot": "availableReferralSlot_ce5f0d",
     "progressContainer": "progressContainer_ce5f0d",
-    "progressIndicatorBottomSpacing": "progressIndicatorBottomSpacing_ce5f0d",
+    "progressIndicatorSurface": "progressIndicatorSurface_ce5f0d",
     "progressCircle": "progressCircle_ce5f0d",
     "progressCircleBackground": "progressCircleBackground_ce5f0d",
     "progressCircleRing": "progressCircleRing_ce5f0d",
@@ -24557,6 +24558,7 @@
     "icon": "icon__2ed4c",
     "notAllowedIcon": "notAllowedIcon__2ed4c icon__2ed4c",
     "frameGridItem": "frameGridItem__2ed4c",
+    "framePresetItem": "framePresetItem__2ed4c",
     "selected": "selected__2ed4c",
     "section": "section__2ed4c",
     "list": "list__2ed4c",
