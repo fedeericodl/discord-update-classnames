@@ -3228,7 +3228,6 @@
     "borderGradient": "borderGradient_a2332b",
     "tier0": "tier0_a2332b",
     "pillMargin": "pillMargin_a2332b",
-    "noGradient": "noGradient_a2332b",
     "wordmark": "wordmark_a2332b",
     "wumpus": "wumpus_a2332b",
     "inCard": "inCard_a2332b",
@@ -15304,7 +15303,10 @@
     "suppressBorder": "suppressBorder_eb881a",
     "title": "title_eb881a",
     "actions": "actions_eb881a",
-    "actionsShifted": "actionsShifted_eb881a"
+    "actionsShifted": "actionsShifted_eb881a",
+    "headerIconButton": "headerIconButton_eb881a",
+    "headerIconButtonSelectedPositive": "headerIconButtonSelectedPositive_eb881a",
+    "headerIconButtonSelectedCritical": "headerIconButtonSelectedCritical_eb881a"
   },
   "550350": {
     "popout": "popout_ab4223",
@@ -27291,7 +27293,6 @@
     "timelineIcon": "timelineIcon__375f5"
   },
   "995512": {
-    "premiumBrandRefreshTier0Card": "premiumBrandRefreshTier0Card__9e160",
     "narrowLayout": "narrowLayout__9e160"
   },
   "996024": {
@@ -27324,7 +27325,6 @@
     "bundlePreview": "bundlePreview__517e1",
     "profileFramePreview": "profileFramePreview__517e1",
     "bundleStaticPreview": "bundleStaticPreview__517e1",
-    "bundleStaticBackgroundAsset": "bundleStaticBackgroundAsset__517e1",
     "premiumPreview": "premiumPreview__517e1",
     "premiumRive": "premiumRive__517e1",
     "premiumCardHover": "premiumCardHover__517e1"
