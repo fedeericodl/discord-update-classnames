@@ -16392,7 +16392,12 @@
   "584099": {
     "container": "container_f99067",
     "thumbnail": "thumbnail_f99067",
-    "thumbnailShadow": "thumbnailShadow_f99067"
+    "slotMiddle": "slotMiddle_f99067",
+    "slotLeft": "slotLeft_f99067",
+    "slotRight": "slotRight_f99067",
+    "thumbnailShadow": "thumbnailShadow_f99067",
+    "containerHovered": "containerHovered_f99067",
+    "thumbnailBelow": "thumbnailBelow_f99067"
   },
   "584105": {
     "streamerModeEnabled": "streamerModeEnabled_aa3ffd",
@@ -22722,6 +22727,9 @@
     "backdrop": "backdrop__09f82",
     "header": "header__09f82",
     "panelInner": "panelInner__09f82",
+    "edgeFade": "edgeFade__09f82",
+    "edgeFadeStart": "edgeFadeStart__09f82",
+    "edgeFadeEnd": "edgeFadeEnd__09f82",
     "countdownRing": "countdownRing__09f82",
     "countdownTrack": "countdownTrack__09f82",
     "countdownProgress": "countdownProgress__09f82",
@@ -22733,8 +22741,8 @@
     "thumbnailClickable": "thumbnailClickable__09f82",
     "thumbnailsStack": "thumbnailsStack__09f82",
     "gameRow": "gameRow__09f82",
+    "gameNameRow": "gameNameRow__09f82",
     "gameIcon": "gameIcon__09f82",
-    "gameInfo": "gameInfo__09f82",
     "gameName": "gameName__09f82",
     "gameNameClickable": "gameNameClickable__09f82"
   },
@@ -27327,6 +27335,8 @@
     "timelineIcon": "timelineIcon__375f5"
   },
   "995512": {
+    "planCardWrapper": "planCardWrapper__9e160",
+    "narrowLayoutPlanCardWrapper": "narrowLayoutPlanCardWrapper__9e160",
     "narrowLayout": "narrowLayout__9e160"
   },
   "996024": {
