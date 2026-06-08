@@ -3262,6 +3262,7 @@
     "outerCorner": "outerCorner_a2332b",
     "insideCorner": "insideCorner_a2332b",
     "giftSelectionModal": "giftSelectionModal_a2332b",
+    "withAnnualDiscountBanner": "withAnnualDiscountBanner_a2332b",
     "bigCloud": "bigCloud_a2332b",
     "smallCloud": "smallCloud_a2332b",
     "divider": "divider_a2332b",
@@ -5620,8 +5621,10 @@
     "roleDot": "roleDot__57082"
   },
   "205032": {
+    "nuxContainer": "nuxContainer_a2943b",
     "previewArt": "previewArt_a2943b",
     "previewArtThemed": "previewArtThemed_a2943b",
+    "nuxPreviewArt": "nuxPreviewArt_a2943b",
     "previewOverlayImage": "previewOverlayImage_a2943b"
   },
   "205914": {
@@ -26400,6 +26403,9 @@
   },
   "958942": {
     "headerSection": "headerSection__1c228"
+  },
+  "958961": {
+    "body": "body_f19188"
   },
   "959495": {
     "favoriteIcon": "favoriteIcon_c9fddf"
