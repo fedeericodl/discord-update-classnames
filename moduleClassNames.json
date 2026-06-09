@@ -2434,9 +2434,7 @@
     "sectionLabel": "sectionLabel_b18605",
     "scores": "scores_b18605",
     "scoreItem": "scoreItem_b18605",
-    "conversationMeta": "conversationMeta_b18605",
-    "loadMoreFooter": "loadMoreFooter_b18605",
-    "loadMoreButton": "loadMoreButton_b18605"
+    "conversationMeta": "conversationMeta_b18605"
   },
   "85092": {
     "root": "root_da9de7",
@@ -19386,6 +19384,8 @@
     "progressCircle": "progressCircle__72346",
     "bannerContent": "bannerContent__72346",
     "bannerContentText": "bannerContentText__72346",
+    "progressWheelBackground": "progressWheelBackground__72346",
+    "progressWheelRing": "progressWheelRing__72346",
     "progressIndicatorTopSpacing": "progressIndicatorTopSpacing__72346"
   },
   "690320": {
@@ -23240,7 +23240,6 @@
     "transcriptBodySpinner": "transcriptBodySpinner_b824c5",
     "videoOverlayMessage": "videoOverlayMessage_b824c5",
     "closeModalBtnWrapper": "closeModalBtnWrapper_b824c5",
-    "inactivePoster": "inactivePoster_b824c5",
     "inactivePlayButton": "inactivePlayButton_b824c5",
     "inactivePlayButtonIcon": "inactivePlayButtonIcon_b824c5",
     "floatingShareButtonContainer": "floatingShareButtonContainer_b824c5",
