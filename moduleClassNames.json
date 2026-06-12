@@ -7687,6 +7687,7 @@
     "innerContainer": "innerContainer__35859",
     "icon": "icon__35859",
     "iconDiv": "iconDiv__35859",
+    "iconDivCenter": "iconDivCenter__35859",
     "text": "text__35859",
     "positive": "positive__35859",
     "warning": "warning__35859",
@@ -7968,6 +7969,7 @@
     "guildIconImage": "guildIconImage_d5f3cd guildIcon_d5f3cd",
     "guildIconImageJoined": "guildIconImageJoined_d5f3cd guildIconImage_d5f3cd guildIcon_d5f3cd",
     "inviteDestination": "inviteDestination_d5f3cd",
+    "inviteDestinationMedium": "inviteDestinationMedium_d5f3cd",
     "inviteDestinationJoined": "inviteDestinationJoined_d5f3cd inviteDestination_d5f3cd",
     "channel": "channel_d5f3cd",
     "channelName": "channelName_d5f3cd",
@@ -9430,6 +9432,9 @@
     "separator": "separator_ae2544",
     "infoTitle": "infoTitle_ae2544",
     "infoBadge": "infoBadge_ae2544",
+    "inviteEmbed": "inviteEmbed_ae2544",
+    "inviteEmbedTitle": "inviteEmbedTitle_ae2544",
+    "inviteMemberRow": "inviteMemberRow_ae2544",
     "headerLine": "headerLine_ae2544",
     "infoIcon": "infoIcon_ae2544",
     "buttonContainer": "buttonContainer_ae2544"
@@ -16003,6 +16008,9 @@
     "icon": "icon__4a011",
     "newBadgeContainer": "newBadgeContainer__4a011"
   },
+  "564039": {
+    "visuallyHidden": "visuallyHidden__1d70e"
+  },
   "564052": {
     "container": "container__00de6",
     "header": "header__00de6",
@@ -16804,8 +16812,8 @@
   "598723": {
     "recorderContainer": "recorderContainer__2636e container_f89b2c",
     "containerDisabled": "containerDisabled__2636e disabled_f89b2c",
-    "recorderLayout": "recorderLayout__2636e layout_f89b2c",
     "recording": "recording__2636e",
+    "recorderLayout": "recorderLayout__2636e layout_f89b2c",
     "shadowPulse": "shadowPulse__2636e",
     "keybindInput": "keybindInput__2636e input_f89b2c base_f89b2c",
     "buttonContainer": "buttonContainer__2636e",
