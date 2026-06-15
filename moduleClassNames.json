@@ -14689,6 +14689,12 @@
   "517420": {
     "actionButtons": "actionButtons_cc1819"
   },
+  "517521": {
+    "container": "container_dea1f0",
+    "content": "content_dea1f0",
+    "closeButton": "closeButton_dea1f0",
+    "warning": "warning_dea1f0"
+  },
   "518229": {
     "button": "button_a22cb0",
     "buttonChildrenWrapper": "buttonChildrenWrapper_a22cb0",
@@ -16152,6 +16158,10 @@
   },
   "569417": {
     "icon": "icon__3173f"
+  },
+  "569901": {
+    "bannerContainer": "bannerContainer__2fc34",
+    "nitroPinkGradient": "nitroPinkGradient__2fc34"
   },
   "570027": {
     "badgeUpgrade": "badgeUpgrade_fbcaba"
@@ -20037,6 +20047,7 @@
     "headerTabs": "headerTabs_ab6641",
     "tabBar": "tabBar_ab6641",
     "tab": "tab_ab6641",
+    "tabLabel": "tabLabel_ab6641",
     "inboxIcon": "inboxIcon_ab6641",
     "inboxTitle": "inboxTitle_ab6641",
     "controls": "controls_ab6641",
