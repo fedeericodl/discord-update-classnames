@@ -7799,10 +7799,6 @@
     "questTile": "questTile__1789d",
     "emptyStateContainer": "emptyStateContainer__1789d"
   },
-  "299279": {
-    "previewTotalSectionContainer": "previewTotalSectionContainer_b41cc5",
-    "premiumSwitchPlanSelectText": "premiumSwitchPlanSelectText_b41cc5"
-  },
   "300517": {
     "container": "container_f85df1",
     "singleGameContainer": "singleGameContainer_f85df1 gameWidgetGrid__7f3a7"
@@ -15650,6 +15646,10 @@
     "voiceLabel": "voiceLabel__73a0a",
     "voiceParticipants": "voiceParticipants__73a0a",
     "headerLabel": "headerLabel__73a0a"
+  },
+  "556208": {
+    "previewTotalSectionContainer": "previewTotalSectionContainer__9ab7f",
+    "premiumSwitchPlanSelectText": "premiumSwitchPlanSelectText__9ab7f"
   },
   "556493": {
     "sideNavContent": "sideNavContent_dc2e0e",
@@ -25019,7 +25019,8 @@
     "footer": "footer_b917ac",
     "subtitle": "subtitle_b917ac",
     "createGuild": "createGuild_b917ac",
-    "uploadIcon": "uploadIcon_b917ac"
+    "uploadIcon": "uploadIcon_b917ac",
+    "guidelines": "guidelines_b917ac"
   },
   "908504": {
     "container": "container_a5fa1d",
