@@ -2184,8 +2184,11 @@
     "card": "card__73abe",
     "cardPreview": "cardPreview__73abe",
     "scaledSkuPreview": "scaledSkuPreview__73abe",
-    "avatarDecorationPreview": "avatarDecorationPreview__73abe",
-    "collectiblesSkuPreview": "collectiblesSkuPreview__73abe"
+    "avatarDecoration": "avatarDecoration__73abe",
+    "bundle": "bundle__73abe",
+    "nameplate": "nameplate__73abe",
+    "profileEffect": "profileEffect__73abe",
+    "profileFrame": "profileFrame__73abe"
   },
   "80353": {
     "content": "content__444a0"
@@ -16703,7 +16706,8 @@
     "neoCastel": "neoCastel__89a31",
     "pixelify": "pixelify__89a31",
     "sinistre": "sinistre__89a31",
-    "zillaSlab": "zillaSlab__89a31"
+    "zillaSlab": "zillaSlab__89a31",
+    "playpenSans": "playpenSans__89a31"
   },
   "592743": {
     "elevated": "elevated__3f12a",
@@ -20549,7 +20553,6 @@
   },
   "737595": {
     "wrapper": "wrapper__0d616",
-    "themeScope": "themeScope__0d616",
     "wrapperInvisible": "wrapperInvisible__0d616",
     "wrapperVisible": "wrapperVisible__0d616",
     "contentWrapper": "contentWrapper__0d616",
@@ -25018,7 +25021,8 @@
     "emojis": "emojis_a750ac",
     "minimized": "minimized_a750ac",
     "button": "button_a750ac",
-    "divider": "divider_a750ac"
+    "divider": "divider_a750ac",
+    "messageCount": "messageCount_a750ac"
   },
   "909714": {
     "card": "card__3eaf0",
@@ -25726,7 +25730,6 @@
   },
   "933668": {
     "timeline": "timeline__76ea6",
-    "minimized": "minimized__76ea6",
     "marker": "marker__76ea6",
     "emoji": "emoji__76ea6",
     "chatIcon": "chatIcon__76ea6"
@@ -25924,7 +25927,8 @@
   },
   "939422": {
     "body": "body__269fe",
-    "tagsRow": "tagsRow__269fe"
+    "tagsRow": "tagsRow__269fe",
+    "descriptionEditor": "descriptionEditor__269fe"
   },
   "940072": {
     "perkRow": "perkRow_c609c8",
