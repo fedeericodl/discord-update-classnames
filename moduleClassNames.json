@@ -20089,7 +20089,9 @@
   "719201": {
     "avatarPreviewContainer": "avatarPreviewContainer__349b1",
     "pfxPreviewContainer": "pfxPreviewContainer__349b1",
+    "pfxPreviewContainerSolo": "pfxPreviewContainerSolo__349b1 pfxPreviewContainer__349b1",
     "profileFramePreviewContainer": "profileFramePreviewContainer__349b1",
+    "profileFramePreviewContainerSolo": "profileFramePreviewContainerSolo__349b1 profileFramePreviewContainer__349b1",
     "nameplatePreviewContainer": "nameplatePreviewContainer__349b1",
     "nameplatePreview": "nameplatePreview__349b1"
   },
