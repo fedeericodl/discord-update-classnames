@@ -7856,10 +7856,10 @@
     "withGradient": "withGradient__553bf",
     "withQuestHomeHeroContent": "withQuestHomeHeroContent__553bf",
     "withOnboardingContent": "withOnboardingContent__553bf",
-    "questHomeHeroBackgroundImage": "questHomeHeroBackgroundImage__553bf",
     "badge": "badge__553bf",
     "shine": "shine__553bf",
-    "glow": "glow__553bf"
+    "glow": "glow__553bf",
+    "questHomeHeroBackgroundImage": "questHomeHeroBackgroundImage__553bf"
   },
   "302509": {
     "icon": "icon_f9347f",
