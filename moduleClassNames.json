@@ -10207,7 +10207,8 @@
   "369320": {
     "keyComboInner": "keyComboInner__15c82",
     "keyComboContainer": "keyComboContainer__15c82",
-    "backButton": "backButton__15c82"
+    "backButton": "backButton__15c82",
+    "headerActions": "headerActions__15c82"
   },
   "369617": {
     "timerContainer": "timerContainer_d0d75b",
@@ -17152,7 +17153,11 @@
     "overlay-tertiary": "overlay-tertiary__039e0"
   },
   "631234": {
+    "auditLogSection": "auditLogSection_b2f52f",
+    "auditLogSectionLabel": "auditLogSectionLabel_b2f52f",
+    "auditLogItemContainer": "auditLogItemContainer_b2f52f",
     "auditLogItem": "auditLogItem_b2f52f",
+    "emptyAuditLogItem": "emptyAuditLogItem_b2f52f",
     "auditLogItemTitleContainer": "auditLogItemTitleContainer_b2f52f",
     "auditLogItemTitle": "auditLogItemTitle_b2f52f",
     "username": "username_b2f52f",
@@ -23200,10 +23205,15 @@
   "833683": {
     "container": "container__3a5a1",
     "innerContainer": "innerContainer__3a5a1",
+    "panelSection": "panelSection__3a5a1",
     "keyComboInner": "keyComboInner__3a5a1",
     "keyComboContainer": "keyComboContainer__3a5a1",
     "header": "header__3a5a1",
     "headerTitle": "headerTitle__3a5a1",
+    "headerActions": "headerActions__3a5a1",
+    "headerRefreshButton": "headerRefreshButton__3a5a1",
+    "disabled": "disabled__3a5a1",
+    "headerRefreshDots": "headerRefreshDots__3a5a1",
     "roleContainer": "roleContainer__3a5a1",
     "highestRole": "highestRole__3a5a1",
     "addRoleIcon": "addRoleIcon__3a5a1",
@@ -24763,8 +24773,10 @@
     "formSection": "formSection_cd734c"
   },
   "887645": {
-    "roleTooltipItem": "roleTooltipItem__1ef77",
     "permissionsContainer": "permissionsContainer__1ef77",
+    "permissionsItemContainer": "permissionsItemContainer__1ef77",
+    "permissionsItem": "permissionsItem__1ef77",
+    "permissionsDescription": "permissionsDescription__1ef77",
     "permissionChiplet": "permissionChiplet__1ef77",
     "noModPerms": "noModPerms__1ef77",
     "elevatedPermission": "elevatedPermission__1ef77",
