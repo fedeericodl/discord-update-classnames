@@ -8406,7 +8406,6 @@
   "314489": {
     "container": "container__9b328",
     "video": "video__9b328",
-    "gradient": "gradient__9b328",
     "content": "content__9b328",
     "heading": "heading__9b328",
     "body": "body__9b328",
@@ -12691,7 +12690,8 @@
   "460610": {
     "spacingTop24": "spacingTop24_f22a74",
     "permissionWarning": "permissionWarning_f22a74",
-    "filterLoadingIndicator": "filterLoadingIndicator_f22a74"
+    "filterLoadingIndicator": "filterLoadingIndicator_f22a74",
+    "filterErrorIndicator": "filterErrorIndicator_f22a74"
   },
   "460790": {
     "modalContent": "modalContent_cb1992",
@@ -13657,11 +13657,12 @@
     "card": "card__8e988",
     "guildOfficialMessage": "guildOfficialMessage__8e988",
     "cardBody": "cardBody__8e988",
+    "cardContent": "cardContent__8e988",
     "filePreview": "filePreview__8e988",
     "cardHeader": "cardHeader__8e988",
     "cardHeaderMeta": "cardHeaderMeta__8e988",
-    "cardHeaderTop": "cardHeaderTop__8e988",
     "authorNameGroup": "authorNameGroup__8e988",
+    "cardHeaderTop": "cardHeaderTop__8e988",
     "systemTagWrapper": "systemTagWrapper__8e988",
     "channelChip": "channelChip__8e988",
     "channelChipIcon": "channelChipIcon__8e988",
@@ -13670,14 +13671,9 @@
     "authorName": "authorName__8e988",
     "cardThumbnail": "cardThumbnail__8e988",
     "cardThumbnailImage": "cardThumbnailImage__8e988",
-    "pollContent": "pollContent__8e988",
-    "pollQuestion": "pollQuestion__8e988",
-    "pollOptions": "pollOptions__8e988",
-    "pollOption": "pollOption__8e988",
-    "pollOptionEmoji": "pollOptionEmoji__8e988",
-    "pollOptionOverflow": "pollOptionOverflow__8e988",
+    "pollEmbed": "pollEmbed__8e988",
     "description": "description__8e988",
-    "cardBodyFaded": "cardBodyFaded__8e988",
+    "cardContentFaded": "cardContentFaded__8e988",
     "empty": "empty__8e988",
     "loadingMore": "loadingMore__8e988"
   },
@@ -19751,11 +19747,11 @@
     "automodMessage": "automodMessage__5126c",
     "mentioned": "mentioned__5126c",
     "guildOfficialMessage": "guildOfficialMessage__5126c",
+    "messageListItem": "messageListItem__5126c",
+    "replying": "replying__5126c",
+    "selected": "selected__5126c",
     "message": "message__5126c",
     "guildOfficialMessageContent": "guildOfficialMessageContent__5126c",
-    "replying": "replying__5126c",
-    "messageListItem": "messageListItem__5126c",
-    "selected": "selected__5126c",
     "quotedChatMessage": "quotedChatMessage__5126c",
     "jump": "jump__5126c",
     "buttons": "buttons__5126c",
@@ -24418,7 +24414,8 @@
   },
   "886964": {
     "cameraWrapper": "cameraWrapper__92346",
-    "camera": "camera__92346"
+    "camera": "camera__92346",
+    "cameraBox": "cameraBox__92346"
   },
   "887267": {
     "sectionsContainer": "sectionsContainer__722a8",
