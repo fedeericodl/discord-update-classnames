@@ -5979,6 +5979,10 @@
     "header": "header__07389",
     "responsive": "responsive__07389"
   },
+  "218606": {
+    "itemIcon": "itemIcon__1a4d2",
+    "hasTooltip": "hasTooltip__1a4d2"
+  },
   "219714": {
     "guildSelectOptionIcon": "guildSelectOptionIcon__53d6e",
     "clydeIconContainer": "clydeIconContainer__53d6e"
