@@ -11357,6 +11357,11 @@
     "actionTextContainer": "actionTextContainer__6446f",
     "editChannel": "editChannel__6446f"
   },
+  "411472": {
+    "container": "container__24ee7",
+    "placeholderCard": "placeholderCard__24ee7",
+    "hiddenRow": "hiddenRow__24ee7"
+  },
   "412460": {
     "icon": "icon__1bb46 icon__6b453",
     "iconWrapper": "iconWrapper__1bb46",
@@ -22583,6 +22588,11 @@
     "currentMonthEarningsTable": "currentMonthEarningsTable_cd734c",
     "formSection": "formSection_cd734c"
   },
+  "813718": {
+    "container": "container__41af8",
+    "subtitle": "subtitle__41af8",
+    "actions": "actions__41af8"
+  },
   "814438": {
     "button": "button_e18686"
   },
@@ -24679,6 +24689,7 @@
     "footer": "footer_b1a1c5",
     "footerActions": "footerActions_b1a1c5",
     "applyButtonWrapper": "applyButtonWrapper_b1a1c5",
+    "footerActionsStacked": "footerActionsStacked_b1a1c5",
     "error": "error_b1a1c5"
   },
   "894385": {
