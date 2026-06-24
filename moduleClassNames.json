@@ -15352,6 +15352,7 @@
     "refreshVoiceChannelsButton": "refreshVoiceChannelsButton__29444"
   },
   "547032": {
+    "hoverArea": "hoverArea__6d3d8",
     "container": "container__6d3d8",
     "containerHovered": "containerHovered__6d3d8",
     "featuredSection": "featuredSection__6d3d8",
@@ -22995,6 +22996,8 @@
     "peopleListItem": "peopleListItem_cc6179",
     "active": "active_cc6179",
     "divider": "divider_cc6179",
+    "rowButton": "rowButton_cc6179",
+    "rowContent": "rowContent_cc6179",
     "activeDivider": "activeDivider_cc6179"
   },
   "828342": {
