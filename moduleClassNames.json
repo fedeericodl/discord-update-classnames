@@ -16287,9 +16287,6 @@
     "isOwned": "isOwned__85bea"
   },
   "575650": {
-    "seasonalGiftBoxHeaderIcon": "seasonalGiftBoxHeaderIcon_ae16b8",
-    "container": "container_ae16b8",
-    "closeButton": "closeButton_ae16b8",
     "fullWidthGraphicHeaderForManaModal": "fullWidthGraphicHeaderForManaModal_ae16b8"
   },
   "575863": {
@@ -23904,6 +23901,11 @@
   },
   "865349": {
     "buttonsContainer": "buttonsContainer__5989f"
+  },
+  "865543": {
+    "seasonalGiftBoxHeaderIcon": "seasonalGiftBoxHeaderIcon_daa077",
+    "container": "container_daa077",
+    "closeButton": "closeButton_daa077"
   },
   "866219": {
     "header": "header__4a3a5",
