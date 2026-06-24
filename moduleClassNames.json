@@ -1350,6 +1350,10 @@
     "activityNewBadge": "activityNewBadge__44107",
     "activityUpdatedBadge": "activityUpdatedBadge__44107"
   },
+  "42076": {
+    "logout": "logout__036c2",
+    "backRow": "backRow__036c2"
+  },
   "42182": {
     "rootPopout": "rootPopout_b5970a"
   },
