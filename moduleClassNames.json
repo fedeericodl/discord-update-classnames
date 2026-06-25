@@ -11123,6 +11123,17 @@
     "description": "description__509fe",
     "image": "image__509fe"
   },
+  "402008": {
+    "card": "card__20855",
+    "row": "row__20855",
+    "avatarWrapper": "avatarWrapper__20855",
+    "details": "details__20855",
+    "actions": "actions__20855",
+    "actionButton": "actionButton__20855",
+    "acceptButton": "acceptButton__20855",
+    "declineButton": "declineButton__20855",
+    "actionIcon": "actionIcon__20855"
+  },
   "402203": {
     "title": "title_feb59c"
   },
