@@ -10733,7 +10733,6 @@
     "wrapper": "wrapper_ef3116",
     "hidden": "hidden_ef3116",
     "tree": "tree_ef3116",
-    "itemsContainer": "itemsContainer_ef3116",
     "scroller": "scroller_ef3116",
     "scrolling": "scrolling_ef3116",
     "unreadMentionsIndicatorBottom": "unreadMentionsIndicatorBottom_ef3116",
@@ -14096,9 +14095,8 @@
   },
   "531691": {
     "cardImage": "cardImage__3f7b1",
-    "dynamicGraphicWrapper": "dynamicGraphicWrapper__3f7b1",
-    "withOverlay": "withOverlay__3f7b1",
-    "overlayImage": "overlayImage__3f7b1"
+    "withReward": "withReward__3f7b1",
+    "dynamicGraphicWrapper": "dynamicGraphicWrapper__3f7b1"
   },
   "531702": {
     "eventStatusContainer": "eventStatusContainer__29021",
@@ -15273,7 +15271,7 @@
   "578909": {
     "confirmation": "confirmation__9baa5",
     "confirmationHeader": "confirmationHeader__9baa5",
-    "skuImage": "skuImage__9baa5",
+    "graphicContainer": "graphicContainer__9baa5",
     "rewardNotice": "rewardNotice__9baa5",
     "buttonContainer": "buttonContainer__9baa5"
   },
