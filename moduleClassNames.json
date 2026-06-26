@@ -15890,7 +15890,8 @@
     "collectiblePreviewsContainerNoChat": "collectiblePreviewsContainerNoChat__7f14f collectiblePreviewsContainer__7f14f",
     "collectiblePreviewsContainerWithChat": "collectiblePreviewsContainerWithChat__7f14f collectiblePreviewsContainer__7f14f",
     "fractionalNitroPreviewContainer": "fractionalNitroPreviewContainer__7f14f collectiblePreviewsContainer__7f14f",
-    "pdpControls": "pdpControls__7f14f"
+    "pdpControls": "pdpControls__7f14f",
+    "goToShopButton": "goToShopButton__7f14f"
   },
   "596614": {
     "container": "container_b7f4b4",
@@ -20001,6 +20002,14 @@
     "radioHeader": "radioHeader__1347c",
     "commentContainer": "commentContainer__1347c",
     "commentHeader": "commentHeader__1347c"
+  },
+  "733781": {
+    "container": "container_deb389",
+    "spinnerContainer": "spinnerContainer_deb389",
+    "preview": "preview_deb389",
+    "card": "card_deb389",
+    "details": "details_deb389",
+    "orbIconAligned": "orbIconAligned_deb389"
   },
   "733957": {
     "wishlistBannerContainer": "wishlistBannerContainer_b05cb4",
@@ -24793,6 +24802,7 @@
     "spinner": "spinner__01c8c",
     "voter": "voter__01c8c",
     "voterDefault": "voterDefault__01c8c voter__01c8c",
+    "voterClickable": "voterClickable__01c8c voter__01c8c",
     "voterAvatarContainer": "voterAvatarContainer__01c8c",
     "voterInfo": "voterInfo__01c8c",
     "name": "name__01c8c",
@@ -25010,6 +25020,12 @@
     "container": "container_e176e1",
     "cardGrid": "cardGrid_e176e1",
     "mediumCardGrid": "mediumCardGrid_e176e1"
+  },
+  "894135": {
+    "forwardPreview": "forwardPreview__9193d",
+    "linkContainer": "linkContainer__9193d",
+    "applicationInfo": "applicationInfo__9193d",
+    "linkIcon": "linkIcon__9193d"
   },
   "894269": {
     "premiumOptionContainer": "premiumOptionContainer__150bb"
