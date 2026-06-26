@@ -13815,6 +13815,9 @@
     "divider": "divider_ee23ac",
     "animation": "animation_ee23ac"
   },
+  "518433": {
+    "nitroExclusiveButton": "nitroExclusiveButton__42650"
+  },
   "518513": {
     "channelIcon": "channelIcon_f08fc1"
   },
@@ -16580,6 +16583,15 @@
     "contentWrapper": "contentWrapper__611f6",
     "divider": "divider__611f6",
     "serverActions": "serverActions__611f6"
+  },
+  "612623": {
+    "embed": "embed_c672f0",
+    "backgroundLayer": "backgroundLayer_c672f0",
+    "background": "background_c672f0",
+    "backgroundGradient": "backgroundGradient_c672f0",
+    "icon": "icon_c672f0",
+    "content": "content_c672f0",
+    "badgeRow": "badgeRow_c672f0"
   },
   "613481": {
     "browser": "browser__9a792"
@@ -19432,7 +19444,7 @@
   "719831": {
     "offerNotice": "offerNotice__8d3f5",
     "offerNoticeContent": "offerNoticeContent__8d3f5",
-    "offerNoticeTimeRemaining": "offerNoticeTimeRemaining__8d3f5"
+    "offerNoticeTrailingText": "offerNoticeTrailingText__8d3f5"
   },
   "719918": {
     "panel": "panel__6131a",
@@ -25023,7 +25035,7 @@
     "originalPrice": "originalPrice__38ccf",
     "discountBadge": "discountBadge__38ccf",
     "orbsPriceDisplay": "orbsPriceDisplay__38ccf",
-    "nitroExclusiveButton": "nitroExclusiveButton__38ccf"
+    "orbsPriceDisplayMuted": "orbsPriceDisplayMuted__38ccf"
   },
   "895924": {
     "container": "container__551b0",
