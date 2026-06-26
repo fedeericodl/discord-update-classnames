@@ -5156,7 +5156,17 @@
     "sideFilterContent": "sideFilterContent__1eae0"
   },
   "198528": {
-    "loadingContainer": "loadingContainer__5e4a7"
+    "loadingContainer": "loadingContainer__5e4a7",
+    "connectionHeader": "connectionHeader__5e4a7",
+    "headerIcons": "headerIcons__5e4a7",
+    "ellipseGroup": "ellipseGroup__5e4a7",
+    "ellipse": "ellipse__5e4a7",
+    "teenName": "teenName__5e4a7",
+    "title": "title__5e4a7",
+    "consent": "consent__5e4a7",
+    "fallbackTitle": "fallbackTitle__5e4a7",
+    "header": "header__5e4a7",
+    "closeButton": "closeButton__5e4a7"
   },
   "198815": {
     "gridContainer": "gridContainer_ad58e7",
@@ -6994,6 +7004,14 @@
     "badgeTitleGroup": "badgeTitleGroup__6db38",
     "badgeEyebrow": "badgeEyebrow__6db38",
     "badgeTitle": "badgeTitle__6db38",
+    "badgeAccessoryRows": "badgeAccessoryRows__6db38",
+    "badgeAccessoryLine": "badgeAccessoryLine__6db38",
+    "badgeBetaTag": "badgeBetaTag__6db38",
+    "badgeBetaTagIcon": "badgeBetaTagIcon__6db38",
+    "badgeAccessoryDot": "badgeAccessoryDot__6db38",
+    "badgeAccessoryGroup": "badgeAccessoryGroup__6db38",
+    "badgeAccessorySegment": "badgeAccessorySegment__6db38",
+    "badgeAccessoryText": "badgeAccessoryText__6db38",
     "uppercaseItalic": "uppercaseItalic__6db38",
     "badgeDetails": "badgeDetails__6db38",
     "badgeStatsGrid": "badgeStatsGrid__6db38",
@@ -11104,11 +11122,15 @@
     "badge": "badge__0919a"
   },
   "412699": {
+    "sections": "sections__0624f",
+    "section": "section__0624f",
+    "group": "group__0624f",
+    "sectionHeader": "sectionHeader__0624f",
+    "groupTitle": "groupTitle__0624f",
     "row": "row__0624f",
-    "inModal": "inModal__0624f",
-    "groupHeader": "groupHeader__0624f",
+    "iconContainer": "iconContainer__0624f",
     "header": "header__0624f",
-    "iconContainer": "iconContainer__0624f"
+    "description": "description__0624f"
   },
   "412968": {
     "trigger": "trigger__5d51e",
@@ -11127,10 +11149,6 @@
     "pauseContainer": "pauseContainer_c38e9f",
     "pauseText": "pauseText_c38e9f",
     "toggle": "toggle_c38e9f"
-  },
-  "413784": {
-    "max-width": "max-width__5b321",
-    "container": "container__5b321 max-width__5b321"
   },
   "413807": {
     "settingCard": "settingCard__1a4ef",
@@ -16005,6 +16023,9 @@
     "orbPrice": "orbPrice_e9cb00",
     "description": "description_e9cb00",
     "descriptionIcon": "descriptionIcon_e9cb00",
+    "nitroColorlessIcon": "nitroColorlessIcon_e9cb00",
+    "nitroColorlessIconNormal": "nitroColorlessIconNormal_e9cb00",
+    "nitroColorlessIconCompact": "nitroColorlessIconCompact_e9cb00",
     "guildDescriptionIcon": "guildDescriptionIcon_e9cb00",
     "shopIcon": "shopIcon_e9cb00",
     "expand": "expand_e9cb00",
