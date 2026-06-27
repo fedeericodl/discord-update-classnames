@@ -10126,11 +10126,6 @@
     "gameIconContainer": "gameIconContainer__7700a",
     "warningCorner": "warningCorner__7700a"
   },
-  "364424": {
-    "premiumBadge": "premiumBadge__83f7d",
-    "acknowledged": "acknowledged__83f7d",
-    "icon": "icon__83f7d"
-  },
   "364488": {
     "chooseAccountAuthBox": "chooseAccountAuthBox_df9c06",
     "chooseAccountHelpText": "chooseAccountHelpText_df9c06",
@@ -10715,7 +10710,6 @@
   "386667": {
     "premiumTrialBadge": "premiumTrialBadge__4c1e4",
     "premiumOfferUnackedBadge": "premiumOfferUnackedBadge__4c1e4",
-    "premiumTrialBadgeIcon": "premiumTrialBadgeIcon__4c1e4",
     "premiumOfferWithTimerAcknowledgedBadge": "premiumOfferWithTimerAcknowledgedBadge__4c1e4",
     "premiumTrialBadgeSelected": "premiumTrialBadgeSelected__4c1e4",
     "premiumOfferBadgeCopy": "premiumOfferBadgeCopy__4c1e4"
