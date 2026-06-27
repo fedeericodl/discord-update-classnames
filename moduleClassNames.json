@@ -5025,6 +5025,14 @@
     "enableCard": "enableCard__74f90",
     "arrow": "arrow__74f90"
   },
+  "192389": {
+    "card": "card_a02225",
+    "coverArt": "coverArt_a02225",
+    "gameName": "gameName_a02225",
+    "loadingArtwork": "loadingArtwork_a02225",
+    "loadingName": "loadingName_a02225",
+    "pulse": "pulse_a02225"
+  },
   "192795": {
     "list": "list__20827"
   },
