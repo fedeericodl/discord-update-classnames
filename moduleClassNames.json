@@ -1265,27 +1265,13 @@
   "40355": {
     "widgetContainer": "widgetContainer__0ea1a",
     "subtle": "subtle__0ea1a",
-    "header": "header__0ea1a",
-    "heroImage": "heroImage__0ea1a",
-    "heroTitle": "heroTitle__0ea1a",
-    "image": "image__0ea1a",
-    "text": "text__0ea1a",
     "embedded": "embedded__0ea1a",
-    "v2": "v2__0ea1a",
-    "containerHeaderV2": "containerHeaderV2__0ea1a",
+    "containerHeader": "containerHeader__0ea1a",
     "headerTitle": "headerTitle__0ea1a",
     "clickable": "clickable__0ea1a",
     "appIcon": "appIcon__0ea1a",
     "appIconPlaceholder": "appIconPlaceholder__0ea1a",
-    "container": "container__0ea1a",
     "textPlaceholder": "textPlaceholder__0ea1a",
-    "textWithImage": "textWithImage__0ea1a",
-    "imagePlaceholder": "imagePlaceholder__0ea1a",
-    "heroSection": "heroSection__0ea1a",
-    "heroBody": "heroBody__0ea1a",
-    "heroImagePlaceholder": "heroImagePlaceholder__0ea1a",
-    "heroImageContainer": "heroImageContainer__0ea1a",
-    "grid": "grid__0ea1a",
     "stillSyncing": "stillSyncing__0ea1a",
     "footer": "footer__0ea1a",
     "cta": "cta__0ea1a"
@@ -4369,8 +4355,7 @@
     "badgesContainer": "badgesContainer__635ed",
     "badgesContainerCard": "badgesContainerCard__635ed",
     "badgesContainerGameProfile": "badgesContainerGameProfile__635ed",
-    "badgesContainerPopout": "badgesContainerPopout__635ed",
-    "appWidgetPreviewIcon": "appWidgetPreviewIcon__635ed"
+    "badgesContainerPopout": "badgesContainerPopout__635ed"
   },
   "165553": {
     "container": "container__935b3",
@@ -9838,10 +9823,6 @@
     "separator": "separator__7bf69"
   },
   "353659": {
-    "modalRoot": "modalRoot_a470b4",
-    "header": "header_a470b4",
-    "headerText": "headerText_a470b4",
-    "manageConnectionsFooterButton": "manageConnectionsFooterButton_a470b4",
     "platformIcon": "platformIcon_a470b4",
     "botTag": "botTag_a470b4",
     "connectionsChecksGroups": "connectionsChecksGroups_a470b4",
@@ -9853,7 +9834,7 @@
     "connectionsChecksGroupTextNameInfoIcon": "connectionsChecksGroupTextNameInfoIcon_a470b4",
     "connectionsChecksGroupRequirementsNotMet": "connectionsChecksGroupRequirementsNotMet_a470b4",
     "connectionsChecksGroupCaret": "connectionsChecksGroupCaret_a470b4",
-    "connectionsChecksGroupRetryButton": "connectionsChecksGroupRetryButton_a470b4",
+    "connectionsChecksGroupRetryText": "connectionsChecksGroupRetryText_a470b4",
     "connectionsChecksGroupCheckmark": "connectionsChecksGroupCheckmark_a470b4",
     "connectionsCheck": "connectionsCheck_a470b4",
     "footerText": "footerText_a470b4",
@@ -10573,8 +10554,7 @@
   },
   "383374": {
     "cloudPlaySection": "cloudPlaySection__1692d",
-    "cloudPlaySectionTextContainer": "cloudPlaySectionTextContainer__1692d",
-    "appWidgetPreview": "appWidgetPreview__1692d"
+    "cloudPlaySectionTextContainer": "cloudPlaySectionTextContainer__1692d"
   },
   "383470": {
     "container": "container_ea45f4",
@@ -15101,7 +15081,6 @@
   "532786": {
     "container": "container__39f84",
     "content": "content__39f84",
-    "icon": "icon__39f84",
     "viewMoreButton": "viewMoreButton__39f84"
   },
   "533873": {
@@ -18439,14 +18418,8 @@
   },
   "646997": {
     "container": "container__82fb2",
-    "containerV2": "containerV2__82fb2",
-    "content": "content__82fb2",
     "applicationIcon": "applicationIcon__82fb2",
-    "applicationIconPlaceholder": "applicationIconPlaceholder__82fb2",
-    "previewIcon": "previewIcon__82fb2",
-    "textContent": "textContent__82fb2",
-    "previewImageContainer": "previewImageContainer__82fb2",
-    "previewImage": "previewImage__82fb2"
+    "applicationIconPlaceholder": "applicationIconPlaceholder__82fb2"
   },
   "647685": {
     "shopViewWrapper": "shopViewWrapper__6db1d",
@@ -20297,6 +20270,10 @@
     "labelSpacing": "labelSpacing_fec5bf",
     "inputGroup": "inputGroup_fec5bf",
     "fieldset": "fieldset_fec5bf"
+  },
+  "724316": {
+    "grid": "grid__5af4c",
+    "tile": "tile__5af4c"
   },
   "724368": {
     "container": "container__18c16"
@@ -25669,18 +25646,8 @@
   },
   "923608": {
     "container": "container__3f982",
-    "sizeSmall": "sizeSmall__3f982",
-    "containerV2": "containerV2__3f982",
-    "content": "content__3f982",
-    "header": "header__3f982",
-    "divider": "divider__3f982",
-    "stats": "stats__3f982",
-    "stat": "stat__3f982",
-    "imageContainer": "imageContainer__3f982",
-    "previewImage": "previewImage__3f982",
     "footer": "footer__3f982",
-    "footerPlaceholder": "footerPlaceholder__3f982",
-    "previewImagePlaceholder": "previewImagePlaceholder__3f982"
+    "footerPlaceholder": "footerPlaceholder__3f982"
   },
   "923779": {
     "container": "container_c39fe3"
