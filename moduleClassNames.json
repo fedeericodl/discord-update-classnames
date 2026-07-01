@@ -6575,6 +6575,7 @@
     "planSelectSeparatorLower": "planSelectSeparatorLower__7ec3a",
     "planSelectSeparatorLowerUnifiedCheckout": "planSelectSeparatorLowerUnifiedCheckout__7ec3a",
     "promotionBannerContainer": "promotionBannerContainer__7ec3a",
+    "errorNotice": "errorNotice__7ec3a",
     "unifiedCheckoutLoadingContainer": "unifiedCheckoutLoadingContainer__7ec3a"
   },
   "250229": {
@@ -20967,6 +20968,7 @@
     "background": "background_bbe1d5",
     "backgroundGradient": "backgroundGradient_bbe1d5",
     "icon": "icon_bbe1d5",
+    "iconFallback": "iconFallback_bbe1d5 icon_bbe1d5",
     "content": "content_bbe1d5",
     "badgeRow": "badgeRow_bbe1d5"
   },
