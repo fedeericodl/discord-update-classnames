@@ -4699,6 +4699,7 @@
   },
   "175501": {
     "badge": "badge_c2b88c",
+    "label": "label_c2b88c",
     "default": "default_c2b88c",
     "brand": "brand_c2b88c",
     "expressive": "expressive_c2b88c",
@@ -8989,9 +8990,7 @@
     "progressBarContainer": "progressBarContainer_c3ab2b",
     "clickableProgressBar": "clickableProgressBar_c3ab2b",
     "progressBar": "progressBar_c3ab2b",
-    "progressBarCurrent": "progressBarCurrent_c3ab2b",
-    "backButton": "backButton_c3ab2b",
-    "arrow": "arrow_c3ab2b"
+    "progressBarCurrent": "progressBarCurrent_c3ab2b"
   },
   "334046": {
     "inviteContainer": "inviteContainer__23437",
@@ -15606,11 +15605,8 @@
     "subtitle": "subtitle__710ee"
   },
   "553634": {
-    "modalHeader": "modalHeader__5a555",
-    "modalContent": "modalContent__5a555",
     "guildSelection": "guildSelection__5a555",
-    "guildSelectorContainer": "guildSelectorContainer__5a555",
-    "createGuildButton": "createGuildButton__5a555"
+    "guildSelectorContainer": "guildSelectorContainer__5a555"
   },
   "553706": {
     "surface": "surface__5b95d",
@@ -19127,7 +19123,6 @@
     "separator": "separator__99871",
     "checklistIcon": "checklistIcon__99871",
     "checklistText": "checklistText__99871",
-    "detailsButton": "detailsButton__99871",
     "doesNot": "doesNot__99871",
     "healthPending": "healthPending__99871",
     "healthFailingDescription": "healthFailingDescription__99871",
@@ -23826,6 +23821,24 @@
     "expandIcon": "expandIcon__24585",
     "kickPermissionWarning": "kickPermissionWarning__24585"
   },
+  "859126": {
+    "loader": "loader__640e4",
+    "contentWrapper": "contentWrapper__640e4",
+    "shaker": "shaker__640e4",
+    "customHeaderForMana": "customHeaderForMana__640e4",
+    "errorBody": "errorBody__640e4",
+    "promotionBodyWrapper": "promotionBodyWrapper__640e4",
+    "promotionBody": "promotionBody__640e4",
+    "promotionImage": "promotionImage__640e4",
+    "promotionAccountIdentifier": "promotionAccountIdentifier__640e4",
+    "promotionAccountIdentifierAvatar": "promotionAccountIdentifierAvatar__640e4",
+    "promotionAccountIdentifierBody": "promotionAccountIdentifierBody__640e4",
+    "promotionAccountIdentifierError": "promotionAccountIdentifierError__640e4",
+    "promotionConfirmUpgrade": "promotionConfirmUpgrade__640e4",
+    "title": "title__640e4",
+    "bodyText": "bodyText__640e4",
+    "errorImage": "errorImage__640e4"
+  },
   "859633": {
     "wishlistButton": "wishlistButton__979b1",
     "disabled": "disabled__979b1",
@@ -27679,7 +27692,6 @@
   },
   "996024": {
     "listContainer": "listContainer__9c74b",
-    "tooltip": "tooltip__9c74b",
     "requiredPermissionsBanner": "requiredPermissionsBanner__9c74b",
     "message": "message__9c74b",
     "icon": "icon__9c74b"
