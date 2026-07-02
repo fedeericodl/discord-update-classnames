@@ -9514,6 +9514,9 @@
     "caret": "caret__9076a",
     "disabled": "disabled__9076a"
   },
+  "346906": {
+    "buttons": "buttons_de69cd"
+  },
   "346973": {
     "timeline": "timeline__7dce2",
     "rangeHandleContainer": "rangeHandleContainer__7dce2",
@@ -23648,16 +23651,6 @@
     "arrow": "arrow__6c50b",
     "up": "up__6c50b"
   },
-  "850603": {
-    "akaBadge": "akaBadge__488b1",
-    "nicknames": "nicknames__488b1",
-    "avatars": "avatars__488b1",
-    "avatar": "avatar__488b1",
-    "spacer": "spacer__488b1",
-    "divider": "divider__488b1",
-    "moreAvatars": "moreAvatars__488b1",
-    "plusIcon": "plusIcon__488b1"
-  },
   "850949": {
     "title": "title_ace4f5",
     "disabled": "disabled_ace4f5",
@@ -24388,7 +24381,9 @@
   "880716": {
     "embed": "embed_cbd65e",
     "bannerArea": "bannerArea_cbd65e",
-    "bannerGradient": "bannerGradient_cbd65e",
+    "bannerBase": "bannerBase_cbd65e",
+    "bannerImage": "bannerImage_cbd65e bannerBase_cbd65e",
+    "bannerGradient": "bannerGradient_cbd65e bannerBase_cbd65e",
     "body": "body_cbd65e",
     "bodyWithBanner": "bodyWithBanner_cbd65e",
     "icon": "icon_cbd65e",
@@ -26752,11 +26747,12 @@
     "akaPopoverContent": "akaPopoverContent_f75fb0",
     "akaPopoverHeader": "akaPopoverHeader_f75fb0",
     "akaPopoverUsername": "akaPopoverUsername_f75fb0",
+    "akaPopoverLabel": "akaPopoverLabel_f75fb0",
     "akaPopoverDivider": "akaPopoverDivider_f75fb0",
-    "akaPopoverBadge": "akaPopoverBadge_f75fb0",
     "akaPopoverNicknames": "akaPopoverNicknames_f75fb0",
     "akaPopoverRow": "akaPopoverRow_f75fb0",
     "akaPopoverNickname": "akaPopoverNickname_f75fb0",
+    "akaPopoverGuilds": "akaPopoverGuilds_f75fb0",
     "dmHeaderActivityStatus": "dmHeaderActivityStatus_f75fb0",
     "dmHeaderActivityStatusClickable": "dmHeaderActivityStatusClickable_f75fb0"
   },
