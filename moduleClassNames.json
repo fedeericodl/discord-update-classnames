@@ -8794,6 +8794,7 @@
     "inInput": "inInput__2e223",
     "listBoxItemLabel": "listBoxItemLabel__2e223",
     "listBoxItemDescription": "listBoxItemDescription__2e223",
+    "listBoxSectionHeader": "listBoxSectionHeader__2e223",
     "selectedIcon": "selectedIcon__2e223",
     "loadingSpinnerWrapper": "loadingSpinnerWrapper__2e223",
     "loadingSpinner": "loadingSpinner__2e223",
@@ -11382,6 +11383,7 @@
     "nav": "nav__7a068",
     "banner": "banner__7a068",
     "pfxBanner": "pfxBanner__7a068",
+    "framesBanner": "framesBanner__7a068",
     "nameplateBanner": "nameplateBanner__7a068",
     "bundlesBanner": "bundlesBanner__7a068"
   },
