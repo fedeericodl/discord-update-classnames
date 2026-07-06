@@ -2579,7 +2579,9 @@
     "statusRow": "statusRow__3a0cf",
     "statusTextContainer": "statusTextContainer__3a0cf",
     "statusIcon": "statusIcon__3a0cf",
-    "calloutBox": "calloutBox__3a0cf"
+    "calloutBox": "calloutBox__3a0cf",
+    "calloutBoxDanger": "calloutBoxDanger__3a0cf",
+    "globalDisableToggle": "globalDisableToggle__3a0cf"
   },
   "91443": {
     "error": "error__584e1",
@@ -13560,6 +13562,10 @@
     "inputForm": "inputForm_adbad8",
     "connectCTA": "connectCTA_adbad8"
   },
+  "488705": {
+    "triggerWrapper": "triggerWrapper_e3ba2c",
+    "trigger": "trigger_e3ba2c"
+  },
   "489215": {
     "chip": "chip__3854f",
     "with-icon": "with-icon__3854f",
@@ -18814,6 +18820,9 @@
   "662177": {
     "clickable": "clickable_faf576"
   },
+  "662686": {
+    "banner": "banner__75cf5"
+  },
   "663465": {
     "nitroWheel": "nitroWheel_c5f0dc"
   },
@@ -19280,6 +19289,17 @@
     "feature": "feature__0acd6",
     "featureIconContainer": "featureIconContainer__0acd6",
     "featureText": "featureText__0acd6"
+  },
+  "679865": {
+    "root": "root_f5cd6a",
+    "gradient": "gradient_f5cd6a",
+    "art": "art_f5cd6a",
+    "caption": "caption_f5cd6a",
+    "togglePill": "togglePill_f5cd6a",
+    "closeButton": "closeButton_f5cd6a",
+    "shelfButtonRoot": "shelfButtonRoot_f5cd6a",
+    "clickableTile": "clickableTile_f5cd6a",
+    "iconContainer": "iconContainer_f5cd6a"
   },
   "680391": {
     "section": "section__1f6ca",
@@ -21456,6 +21476,10 @@
     "bottomRight": "bottomRight__5c50b",
     "notificationGroup": "notificationGroup__5c50b"
   },
+  "762232": {
+    "assetRow": "assetRow_f3e80c",
+    "progressAssetRow": "progressAssetRow_f3e80c"
+  },
   "762279": {
     "spinner": "spinner_fa25b7",
     "header": "header_fa25b7",
@@ -22893,6 +22917,7 @@
     "container": "container__4e338",
     "gameIcon": "gameIcon__4e338",
     "gameIconImage": "gameIconImage__4e338",
+    "gameIconButton": "gameIconButton__4e338",
     "extraGamesContainer": "extraGamesContainer__4e338",
     "extraGameRow": "extraGameRow__4e338",
     "extraGameItem": "extraGameItem__4e338",
