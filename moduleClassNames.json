@@ -2042,10 +2042,6 @@
     "bottomLine": "bottomLine__9271d",
     "timestamp": "timestamp__9271d"
   },
-  "74824": {
-    "tooltipDescription": "tooltipDescription_cd30d9",
-    "tooltipWordmark": "tooltipWordmark_cd30d9"
-  },
   "74981": {
     "applicationHomeBanner": "applicationHomeBanner__62eb1",
     "settingsBanner": "settingsBanner__62eb1",
@@ -3029,13 +3025,6 @@
     "modalContent": "modalContent__859a7",
     "modalClose": "modalClose__859a7",
     "modalHeader": "modalHeader__859a7"
-  },
-  "109936": {
-    "pulseBackgroundDark": "pulseBackgroundDark__11664",
-    "pulseBackgroundLight": "pulseBackgroundLight__11664",
-    "pulseForegroundRing": "pulseForegroundRing__11664",
-    "pulseForeground": "pulseForeground__11664",
-    "pulseGradient": "pulseGradient__11664"
   },
   "110357": {
     "channelHeader": "channelHeader__35a7e",
@@ -11682,6 +11671,8 @@
     "mainCard": "mainCard_f369db",
     "mainCardContainer": "mainCardContainer_f369db",
     "gameInvitesHeaderContainer": "gameInvitesHeaderContainer_f369db",
+    "gameIcon": "gameIcon_f369db",
+    "gameIconClickable": "gameIconClickable_f369db",
     "emptyMainCard": "emptyMainCard_f369db",
     "outOfDate": "outOfDate_f369db",
     "header": "header_f369db",
@@ -18000,6 +17991,24 @@
     "connectAccountInfoNotice": "connectAccountInfoNotice__3d3b0",
     "connectAccountInfoIcon": "connectAccountInfoIcon__3d3b0"
   },
+  "636745": {
+    "loader": "loader__640e4",
+    "contentWrapper": "contentWrapper__640e4",
+    "shaker": "shaker__640e4",
+    "customHeaderForMana": "customHeaderForMana__640e4",
+    "errorBody": "errorBody__640e4",
+    "promotionBodyWrapper": "promotionBodyWrapper__640e4",
+    "promotionBody": "promotionBody__640e4",
+    "promotionImage": "promotionImage__640e4",
+    "promotionAccountIdentifier": "promotionAccountIdentifier__640e4",
+    "promotionAccountIdentifierAvatar": "promotionAccountIdentifierAvatar__640e4",
+    "promotionAccountIdentifierBody": "promotionAccountIdentifierBody__640e4",
+    "promotionAccountIdentifierError": "promotionAccountIdentifierError__640e4",
+    "promotionConfirmUpgrade": "promotionConfirmUpgrade__640e4",
+    "title": "title__640e4",
+    "bodyText": "bodyText__640e4",
+    "errorImage": "errorImage__640e4"
+  },
   "636801": {
     "contentWarningPopout": "contentWarningPopout_d2eed6",
     "header": "header_d2eed6",
@@ -21460,6 +21469,7 @@
     "popout": "popout_cb9592",
     "poppedOut": "poppedOut_cb9592",
     "callContainer": "callContainer_cb9592",
+    "verticalSplit": "verticalSplit_cb9592",
     "leftTrayIcon": "leftTrayIcon_cb9592",
     "rightTrayIcon": "rightTrayIcon_cb9592",
     "iconWrapper": "iconWrapper_cb9592",
@@ -23711,6 +23721,10 @@
     "labels": "labels_cda434",
     "tierIcon": "tierIcon_cda434"
   },
+  "852443": {
+    "tooltipDescription": "tooltipDescription_cd30d9",
+    "tooltipWordmark": "tooltipWordmark_cd30d9"
+  },
   "852456": {
     "container": "container__78320",
     "content": "content__78320",
@@ -23841,24 +23855,6 @@
     "emoji": "emoji__24585",
     "expandIcon": "expandIcon__24585",
     "kickPermissionWarning": "kickPermissionWarning__24585"
-  },
-  "859126": {
-    "loader": "loader__640e4",
-    "contentWrapper": "contentWrapper__640e4",
-    "shaker": "shaker__640e4",
-    "customHeaderForMana": "customHeaderForMana__640e4",
-    "errorBody": "errorBody__640e4",
-    "promotionBodyWrapper": "promotionBodyWrapper__640e4",
-    "promotionBody": "promotionBody__640e4",
-    "promotionImage": "promotionImage__640e4",
-    "promotionAccountIdentifier": "promotionAccountIdentifier__640e4",
-    "promotionAccountIdentifierAvatar": "promotionAccountIdentifierAvatar__640e4",
-    "promotionAccountIdentifierBody": "promotionAccountIdentifierBody__640e4",
-    "promotionAccountIdentifierError": "promotionAccountIdentifierError__640e4",
-    "promotionConfirmUpgrade": "promotionConfirmUpgrade__640e4",
-    "title": "title__640e4",
-    "bodyText": "bodyText__640e4",
-    "errorImage": "errorImage__640e4"
   },
   "859633": {
     "wishlistButton": "wishlistButton__979b1",
@@ -24602,6 +24598,13 @@
     "container": "container_f83afb",
     "description": "description_f83afb",
     "divider": "divider_f83afb"
+  },
+  "887555": {
+    "pulseBackgroundDark": "pulseBackgroundDark__11664",
+    "pulseBackgroundLight": "pulseBackgroundLight__11664",
+    "pulseForegroundRing": "pulseForegroundRing__11664",
+    "pulseForeground": "pulseForeground__11664",
+    "pulseGradient": "pulseGradient__11664"
   },
   "888061": {
     "container": "container__8ef77",
