@@ -4129,7 +4129,8 @@
     "miniAvatar": "miniAvatar__6738d baseAvatar__6738d"
   },
   "152103": {
-    "buttonsContainer": "buttonsContainer__4962e"
+    "buttonsContainer": "buttonsContainer__4962e",
+    "newBadge": "newBadge__4962e"
   },
   "153260": {
     "container": "container__3cded",
@@ -10553,17 +10554,12 @@
     "treatmentGameTile": "treatmentGameTile__11054",
     "headingCopy": "headingCopy__11054",
     "ctas": "ctas__11054",
-    "ctasHidden": "ctasHidden__11054",
     "rewardTileWithInstructions": "rewardTileWithInstructions__11054",
     "heroImageBackground": "heroImageBackground__11054",
     "heroImageGradient": "heroImageGradient__11054",
     "treatmentPrimaryButtonWrapper": "treatmentPrimaryButtonWrapper__11054",
     "treatmentHeader": "treatmentHeader__11054",
     "treatmentHeaderCopy": "treatmentHeaderCopy__11054",
-    "wrapperNotice": "wrapperNotice__11054",
-    "enrolledNotice": "enrolledNotice__11054",
-    "enrolledNoticeQuestIcon": "enrolledNoticeQuestIcon__11054",
-    "enrolledNoticeText": "enrolledNoticeText__11054",
     "titleOrbIcon": "titleOrbIcon__11054"
   },
   "383374": {
