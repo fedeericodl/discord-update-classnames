@@ -7401,6 +7401,7 @@
   "279261": {
     "wrapper": "wrapper__5d428",
     "innerWrapper": "innerWrapper__5d428",
+    "contentStack": "contentStack__5d428",
     "descriptionContainer": "descriptionContainer__5d428"
   },
   "279574": {
@@ -10116,6 +10117,13 @@
     "iconContainer": "iconContainer__7700a",
     "gameIconContainer": "gameIconContainer__7700a",
     "warningCorner": "warningCorner__7700a"
+  },
+  "364103": {
+    "duck": "duck__2dee0",
+    "quackButton": "quackButton__2dee0",
+    "quacking": "quacking__2dee0",
+    "duckContainer": "duckContainer__2dee0",
+    "disabled": "disabled__2dee0"
   },
   "364488": {
     "chooseAccountAuthBox": "chooseAccountAuthBox_df9c06",
