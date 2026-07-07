@@ -3310,6 +3310,11 @@
     "invite": "invite_a2844c",
     "inviteDetail": "inviteDetail_a2844c"
   },
+  "118902": {
+    "clipKeybindHint": "clipKeybindHint_f9504b",
+    "clipKeyCombo": "clipKeyCombo_f9504b",
+    "clipKeyComboKey": "clipKeyComboKey_f9504b"
+  },
   "119333": {
     "verificationRoleCard": "verificationRoleCard__866a0",
     "verificationRoleHeader": "verificationRoleHeader__866a0",
@@ -6840,7 +6845,8 @@
   },
   "257170": {
     "selectorHeading": "selectorHeading_a1294d",
-    "tileGrid": "tileGrid_a1294d"
+    "tileGrid": "tileGrid_a1294d",
+    "betaCaption": "betaCaption_a1294d"
   },
   "257727": {
     "row": "row_c7dbcb",
@@ -10431,10 +10437,7 @@
     "gameIconWrapper": "gameIconWrapper__8c6c2",
     "gameIcon": "gameIcon__8c6c2",
     "info": "info__8c6c2",
-    "liveBadge": "liveBadge__8c6c2",
-    "clipKeybindHint": "clipKeybindHint__8c6c2",
-    "clipKeyCombo": "clipKeyCombo__8c6c2",
-    "clipKeyComboKey": "clipKeyComboKey__8c6c2"
+    "liveBadge": "liveBadge__8c6c2"
   },
   "379464": {
     "section": "section__999b5",
