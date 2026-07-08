@@ -1382,6 +1382,11 @@
     "compactBoltContainer": "compactBoltContainer_f695b9",
     "compactBoltTrinket": "compactBoltTrinket_f695b9"
   },
+  "44168": {
+    "container": "container__39957",
+    "iconContainer": "iconContainer__39957",
+    "icon": "icon__39957"
+  },
   "45596": {
     "scrollerBase": "scrollerBase_d125d2",
     "auto": "auto_d125d2 scrollerBase_d125d2",
@@ -2088,11 +2093,8 @@
   "75662": {
     "container": "container_e99fef",
     "progressHeader": "progressHeader_e99fef",
-    "progressBar": "progressBar_e99fef",
     "progressBarContainer": "progressBarContainer_e99fef",
     "monthlyCodeCountdownLabel": "monthlyCodeCountdownLabel_e99fef",
-    "progressBarFill": "progressBarFill_e99fef",
-    "progressBarIndicator": "progressBarIndicator_e99fef",
     "cards": "cards_e99fef",
     "promoCardContainer": "promoCardContainer_e99fef",
     "wrap": "wrap_e99fef",
@@ -6567,7 +6569,8 @@
     "planSelectSeparatorLowerUnifiedCheckout": "planSelectSeparatorLowerUnifiedCheckout__7ec3a",
     "promotionBannerContainer": "promotionBannerContainer__7ec3a",
     "errorNotice": "errorNotice__7ec3a",
-    "unifiedCheckoutLoadingContainer": "unifiedCheckoutLoadingContainer__7ec3a"
+    "unifiedCheckoutLoadingContainer": "unifiedCheckoutLoadingContainer__7ec3a",
+    "badgeBannerContainer": "badgeBannerContainer__7ec3a"
   },
   "250229": {
     "colorPicker": "colorPicker_cd4367",
