@@ -15696,7 +15696,6 @@
     "progressBarWrapper": "progressBarWrapper__5b393"
   },
   "556114": {
-    "voice": "voice__73a0a",
     "voiceLabel": "voiceLabel__73a0a",
     "voiceParticipants": "voiceParticipants__73a0a",
     "headerLabel": "headerLabel__73a0a"
@@ -27155,13 +27154,13 @@
   },
   "974963": {
     "stickyMessage": "stickyMessage__31080",
+    "message": "message__31080",
+    "nonMessageContent": "nonMessageContent__31080",
     "tagsRow": "tagsRow__31080",
     "forumPostActionBar": "forumPostActionBar__31080",
-    "dividerThick": "dividerThick__31080 divider__31080",
+    "divider": "divider__31080",
     "dividerThin": "dividerThin__31080 divider__31080",
-    "message": "message__31080",
-    "voice": "voice__31080",
-    "divider": "divider__31080"
+    "dividerThick": "dividerThick__31080 divider__31080"
   },
   "975424": {
     "gridContainer": "gridContainer_f3e8a7",
