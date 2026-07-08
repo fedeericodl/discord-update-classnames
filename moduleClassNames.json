@@ -14010,7 +14010,6 @@
     "legibilityGradient": "legibilityGradient__24e2c",
     "heroAsset": "heroAsset__24e2c",
     "cta": "cta__24e2c",
-    "contentInteractable": "contentInteractable__24e2c",
     "title": "title__24e2c",
     "rewardTile": "rewardTile__24e2c",
     "hiddenRewardTile": "hiddenRewardTile__24e2c",
@@ -27421,6 +27420,11 @@
     "metadata": "metadata__9bfb9",
     "connectedAppRoleAccountClickable": "connectedAppRoleAccountClickable__9bfb9",
     "connectedAppRoleAccountPoweredBy": "connectedAppRoleAccountPoweredBy__9bfb9"
+  },
+  "985216": {
+    "container": "container__863b0",
+    "image": "image__863b0",
+    "body": "body__863b0"
   },
   "986188": {
     "title": "title_d1f0f0",
