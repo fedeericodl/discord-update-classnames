@@ -3237,6 +3237,7 @@
     "timestamp": "timestamp_a2d698",
     "body": "body_a2d698",
     "messageContent": "messageContent_a2d698",
+    "deletedMessage": "deletedMessage_a2d698",
     "messageContentContainer": "messageContentContainer_a2d698",
     "bodyBottom": "bodyBottom_a2d698",
     "tagsRow": "tagsRow_a2d698",
@@ -7409,7 +7410,8 @@
     "giftPreview": "giftPreview_bf1b4a",
     "wishlistGiftPreview": "wishlistGiftPreview_bf1b4a",
     "wishlistGiftPreviewHeader": "wishlistGiftPreviewHeader_bf1b4a",
-    "wishlistGiftPreviewFooter": "wishlistGiftPreviewFooter_bf1b4a"
+    "wishlistGiftPreviewFooter": "wishlistGiftPreviewFooter_bf1b4a",
+    "giftingBadgeBanner": "giftingBadgeBanner_bf1b4a"
   },
   "270006": {
     "svgContentRight": "svgContentRight__7b484",
@@ -16018,6 +16020,14 @@
     "artwork": "artwork__8cc35",
     "logo": "logo__8cc35"
   },
+  "599459": {
+    "container": "container__52fde",
+    "note": "note__52fde",
+    "popover": "popover__52fde",
+    "header": "header__52fde",
+    "user": "user__52fde",
+    "icon": "icon__52fde"
+  },
   "599521": {
     "promotionalFooterBanner": "promotionalFooterBanner_e68795",
     "avatar": "avatar_e68795",
@@ -16750,9 +16760,8 @@
   "617031": {
     "duck": "duck__2dee0",
     "quackButton": "quackButton__2dee0",
-    "quacking": "quacking__2dee0",
-    "duckContainer": "duckContainer__2dee0",
-    "disabled": "disabled__2dee0"
+    "disabled": "disabled__2dee0",
+    "duckContainer": "duckContainer__2dee0"
   },
   "617069": {
     "banner": "banner__04bb4",
@@ -17297,6 +17306,7 @@
     "addFriendInput": "addFriendInput__72ba7 inputText__72ba7",
     "input": "input__72ba7 inputText__72ba7",
     "addFriendHint": "addFriendHint__72ba7 inputText__72ba7",
+    "addFriendHintPrefix": "addFriendHintPrefix__72ba7",
     "ring": "ring__72ba7",
     "friendNoteTextContainer": "friendNoteTextContainer__72ba7",
     "friendNoteTextArea": "friendNoteTextArea__72ba7 inputText__72ba7",
