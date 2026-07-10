@@ -18004,8 +18004,6 @@
   },
   "636745": {
     "loader": "loader__640e4",
-    "contentWrapper": "contentWrapper__640e4",
-    "shaker": "shaker__640e4",
     "customHeaderForMana": "customHeaderForMana__640e4",
     "errorBody": "errorBody__640e4",
     "promotionBodyWrapper": "promotionBodyWrapper__640e4",
