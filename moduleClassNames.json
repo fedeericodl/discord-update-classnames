@@ -5330,7 +5330,8 @@
     "createOverwritePopout": "createOverwritePopout__0ab2c",
     "roleRow": "roleRow__0ab2c",
     "roleName": "roleName__0ab2c",
-    "searchBar": "searchBar__0ab2c"
+    "searchBar": "searchBar__0ab2c",
+    "removeButtonContainer": "removeButtonContainer__0ab2c"
   },
   "204636": {
     "modalContent": "modalContent__7dffe",
