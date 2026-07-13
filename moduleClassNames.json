@@ -2597,14 +2597,6 @@
     "animation": "animation_d54fab",
     "spinner": "spinner_d54fab"
   },
-  "93072": {
-    "iconContainer": "iconContainer__45eb7",
-    "content": "content__45eb7",
-    "clickableEmoji": "clickableEmoji__45eb7",
-    "ctaReactionButton": "ctaReactionButton__45eb7",
-    "ctaText": "ctaText__45eb7",
-    "ctaEmoji": "ctaEmoji__45eb7"
-  },
   "93610": {
     "hero": "hero__56f88",
     "banner": "banner__56f88",
@@ -10438,6 +10430,7 @@
     "clickableGameName": "clickableGameName__8c6c2",
     "gameWrapper": "gameWrapper__8c6c2",
     "gameIconWrapper": "gameIconWrapper__8c6c2",
+    "clickableGameIcon": "clickableGameIcon__8c6c2",
     "gameIcon": "gameIcon__8c6c2",
     "info": "info__8c6c2",
     "liveBadge": "liveBadge__8c6c2"
@@ -10560,6 +10553,8 @@
     "titleOrbIcon": "titleOrbIcon__11054"
   },
   "383374": {
+    "thumbnailButton": "thumbnailButton__1692d",
+    "titleButton": "titleButton__1692d",
     "cloudPlaySection": "cloudPlaySection__1692d",
     "cloudPlaySectionTextContainer": "cloudPlaySectionTextContainer__1692d",
     "appWidgetPreview": "appWidgetPreview__1692d"
