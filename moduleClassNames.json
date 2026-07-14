@@ -1659,11 +1659,6 @@
     "otherSection": "otherSection_a23773",
     "otherHelper": "otherHelper_a23773"
   },
-  "58922": {
-    "button": "button__2ab1b",
-    "selected": "selected__2ab1b",
-    "icon": "icon__2ab1b"
-  },
   "59467": {
     "actionMenuButton": "actionMenuButton__8dc78"
   },
@@ -5501,7 +5496,8 @@
     "belowSidebar": "belowSidebar__6341f"
   },
   "201483": {
-    "container": "container_cc66e9"
+    "container": "container_cc66e9",
+    "textContainer": "textContainer_cc66e9"
   },
   "201489": {
     "channel": "channel__427f0"
@@ -17682,7 +17678,7 @@
     "avatarWrapper": "avatarWrapper__38ccf",
     "trigger": "trigger__38ccf",
     "badge": "badge__38ccf",
-    "guildRoomStatusBadge": "guildRoomStatusBadge__38ccf",
+    "statusBadge": "statusBadge__38ccf",
     "editBadge": "editBadge__38ccf",
     "isStatusMenuOpen": "isStatusMenuOpen__38ccf"
   },
