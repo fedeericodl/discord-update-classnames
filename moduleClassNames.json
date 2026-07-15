@@ -23734,7 +23734,10 @@
     "gamesContainer": "gamesContainer__2dc49"
   },
   "848051": {
-    "row": "row__79399"
+    "row": "row__79399",
+    "disabled": "disabled__79399",
+    "preview": "preview__79399",
+    "text": "text__79399"
   },
   "848216": {
     "tabBarContainer": "tabBarContainer_eb3aa4",
@@ -25790,6 +25793,8 @@
   },
   "921519": {
     "row": "row__89036",
+    "nameplated": "nameplated__89036",
+    "content": "content__89036",
     "avatar": "avatar__89036",
     "details": "details__89036",
     "tag": "tag__89036",
