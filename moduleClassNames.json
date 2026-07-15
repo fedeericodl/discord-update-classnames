@@ -7050,6 +7050,7 @@
     "flushContainer": "flushContainer__74017 inlineContainer__74017",
     "inner": "inner__74017",
     "charCountShowing": "charCountShowing__74017",
+    "charCountUpsellShowing": "charCountUpsellShowing__74017",
     "innerDisabled": "innerDisabled__74017 inner__74017",
     "sansAttachButton": "sansAttachButton__74017",
     "sansAttachButtonCreateThread": "sansAttachButtonCreateThread__74017",
@@ -9335,7 +9336,8 @@
     "giftRecipientButton": "giftRecipientButton_cd2ff7",
     "confirmation": "confirmation_cd2ff7",
     "seasonalConfirmationPadding": "seasonalConfirmationPadding_cd2ff7",
-    "giftCodeSection": "giftCodeSection_cd2ff7"
+    "giftCodeSection": "giftCodeSection_cd2ff7",
+    "giftingBadgeFooter": "giftingBadgeFooter_cd2ff7"
   },
   "340231": {
     "container": "container__2becd",
