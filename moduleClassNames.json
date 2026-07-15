@@ -14530,6 +14530,7 @@
   },
   "512514": {
     "productCardBadge": "productCardBadge_b8a6bd",
+    "iconTextBadge": "iconTextBadge_b8a6bd",
     "earlyAccessBadge": "earlyAccessBadge_b8a6bd"
   },
   "513857": {
@@ -22838,8 +22839,7 @@
     "editableGdmIconIndicator": "editableGdmIconIndicator_ec5bef"
   },
   "817990": {
-    "grid": "grid_d89db4",
-    "loadingContainer": "loadingContainer_d89db4"
+    "grid": "grid_d89db4"
   },
   "818050": {
     "marginReset": "marginReset_fd297e",
