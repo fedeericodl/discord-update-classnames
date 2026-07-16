@@ -8169,15 +8169,15 @@
     "experimentGetNitro": "experimentGetNitro__9b0f4",
     "acceptAsAvatar": "acceptAsAvatar__9b0f4"
   },
-  "310855": {
-    "tooltip": "tooltip__4e35b",
-    "tooltipLayer": "tooltipLayer__4e35b",
-    "richTooltip": "richTooltip__4e35b",
-    "tooltipContent": "tooltipContent__4e35b",
-    "caretIcon": "caretIcon__4e35b",
-    "caretFill": "caretFill__4e35b",
-    "caretStroke": "caretStroke__4e35b",
-    "tooltipWithShortcut": "tooltipWithShortcut__4e35b"
+  "310700": {
+    "tooltip": "tooltip_fa450d",
+    "tooltipLayer": "tooltipLayer_fa450d",
+    "richTooltip": "richTooltip_fa450d",
+    "tooltipContent": "tooltipContent_fa450d",
+    "caretIcon": "caretIcon_fa450d",
+    "caretFill": "caretFill_fa450d",
+    "caretStroke": "caretStroke_fa450d",
+    "tooltipWithShortcut": "tooltipWithShortcut_fa450d"
   },
   "310876": {
     "containerExpanded": "containerExpanded__7ff28",
@@ -14281,6 +14281,9 @@
     "staticBundleFooterGradient": "staticBundleFooterGradient_fcbddd",
     "productName": "productName_fcbddd"
   },
+  "496978": {
+    "overlay": "overlay_ca6af4"
+  },
   "497001": {
     "text-md/normal": "text-md/normal_b39acb",
     "pricePerInterval": "pricePerInterval_b39acb text-md/normal_b39acb"
@@ -14995,6 +14998,7 @@
     "voiceChannelText": "voiceChannelText__39ec2",
     "voiceIcon": "voiceIcon__39ec2",
     "voiceChannelHeading": "voiceChannelHeading__39ec2",
+    "guildName": "guildName__39ec2",
     "voiceChannelDivider": "voiceChannelDivider__39ec2",
     "voiceChannelOverflowCount": "voiceChannelOverflowCount__39ec2",
     "contextMenu": "contextMenu__39ec2",
@@ -21083,17 +21087,6 @@
     "discriminator": "discriminator__01c8c",
     "emptyTitle": "emptyTitle__01c8c",
     "emptyText": "emptyText__01c8c"
-  },
-  "736736": {
-    "caret": "caret__5bc6a",
-    "caret--bottom": "caret--bottom__5bc6a",
-    "caret--top": "caret--top__5bc6a",
-    "caret--left": "caret--left__5bc6a",
-    "caret--right": "caret--right__5bc6a",
-    "caret--center": "caret--center__5bc6a",
-    "caret--start": "caret--start__5bc6a",
-    "caret--end": "caret--end__5bc6a",
-    "caret--custom": "caret--custom__5bc6a"
   },
   "737273": {
     "description": "description__39ae6",
@@ -28104,6 +28097,17 @@
     "tooltipPointer": "tooltipPointer_c530da",
     "mention": "mention_c530da",
     "spinner": "spinner_c530da"
+  },
+  "993673": {
+    "caret": "caret__0b5f9",
+    "caret--bottom": "caret--bottom__0b5f9",
+    "caret--top": "caret--top__0b5f9",
+    "caret--left": "caret--left__0b5f9",
+    "caret--right": "caret--right__0b5f9",
+    "caret--center": "caret--center__0b5f9",
+    "caret--start": "caret--start__0b5f9",
+    "caret--end": "caret--end__0b5f9",
+    "caret--custom": "caret--custom__0b5f9"
   },
   "993843": {
     "background": "background_df5e2e"
