@@ -17476,16 +17476,13 @@
     "pendingPlanChangeNotice": "pendingPlanChangeNotice_f75db8"
   },
   "608149": {
-    "popoutContainer": "popoutContainer__4ad69",
     "messagesScroller": "messagesScroller__4ad69",
     "message": "message__4ad69",
     "messageContainer": "messageContainer__4ad69",
     "hoverBar": "hoverBar__4ad69",
     "clickableMessageBackground": "clickableMessageBackground__4ad69",
     "deletedMessage": "deletedMessage__4ad69",
-    "deleteIcon": "deleteIcon__4ad69",
-    "header": "header__4ad69",
-    "titleContainer": "titleContainer__4ad69"
+    "deleteIcon": "deleteIcon__4ad69"
   },
   "608956": {
     "buttonIcon": "buttonIcon__4151b",
