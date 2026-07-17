@@ -2259,7 +2259,13 @@
     "bundle": "bundle__73abe",
     "nameplate": "nameplate__73abe",
     "profileEffect": "profileEffect__73abe",
-    "profileFrame": "profileFrame__73abe"
+    "profileFrame": "profileFrame__73abe",
+    "suggestedFooter": "suggestedFooter__73abe",
+    "opacity20": "opacity20__73abe",
+    "suggestedText": "suggestedText__73abe",
+    "longText": "longText__73abe",
+    "extraLongText": "extraLongText__73abe",
+    "suggestedSkuPreview": "suggestedSkuPreview__73abe"
   },
   "80353": {
     "content": "content__444a0"
@@ -22219,6 +22225,14 @@
     "gradientInnerBorder": "gradientInnerBorder__8f49b",
     "svgCopy": "svgCopy__8f49b"
   },
+  "776079": {
+    "text-sm/medium": "text-sm/medium__92b20",
+    "buttonIcon": "buttonIcon__92b20",
+    "hidden": "hidden__92b20",
+    "SeparatorLower": "SeparatorLower__92b20",
+    "SeparatorUpper": "SeparatorUpper__92b20",
+    "container": "container__92b20"
+  },
   "777135": {
     "root": "root__3e32a",
     "largeBorderRadius": "largeBorderRadius__3e32a",
@@ -28265,12 +28279,7 @@
     "upsellsContainer": "upsellsContainer__2c3b4"
   },
   "998460": {
-    "text-sm/medium": "text-sm/medium__92b20",
-    "buttonIcon": "buttonIcon__92b20",
-    "hidden": "hidden__92b20",
-    "SeparatorLower": "SeparatorLower__92b20",
-    "SeparatorUpper": "SeparatorUpper__92b20",
-    "container": "container__92b20"
+    "root": "root__723cd"
   },
   "998510": {
     "container": "container__5b40b",
