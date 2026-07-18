@@ -15355,8 +15355,6 @@
     "wishlistItemPreview": "wishlistItemPreview_ab64fd"
   },
   "524611": {
-    "recentMentionsPopout": "recentMentionsPopout__792ee",
-    "widerInbox": "widerInbox__792ee",
     "hasMore": "hasMore__792ee"
   },
   "525075": {
@@ -17509,7 +17507,6 @@
     "pendingPlanChangeNotice": "pendingPlanChangeNotice_f75db8"
   },
   "608149": {
-    "scroller": "scroller__4ad69",
     "deletedMessage": "deletedMessage__4ad69",
     "left": "left__4ad69",
     "deletedIcon": "deletedIcon__4ad69"
@@ -24245,8 +24242,8 @@
     "emptyState": "emptyState__8ef02"
   },
   "854325": {
-    "container": "container__8cb2e recentMentionsPopout__792ee",
-    "widerInbox": "widerInbox__8cb2e widerInbox__792ee"
+    "container": "container__8cb2e",
+    "widerInbox": "widerInbox__8cb2e"
   },
   "854469": {
     "emoji": "emoji__045fa",
