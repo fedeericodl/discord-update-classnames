@@ -3633,7 +3633,7 @@
   },
   "134976": {
     "container": "container__49804",
-    "withGradient": "withGradient__49804"
+    "withGradient": "withGradient__49804 premiumGradientBackground__93bef"
   },
   "135150": {
     "scroller": "scroller__981c8",
@@ -14162,6 +14162,9 @@
     "description": "description_cd9a44",
     "switchChannel": "switchChannel_cd9a44"
   },
+  "492200": {
+    "premiumGradientBackground": "premiumGradientBackground__93bef"
+  },
   "492619": {
     "container": "container_f50ddc",
     "heading": "heading_f50ddc",
@@ -24033,8 +24036,11 @@
     "collapseButton": "collapseButton__2447f",
     "guildProfileUpsell": "guildProfileUpsell__2447f",
     "guildProfileUpsellContent": "guildProfileUpsellContent__2447f",
+    "guildProfileUpsellDivider": "guildProfileUpsellDivider__2447f",
     "lockDivider": "lockDivider__2447f",
     "lockDividerCircle": "lockDividerCircle__2447f",
+    "premiumTryItOutSection": "premiumTryItOutSection__2447f premiumGradientBackground__93bef",
+    "premiumTryItOutDivider": "premiumTryItOutDivider__2447f",
     "perServerNotice": "perServerNotice__2447f",
     "perServerNoticeDismissButton": "perServerNoticeDismissButton__2447f",
     "keyboardModeNotice": "keyboardModeNotice__2447f",
