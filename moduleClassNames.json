@@ -6768,7 +6768,8 @@
     "established": "established__6e500",
     "nameContainer": "nameContainer__6e500",
     "guildNameContainer": "guildNameContainer__6e500",
-    "guildName": "guildName__6e500"
+    "guildName": "guildName__6e500",
+    "serverTag": "serverTag__6e500"
   },
   "239502": {
     "colorPicker": "colorPicker__69f5f"
@@ -10955,6 +10956,12 @@
     "imageUnverified": "imageUnverified_b026d9 image_b026d9",
     "message": "message_b026d9",
     "secondaryButton": "secondaryButton_b026d9"
+  },
+  "375408": {
+    "container": "container_a9353e",
+    "text": "text_a9353e",
+    "badge": "badge_a9353e",
+    "tagText": "tagText_a9353e"
   },
   "376289": {
     "infoNotice": "infoNotice__9b260",
