@@ -3649,6 +3649,8 @@
     "svg": "svg_cc5dd2",
     "shiftSVG": "shiftSVG_cc5dd2",
     "noContain": "noContain_cc5dd2",
+    "decoration": "decoration_cc5dd2",
+    "decorationImage": "decorationImage_cc5dd2",
     "lowerBadge": "lowerBadge_cc5dd2",
     "isHighlighted": "isHighlighted_cc5dd2",
     "upperBadge": "upperBadge_cc5dd2",
