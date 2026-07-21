@@ -9288,9 +9288,6 @@
     "guildIcon40": "guildIcon40_df7f81",
     "guildIcon32": "guildIcon32_df7f81",
     "guildIcon24": "guildIcon24_df7f81",
-    "typingMaskWrapper": "typingMaskWrapper_df7f81",
-    "typingMaskSvg": "typingMaskSvg_df7f81",
-    "typingIndicator": "typingIndicator_df7f81",
     "channelTypingStatusFill": "channelTypingStatusFill_df7f81"
   },
   "324410": {
@@ -26336,7 +26333,8 @@
   },
   "926915": {
     "container": "container_cc66e9",
-    "textContainer": "textContainer_cc66e9"
+    "textContainer": "textContainer_cc66e9",
+    "badgeContainer": "badgeContainer_cc66e9"
   },
   "926920": {
     "container": "container__85a13",
