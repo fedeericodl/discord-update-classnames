@@ -1467,6 +1467,18 @@
     "infoExpandedGuildInfo": "infoExpandedGuildInfo__14ad3",
     "infoExpandedGuildTitle": "infoExpandedGuildTitle__14ad3"
   },
+  "48093": {
+    "centeredSection": "centeredSection__95a3f",
+    "container": "container__95a3f",
+    "art": "art__95a3f",
+    "artGradient": "artGradient__95a3f",
+    "closeButton": "closeButton__95a3f",
+    "lockup": "lockup__95a3f",
+    "lockupInner": "lockupInner__95a3f",
+    "textGroup": "textGroup__95a3f",
+    "heading": "heading__95a3f",
+    "description": "description__95a3f"
+  },
   "48525": {
     "button": "button__039e0",
     "secondary": "secondary__039e0",
@@ -8747,13 +8759,13 @@
   },
   "304346": {
     "header": "header__7c901",
-    "subtitle": "subtitle__7c901",
     "closeButton": "closeButton__7c901",
     "content": "content__7c901",
     "embeddedContent": "embeddedContent__7c901",
     "embeddedFooter": "embeddedFooter__7c901",
     "embeddedBackLink": "embeddedBackLink__7c901",
     "error": "error__7c901",
+    "footer": "footer__7c901",
     "listItemContainer": "listItemContainer__7c901",
     "listItemText": "listItemText__7c901",
     "listItemArrow": "listItemArrow__7c901"
