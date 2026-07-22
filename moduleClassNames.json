@@ -7845,6 +7845,9 @@
     "obscureButtonContainer": "obscureButtonContainer__299eb",
     "obscureHoverButton": "obscureHoverButton__299eb"
   },
+  "278093": {
+    "page": "page__7d655"
+  },
   "278303": {
     "elevated": "elevated__3f12a",
     "button": "button__3f12a elevated__3f12a",
@@ -7910,7 +7913,8 @@
     "messageContent": "messageContent__6764b",
     "messageContentTrailingIcon": "messageContentTrailingIcon__6764b",
     "messageContentLeadingIcon": "messageContentLeadingIcon__6764b",
-    "bullet": "bullet__6764b"
+    "bullet": "bullet__6764b",
+    "spoilerPlaceholder": "spoilerPlaceholder__6764b"
   },
   "281161": {
     "item": "item_db8087",
@@ -9773,13 +9777,13 @@
     "hoverArea": "hoverArea__6d3d8",
     "container": "container__6d3d8",
     "containerHovered": "containerHovered__6d3d8",
+    "contentColumn": "contentColumn__6d3d8",
     "featuredSection": "featuredSection__6d3d8",
-    "scrim": "scrim__6d3d8",
     "heroBackground": "heroBackground__6d3d8",
     "heroVideo": "heroVideo__6d3d8",
     "heroVideoVisible": "heroVideoVisible__6d3d8",
-    "scrimColor": "scrimColor__6d3d8",
-    "scrimBlack": "scrimBlack__6d3d8",
+    "scrim": "scrim__6d3d8",
+    "scrimDarker": "scrimDarker__6d3d8",
     "expiredScrim": "expiredScrim__6d3d8",
     "expiredScrimVisible": "expiredScrimVisible__6d3d8",
     "header": "header__6d3d8",
@@ -12646,6 +12650,7 @@
     "platformIcon": "platformIcon__9bfb9",
     "applicationConnectionIcon": "applicationConnectionIcon__9bfb9",
     "accountName": "accountName__9bfb9",
+    "linkIcon": "linkIcon__9bfb9",
     "accountNameText": "accountNameText__9bfb9",
     "platformUrlAnchor": "platformUrlAnchor__9bfb9",
     "metadata": "metadata__9bfb9",
@@ -12663,7 +12668,7 @@
     "heading": "heading_b558e5",
     "headingActions": "headingActions_b558e5",
     "timeLeft": "timeLeft_b558e5",
-    "cardGrid": "cardGrid_b558e5",
+    "cardItem": "cardItem_b558e5",
     "marvelRivalsCopyright": "marvelRivalsCopyright_b558e5"
   },
   "440559": {
@@ -20328,14 +20333,18 @@
   },
   "719095": {
     "reward": "reward_e3f38d",
+    "rewardHovered": "rewardHovered_e3f38d",
     "textContainer": "textContainer_e3f38d",
+    "textContainerHovered": "textContainerHovered_e3f38d",
     "rewardTileContainer": "rewardTileContainer_e3f38d",
+    "rewardTileContainerHovered": "rewardTileContainerHovered_e3f38d",
     "questRewardTileWrapper": "questRewardTileWrapper_e3f38d",
     "questRewardTileWrapperUnenrolled": "questRewardTileWrapperUnenrolled_e3f38d",
     "questRewardTile": "questRewardTile_e3f38d",
     "orbsBalanceIcon": "orbsBalanceIcon_e3f38d",
     "gameTitle": "gameTitle_e3f38d",
     "rewardLine": "rewardLine_e3f38d",
+    "rewardLineHovered": "rewardLineHovered_e3f38d",
     "rewardText": "rewardText_e3f38d",
     "questRewardTileOverlay": "questRewardTileOverlay_e3f38d",
     "questRewardTileCompletedIcon": "questRewardTileCompletedIcon_e3f38d",
@@ -21400,7 +21409,8 @@
     "descriptionExpanded": "descriptionExpanded__44846",
     "descriptionClamped": "descriptionClamped__44846",
     "descriptionClampedHidden": "descriptionClampedHidden__44846",
-    "footerPromotedRow": "footerPromotedRow__44846"
+    "footerPromotedRow": "footerPromotedRow__44846",
+    "promotedText": "promotedText__44846"
   },
   "758716": {
     "classificationEvidenceContainer": "classificationEvidenceContainer_a2ffaf"
@@ -26562,7 +26572,8 @@
   "936516": {
     "cta": "cta_bdbd5b",
     "ctaVisible": "ctaVisible_bdbd5b",
-    "ctaContent": "ctaContent_bdbd5b"
+    "ctaContent": "ctaContent_bdbd5b",
+    "ctaInner": "ctaInner_bdbd5b"
   },
   "937483": {
     "roleTag": "roleTag__9cd44",
