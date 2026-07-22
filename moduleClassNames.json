@@ -1796,6 +1796,10 @@
     "hidden": "hidden__57f77",
     "label": "label__57f77"
   },
+  "57642": {
+    "bar": "bar_bb5e3d",
+    "tile": "tile_bb5e3d"
+  },
   "58023": {
     "video": "video__6b794"
   },
@@ -5458,14 +5462,13 @@
     "dragIcon": "dragIcon__0aebc"
   },
   "188872": {
-    "eyebrow": "eyebrow__463b7",
-    "base": "base__463b7 eyebrow__463b7",
-    "textBadge": "textBadge__463b7 base__463b7 eyebrow__463b7",
+    "base": "base__463b7",
+    "textBadge": "textBadge__463b7 base__463b7",
     "baseShapeRound": "baseShapeRound__463b7",
     "baseShapeRoundLeft": "baseShapeRoundLeft__463b7",
     "baseShapeRoundRight": "baseShapeRoundRight__463b7",
-    "iconBadge": "iconBadge__463b7 base__463b7 eyebrow__463b7",
-    "numberBadge": "numberBadge__463b7 base__463b7 eyebrow__463b7",
+    "iconBadge": "iconBadge__463b7 base__463b7",
+    "numberBadge": "numberBadge__463b7 base__463b7",
     "icon": "icon__463b7",
     "premiumBadge": "premiumBadge__463b7"
   },
@@ -12748,9 +12751,7 @@
     "emptyPreview": "emptyPreview_e8605d"
   },
   "443884": {
-    "text-sm/medium": "text-sm/medium__13cf1",
-    "container": "container__13cf1",
-    "header": "header__13cf1 text-sm/medium__13cf1"
+    "container": "container__13cf1"
   },
   "444373": {
     "card": "card__09fdc",
@@ -20354,6 +20355,7 @@
     "header": "header_aa8da2",
     "item": "item_aa8da2",
     "headerText": "headerText_aa8da2",
+    "itemText": "itemText_aa8da2",
     "brand": "brand_aa8da2",
     "themed": "themed_aa8da2",
     "separator": "separator_aa8da2",
@@ -24149,8 +24151,10 @@
     "tooltipWithShortcut": "tooltipWithShortcut_fa450d"
   },
   "850145": {
-    "favoritesEmptyStateTitle": "favoritesEmptyStateTitle__3651c",
-    "favoritesEmptyStateBody": "favoritesEmptyStateBody__3651c"
+    "heading-xl/semibold": "heading-xl/semibold__3651c",
+    "text-md/normal": "text-md/normal__3651c",
+    "favoritesEmptyStateTitle": "favoritesEmptyStateTitle__3651c heading-xl/semibold__3651c",
+    "favoritesEmptyStateBody": "favoritesEmptyStateBody__3651c text-md/normal__3651c"
   },
   "850772": {
     "logout": "logout__036c2",

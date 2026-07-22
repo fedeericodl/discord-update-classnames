@@ -39819,5 +39819,11 @@
   "inputWrapper_f08f8d": "inputWrapper_f08f8d text-md/normal_f08f8d",
   "container__8cb2e recentMentionsPopout__792ee": "container__8cb2e",
   "widerInbox__8cb2e widerInbox__792ee": "widerInbox__8cb2e",
-  "withGradient__49804": "withGradient__49804 premiumGradientBackground__93bef"
+  "withGradient__49804": "withGradient__49804 premiumGradientBackground__93bef",
+  "base__463b7 eyebrow__463b7": "base__463b7",
+  "textBadge__463b7 base__463b7 eyebrow__463b7": "textBadge__463b7 base__463b7",
+  "iconBadge__463b7 base__463b7 eyebrow__463b7": "iconBadge__463b7 base__463b7",
+  "numberBadge__463b7 base__463b7 eyebrow__463b7": "numberBadge__463b7 base__463b7",
+  "favoritesEmptyStateTitle__3651c": "favoritesEmptyStateTitle__3651c heading-xl/semibold__3651c",
+  "favoritesEmptyStateBody__3651c": "favoritesEmptyStateBody__3651c text-md/normal__3651c"
 }
