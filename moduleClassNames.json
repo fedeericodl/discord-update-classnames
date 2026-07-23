@@ -4803,6 +4803,13 @@
     "badgeBannerContainerWithShopUpsell": "badgeBannerContainerWithShopUpsell__7ec3a",
     "badgeBannerContainerNoShopUpsell": "badgeBannerContainerNoShopUpsell__7ec3a"
   },
+  "172465": {
+    "view": "view_e35697",
+    "image": "image_e35697",
+    "text": "text_e35697",
+    "edit": "edit_e35697",
+    "editActions": "editActions_e35697"
+  },
   "172742": {
     "emptyPreview": "emptyPreview_e3aa7b",
     "fadeInAvatarImg": "fadeInAvatarImg_e3aa7b",
@@ -8844,6 +8851,9 @@
     "container": "container_f85df1",
     "singleGameContainer": "singleGameContainer_f85df1 gameWidgetGrid__7f3a7"
   },
+  "308991": {
+    "state": "state_f0c906"
+  },
   "309284": {
     "grid": "grid__5af4c",
     "tile": "tile__5af4c"
@@ -9780,6 +9790,7 @@
     "hoverArea": "hoverArea__6d3d8",
     "container": "container__6d3d8",
     "containerHovered": "containerHovered__6d3d8",
+    "clickableTile": "clickableTile__6d3d8",
     "contentColumn": "contentColumn__6d3d8",
     "featuredSection": "featuredSection__6d3d8",
     "heroBackground": "heroBackground__6d3d8",
@@ -18855,13 +18866,6 @@
     "playing": "playing_cba043",
     "soundmojiEmoji": "soundmojiEmoji_cba043"
   },
-  "667785": {
-    "nagBar": "nagBar__9d860",
-    "content": "content__9d860",
-    "message": "message__9d860",
-    "pink": "pink__9d860",
-    "pinkCountdown": "pinkCountdown__9d860"
-  },
   "668079": {
     "box": "box_f8c98c"
   },
@@ -24774,6 +24778,15 @@
   "870889": {
     "hoverCard": "hoverCard_fdda30"
   },
+  "870985": {
+    "container": "container__535da",
+    "editing": "editing__535da",
+    "header": "header__535da",
+    "title": "title__535da",
+    "actions": "actions__535da",
+    "dragHandle": "dragHandle__535da",
+    "body": "body__535da"
+  },
   "871094": {
     "purchaseItemGraphic": "purchaseItemGraphic__2455b"
   },
@@ -28114,6 +28127,12 @@
     "fadeIn": "fadeIn__2d0ab",
     "expandable": "expandable__2d0ab",
     "icon": "icon__2d0ab"
+  },
+  "992915": {
+    "layout": "layout_ff6017",
+    "frame": "frame_ff6017",
+    "narrow": "narrow_ff6017",
+    "wide": "wide_ff6017"
   },
   "993011": {
     "buttonContainer": "buttonContainer__6ca73"
