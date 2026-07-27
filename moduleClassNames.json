@@ -8504,6 +8504,9 @@
     "footerTitle": "footerTitle_c04f35",
     "footerButton": "footerButton_c04f35"
   },
+  "295314": {
+    "cover": "cover__14e8c"
+  },
   "295648": {
     "collapseable": "collapseable_ef8d95",
     "groupContainer": "groupContainer_ef8d95",
@@ -9845,7 +9848,6 @@
   "343360": {
     "hoverArea": "hoverArea__6d3d8",
     "container": "container__6d3d8",
-    "containerHovered": "containerHovered__6d3d8",
     "clickableTile": "clickableTile__6d3d8",
     "contentColumn": "contentColumn__6d3d8",
     "featuredSection": "featuredSection__6d3d8",
@@ -11105,7 +11107,10 @@
     "base": "base_b88801",
     "text": "text_b88801",
     "ellipsis": "ellipsis_b88801",
+    "dots": "dots_b88801",
     "typingDots": "typingDots_b88801",
+    "dot": "dot_b88801",
+    "typing-dot-pulse": "typing-dot-pulse_b88801",
     "inTextChannel": "inTextChannel_b88801",
     "typing": "typing_b88801 base_b88801",
     "announcer": "announcer_b88801",
@@ -25130,6 +25135,9 @@
     "linkForm": "linkForm_edf95e",
     "linkFormHelp": "linkFormHelp_edf95e",
     "errorText": "errorText_edf95e"
+  },
+  "876741": {
+    "lift": "lift__72b14"
   },
   "876772": {
     "overflowHidden": "overflowHidden__5d64c",
