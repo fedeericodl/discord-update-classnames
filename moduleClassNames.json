@@ -8013,6 +8013,16 @@
     "lockContainer": "lockContainer_e6b065",
     "confettiIcon": "confettiIcon_e6b065"
   },
+  "279715": {
+    "avatarDecorationPreview": "avatarDecorationPreview__9baf3",
+    "profileEffectPreview": "profileEffectPreview__9baf3",
+    "profileFramePreview": "profileFramePreview__9baf3",
+    "nameplatePreview": "nameplatePreview__9baf3",
+    "nameplate": "nameplate__9baf3",
+    "giftAnimation": "giftAnimation__9baf3",
+    "bundlePreview": "bundlePreview__9baf3",
+    "spinnerContainer": "spinnerContainer__9baf3"
+  },
   "280309": {
     "sticky": "sticky__2fc34",
     "bannerContainer": "bannerContainer__2fc34",
@@ -8142,6 +8152,10 @@
     "compactCommunicationDisabled": "compactCommunicationDisabled_c19a55",
     "communicationDisabledOpacity": "communicationDisabledOpacity_c19a55",
     "badgesContainer": "badgesContainer_c19a55"
+  },
+  "282073": {
+    "avatarAnimation": "avatarAnimation_d146f4",
+    "spinningAvatar": "spinningAvatar_d146f4"
   },
   "282110": {
     "modal": "modal_ab9bdf",
@@ -14761,14 +14775,7 @@
     "infoContainer": "infoContainer__6b8b8"
   },
   "502096": {
-    "avatarDecorationPreview": "avatarDecorationPreview__9baf3",
-    "profileEffectPreview": "profileEffectPreview__9baf3",
-    "profileFramePreview": "profileFramePreview__9baf3",
-    "nameplatePreview": "nameplatePreview__9baf3",
-    "nameplate": "nameplate__9baf3",
-    "giftAnimation": "giftAnimation__9baf3",
-    "bundlePreview": "bundlePreview__9baf3",
-    "spinnerContainer": "spinnerContainer__9baf3"
+    "groups": "groups__519b6"
   },
   "502144": {
     "listeningAlong": "listeningAlong_e0cf27",
@@ -24387,6 +24394,7 @@
     "lockDivider": "lockDivider__2447f",
     "lockDividerCircle": "lockDividerCircle__2447f",
     "premiumTryItOutSection": "premiumTryItOutSection__2447f premiumGradientBackground__93bef",
+    "premiumTryItOutIntro": "premiumTryItOutIntro__2447f",
     "premiumTryItOutDivider": "premiumTryItOutDivider__2447f",
     "perServerNotice": "perServerNotice__2447f",
     "perServerNoticeDismissButton": "perServerNoticeDismissButton__2447f",
