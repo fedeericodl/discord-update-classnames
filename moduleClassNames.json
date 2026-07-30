@@ -12769,6 +12769,7 @@
     "body": "body_b6c448",
     "nav": "nav_b6c448",
     "navItem": "navItem_b6c448",
+    "navItemWithBadge": "navItemWithBadge_b6c448",
     "content": "content_b6c448",
     "scroller": "scroller_b6c448",
     "paneInner": "paneInner_b6c448",
@@ -13428,6 +13429,8 @@
     "themeDefault": "themeDefault__3b67f",
     "themeNitro": "themeNitro__3b67f",
     "content": "content__3b67f",
+    "rightContent": "rightContent__3b67f",
+    "dismissButton": "dismissButton__3b67f",
     "leftContent": "leftContent__3b67f",
     "icon": "icon__3b67f",
     "link": "link__3b67f"
