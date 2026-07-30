@@ -2887,9 +2887,7 @@
   },
   "104071": {
     "chat": "chat_f35ad6",
-    "chatLogWrap": "chatLogWrap_f35ad6",
-    "chatLog": "chatLog_f35ad6",
-    "chatLogFade": "chatLogFade_f35ad6"
+    "chatLog": "chatLog_f35ad6"
   },
   "104589": {
     "text-sm/medium": "text-sm/medium_f5f9ed",
@@ -8089,6 +8087,7 @@
     "bannerContainer": "bannerContainer__2fc34",
     "nitroPinkGradient": "nitroPinkGradient__2fc34",
     "bannerTextContainer": "bannerTextContainer__2fc34",
+    "icon": "icon__2fc34",
     "countdownDaysContainer": "countdownDaysContainer__2fc34",
     "countdownSecondsContainer": "countdownSecondsContainer__2fc34",
     "countdownSecondsDigit": "countdownSecondsDigit__2fc34",
@@ -15321,8 +15320,7 @@
     "radioGroup": "radioGroup_d77702",
     "gameIcon": "gameIcon_d77702",
     "detectedGameFrame": "detectedGameFrame_d77702",
-    "detectedGameIcon": "detectedGameIcon_d77702",
-    "detectedGameIconPlaceholder": "detectedGameIconPlaceholder_d77702"
+    "detectedGameIcon": "detectedGameIcon_d77702"
   },
   "520835": {
     "shopPageContainer": "shopPageContainer__4485d",
@@ -20074,10 +20072,13 @@
     "assistantTurn": "assistantTurn__30c5c",
     "chatMessageAssistant": "chatMessageAssistant__30c5c",
     "chatMarkdown": "chatMarkdown__30c5c",
+    "turnAnnouncement": "turnAnnouncement__30c5c",
     "turnSteps": "turnSteps__30c5c",
     "step-row-enter": "step-row-enter__30c5c",
     "stepRow": "stepRow__30c5c",
     "stepItem": "stepItem__30c5c",
+    "stepDisclosureToggle": "stepDisclosureToggle__30c5c",
+    "stepChevron": "stepChevron__30c5c",
     "stepDetail": "stepDetail__30c5c"
   },
   "700772": {
@@ -24503,7 +24504,8 @@
   },
   "848618": {
     "container": "container__898a6",
-    "textContainer": "textContainer__898a6"
+    "textContainer": "textContainer__898a6",
+    "icon": "icon__898a6"
   },
   "849395": {
     "verifyConnectedAccount": "verifyConnectedAccount_fb52a4",
