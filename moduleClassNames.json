@@ -8257,6 +8257,15 @@
     "cardStateIcon": "cardStateIcon__18000",
     "seeMoreOverlay": "seeMoreOverlay__18000"
   },
+  "283382": {
+    "root": "root__92459",
+    "closeButton": "closeButton__92459",
+    "header": "header__92459",
+    "illustration": "illustration__92459",
+    "illustrationImage": "illustrationImage__92459",
+    "heading": "heading__92459",
+    "actions": "actions__92459"
+  },
   "283576": {
     "container": "container_f215b9",
     "card": "card_f215b9",
@@ -11837,6 +11846,9 @@
     "projectUnavailable": "projectUnavailable_f8194a",
     "content": "content_f8194a",
     "creation": "creation_f8194a",
+    "promptCards": "promptCards_f8194a",
+    "promptCard": "promptCard_f8194a",
+    "promptCardText": "promptCardText_f8194a",
     "composer": "composer_f8194a",
     "createAction": "createAction_f8194a",
     "creations": "creations_f8194a",
@@ -17844,7 +17856,9 @@
   },
   "616694": {
     "previewEmpty": "previewEmpty__61d51",
-    "previewEmptyText": "previewEmptyText__61d51"
+    "previewEmptyText": "previewEmptyText__61d51",
+    "permissionsCard": "permissionsCard__61d51",
+    "permissionsCopy": "permissionsCopy__61d51"
   },
   "617255": {
     "buttonsContainer": "buttonsContainer_ffefd9",
