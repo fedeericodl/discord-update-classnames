@@ -7030,6 +7030,16 @@
     "trioAssetRow": "trioAssetRow_f3e80c badgeAssetRow_f3e80c",
     "badgeIcon": "badgeIcon_f3e80c"
   },
+  "241181": {
+    "grid": "grid__94629",
+    "widget": "widget__94629",
+    "widgetImageContainer": "widgetImageContainer__94629",
+    "widgetImage": "widgetImage__94629",
+    "widgetOverlay": "widgetOverlay__94629",
+    "widgetOverlayBackground": "widgetOverlayBackground__94629",
+    "widgetOverlayBackgroundInner": "widgetOverlayBackgroundInner__94629",
+    "widgetOverlayContent": "widgetOverlayContent__94629"
+  },
   "241860": {
     "emojiSection": "emojiSection_d5cd2d",
     "customEmojiLabel": "customEmojiLabel_d5cd2d",
