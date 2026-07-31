@@ -4900,6 +4900,11 @@
     "subText": "subText__20a53",
     "withDisplayNameStyles": "withDisplayNameStyles__20a53"
   },
+  "169186": {
+    "listControls": "listControls__31004",
+    "emptyState": "emptyState__31004",
+    "sortTrigger": "sortTrigger__31004"
+  },
   "169307": {
     "star": "star_a54554"
   },
@@ -24952,6 +24957,8 @@
     "headerText": "headerText__99e7c",
     "privateChannelsHeaderContainer": "privateChannelsHeaderContainer__99e7c",
     "privateChannelRecipientsInviteButtonIcon": "privateChannelRecipientsInviteButtonIcon__99e7c",
+    "headerActions": "headerActions__99e7c",
+    "moreButton": "moreButton__99e7c",
     "privateChannelRecipientsInviteButtonIconContainer": "privateChannelRecipientsInviteButtonIconContainer__99e7c",
     "scroller": "scroller__99e7c"
   },
@@ -27212,6 +27219,9 @@
   },
   "945404": {
     "iconOnlyButton": "iconOnlyButton__068c6"
+  },
+  "945619": {
+    "container": "container__362a9"
   },
   "945670": {
     "left": "left_caab99",
