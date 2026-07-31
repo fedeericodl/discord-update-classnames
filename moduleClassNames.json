@@ -6208,7 +6208,6 @@
     "userTagUsername": "userTagUsername__26b1f",
     "userTagDiscriminator": "userTagDiscriminator__26b1f",
     "dotSpacer": "dotSpacer__26b1f",
-    "guildTagContainer": "guildTagContainer__26b1f",
     "guildTag": "guildTag__26b1f"
   },
   "211463": {
@@ -7600,8 +7599,10 @@
     "outer": "outer_ab8609",
     "inner": "inner_ab8609",
     "content": "content_ab8609",
-    "unclamped": "unclamped_ab8609",
     "clickable": "clickable_ab8609",
+    "unclamped": "unclamped_ab8609",
+    "compactExpanded": "compactExpanded_ab8609",
+    "referenceMeasurement": "referenceMeasurement_ab8609",
     "ring": "ring_ab8609",
     "statusText": "statusText_ab8609",
     "statusEmoji": "statusEmoji_ab8609",
@@ -17857,8 +17858,9 @@
   "616694": {
     "previewEmpty": "previewEmpty__61d51",
     "previewEmptyText": "previewEmptyText__61d51",
-    "permissionsCard": "permissionsCard__61d51",
-    "permissionsCopy": "permissionsCopy__61d51"
+    "previewStatusCard": "previewStatusCard__61d51",
+    "previewStatusCardWide": "previewStatusCardWide__61d51",
+    "previewStatusCopy": "previewStatusCopy__61d51"
   },
   "617255": {
     "buttonsContainer": "buttonsContainer_ffefd9",
@@ -24038,7 +24040,10 @@
   },
   "833576": {
     "header": "header__90588",
-    "title": "title__90588"
+    "breadcrumb": "breadcrumb__90588",
+    "icon": "icon__90588",
+    "title": "title__90588",
+    "titleText": "titleText__90588"
   },
   "833860": {
     "contentFooter": "contentFooter_e40371",
