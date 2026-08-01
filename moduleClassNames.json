@@ -907,6 +907,13 @@
     "votesData": "votesData__4c520",
     "answerSelectionIcon": "answerSelectionIcon__4c520"
   },
+  "29854": {
+    "container": "container__27753",
+    "clipsGallery": "clipsGallery__27753",
+    "clip": "clip__27753",
+    "tags": "tags__27753",
+    "tag": "tag__27753"
+  },
   "30061": {
     "container": "container__203bc",
     "grid": "grid__203bc",
@@ -6192,6 +6199,7 @@
   "211003": {
     "gradient": "gradient_f11c9b",
     "swatchButton": "swatchButton_f11c9b",
+    "swatchOuter": "swatchOuter_f11c9b",
     "swatchInner": "swatchInner_f11c9b",
     "isLowContrast": "isLowContrast_f11c9b"
   },
@@ -8468,7 +8476,6 @@
   "291815": {
     "channelView": "channelView__67841",
     "channelViewPreview": "channelViewPreview__67841",
-    "agentChatSidebar": "agentChatSidebar__67841",
     "agentChatPanel": "agentChatPanel__67841"
   },
   "292094": {
@@ -11849,6 +11856,7 @@
     "body": "body_f8194a",
     "chatBody": "chatBody_f8194a",
     "projectHeaderActions": "projectHeaderActions_f8194a",
+    "projectHeaderIconActions": "projectHeaderIconActions_f8194a",
     "projectUnavailable": "projectUnavailable_f8194a",
     "content": "content_f8194a",
     "creation": "creation_f8194a",
@@ -13787,6 +13795,10 @@
   },
   "465798": {
     "incodeElement": "incodeElement__07ac3"
+  },
+  "465927": {
+    "container": "container__91876",
+    "emptyState": "emptyState__91876"
   },
   "466215": {
     "container": "container_a62a28",
@@ -16068,6 +16080,11 @@
     "text": "text__8564e",
     "customGiftHeader": "customGiftHeader__8564e",
     "searchAndSound": "searchAndSound__8564e"
+  },
+  "552067": {
+    "sidebar": "sidebar_a6fe8a",
+    "resizeHandle": "resizeHandle_a6fe8a",
+    "container": "container_a6fe8a"
   },
   "552254": {
     "panelGroup": "panelGroup__2f37f",
