@@ -12887,6 +12887,7 @@
     "gradientBottom": "gradientBottom_bfe55a gradientContainer_bfe55a",
     "controlSection": "controlSection_bfe55a",
     "edgeControls": "edgeControls_bfe55a",
+    "edgeControlsEnd": "edgeControlsEnd_bfe55a edgeControls_bfe55a",
     "centerControls": "centerControls_bfe55a"
   },
   "434581": {
@@ -22562,6 +22563,13 @@
     "panel": "panel__777bf",
     "container": "container__777bf"
   },
+  "784739": {
+    "divider": "divider__527dd",
+    "placeholderRows": "placeholderRows__527dd",
+    "placeholderRow": "placeholderRow__527dd",
+    "placeholderBarLong": "placeholderBarLong__527dd",
+    "placeholderBarShort": "placeholderBarShort__527dd"
+  },
   "784762": {
     "radioBar": "radioBar__88a69",
     "radioPositionLeft": "radioPositionLeft__88a69",
@@ -23318,11 +23326,7 @@
     "positionedContainer": "positionedContainer__629e4",
     "unreadTop": "unreadTop__629e4 unread__629e4 container__3b95d",
     "voiceUserSummary": "voiceUserSummary__629e4",
-    "sectionDivider": "sectionDivider__629e4",
-    "favoritesPlaceholderRows": "favoritesPlaceholderRows__629e4",
-    "favoritesPlaceholderRow": "favoritesPlaceholderRow__629e4",
-    "favoritesPlaceholderBarLong": "favoritesPlaceholderBarLong__629e4",
-    "favoritesPlaceholderBarShort": "favoritesPlaceholderBarShort__629e4"
+    "sectionDivider": "sectionDivider__629e4"
   },
   "808261": {
     "bar": "bar__68d31",
