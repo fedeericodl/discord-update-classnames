@@ -19229,7 +19229,8 @@
     "premiumTrialBadge": "premiumTrialBadge_e4ef22",
     "backgroundGradient": "backgroundGradient_e4ef22",
     "premiumTrialAcknowledgedBadge": "premiumTrialAcknowledgedBadge_e4ef22",
-    "BogoBadgeClockIcon": "BogoBadgeClockIcon_e4ef22"
+    "BogoBadgeClockIcon": "BogoBadgeClockIcon_e4ef22",
+    "bogoBadgeLabel": "bogoBadgeLabel_e4ef22"
   },
   "665241": {
     "phoneNumber": "phoneNumber__764ef"
@@ -21263,7 +21264,8 @@
   "737365": {
     "churnDiscountBadge": "churnDiscountBadge_b65b20",
     "churnDiscountAcknowledgedBadge": "churnDiscountAcknowledgedBadge_b65b20",
-    "churnDiscountBadgeIcon": "churnDiscountBadgeIcon_b65b20"
+    "churnDiscountBadgeIcon": "churnDiscountBadgeIcon_b65b20",
+    "churnDiscountBadgeLabel": "churnDiscountBadgeLabel_b65b20"
   },
   "737840": {
     "landingPageTabLink": "landingPageTabLink_cbe0b4",
@@ -26963,7 +26965,8 @@
     "premiumOfferUnackedBadge": "premiumOfferUnackedBadge__4c1e4",
     "premiumOfferWithTimerAcknowledgedBadge": "premiumOfferWithTimerAcknowledgedBadge__4c1e4",
     "premiumTrialBadgeSelected": "premiumTrialBadgeSelected__4c1e4",
-    "premiumOfferBadgeCopy": "premiumOfferBadgeCopy__4c1e4"
+    "premiumOfferBadgeCopy": "premiumOfferBadgeCopy__4c1e4",
+    "acknowledgedBadgeLabel": "acknowledgedBadgeLabel__4c1e4"
   },
   "928966": {
     "wrapper": "wrapper__58ece",
