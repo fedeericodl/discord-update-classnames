@@ -16410,6 +16410,13 @@
     "connectionsSectionHeader": "connectionsSectionHeader_f80329",
     "addConnectionButton": "addConnectionButton_f80329"
   },
+  "563323": {
+    "container": "container_f782d6",
+    "cover": "cover_f782d6",
+    "fieldContainer": "fieldContainer_f782d6",
+    "fieldIcon": "fieldIcon_f782d6",
+    "fieldLabel": "fieldLabel_f782d6"
+  },
   "563686": {
     "container": "container__664ff",
     "chatOpen": "chatOpen__664ff",
@@ -28545,6 +28552,9 @@
     "container": "container__1ce5d",
     "circularImage": "circularImage__1ce5d",
     "dots": "dots__1ce5d"
+  },
+  "986708": {
+    "container": "container__5e056"
   },
   "986820": {
     "offerBadge": "offerBadge_f260bf",
