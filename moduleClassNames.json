@@ -14941,7 +14941,8 @@
   },
   "502728": {
     "iconContainer": "iconContainer__98cf7",
-    "filledIcon": "filledIcon__98cf7"
+    "filledIcon": "filledIcon__98cf7",
+    "uploadLabel": "uploadLabel__98cf7"
   },
   "502729": {
     "destinationRow": "destinationRow__85e39",
@@ -16023,7 +16024,8 @@
     "addTile": "addTile_afbdeb",
     "tile": "tile_afbdeb",
     "selected": "selected_afbdeb",
-    "tileMedia": "tileMedia_afbdeb"
+    "tileMedia": "tileMedia_afbdeb",
+    "removeClipButton": "removeClipButton_afbdeb"
   },
   "547743": {
     "spaceBetweenTiles": "spaceBetweenTiles_fa73d7",
