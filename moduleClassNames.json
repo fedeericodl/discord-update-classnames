@@ -14815,6 +14815,15 @@
     "hasColorGlow": "hasColorGlow__5e764",
     "buttonChevronIcon": "buttonChevronIcon__5e764"
   },
+  "496327": {
+    "divider": "divider__77be7",
+    "upsellText": "upsellText__77be7",
+    "betaTag": "betaTag__77be7",
+    "placeholderRows": "placeholderRows__77be7",
+    "placeholderRow": "placeholderRow__77be7",
+    "placeholderBarLong": "placeholderBarLong__77be7",
+    "placeholderBarShort": "placeholderBarShort__77be7"
+  },
   "496947": {
     "author": "author_d3eee8",
     "hasUnreads": "hasUnreads_d3eee8"
@@ -22589,13 +22598,6 @@
     "panel": "panel__777bf",
     "container": "container__777bf"
   },
-  "784739": {
-    "divider": "divider__527dd",
-    "placeholderRows": "placeholderRows__527dd",
-    "placeholderRow": "placeholderRow__527dd",
-    "placeholderBarLong": "placeholderBarLong__527dd",
-    "placeholderBarShort": "placeholderBarShort__527dd"
-  },
   "784762": {
     "radioBar": "radioBar__88a69",
     "radioPositionLeft": "radioPositionLeft__88a69",
@@ -24443,6 +24445,7 @@
     "noticeContainer": "noticeContainer_f2a57a"
   },
   "842971": {
+    "headerContainer": "headerContainer__5d903",
     "channelHeader": "channelHeader__5d903",
     "collapsed": "collapsed__5d903",
     "icon": "icon__5d903",
@@ -24457,9 +24460,7 @@
     "channelTypeIcon": "channelTypeIcon__5d903",
     "buttonGroup": "buttonGroup__5d903",
     "status": "status__5d903",
-    "error": "error__5d903",
-    "success": "success__5d903",
-    "normal": "normal__5d903",
+    "errorIcon": "errorIcon__5d903",
     "noCollapseButton": "noCollapseButton__5d903"
   },
   "843121": {
