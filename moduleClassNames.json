@@ -2964,6 +2964,10 @@
     "tagsRow": "tagsRow_a2d698",
     "footer": "footer_a2d698"
   },
+  "106446": {
+    "hideVisibility": "hideVisibility__7d51c",
+    "stripeExpressCheckoutContainer": "stripeExpressCheckoutContainer__7d51c"
+  },
   "106914": {
     "itemCard": "itemCard__7e549",
     "emptyCard": "emptyCard__7e549",
@@ -7554,6 +7558,10 @@
     "statusContainer": "statusContainer__56b49",
     "channelInfoContainer": "channelInfoContainer__56b49",
     "channelInfoText": "channelInfoText__56b49"
+  },
+  "256386": {
+    "pool": "pool__0aebc",
+    "iframe": "iframe__0aebc"
   },
   "256570": {
     "nameplatePlaceholderUserRow": "nameplatePlaceholderUserRow__257fb",
@@ -12665,7 +12673,7 @@
     "hidden": "hidden_c5bcbe",
     "iframe": "iframe_c5bcbe",
     "pipNonInteractive": "pipNonInteractive_c5bcbe",
-    "clickShield": "clickShield_c5bcbe",
+    "activitySensor": "activitySensor_c5bcbe",
     "multiPIPMode": "multiPIPMode_c5bcbe"
   },
   "427961": {
@@ -16039,6 +16047,10 @@
     "layoutUnlocked": "layoutUnlocked_eb35c5 layoutLocked_eb35c5",
     "windowContainerDebug": "windowContainerDebug_eb35c5"
   },
+  "546386": {
+    "container": "container__92444",
+    "containerFitContent": "containerFitContent__92444"
+  },
   "547055": {
     "offerNotice": "offerNotice__8d3f5",
     "offerNoticeContent": "offerNoticeContent__8d3f5",
@@ -17982,7 +17994,8 @@
   },
   "616694": {
     "previewEmpty": "previewEmpty__61d51",
-    "previewEmptyText": "previewEmptyText__61d51"
+    "previewEmptyText": "previewEmptyText__61d51",
+    "frameTarget": "frameTarget__61d51"
   },
   "617255": {
     "buttonsContainer": "buttonsContainer_ffefd9",
@@ -19137,9 +19150,11 @@
   "658103": {
     "methodRow": "methodRow_bbc786",
     "iconContainer": "iconContainer_bbc786",
+    "methodRowDisabled": "methodRowDisabled_bbc786",
     "text": "text_bbc786",
     "vendor": "vendor_bbc786",
-    "chevron": "chevron_bbc786"
+    "chevron": "chevron_bbc786",
+    "rowSpinner": "rowSpinner_bbc786"
   },
   "658150": {
     "container": "container_fed6d3",
@@ -19153,6 +19168,11 @@
     "participant": "participant__0e7cc",
     "hovering": "hovering__0e7cc",
     "avatar": "avatar__0e7cc"
+  },
+  "660443": {
+    "screen": "screen__9677b",
+    "screenSkew": "screenSkew__9677b",
+    "sheen": "sheen__9677b"
   },
   "660499": {
     "header": "header__4a3a5",
@@ -21063,6 +21083,12 @@
     "subtitle": "subtitle__54b20",
     "threadCreatorName": "threadCreatorName__54b20",
     "unknownCreatorName": "unknownCreatorName__54b20"
+  },
+  "726123": {
+    "action": "action_cba7a7",
+    "contentAnchor": "contentAnchor_cba7a7",
+    "icon": "icon_cba7a7",
+    "glow": "glow_cba7a7"
   },
   "726209": {
     "content": "content__0b2e7",
@@ -23850,6 +23876,9 @@
     "hints": "hints_b5b7aa",
     "hintsContainer": "hintsContainer_b5b7aa",
     "promotedByRow": "promotedByRow_b5b7aa",
+    "expirationCopy": "expirationCopy_b5b7aa",
+    "promotedByCopy": "promotedByCopy_b5b7aa",
+    "promoterName": "promoterName_b5b7aa",
     "verifiedIcon": "verifiedIcon_b5b7aa"
   },
   "821547": {
@@ -27561,6 +27590,14 @@
     "iconForeground": "iconForeground__37e49",
     "plated": "plated__37e49"
   },
+  "948559": {
+    "preview": "preview_ca5185",
+    "previewImage": "previewImage_ca5185",
+    "watchButtonWrapper": "watchButtonWrapper_ca5185",
+    "liveIndicator": "liveIndicator_ca5185",
+    "tooltipContent": "tooltipContent_ca5185",
+    "tooltipTextColumn": "tooltipTextColumn_ca5185"
+  },
   "948884": {
     "container": "container_ec0f26",
     "sectionTitle": "sectionTitle_ec0f26",
@@ -28584,7 +28621,6 @@
     "outerCorner": "outerCorner_a2332b",
     "insideCorner": "insideCorner_a2332b",
     "giftSelectionModal": "giftSelectionModal_a2332b",
-    "noGiftPrice": "noGiftPrice_a2332b",
     "withAnnualDiscountBanner": "withAnnualDiscountBanner_a2332b",
     "bigCloud": "bigCloud_a2332b",
     "smallCloud": "smallCloud_a2332b",
