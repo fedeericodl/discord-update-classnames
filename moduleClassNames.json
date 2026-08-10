@@ -13419,6 +13419,7 @@
     "dismissButton": "dismissButton__3b67f",
     "leftContent": "leftContent__3b67f",
     "icon": "icon__3b67f",
+    "iconColor": "iconColor__3b67f",
     "link": "link__3b67f"
   },
   "456672": {
@@ -14769,6 +14770,7 @@
     "timeUnitInnerContainer": "timeUnitInnerContainer_d0d75b",
     "time": "time_d0d75b",
     "timeBoxOutline": "timeBoxOutline_d0d75b",
+    "largeDigits": "largeDigits_d0d75b",
     "unitDivider": "unitDivider_d0d75b"
   },
   "499535": {
