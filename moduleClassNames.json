@@ -15820,10 +15820,6 @@
     "videoButton": "videoButton_cf09d8",
     "overlayContentHidden": "overlayContentHidden_cf09d8"
   },
-  "542138": {
-    "container": "container__7cd8c",
-    "tile": "tile__7cd8c"
-  },
   "542151": {
     "embed": "embed_c672f0",
     "body": "body_c672f0",
@@ -19091,6 +19087,7 @@
     "text": "text_bbc786",
     "vendor": "vendor_bbc786",
     "chevron": "chevron_bbc786",
+    "footer": "footer_bbc786",
     "rowSpinner": "rowSpinner_bbc786"
   },
   "658150": {
@@ -23790,6 +23787,8 @@
     "userContainer": "userContainer__38ccf",
     "dim": "dim__38ccf",
     "avatarWrapper": "avatarWrapper__38ccf",
+    "videoOverlay": "videoOverlay__38ccf",
+    "videoOverlayVisible": "videoOverlayVisible__38ccf",
     "avatarButton": "avatarButton__38ccf",
     "trigger": "trigger__38ccf",
     "badge": "badge__38ccf",
