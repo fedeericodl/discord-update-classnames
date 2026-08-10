@@ -16028,6 +16028,7 @@
     "contentExpanded": "contentExpanded__24e2c",
     "contentExpandedAccepted": "contentExpandedAccepted__24e2c",
     "questPromoContent": "questPromoContent__24e2c",
+    "ctaNotInteractable": "ctaNotInteractable__24e2c",
     "divider": "divider__24e2c",
     "details": "details__24e2c",
     "videoQuestPreviewCont": "videoQuestPreviewCont__24e2c",
@@ -20560,6 +20561,10 @@
   },
   "714566": {
     "CTAMessage": "CTAMessage_e887d4"
+  },
+  "714573": {
+    "giftCardCreditsCheckboxAbove": "giftCardCreditsCheckboxAbove_e67d26",
+    "giftCardCreditsCheckboxBelow": "giftCardCreditsCheckboxBelow_e67d26"
   },
   "714834": {
     "container": "container__01290",
@@ -26240,6 +26245,21 @@
     "wheelColor": "wheelColor__82d84",
     "wordmark": "wordmark__82d84"
   },
+  "897460": {
+    "container": "container__1f5b6",
+    "inner": "inner__1f5b6",
+    "iconContainer": "iconContainer__1f5b6",
+    "icon": "icon__1f5b6",
+    "stars": "stars__1f5b6",
+    "header": "header__1f5b6",
+    "body": "body__1f5b6",
+    "demo": "demo__1f5b6",
+    "chatInput": "chatInput__1f5b6",
+    "plusButton": "plusButton__1f5b6",
+    "menu": "menu__1f5b6",
+    "menuRow": "menuRow__1f5b6",
+    "menuRowHighlighted": "menuRowHighlighted__1f5b6"
+  },
   "897576": {
     "categoryContainer": "categoryContainer__3a0cf",
     "categoryHeader": "categoryHeader__3a0cf",
@@ -26914,6 +26934,12 @@
     "info": "info__35859",
     "error": "error__35859",
     "actionContainer": "actionContainer__35859"
+  },
+  "925394": {
+    "badge": "badge__77c65",
+    "label": "label__77c65",
+    "icon": "icon__77c65",
+    "separator": "separator__77c65"
   },
   "926296": {
     "container": "container__4b182",
@@ -28469,6 +28495,7 @@
     "badgeContainer": "badgeContainer_c1e9c4",
     "switchContainer": "switchContainer_c1e9c4",
     "icon": "icon_c1e9c4",
+    "emojiIcon": "emojiIcon_c1e9c4 icon_c1e9c4",
     "avatarAccessory": "avatarAccessory_c1e9c4",
     "imageAccessory": "imageAccessory_c1e9c4",
     "roleDotAccessory": "roleDotAccessory_c1e9c4",
@@ -28596,10 +28623,6 @@
   },
   "985079": {
     "icon": "icon__0e5a2"
-  },
-  "986072": {
-    "giftCardCreditsCheckboxAbove": "giftCardCreditsCheckboxAbove_b90acf",
-    "giftCardCreditsCheckboxBelow": "giftCardCreditsCheckboxBelow_b90acf"
   },
   "986614": {
     "container": "container__1ce5d",
