@@ -694,11 +694,14 @@
     "statColGrow": "statColGrow__892b9",
     "statValueRow": "statValueRow__892b9",
     "statusDot": "statusDot__892b9",
+    "statusDotCritical": "statusDotCritical__892b9",
     "copyButton": "copyButton__892b9",
     "footer": "footer__892b9",
     "footerButton": "footerButton__892b9",
     "footerButtonPrimary": "footerButtonPrimary__892b9",
-    "footerButtonSecondary": "footerButtonSecondary__892b9"
+    "footerButtonSecondary": "footerButtonSecondary__892b9",
+    "footerButtonSlot": "footerButtonSlot__892b9",
+    "footerButtonDisabled": "footerButtonDisabled__892b9"
   },
   "21021": {
     "list": "list__83c7c",
@@ -23783,7 +23786,13 @@
     "editBadge": "editBadge__38ccf",
     "badgeLayer": "badgeLayer__38ccf",
     "isStatusMenuOpen": "isStatusMenuOpen__38ccf",
-    "userList": "userList__38ccf"
+    "userList": "userList__38ccf",
+    "streamingBadge": "streamingBadge__38ccf",
+    "streamTooltipContent": "streamTooltipContent__38ccf",
+    "streamTooltipTitle": "streamTooltipTitle__38ccf",
+    "streamPreviewAsset": "streamPreviewAsset__38ccf",
+    "streamPreviewImage": "streamPreviewImage__38ccf",
+    "streamPreviewEyeOverlay": "streamPreviewEyeOverlay__38ccf"
   },
   "820526": {
     "container": "container_b5b7aa",
