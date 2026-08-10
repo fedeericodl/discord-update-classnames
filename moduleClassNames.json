@@ -14030,6 +14030,11 @@
     "scrollerContent": "scrollerContent__808a1",
     "headerBar": "headerBar__808a1"
   },
+  "474711": {
+    "messageWithAttachments": "messageWithAttachments__2eae8",
+    "attachmentCount": "attachmentCount__2eae8",
+    "compact": "compact__2eae8"
+  },
   "474712": {
     "content": "content__87ce6",
     "errorContainer": "errorContainer__87ce6",
