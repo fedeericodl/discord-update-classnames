@@ -7837,6 +7837,15 @@
     "hasTooltip": "hasTooltip_d9866f",
     "itemIconBackground": "itemIconBackground_d9866f"
   },
+  "266141": {
+    "container": "container_f7e2d7",
+    "aboveScroller": "aboveScroller_f7e2d7",
+    "list": "list_f7e2d7",
+    "header": "header_f7e2d7",
+    "headerText": "headerText_f7e2d7",
+    "dismissButton": "dismissButton_f7e2d7",
+    "dismissButtonIcon": "dismissButtonIcon_f7e2d7"
+  },
   "266165": {
     "reorderableGroupSection": "reorderableGroupSection__672fc",
     "draggingGroupSection": "draggingGroupSection__672fc",
@@ -14724,8 +14733,6 @@
   },
   "496327": {
     "divider": "divider__77be7",
-    "upsellText": "upsellText__77be7",
-    "betaTag": "betaTag__77be7",
     "placeholderRows": "placeholderRows__77be7",
     "placeholderRow": "placeholderRow__77be7",
     "placeholderBarLong": "placeholderBarLong__77be7",
