@@ -12367,12 +12367,6 @@
     "emptyStateImage": "emptyStateImage__97dd8",
     "emptyStateButton": "emptyStateButton__97dd8"
   },
-  "421151": {
-    "banner": "banner__24934",
-    "body": "body__24934",
-    "actions": "actions__24934",
-    "avatarPile": "avatarPile__24934"
-  },
   "421762": {
     "clipTileEnter": "clipTileEnter__5ff71",
     "tileEnter": "tileEnter__5ff71"
@@ -16234,8 +16228,14 @@
   "555063": {
     "header": "header__06fdb",
     "banner": "banner__06fdb",
+    "scrim": "scrim__06fdb",
     "identity": "identity__06fdb",
-    "icon": "icon__06fdb"
+    "icon": "icon__06fdb",
+    "info": "info__06fdb",
+    "stats": "stats__06fdb",
+    "stat": "stat__06fdb",
+    "memberDot": "memberDot__06fdb",
+    "onlineDot": "onlineDot__06fdb"
   },
   "555246": {
     "modalContainer": "modalContainer__3cf67",
