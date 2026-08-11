@@ -13311,11 +13311,7 @@
     "backButton": "backButton__82bda",
     "heading": "heading__82bda",
     "fullWidth": "fullWidth__82bda",
-    "presetShuffle": "presetShuffle__82bda",
-    "inlineUpsell": "inlineUpsell__82bda",
-    "inlineUpsellDivider": "inlineUpsellDivider__82bda",
-    "freeTrialDivider": "freeTrialDivider__82bda",
-    "offerEndsText": "offerEndsText__82bda"
+    "presetShuffle": "presetShuffle__82bda"
   },
   "451160": {
     "wrapper": "wrapper__78aa3",
@@ -13961,6 +13957,12 @@
     "innerContainer": "innerContainer__7135b",
     "outerContainer": "outerContainer__7135b"
   },
+  "471771": {
+    "content": "content__2dc08",
+    "emphasized": "emphasized__2dc08",
+    "noticeText": "noticeText__2dc08",
+    "actions": "actions__2dc08"
+  },
   "471850": {
     "modal": "modal__024d4",
     "slideWrapper": "slideWrapper__024d4"
@@ -14421,6 +14423,11 @@
     "colorPickerDropperLight": "colorPickerDropperLight__488d9",
     "colorPickerDropperDark": "colorPickerDropperDark__488d9",
     "disabled": "disabled__488d9"
+  },
+  "489027": {
+    "notice": "notice_a2002f",
+    "icon": "icon_a2002f",
+    "message": "message_a2002f"
   },
   "489696": {
     "trigger": "trigger__0467d"
@@ -16069,12 +16076,6 @@
   "551944": {
     "arrowBounce": "arrowBounce__1aa44",
     "bounce": "bounce__1aa44"
-  },
-  "552024": {
-    "content": "content__43fa9",
-    "emphasized": "emphasized__43fa9",
-    "message": "message__43fa9",
-    "actions": "actions__43fa9"
   },
   "552055": {
     "container": "container__8564e",
@@ -21269,6 +21270,11 @@
     "churnDiscountBadgeIcon": "churnDiscountBadgeIcon_b65b20",
     "churnDiscountBadgeLabel": "churnDiscountBadgeLabel_b65b20"
   },
+  "737837": {
+    "frame": "frame_cc8221",
+    "wide": "wide_cc8221",
+    "narrow": "narrow_cc8221"
+  },
   "737840": {
     "landingPageTabLink": "landingPageTabLink_cbe0b4",
     "roleSubLabel": "roleSubLabel_cbe0b4"
@@ -26230,6 +26236,11 @@
     "folderEndWrapper": "folderEndWrapper_d144f8",
     "wrapperOver": "wrapperOver_d144f8",
     "folderTarget": "folderTarget_d144f8"
+  },
+  "897260": {
+    "inlineUpsell": "inlineUpsell__6ded8",
+    "freeTrialDivider": "freeTrialDivider__6ded8",
+    "offerEndsText": "offerEndsText__6ded8"
   },
   "897308": {
     "messagePreviewContainer": "messagePreviewContainer_f96002",
