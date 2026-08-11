@@ -1766,6 +1766,7 @@
   "55684": {
     "cardContainer": "cardContainer__5b393",
     "card": "card__5b393",
+    "expired": "expired__5b393",
     "pill": "pill__5b393",
     "descriptionWrapper": "descriptionWrapper__5b393",
     "description": "description__5b393",
@@ -2873,14 +2874,6 @@
     "memberItem": "memberItem__5017b",
     "avatar": "avatar__5017b",
     "unknown": "unknown__5017b"
-  },
-  "102937": {
-    "overlaySettingsNux": "overlaySettingsNux__91f99",
-    "closeCircleButton": "closeCircleButton__91f99",
-    "nuxFirstImage": "nuxFirstImage__91f99",
-    "nuxUserSettingsImage": "nuxUserSettingsImage__91f99",
-    "mainTitleContainer": "mainTitleContainer__91f99",
-    "divider": "divider__91f99"
   },
   "103228": {
     "list": "list__80be1",
@@ -12739,6 +12732,14 @@
     "button": "button__44df5",
     "buttonContainer": "buttonContainer__44df5",
     "countdown": "countdown__44df5"
+  },
+  "432816": {
+    "overlaySettingsNux": "overlaySettingsNux__1e102",
+    "closeCircleButton": "closeCircleButton__1e102",
+    "nuxFirstImage": "nuxFirstImage__1e102",
+    "nuxUserSettingsImage": "nuxUserSettingsImage__1e102",
+    "mainTitleContainer": "mainTitleContainer__1e102",
+    "divider": "divider__1e102"
   },
   "433833": {
     "body": "body_b6c448",
@@ -23252,22 +23253,6 @@
     "voiceUserSummary": "voiceUserSummary__629e4",
     "sectionDivider": "sectionDivider__629e4"
   },
-  "808261": {
-    "bar": "bar__68d31",
-    "rewardTile": "rewardTile__68d31",
-    "detailsButton": "detailsButton__68d31",
-    "metaRow": "metaRow__68d31",
-    "promotedText": "promotedText__68d31",
-    "separator": "separator__68d31",
-    "descriptionRow": "descriptionRow__68d31",
-    "description": "description__68d31",
-    "ctaButton": "ctaButton__68d31",
-    "detailsPopout": "detailsPopout__68d31",
-    "detailsPopoutHeader": "detailsPopoutHeader__68d31",
-    "detailsPopoutClose": "detailsPopoutClose__68d31",
-    "detailsPopoutBody": "detailsPopoutBody__68d31",
-    "detailsIcon": "detailsIcon__68d31"
-  },
   "808476": {
     "container": "container__32c39"
   },
@@ -24247,8 +24232,7 @@
     "gameTile": "gameTile__19b5e",
     "ctas": "ctas__19b5e",
     "submenuWrapper": "submenuWrapper__19b5e",
-    "submenuIcon": "submenuIcon__19b5e",
-    "wrapperV2": "wrapperV2__19b5e"
+    "submenuIcon": "submenuIcon__19b5e"
   },
   "838895": {
     "container": "container__5d6af",
