@@ -7875,7 +7875,6 @@
     "divider": "divider__92059",
     "footer": "footer__92059",
     "deauthorizeButton": "deauthorizeButton__92059",
-    "headingCard": "headingCard__92059",
     "emptyState": "emptyState__92059"
   },
   "268514": {
@@ -11484,14 +11483,6 @@
     "radioOption": "radioOption_e1372c"
   },
   "390646": {
-    "header": "header__88a04",
-    "gameNamesHeader": "gameNamesHeader__88a04",
-    "gameIcons": "gameIcons__88a04",
-    "divider": "divider__88a04",
-    "icon": "icon__88a04",
-    "moreIcon": "moreIcon__88a04 icon__88a04",
-    "manageGamesLink": "manageGamesLink__88a04",
-    "manageGamesChevron": "manageGamesChevron__88a04",
     "emptyContainer": "emptyContainer__88a04",
     "noGamesConnectedText": "noGamesConnectedText__88a04"
   },
