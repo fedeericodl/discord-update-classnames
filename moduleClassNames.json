@@ -698,6 +698,9 @@
     "check": "check__83c7c",
     "cross": "cross__83c7c"
   },
+  "21280": {
+    "avatarContainer": "avatarContainer_b4a4b2"
+  },
   "21946": {
     "resizeHandle": "resizeHandle__4b144"
   },
@@ -2424,11 +2427,6 @@
   "82377": {
     "container": "container_a03ecd",
     "messageContentContainer": "messageContentContainer_a03ecd"
-  },
-  "83075": {
-    "banner": "banner_b83360",
-    "fill": "fill_b83360",
-    "gifTag": "gifTag_b83360"
   },
   "83260": {
     "themeContainer": "themeContainer__5be3e",
@@ -5117,6 +5115,9 @@
     "upsellDescription": "upsellDescription__17daa",
     "upsellButtons": "upsellButtons__17daa",
     "divider": "divider__17daa"
+  },
+  "176807": {
+    "backdrop": "backdrop_f8afe2"
   },
   "176835": {
     "actions": "actions_ad13b1"
@@ -10752,11 +10753,6 @@
     "content": "content_a230e0",
     "link": "link_a230e0",
     "closeClickable": "closeClickable_a230e0"
-  },
-  "364181": {
-    "bannerFrame": "bannerFrame__7e52b",
-    "roundedBanner": "roundedBanner__7e52b",
-    "avatarOverlay": "avatarOverlay__7e52b"
   },
   "364604": {
     "text-md/medium": "text-md/medium__124c8",
@@ -26382,6 +26378,11 @@
   "910393": {
     "orbIconAligned": "orbIconAligned__18bf6"
   },
+  "910590": {
+    "banner": "banner_f7e69e",
+    "fill": "fill_f7e69e",
+    "gifTag": "gifTag_f7e69e"
+  },
   "911260": {
     "layer": "layer_bc663c",
     "inactive": "inactive_bc663c"
@@ -28046,6 +28047,11 @@
     "failedRow": "failedRow_c3ef83",
     "label": "label_c3ef83"
   },
+  "973752": {
+    "bannerFrame": "bannerFrame__63723",
+    "roundedBanner": "roundedBanner__63723",
+    "avatarOverlay": "avatarOverlay__63723"
+  },
   "974154": {
     "mask": "mask_ca5f52",
     "icon": "icon_ca5f52",
@@ -28553,6 +28559,10 @@
     "join": "join_f17563",
     "customizeGuildTitle": "customizeGuildTitle_f17563",
     "joinCTA": "joinCTA_f17563"
+  },
+  "990585": {
+    "article": "article__3fb05",
+    "sm": "sm__3fb05"
   },
   "990692": {
     "spinner-wandering-cubes": "spinner-wandering-cubes__46696",
