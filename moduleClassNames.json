@@ -3459,7 +3459,8 @@
     "root": "root_b92f52",
     "hasPrivateBanner": "hasPrivateBanner_b92f52",
     "outer": "outer_b92f52",
-    "modalHeaderButtons": "modalHeaderButtons_b92f52"
+    "modalHeaderButtons": "modalHeaderButtons_b92f52",
+    "spinAnimation": "spinAnimation_b92f52"
   },
   "128818": {
     "container": "container__85f5c",
@@ -8236,10 +8237,6 @@
     "compactCommunicationDisabled": "compactCommunicationDisabled_c19a55",
     "communicationDisabledOpacity": "communicationDisabledOpacity_c19a55",
     "badgesContainer": "badgesContainer_c19a55"
-  },
-  "282073": {
-    "avatarAnimation": "avatarAnimation_d146f4",
-    "spinningAvatar": "spinningAvatar_d146f4"
   },
   "282110": {
     "modal": "modal_ab9bdf",
