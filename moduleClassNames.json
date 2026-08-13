@@ -699,7 +699,8 @@
     "cross": "cross__83c7c"
   },
   "21280": {
-    "avatarContainer": "avatarContainer_b4a4b2"
+    "avatarContainer": "avatarContainer_b4a4b2",
+    "userInfo": "userInfo_b4a4b2"
   },
   "21946": {
     "resizeHandle": "resizeHandle__4b144"
@@ -4026,7 +4027,6 @@
   "143461": {
     "sidebarTitleRow": "sidebarTitleRow__3f4c5",
     "colorSection": "colorSection__3f4c5",
-    "removeButton": "removeButton__3f4c5",
     "colorPicker": "colorPicker__3f4c5",
     "colorSwatch": "colorSwatch__3f4c5"
   },
@@ -25822,6 +25822,9 @@
     "dragHandle": "dragHandle__5d537",
     "dragHandleLeft": "dragHandleLeft__5d537 dragHandle__5d537",
     "dragHandleRight": "dragHandleRight__5d537 dragHandle__5d537",
+    "dragHandleCorner": "dragHandleCorner__5d537",
+    "dragHandleCornerLeft": "dragHandleCornerLeft__5d537 dragHandleCorner__5d537",
+    "dragHandleCornerRight": "dragHandleCornerRight__5d537 dragHandleCorner__5d537",
     "dragBox": "dragBox__5d537",
     "playhead": "playhead__5d537",
     "playheadMarker": "playheadMarker__5d537",
@@ -26101,6 +26104,9 @@
     "preview": "preview_a419e0",
     "container": "container_a419e0",
     "body": "body_a419e0"
+  },
+  "899248": {
+    "container": "container__6747a"
   },
   "900170": {
     "systemMessageContainer": "systemMessageContainer_df65b5",
