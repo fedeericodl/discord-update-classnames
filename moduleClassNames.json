@@ -2368,6 +2368,12 @@
     "viewChannelButtonWrapper": "viewChannelButtonWrapper_e4503a",
     "scrollerInner": "scrollerInner_e4503a"
   },
+  "80435": {
+    "container": "container__3e00d",
+    "image": "image__3e00d",
+    "content": "content__3e00d",
+    "badgeSlot": "badgeSlot__3e00d"
+  },
   "80440": {
     "selector": "selector_c248b6"
   },
@@ -5845,6 +5851,8 @@
   },
   "197350": {
     "container": "container__72cd3",
+    "panelContainer": "panelContainer__72cd3",
+    "rewardImage": "rewardImage__72cd3",
     "textSection": "textSection__72cd3",
     "avatarWrapper": "avatarWrapper__72cd3",
     "avatar": "avatar__72cd3",
@@ -28050,6 +28058,10 @@
   },
   "973513": {
     "promotionalFooterBanner": "promotionalFooterBanner_e68795",
+    "rewardImage": "rewardImage_e68795",
+    "panelContainer": "panelContainer_e68795",
+    "panelContent": "panelContent_e68795",
+    "panelTimer": "panelTimer_e68795",
     "avatar": "avatar_e68795",
     "avatarLargeTilted": "avatarLargeTilted_e68795"
   },
