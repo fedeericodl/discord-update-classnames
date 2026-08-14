@@ -1363,6 +1363,14 @@
     "content": "content__0bd4a",
     "titleBar": "titleBar__0bd4a"
   },
+  "40687": {
+    "tabBar": "tabBar_b6a799",
+    "vertical": "vertical_b6a799",
+    "tabBarPanel": "tabBarPanel_b6a799",
+    "tab": "tab_b6a799",
+    "selected": "selected_b6a799",
+    "tabbedSettingsContainer": "tabbedSettingsContainer_b6a799"
+  },
   "41295": {
     "forwardPreview": "forwardPreview__9193d",
     "linkContainer": "linkContainer__9193d",
@@ -7729,14 +7737,6 @@
     "content": "content__12efe",
     "headingText": "headingText__12efe",
     "bodyText": "bodyText__12efe"
-  },
-  "263068": {
-    "tabBar": "tabBar_b6a799",
-    "vertical": "vertical_b6a799",
-    "tabBarPanel": "tabBarPanel_b6a799",
-    "tab": "tab_b6a799",
-    "selected": "selected_b6a799",
-    "tabbedSettingsContainer": "tabbedSettingsContainer_b6a799"
   },
   "263214": {
     "container": "container__477aa",
@@ -20436,6 +20436,9 @@
     "blockedMessage": "blockedMessage_faa96b",
     "withNewBadgeOverflow": "withNewBadgeOverflow_faa96b"
   },
+  "712905": {
+    "container": "container_eba32a"
+  },
   "713362": {
     "container": "container_f89b2c",
     "layout": "layout_f89b2c",
@@ -27066,9 +27069,6 @@
     "blockedButton": "blockedButton__26abc",
     "icon": "icon__26abc",
     "userInfo": "userInfo__26abc"
-  },
-  "935286": {
-    "container": "container_eba32a"
   },
   "935397": {
     "pageContainer": "pageContainer__09fde",
