@@ -4502,7 +4502,6 @@
   "154861": {
     "statusRow": "statusRow__15a10",
     "activityBar": "activityBar__15a10",
-    "activityToggle": "activityToggle__15a10",
     "connStatus": "connStatus__15a10",
     "runeCounter": "runeCounter__15a10"
   },
@@ -4997,6 +4996,10 @@
   },
   "172874": {
     "guildFeatureAvailabilityIndicator": "guildFeatureAvailabilityIndicator_a10064"
+  },
+  "173016": {
+    "todoTrigger": "todoTrigger_e6e92b",
+    "todoPanel": "todoPanel_e6e92b"
   },
   "173171": {
     "badgeUpgrade": "badgeUpgrade_fbcaba"
@@ -7320,6 +7323,10 @@
     "spinnerWrapper": "spinnerWrapper_ae7890",
     "spinner": "spinner_ae7890",
     "spinnerPath": "spinnerPath_ae7890"
+  },
+  "249680": {
+    "thinkingTrigger": "thinkingTrigger_b4a971",
+    "hasReasoning": "hasReasoning_b4a971"
   },
   "249746": {
     "cardBrands": "cardBrands__3e8d5",
@@ -13107,6 +13114,11 @@
   "446809": {
     "content": "content__444a0"
   },
+  "446892": {
+    "thinkingPanel": "thinkingPanel__17f67",
+    "thinkingPanelReasoning": "thinkingPanelReasoning__17f67",
+    "thinkingPanelBody": "thinkingPanelBody__17f67"
+  },
   "446946": {
     "selected": "selected_caa50c",
     "effectGrid": "effectGrid_caa50c",
@@ -17087,6 +17099,15 @@
   "590149": {
     "reasonFreeText": "reasonFreeText__22c63",
     "hidden": "hidden__22c63"
+  },
+  "590223": {
+    "todoCard": "todoCard__97796",
+    "todoCardHeader": "todoCardHeader__97796",
+    "todoCardProgress": "todoCardProgress__97796",
+    "todoList": "todoList__97796",
+    "todoItem": "todoItem__97796",
+    "todoText": "todoText__97796",
+    "todoMarker": "todoMarker__97796"
   },
   "590319": {
     "navBar": "navBar__131a1",
