@@ -5792,6 +5792,14 @@
     "jumpButton": "jumpButton_ade175",
     "text": "text_ade175"
   },
+  "195219": {
+    "attachmentChip": "attachmentChip__73bbb",
+    "attachmentThumb": "attachmentThumb__73bbb",
+    "attachmentChipBody": "attachmentChipBody__73bbb",
+    "attachmentName": "attachmentName__73bbb",
+    "attachmentChipCompact": "attachmentChipCompact__73bbb",
+    "attachmentChipButton": "attachmentChipButton__73bbb"
+  },
   "195261": {
     "shopViewWrapper": "shopViewWrapper__6db1d",
     "visible": "visible__6db1d",
@@ -8419,8 +8427,7 @@
     "chat-row-enter": "chat-row-enter__2b71e",
     "chatRow": "chatRow__2b71e",
     "chatMessageUser": "chatMessageUser__2b71e",
-    "messageAttachments": "messageAttachments__2b71e",
-    "messageAttachmentChipButton": "messageAttachmentChipButton__2b71e"
+    "messageAttachments": "messageAttachments__2b71e"
   },
   "289258": {
     "dots": "dots_bc2923",
@@ -15453,6 +15460,9 @@
     "required": "required__17efa",
     "buttonList": "buttonList__17efa"
   },
+  "524565": {
+    "anchor": "anchor__15c30"
+  },
   "524843": {
     "scroller": "scroller_c550ce",
     "container": "container_c550ce",
@@ -17208,6 +17218,9 @@
     "iconColorPink": "iconColorPink__7e023 icon__7e023",
     "iconColorPurple": "iconColorPurple__7e023 icon__7e023",
     "footer": "footer__7e023"
+  },
+  "594084": {
+    "media": "media_ddf7b3"
   },
   "594283": {
     "header": "header_b1c9f2",
@@ -19891,12 +19904,7 @@
     "chatMessageSurface": "chatMessageSurface_a57d27",
     "thinkingGlow": "thinkingGlow_a57d27",
     "vibegrations-glow-drift-a": "vibegrations-glow-drift-a_a57d27",
-    "vibegrations-glow-drift-b": "vibegrations-glow-drift-b_a57d27",
-    "attachmentChip": "attachmentChip_a57d27",
-    "attachmentThumb": "attachmentThumb_a57d27",
-    "attachmentChipBody": "attachmentChipBody_a57d27",
-    "attachmentName": "attachmentName_a57d27",
-    "attachmentChipCompact": "attachmentChipCompact_a57d27"
+    "vibegrations-glow-drift-b": "vibegrations-glow-drift-b_a57d27"
   },
   "692701": {
     "guildBoostUnavailableNotice": "guildBoostUnavailableNotice__0c507",
@@ -20153,7 +20161,8 @@
     "stepDisclosureToggle": "stepDisclosureToggle__30c5c",
     "stepChevron": "stepChevron__30c5c",
     "stepDetail": "stepDetail__30c5c",
-    "turnIdeasOffer": "turnIdeasOffer__30c5c"
+    "turnIdeasOffer": "turnIdeasOffer__30c5c",
+    "stepScreenshots": "stepScreenshots__30c5c"
   },
   "700772": {
     "flex": "flex__48a9c",
