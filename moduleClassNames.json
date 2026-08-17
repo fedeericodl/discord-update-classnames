@@ -8277,6 +8277,18 @@
   "282855": {
     "container": "container__1c9de"
   },
+  "282878": {
+    "workstream": "workstream_b88397",
+    "workstreamRow": "workstreamRow_b88397",
+    "workstreamRowToggle": "workstreamRowToggle_b88397",
+    "workstreamTitle": "workstreamTitle_b88397",
+    "workstreamHead": "workstreamHead_b88397",
+    "workstreamChevron": "workstreamChevron_b88397",
+    "workstreamSubtext": "workstreamSubtext_b88397",
+    "workstreamPanel": "workstreamPanel_b88397",
+    "workstreamSteps": "workstreamSteps_b88397",
+    "workstreamDetail": "workstreamDetail_b88397"
+  },
   "283179": {
     "statusText": "statusText__19b6d",
     "text": "text__19b6d"
@@ -11774,6 +11786,7 @@
     "creations": "creations_f8194a",
     "creationsHeading": "creationsHeading_f8194a",
     "projectInfo": "projectInfo_f8194a",
+    "creationsHeadingRow": "creationsHeadingRow_f8194a",
     "projectCard": "projectCard_f8194a",
     "projectCardSelect": "projectCardSelect_f8194a",
     "projectCardAction": "projectCardAction_f8194a",
@@ -20107,6 +20120,12 @@
     "chatMarkdown": "chatMarkdown__30c5c",
     "turnAnnouncement": "turnAnnouncement__30c5c",
     "turnSteps": "turnSteps__30c5c",
+    "activityBox": "activityBox__30c5c",
+    "activityHeader": "activityHeader__30c5c",
+    "activityHeaderLabel": "activityHeaderLabel__30c5c",
+    "activityHeaderChevron": "activityHeaderChevron__30c5c",
+    "activityBody": "activityBody__30c5c",
+    "workstreamLane": "workstreamLane__30c5c",
     "step-row-enter": "step-row-enter__30c5c",
     "stepRow": "stepRow__30c5c",
     "stepItem": "stepItem__30c5c",
