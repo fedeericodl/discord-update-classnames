@@ -20112,7 +20112,8 @@
     "stepItem": "stepItem__30c5c",
     "stepDisclosureToggle": "stepDisclosureToggle__30c5c",
     "stepChevron": "stepChevron__30c5c",
-    "stepDetail": "stepDetail__30c5c"
+    "stepDetail": "stepDetail__30c5c",
+    "turnIdeasOffer": "turnIdeasOffer__30c5c"
   },
   "700772": {
     "flex": "flex__48a9c",
@@ -24319,6 +24320,15 @@
     "container": "container__3dde2",
     "scroller": "scroller__3dde2",
     "list": "list__3dde2"
+  },
+  "843614": {
+    "cards": "cards__5ae41",
+    "header": "header__5ae41",
+    "card": "card__5ae41",
+    "cardTitle": "cardTitle__5ae41",
+    "cardInert": "cardInert__5ae41",
+    "offer": "offer__5ae41",
+    "offerHint": "offerHint__5ae41"
   },
   "844106": {
     "userList": "userList__24091",
