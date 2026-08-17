@@ -5657,6 +5657,7 @@
     "iconBadge": "iconBadge__463b7 base__463b7",
     "numberBadge": "numberBadge__463b7 base__463b7",
     "icon": "icon__463b7",
+    "circleBadge": "circleBadge__463b7",
     "premiumBadge": "premiumBadge__463b7"
   },
   "189279": {
@@ -9512,6 +9513,7 @@
     "disablePointerEvents": "disablePointerEvents_c38106",
     "winButtons": "winButtons_c38106",
     "title": "title_c38106",
+    "leadingGrow": "leadingGrow_c38106",
     "winButtonsWithDivider": "winButtonsWithDivider_c38106",
     "winButton": "winButton_c38106",
     "winButtonMinMax": "winButtonMinMax_c38106",
@@ -26179,6 +26181,24 @@
     "menu": "menu__1f5b6",
     "menuRow": "menuRow__1f5b6",
     "menuRowHighlighted": "menuRowHighlighted__1f5b6"
+  },
+  "897572": {
+    "tabBar": "tabBar__97b44",
+    "dropIndicator": "dropIndicator__97b44",
+    "tab": "tab__97b44",
+    "tabActive": "tabActive__97b44",
+    "tabDragging": "tabDragging__97b44",
+    "tabButton": "tabButton__97b44",
+    "closeButton": "closeButton__97b44",
+    "unreadIndicator": "unreadIndicator__97b44",
+    "newTabButton": "newTabButton__97b44",
+    "pinIndicator": "pinIndicator__97b44",
+    "pinUnreadDot": "pinUnreadDot__97b44",
+    "guildIcon": "guildIcon__97b44",
+    "dmIcon": "dmIcon__97b44",
+    "favoritesIcon": "favoritesIcon__97b44",
+    "iconWrapper": "iconWrapper__97b44",
+    "mentionBadge": "mentionBadge__97b44"
   },
   "897576": {
     "categoryContainer": "categoryContainer__3a0cf",
