@@ -592,6 +592,7 @@
     "composerSend": "composerSend_ffba0c",
     "composerSendSeparator": "composerSendSeparator_ffba0c",
     "composerSendButton": "composerSendButton_ffba0c",
+    "composerInterruptButton": "composerInterruptButton_ffba0c",
     "composerSendIcon": "composerSendIcon_ffba0c"
   },
   "18209": {
