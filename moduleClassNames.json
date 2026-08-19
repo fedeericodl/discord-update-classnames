@@ -7810,6 +7810,21 @@
     "voiceParticipants": "voiceParticipants__73a0a",
     "headerLabel": "headerLabel__73a0a"
   },
+  "263783": {
+    "clarification": "clarification_d0997e",
+    "progress": "progress_d0997e",
+    "progressCount": "progressCount_d0997e",
+    "back": "back_d0997e",
+    "backHidden": "backHidden_d0997e",
+    "options": "options_d0997e",
+    "option": "option_d0997e",
+    "optionHeader": "optionHeader_d0997e",
+    "optionLabel": "optionLabel_d0997e",
+    "recommendedBadge": "recommendedBadge_d0997e",
+    "optionInert": "optionInert_d0997e",
+    "other": "other_d0997e",
+    "otherInput": "otherInput_d0997e"
+  },
   "263967": {
     "ctaContainer": "ctaContainer_d6d601 card_fc2e20",
     "heroBanner": "heroBanner_d6d601",
@@ -11643,7 +11658,7 @@
     "header": "header__17b8c",
     "nitroUpsellContainer": "nitroUpsellContainer__17b8c",
     "nitroUpsellBackground": "nitroUpsellBackground__17b8c",
-    "nitroUpsellText": "nitroUpsellText__17b8c"
+    "nitroUpsellCopy": "nitroUpsellCopy__17b8c"
   },
   "396769": {
     "notice": "notice__6e2b9",
