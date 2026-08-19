@@ -86,6 +86,7 @@
   },
   "5019": {
     "scroller": "scroller__7d20c",
+    "content": "content__7d20c",
     "container": "container__7d20c",
     "header": "header__7d20c"
   },
@@ -11338,10 +11339,10 @@
     "compact": "compact__9c314",
     "multiline": "multiline__9c314",
     "removeVerticalPadding": "removeVerticalPadding__9c314",
+    "growWidth": "growWidth__9c314",
     "fadeIn": "fadeIn__9c314",
     "preview": "preview__9c314",
     "editable": "editable__9c314",
-    "growWidth": "growWidth__9c314",
     "disabled": "disabled__9c314",
     "hasError": "hasError__9c314",
     "hasWarning": "hasWarning__9c314",
@@ -16406,10 +16407,11 @@
     "defaultContainer": "defaultContainer__4d7f8",
     "defaultText": "defaultText__4d7f8",
     "coverContainer": "coverContainer__4d7f8",
+    "coverContentContainer": "coverContentContainer__4d7f8",
     "coverContent": "coverContent__4d7f8",
     "coverTitle": "coverTitle__4d7f8",
-    "coverSubtitle": "coverSubtitle__4d7f8",
     "coverImage": "coverImage__4d7f8",
+    "coverSubtitle": "coverSubtitle__4d7f8",
     "fieldsContainer": "fieldsContainer__4d7f8",
     "fieldsImageContainer": "fieldsImageContainer__4d7f8",
     "fieldsImage": "fieldsImage__4d7f8"
