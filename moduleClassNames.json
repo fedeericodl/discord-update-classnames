@@ -212,6 +212,13 @@
     "logos": "logos__0d52d",
     "error": "error__0d52d"
   },
+  "8777": {
+    "richTooltipContent": "richTooltipContent__9038b",
+    "richTooltipContentLg": "richTooltipContentLg__9038b",
+    "assetContainer": "assetContainer__9038b",
+    "textContent": "textContent__9038b",
+    "noAsset": "noAsset__9038b"
+  },
   "8936": {
     "container": "container_d7bc5d popover_d6f39b",
     "voiceChannelGiftingBreadcrumb": "voiceChannelGiftingBreadcrumb_d7bc5d",
@@ -24596,13 +24603,6 @@
     "text": "text__6c5a1",
     "premium": "premium__6c5a1",
     "iconOnly": "iconOnly__6c5a1"
-  },
-  "845304": {
-    "richTooltipContent": "richTooltipContent_a89985",
-    "richTooltipContentLg": "richTooltipContentLg_a89985",
-    "assetContainer": "assetContainer_a89985",
-    "textContent": "textContent_a89985",
-    "noAsset": "noAsset_a89985"
   },
   "845321": {
     "containerExpanded": "containerExpanded__7ff28",
