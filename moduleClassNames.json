@@ -11310,6 +11310,10 @@
   "403732": {
     "logo": "logo__11f7b"
   },
+  "403853": {
+    "unreadDot": "unreadDot__863f9",
+    "mentionDot": "mentionDot__863f9"
+  },
   "403862": {
     "root": "root_b18605",
     "headerToggle": "headerToggle_b18605",
@@ -13005,6 +13009,9 @@
   "451713": {
     "questGreen": "questGreen__3ea4b",
     "questWhite": "questWhite__3ea4b"
+  },
+  "452394": {
+    "trigger": "trigger__8d3b5"
   },
   "453763": {
     "ephemeralMessage": "ephemeralMessage__124d2",
@@ -26043,6 +26050,9 @@
   },
   "896763": {
     "iframe": "iframe_a62174",
+    "iframeMobilePreview": "iframeMobilePreview_a62174",
+    "activityContainerMobilePreview": "activityContainerMobilePreview_a62174",
+    "wrapperMobilePreview": "wrapperMobilePreview_a62174",
     "wrapper": "wrapper_a62174",
     "resizable": "resizable_a62174",
     "noChat": "noChat_a62174",
