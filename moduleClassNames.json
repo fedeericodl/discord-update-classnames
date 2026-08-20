@@ -11177,6 +11177,13 @@
     "loader": "loader__44cf4",
     "balanceWidgetPillContainer": "balanceWidgetPillContainer__44cf4"
   },
+  "397239": {
+    "connectContent": "connectContent__948df",
+    "closeButton": "closeButton__948df",
+    "connectUrlRow": "connectUrlRow__948df",
+    "connectUrlField": "connectUrlField__948df",
+    "connectActions": "connectActions__948df"
+  },
   "397270": {
     "wrapper": "wrapper__02fc8",
     "inner": "inner__02fc8",
