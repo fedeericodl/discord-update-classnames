@@ -26124,8 +26124,8 @@
     "wrapper": "wrapper_a62174",
     "resizable": "resizable_a62174",
     "noChat": "noChat_a62174",
-    "vibegrationsChannel": "vibegrationsChannel_a62174",
     "vibegrationsBuilder": "vibegrationsBuilder_a62174",
+    "vibegrationsChannel": "vibegrationsChannel_a62174",
     "activityPanelContainer": "activityPanelContainer_a62174",
     "footer": "footer_a62174",
     "activityContainer": "activityContainer_a62174",
@@ -28519,7 +28519,7 @@
   },
   "977628": {
     "panel": "panel_c5030f",
-    "header": "header_c5030f",
+    "body": "body_c5030f",
     "list": "list_c5030f",
     "entry": "entry_c5030f",
     "subject": "subject_c5030f"
