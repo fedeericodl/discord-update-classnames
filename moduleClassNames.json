@@ -386,20 +386,37 @@
     "assistantTurn": "assistantTurn__30c5c",
     "chatMessageAssistant": "chatMessageAssistant__30c5c",
     "chatMarkdown": "chatMarkdown__30c5c",
-    "turnAnnouncement": "turnAnnouncement__30c5c",
     "turnSteps": "turnSteps__30c5c",
-    "activityBox": "activityBox__30c5c",
-    "activityHeader": "activityHeader__30c5c",
-    "activityHeaderLabel": "activityHeaderLabel__30c5c",
-    "activityHeaderChevron": "activityHeaderChevron__30c5c",
-    "activityBody": "activityBody__30c5c",
-    "workstreamLane": "workstreamLane__30c5c",
-    "step-row-enter": "step-row-enter__30c5c",
-    "stepRow": "stepRow__30c5c",
-    "stepItem": "stepItem__30c5c",
-    "stepDisclosureToggle": "stepDisclosureToggle__30c5c",
-    "stepChevron": "stepChevron__30c5c",
+    "activityStatus": "activityStatus__30c5c",
+    "turnActivity": "turnActivity__30c5c",
+    "activityStatusRow": "activityStatusRow__30c5c",
+    "activityStatusRowToggle": "activityStatusRowToggle__30c5c",
+    "activityStatusIcon": "activityStatusIcon__30c5c",
+    "activityStatusFace": "activityStatusFace__30c5c",
+    "subagentMark": "subagentMark__30c5c",
+    "activityStatusChevron": "activityStatusChevron__30c5c",
+    "activityStatusShine": "activityStatusShine__30c5c",
+    "vibegrations-activity-shine": "vibegrations-activity-shine__30c5c",
+    "wandSparkle": "wandSparkle__30c5c",
+    "wandSparkleSmall": "wandSparkleSmall__30c5c",
+    "vibegrations-wand-sparkle-small": "vibegrations-wand-sparkle-small__30c5c",
+    "wandSparkleLarge": "wandSparkleLarge__30c5c",
+    "vibegrations-wand-sparkle-large": "vibegrations-wand-sparkle-large__30c5c",
+    "activityStatusLabel": "activityStatusLabel__30c5c",
+    "activityStatusLabelExit": "activityStatusLabelExit__30c5c",
+    "activityStatusLabelEnter": "activityStatusLabelEnter__30c5c",
+    "activityDetail": "activityDetail__30c5c",
+    "vibegrations-detail-enter": "vibegrations-detail-enter__30c5c",
     "stepDetail": "stepDetail__30c5c",
+    "stepRow": "stepRow__30c5c",
+    "stepDisclosureToggle": "stepDisclosureToggle__30c5c",
+    "step-row-enter": "step-row-enter__30c5c",
+    "stepDiffAdded": "stepDiffAdded__30c5c",
+    "stepDiffRemoved": "stepDiffRemoved__30c5c",
+    "stepCount": "stepCount__30c5c",
+    "stepCountEmpty": "stepCountEmpty__30c5c",
+    "stepItem": "stepItem__30c5c",
+    "stepChevron": "stepChevron__30c5c",
     "turnIdeasOffer": "turnIdeasOffer__30c5c",
     "stepScreenshots": "stepScreenshots__30c5c",
     "turnAttachments": "turnAttachments__30c5c"
@@ -3782,6 +3799,14 @@
     "buttonShine": "buttonShine_b807c8",
     "subButtonText": "subButtonText_b807c8"
   },
+  "145615": {
+    "dither": "dither_c1a26c",
+    "ditherConversation": "ditherConversation_c1a26c",
+    "ditherHome": "ditherHome_c1a26c",
+    "ditherThinking": "ditherThinking_c1a26c",
+    "vibegrationsDitherMaskRipple": "vibegrationsDitherMaskRipple_c1a26c",
+    "ditherCanvas": "ditherCanvas_c1a26c"
+  },
   "145934": {
     "container": "container__306ab",
     "preset": "preset__306ab",
@@ -6175,8 +6200,10 @@
     "ellipsize": "ellipsize_a2b4d3"
   },
   "229775": {
+    "textShimmer": "textShimmer_a57d27",
+    "vibegrations-text-shimmer": "vibegrations-text-shimmer_a57d27",
     "chatMessageSurface": "chatMessageSurface_a57d27",
-    "thinkingGlow": "thinkingGlow_a57d27",
+    "vibegrationsGlowThinkingPulse": "vibegrationsGlowThinkingPulse_a57d27",
     "vibegrations-glow-drift-a": "vibegrations-glow-drift-a_a57d27",
     "vibegrations-glow-drift-b": "vibegrations-glow-drift-b_a57d27"
   },
@@ -8368,9 +8395,6 @@
     "icon": "icon__6b453",
     "tabular": "tabular__6b453"
   },
-  "307227": {
-    "multilineText": "multilineText_bed011"
-  },
   "307304": {
     "table": "table__49035",
     "gameUpdates": "gameUpdates__49035",
@@ -10487,8 +10511,6 @@
     "chatLogList": "chatLogList__2b71e",
     "chat-row-enter": "chat-row-enter__2b71e",
     "chatRow": "chatRow__2b71e",
-    "chatMessageAuthor": "chatMessageAuthor__2b71e",
-    "chatMessageUser": "chatMessageUser__2b71e",
     "messageAttachments": "messageAttachments__2b71e"
   },
   "375980": {
@@ -11358,6 +11380,7 @@
     "compact": "compact__9c314",
     "multiline": "multiline__9c314",
     "removeVerticalPadding": "removeVerticalPadding__9c314",
+    "editing": "editing__9c314",
     "growWidth": "growWidth__9c314",
     "fadeIn": "fadeIn__9c314",
     "preview": "preview__9c314",
@@ -11632,6 +11655,15 @@
     "planCardWrapper": "planCardWrapper__9e160",
     "narrowLayoutPlanCardWrapper": "narrowLayoutPlanCardWrapper__9e160",
     "narrowLayout": "narrowLayout__9e160"
+  },
+  "408694": {
+    "glowLayer": "glowLayer__80f2e",
+    "glow": "glow__80f2e",
+    "vibegrationsGlowThinkingPulse": "vibegrationsGlowThinkingPulse__80f2e",
+    "glowImage": "glowImage__80f2e",
+    "vibegrationsGlowDrift": "vibegrationsGlowDrift__80f2e",
+    "glowImageThinking": "glowImageThinking__80f2e",
+    "vibegrationsGlowThinkingMaskRipple": "vibegrationsGlowThinkingMaskRipple__80f2e"
   },
   "408738": {
     "elevated": "elevated__3f12a",
@@ -12650,6 +12682,12 @@
     "animation": "animation__7e090",
     "headerTitle": "headerTitle__7e090",
     "closeButton": "closeButton__7e090"
+  },
+  "441136": {
+    "conjurMessage": "conjurMessage__72ffd",
+    "accessoryMessageRow": "accessoryMessageRow__72ffd",
+    "messageAccessories": "messageAccessories__72ffd",
+    "conjurBotAvatar": "conjurBotAvatar__72ffd"
   },
   "441386": {
     "activityItemButtonInnerClass": "activityItemButtonInnerClass__8a940",
@@ -15957,18 +15995,6 @@
     "placeholderItem": "placeholderItem__87dda",
     "chatTextAreaPlaceholder": "chatTextAreaPlaceholder__87dda",
     "appLauncherPlaceholder": "appLauncherPlaceholder__87dda"
-  },
-  "549505": {
-    "workstream": "workstream_b88397",
-    "workstreamRow": "workstreamRow_b88397",
-    "workstreamRowToggle": "workstreamRowToggle_b88397",
-    "workstreamTitle": "workstreamTitle_b88397",
-    "workstreamHead": "workstreamHead_b88397",
-    "workstreamChevron": "workstreamChevron_b88397",
-    "workstreamSubtext": "workstreamSubtext_b88397",
-    "workstreamPanel": "workstreamPanel_b88397",
-    "workstreamSteps": "workstreamSteps_b88397",
-    "workstreamDetail": "workstreamDetail_b88397"
   },
   "549575": {
     "search": "search__49676"
@@ -23018,6 +23044,18 @@
     "composer": "composer_ffba0c",
     "composerDragOver": "composerDragOver_ffba0c",
     "composerRow": "composerRow_ffba0c",
+    "composerGlow": "composerGlow_ffba0c",
+    "composerGlowVisible": "composerGlowVisible_ffba0c",
+    "composerGlowTop": "composerGlowTop_ffba0c",
+    "composerGlowBottom": "composerGlowBottom_ffba0c",
+    "composerHintOverlay": "composerHintOverlay_ffba0c",
+    "composerHintText": "composerHintText_ffba0c",
+    "textSwap": "textSwap_ffba0c",
+    "textSwapExit": "textSwapExit_ffba0c",
+    "textSwapEnterStart": "textSwapEnterStart_ffba0c",
+    "composerTabHint": "composerTabHint_ffba0c",
+    "composerTabHintKey": "composerTabHintKey_ffba0c",
+    "composerActions": "composerActions_ffba0c",
     "composerAttachments": "composerAttachments_ffba0c",
     "attachmentSpinner": "attachmentSpinner_ffba0c",
     "attachmentRemoveButton": "attachmentRemoveButton_ffba0c",
@@ -25495,6 +25533,7 @@
     "container": "container__17b8c",
     "containerHeader": "containerHeader__17b8c",
     "header": "header__17b8c",
+    "headerIcon": "headerIcon__17b8c",
     "nitroUpsellContainer": "nitroUpsellContainer__17b8c",
     "nitroUpsellBackground": "nitroUpsellBackground__17b8c",
     "nitroUpsellCopy": "nitroUpsellCopy__17b8c"
@@ -26011,7 +26050,9 @@
     "messageContainer": "messageContainer__597b5"
   },
   "892572": {
-    "richText": "richText__9e7f3"
+    "richText": "richText__9e7f3",
+    "multilineText": "multilineText__9e7f3",
+    "field": "field__9e7f3"
   },
   "893757": {
     "container": "container__9fc7d",
