@@ -414,7 +414,6 @@
     "stepDiffAdded": "stepDiffAdded__30c5c",
     "stepDiffRemoved": "stepDiffRemoved__30c5c",
     "stepCount": "stepCount__30c5c",
-    "stepCountEmpty": "stepCountEmpty__30c5c",
     "stepItem": "stepItem__30c5c",
     "stepChevron": "stepChevron__30c5c",
     "stepScreenshots": "stepScreenshots__30c5c",
@@ -8093,6 +8092,9 @@
     "selectButtonChevron": "selectButtonChevron_ac381c",
     "listbox": "listbox_ac381c",
     "noTagOptionLabel": "noTagOptionLabel_ac381c"
+  },
+  "296167": {
+    "quoteText": "quoteText_a3ced8"
   },
   "296315": {
     "container": "container_fc2e20",
@@ -26130,6 +26132,7 @@
     "resizable": "resizable_a62174",
     "noChat": "noChat_a62174",
     "vibegrationsChannel": "vibegrationsChannel_a62174",
+    "vibegrationsBuilder": "vibegrationsBuilder_a62174",
     "activityPanelContainer": "activityPanelContainer_a62174",
     "footer": "footer_a62174",
     "activityContainer": "activityContainer_a62174",
@@ -28475,8 +28478,7 @@
     "birthdayInput": "birthdayInput_d332d2"
   },
   "976102": {
-    "previewEmpty": "previewEmpty__914bb",
-    "previewEmptyText": "previewEmptyText__914bb"
+    "previewEmpty": "previewEmpty__914bb"
   },
   "976150": {
     "tileActions": "tileActions_ca919b",
