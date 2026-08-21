@@ -417,7 +417,6 @@
     "stepCountEmpty": "stepCountEmpty__30c5c",
     "stepItem": "stepItem__30c5c",
     "stepChevron": "stepChevron__30c5c",
-    "turnIdeasOffer": "turnIdeasOffer__30c5c",
     "stepScreenshots": "stepScreenshots__30c5c",
     "turnAttachments": "turnAttachments__30c5c"
   },
@@ -2961,11 +2960,12 @@
   "113757": {
     "cards": "cards__5ae41",
     "header": "header__5ae41",
-    "card": "card__5ae41",
-    "cardTitle": "cardTitle__5ae41",
-    "cardInert": "cardInert__5ae41",
-    "offer": "offer__5ae41",
-    "offerHint": "offerHint__5ae41"
+    "row": "row__5ae41",
+    "rowHeading": "rowHeading__5ae41",
+    "rowCheck": "rowCheck__5ae41",
+    "rowTitle": "rowTitle__5ae41",
+    "rowSelected": "rowSelected__5ae41",
+    "rowInert": "rowInert__5ae41"
   },
   "113775": {
     "container": "container__343c1",
@@ -9621,6 +9621,7 @@
   "348800": {
     "chat": "chat_f35ad6",
     "chatLog": "chatLog_f35ad6",
+    "chatLogFaded": "chatLogFaded_f35ad6",
     "chatFooter": "chatFooter_f35ad6"
   },
   "349095": {
@@ -9777,6 +9778,8 @@
     "creationsHeading": "creationsHeading_f8194a",
     "projectInfo": "projectInfo_f8194a",
     "projectsList": "projectsList_f8194a",
+    "sharedProjects": "sharedProjects_f8194a",
+    "sharedProjectsHeading": "sharedProjectsHeading_f8194a",
     "projectCard": "projectCard_f8194a",
     "projectCardSelect": "projectCardSelect_f8194a",
     "projectCardAction": "projectCardAction_f8194a",
@@ -23076,13 +23079,15 @@
     "attachmentSpinner": "attachmentSpinner_ffba0c",
     "attachmentRemoveButton": "attachmentRemoveButton_ffba0c",
     "composerFileInput": "composerFileInput_ffba0c",
+    "composerModelTrigger": "composerModelTrigger_ffba0c",
+    "composerPlusButton": "composerPlusButton_ffba0c",
+    "composerPlusIcon": "composerPlusIcon_ffba0c",
     "composerAttachButton": "composerAttachButton_ffba0c",
     "composerInput": "composerInput_ffba0c",
     "composerSend": "composerSend_ffba0c",
     "composerSendSeparator": "composerSendSeparator_ffba0c",
     "composerSendButton": "composerSendButton_ffba0c",
-    "composerInterruptButton": "composerInterruptButton_ffba0c",
-    "composerSendIcon": "composerSendIcon_ffba0c"
+    "composerInterruptButton": "composerInterruptButton_ffba0c"
   },
   "791046": {
     "container": "container_c791b2",
