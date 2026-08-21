@@ -10540,6 +10540,7 @@
     "chatLogList": "chatLogList__2b71e",
     "chat-row-enter": "chat-row-enter__2b71e",
     "chatRow": "chatRow__2b71e",
+    "chatRowHighlighted": "chatRowHighlighted__2b71e",
     "messageAttachments": "messageAttachments__2b71e"
   },
   "375980": {
@@ -12719,6 +12720,7 @@
   "441136": {
     "conjurMessage": "conjurMessage__72ffd",
     "accessoryMessageRow": "accessoryMessageRow__72ffd",
+    "messageAccessoriesUnderProse": "messageAccessoriesUnderProse__72ffd",
     "messageAccessories": "messageAccessories__72ffd",
     "conjurBotAvatar": "conjurBotAvatar__72ffd"
   },
@@ -26781,6 +26783,7 @@
   },
   "921461": {
     "thinkingTrigger": "thinkingTrigger_b4a971",
+    "thinkingDots": "thinkingDots_b4a971",
     "hasReasoning": "hasReasoning_b4a971"
   },
   "921787": {
