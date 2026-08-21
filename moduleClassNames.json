@@ -6739,6 +6739,12 @@
     "btn": "btn_eeed5f",
     "spinnerItem": "spinnerItem_eeed5f"
   },
+  "249154": {
+    "settingsForm": "settingsForm__6e8a1",
+    "settingsSelect": "settingsSelect__6e8a1",
+    "secretRow": "secretRow__6e8a1",
+    "secretRowInfo": "secretRowInfo__6e8a1"
+  },
   "249360": {
     "samplePlaceholder": "samplePlaceholder_e81047",
     "fadeIn": "fadeIn_e81047"
@@ -9614,7 +9620,8 @@
   },
   "348800": {
     "chat": "chat_f35ad6",
-    "chatLog": "chatLog_f35ad6"
+    "chatLog": "chatLog_f35ad6",
+    "chatFooter": "chatFooter_f35ad6"
   },
   "349095": {
     "headingWrapper": "headingWrapper__57454",
@@ -9747,22 +9754,29 @@
   "352978": {
     "screen": "screen_f8194a",
     "landingScreen": "landingScreen_f8194a",
-    "body": "body_f8194a",
+    "landingLayout": "landingLayout_f8194a",
+    "landingMain": "landingMain_f8194a",
+    "landingScroller": "landingScroller_f8194a",
+    "landingIntro": "landingIntro_f8194a",
+    "composerBar": "composerBar_f8194a",
+    "content": "content_f8194a",
     "chatBody": "chatBody_f8194a",
     "projectHeaderActions": "projectHeaderActions_f8194a",
     "projectHeaderIconActions": "projectHeaderIconActions_f8194a",
+    "projectMainFallback": "projectMainFallback_f8194a",
     "projectUnavailable": "projectUnavailable_f8194a",
-    "content": "content_f8194a",
     "creation": "creation_f8194a",
     "promptCards": "promptCards_f8194a",
     "promptCard": "promptCard_f8194a",
     "promptCardText": "promptCardText_f8194a",
     "composer": "composer_f8194a",
     "createAction": "createAction_f8194a",
-    "creations": "creations_f8194a",
+    "projectsSidebar": "projectsSidebar_f8194a",
+    "projectsSidebarHeader": "projectsSidebarHeader_f8194a",
+    "projectsSidebarList": "projectsSidebarList_f8194a",
     "creationsHeading": "creationsHeading_f8194a",
     "projectInfo": "projectInfo_f8194a",
-    "creationsHeadingRow": "creationsHeadingRow_f8194a",
+    "projectsList": "projectsList_f8194a",
     "projectCard": "projectCard_f8194a",
     "projectCardSelect": "projectCardSelect_f8194a",
     "projectCardAction": "projectCardAction_f8194a",
@@ -9771,6 +9785,7 @@
     "projectName": "projectName_f8194a",
     "projectMetadata": "projectMetadata_f8194a",
     "listState": "listState_f8194a",
+    "listStateText": "listStateText_f8194a",
     "projectsEmptyState": "projectsEmptyState_f8194a",
     "projectsEmptyStateContent": "projectsEmptyStateContent_f8194a",
     "projectsEmptyStateText": "projectsEmptyStateText_f8194a"
@@ -10408,8 +10423,12 @@
   },
   "372054": {
     "channelView": "channelView__67841",
+    "channelViewMain": "channelViewMain__67841",
+    "channelViewMainPanel": "channelViewMainPanel__67841",
+    "chatSidebarOpen": "chatSidebarOpen__67841",
     "channelViewPreview": "channelViewPreview__67841",
     "agentChatPanel": "agentChatPanel__67841",
+    "agentChat": "agentChat__67841",
     "channelMessagesPanel": "channelMessagesPanel__67841",
     "channelMessagesChat": "channelMessagesChat__67841"
   },
@@ -19086,13 +19105,10 @@
   },
   "652140": {
     "secretsForm": "secretsForm__12bb9",
-    "secretsConnection": "secretsConnection__12bb9",
-    "secretsSteps": "secretsSteps__12bb9",
-    "secretsStep": "secretsStep__12bb9",
-    "secretsStepFields": "secretsStepFields__12bb9",
-    "secretsCallbackList": "secretsCallbackList__12bb9",
-    "secretsCallbackRow": "secretsCallbackRow__12bb9",
-    "secretsCallbackUrl": "secretsCallbackUrl__12bb9"
+    "secretsCopyList": "secretsCopyList__12bb9",
+    "secretsCopyRow": "secretsCopyRow__12bb9",
+    "secretsCopyInfo": "secretsCopyInfo__12bb9",
+    "secretsCopyValue": "secretsCopyValue__12bb9"
   },
   "652989": {
     "buttonContainer": "buttonContainer__2215e",
@@ -28100,6 +28116,9 @@
     "voiceChannelHighlightBorder": "voiceChannelHighlightBorder_c69b6d",
     "voiceChannelHighlightGlow": "voiceChannelHighlightGlow_c69b6d"
   },
+  "964675": {
+    "trigger": "trigger__3dec4"
+  },
   "965452": {
     "container": "container__1dc07",
     "emoji": "emoji__1dc07",
@@ -28363,6 +28382,12 @@
   "972748": {
     "container": "container_fb1896",
     "icon": "icon_fb1896"
+  },
+  "973000": {
+    "settingsCard": "settingsCard__750bc",
+    "settingsCardChips": "settingsCardChips__750bc",
+    "settingsCardChip": "settingsCardChip__750bc",
+    "settingsCardActions": "settingsCardActions__750bc"
   },
   "973177": {
     "editorPane": "editorPane__51bac",
