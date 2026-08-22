@@ -386,6 +386,7 @@
     "assistantTurn": "assistantTurn__30c5c",
     "chatMessageAssistant": "chatMessageAssistant__30c5c",
     "chatMarkdown": "chatMarkdown__30c5c",
+    "turnResponse": "turnResponse__30c5c",
     "turnSteps": "turnSteps__30c5c",
     "activityStatus": "activityStatus__30c5c",
     "turnActivity": "turnActivity__30c5c",
@@ -16485,11 +16486,10 @@
     "defaultContainer": "defaultContainer__4d7f8",
     "defaultText": "defaultText__4d7f8",
     "coverContainer": "coverContainer__4d7f8",
-    "coverContentContainer": "coverContentContainer__4d7f8",
     "coverContent": "coverContent__4d7f8",
     "coverTitle": "coverTitle__4d7f8",
-    "coverImage": "coverImage__4d7f8",
     "coverSubtitle": "coverSubtitle__4d7f8",
+    "coverImage": "coverImage__4d7f8",
     "fieldsContainer": "fieldsContainer__4d7f8",
     "fieldsImageContainer": "fieldsImageContainer__4d7f8",
     "fieldsImage": "fieldsImage__4d7f8"
@@ -21972,6 +21972,17 @@
   },
   "749364": {
     "title": "title__28f6b"
+  },
+  "749414": {
+    "questBanner": "questBanner__26e33",
+    "questBannerIn": "questBannerIn__26e33",
+    "questBannerOut": "questBannerOut__26e33",
+    "questBannerGlow": "questBannerGlow__26e33",
+    "questBannerGlowImage": "questBannerGlowImage__26e33",
+    "questBannerGlowFade": "questBannerGlowFade__26e33",
+    "questBannerHeader": "questBannerHeader__26e33",
+    "questBannerArt": "questBannerArt__26e33",
+    "questBannerCopy": "questBannerCopy__26e33"
   },
   "750013": {
     "linkAnchor": "linkAnchor__22275",
