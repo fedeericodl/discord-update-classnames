@@ -10540,6 +10540,7 @@
   },
   "375068": {
     "chatLogList": "chatLogList__2b71e",
+    "chatRowContinuation": "chatRowContinuation__2b71e",
     "chat-row-enter": "chat-row-enter__2b71e",
     "chatRow": "chatRow__2b71e",
     "chatRowHighlighted": "chatRowHighlighted__2b71e",
