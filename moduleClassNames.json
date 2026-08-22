@@ -2886,7 +2886,6 @@
     "editorAnimate": "editorAnimate__2a891",
     "slidein": "slidein__2a891",
     "title": "title__2a891",
-    "premiumIcon": "premiumIcon__2a891",
     "editor": "editor__2a891",
     "editorHeader": "editorHeader__2a891",
     "editorBody": "editorBody__2a891",
@@ -3904,7 +3903,7 @@
     "container": "container__70feb",
     "withImageSpacing": "withImageSpacing__70feb",
     "coverImageContainer": "coverImageContainer__70feb",
-    "removeButton": "removeButton__70feb",
+    "actions": "actions__70feb",
     "restoreContainer": "restoreContainer__70feb",
     "restoreLine": "restoreLine__70feb",
     "restoreIconContainer": "restoreIconContainer__70feb",
@@ -5203,7 +5202,7 @@
     "channelIcon": "channelIcon__75906"
   },
   "192416": {
-    "nitroWheel": "nitroWheel_c5f0dc"
+    "inline": "inline_c5f0dc"
   },
   "193221": {
     "container": "container__011b7",
@@ -5470,8 +5469,7 @@
     "rolePill": "rolePill__373b5"
   },
   "203164": {
-    "sectionsContainer": "sectionsContainer__722a8",
-    "nitroWheel": "nitroWheel__722a8"
+    "sectionsContainer": "sectionsContainer__722a8"
   },
   "203221": {
     "container": "container__50d91",
@@ -21938,7 +21936,6 @@
     "headerAndCloseRow": "headerAndCloseRow__5a2df",
     "subtitle": "subtitle__5a2df",
     "coachmarkFooterContainer": "coachmarkFooterContainer__5a2df",
-    "nitroIcon": "nitroIcon__5a2df",
     "controlLabelContainer": "controlLabelContainer__5a2df",
     "controlLabelInput": "controlLabelInput__5a2df text-md/medium__5a2df",
     "footerUpsellRow": "footerUpsellRow__5a2df",
