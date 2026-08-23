@@ -9780,9 +9780,15 @@
     "projectMainFallback": "projectMainFallback_f8194a",
     "projectUnavailable": "projectUnavailable_f8194a",
     "creation": "creation_f8194a",
+    "createSection": "createSection_f8194a",
+    "createSectionHeading": "createSectionHeading_f8194a",
     "promptCards": "promptCards_f8194a",
+    "promptCardItem": "promptCardItem_f8194a",
     "promptCard": "promptCard_f8194a",
     "promptCardText": "promptCardText_f8194a",
+    "templateCard": "templateCard_f8194a",
+    "templateCardDescription": "templateCardDescription_f8194a",
+    "templateCardTitle": "templateCardTitle_f8194a",
     "composer": "composer_f8194a",
     "createAction": "createAction_f8194a",
     "projectsSidebar": "projectsSidebar_f8194a",
@@ -12696,13 +12702,6 @@
     "tile": "tile__57a1b",
     "tileImage": "tileImage__57a1b",
     "tileGloss": "tileGloss__57a1b"
-  },
-  "439108": {
-    "backdrop": "backdrop__5debc",
-    "target": "target__5debc",
-    "idleDim": "idleDim__5debc",
-    "hint": "hint__5debc",
-    "selection": "selection__5debc"
   },
   "439248": {
     "root": "root__66e7e",
