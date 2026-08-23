@@ -12739,7 +12739,9 @@
     "accessoryMessageRow": "accessoryMessageRow__72ffd",
     "messageAccessoriesUnderProse": "messageAccessoriesUnderProse__72ffd",
     "messageAccessories": "messageAccessories__72ffd",
-    "conjurBotAvatar": "conjurBotAvatar__72ffd"
+    "conjurBotAvatar": "conjurBotAvatar__72ffd",
+    "messageBody": "messageBody__72ffd",
+    "vibegrations-reveal-frontier": "vibegrations-reveal-frontier__72ffd"
   },
   "441386": {
     "activityItemButtonInnerClass": "activityItemButtonInnerClass__8a940",
@@ -14441,7 +14443,8 @@
   "495557": {
     "thinkingPanel": "thinkingPanel__17f67",
     "thinkingPanelReasoning": "thinkingPanelReasoning__17f67",
-    "thinkingPanelBody": "thinkingPanelBody__17f67"
+    "thinkingPanelBody": "thinkingPanelBody__17f67",
+    "vibegrations-reveal-frontier-thinking": "vibegrations-reveal-frontier-thinking__17f67"
   },
   "495602": {
     "menuIcon": "menuIcon__62974"
