@@ -8886,6 +8886,20 @@
     "communicationDisabledOpacity": "communicationDisabledOpacity_c19a55",
     "badgesContainer": "badgesContainer_c19a55"
   },
+  "318824": {
+    "durationOptions": "durationOptions__5f539",
+    "quantityOptions": "quantityOptions__5f539",
+    "durationOption": "durationOption__5f539",
+    "quantityOption": "quantityOption__5f539",
+    "durationInput": "durationInput__5f539",
+    "durationFocusRing": "durationFocusRing__5f539",
+    "durationSave": "durationSave__5f539",
+    "customOption": "customOption__5f539",
+    "customInput": "customInput__5f539",
+    "artTile": "artTile__5f539",
+    "optionCopy": "optionCopy__5f539",
+    "priceLine": "priceLine__5f539"
+  },
   "318832": {
     "arrowBounce": "arrowBounce__1aa44",
     "bounce": "bounce__1aa44"
@@ -17390,9 +17404,11 @@
     "promotionBannerContainer": "promotionBannerContainer__7ec3a",
     "errorNotice": "errorNotice__7ec3a",
     "unifiedCheckoutLoadingContainer": "unifiedCheckoutLoadingContainer__7ec3a",
-    "badgeBannerContainer": "badgeBannerContainer__7ec3a",
-    "badgeBannerContainerWithShopUpsell": "badgeBannerContainerWithShopUpsell__7ec3a",
-    "badgeBannerContainerNoShopUpsell": "badgeBannerContainerNoShopUpsell__7ec3a"
+    "giftFooterBannerContainer": "giftFooterBannerContainer__7ec3a",
+    "giftFooterBannerContainerWithShopUpsell": "giftFooterBannerContainerWithShopUpsell__7ec3a",
+    "giftFooterBannerContainerNoShopUpsell": "giftFooterBannerContainerNoShopUpsell__7ec3a",
+    "compactGiftPromotionBannerContainer": "compactGiftPromotionBannerContainer__7ec3a",
+    "compactGiftPromotionBanner": "compactGiftPromotionBanner__7ec3a"
   },
   "593730": {
     "searchbar": "searchbar_e449ff",
