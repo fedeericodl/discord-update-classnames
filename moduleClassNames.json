@@ -1273,7 +1273,7 @@
     "shopCardAnimation": "shopCardAnimation_bab2bc",
     "shopCardSelected": "shopCardSelected_bab2bc",
     "previewContainer": "previewContainer_bab2bc",
-    "claimed": "claimed_bab2bc",
+    "disabled": "disabled_bab2bc",
     "claimedIcon": "claimedIcon_bab2bc",
     "preview": "preview_bab2bc",
     "productName": "productName_bab2bc",
@@ -3745,6 +3745,7 @@
     "inputWithButtonRow": "inputWithButtonRow__85e60"
   },
   "144281": {
+    "rewardsSelectedText": "rewardsSelectedText_d64c23",
     "giftRewardShopCardsGrid": "giftRewardShopCardsGrid_d64c23"
   },
   "144551": {
@@ -11095,6 +11096,7 @@
     "containerDefault": "containerDefault__29444",
     "containerDragAfter": "containerDragAfter__29444",
     "containerDragBefore": "containerDragBefore__29444",
+    "fullNotice": "fullNotice__29444",
     "addButton": "addButton__29444",
     "forceVisible": "forceVisible__29444",
     "iconVisibility": "iconVisibility__29444",
