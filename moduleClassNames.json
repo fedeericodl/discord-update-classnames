@@ -23119,15 +23119,14 @@
     "attachmentSpinner": "attachmentSpinner_ffba0c",
     "attachmentRemoveButton": "attachmentRemoveButton_ffba0c",
     "composerFileInput": "composerFileInput_ffba0c",
-    "composerModelTrigger": "composerModelTrigger_ffba0c",
+    "composerTrailingSlotButton": "composerTrailingSlotButton_ffba0c",
     "composerPlusButton": "composerPlusButton_ffba0c",
     "composerPlusIcon": "composerPlusIcon_ffba0c",
     "composerAttachButton": "composerAttachButton_ffba0c",
     "composerInput": "composerInput_ffba0c",
     "composerSend": "composerSend_ffba0c",
     "composerSendSeparator": "composerSendSeparator_ffba0c",
-    "composerSendButton": "composerSendButton_ffba0c",
-    "composerInterruptButton": "composerInterruptButton_ffba0c"
+    "composerSendButton": "composerSendButton_ffba0c"
   },
   "791046": {
     "container": "container_c791b2",
