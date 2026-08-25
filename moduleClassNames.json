@@ -13677,7 +13677,8 @@
     "giftingButton": "giftingButton_ca8727",
     "iconContainer": "iconContainer_ca8727",
     "withBorder": "withBorder_ca8727",
-    "icon": "icon_ca8727"
+    "icon": "icon_ca8727",
+    "gameProfilePill": "gameProfilePill_ca8727"
   },
   "472489": {
     "container": "container__9fa5a",
@@ -22653,6 +22654,7 @@
     "wishlistItems3Wide": "wishlistItems3Wide_f7398d",
     "wishlistItems4Wide": "wishlistItems4Wide_f7398d",
     "loadingApplicationWidgetPanel": "loadingApplicationWidgetPanel_f7398d",
+    "widgetOnlyContainer": "widgetOnlyContainer_f7398d",
     "loadingFeaturePanelRecomendations": "loadingFeaturePanelRecomendations_f7398d",
     "ctaContainer": "ctaContainer_f7398d",
     "ctaFiller": "ctaFiller_f7398d",
