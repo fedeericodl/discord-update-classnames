@@ -23991,12 +23991,13 @@
     "previewViewport": "previewViewport_ca5185",
     "previewSlide": "previewSlide_ca5185",
     "previewImage": "previewImage_ca5185",
+    "showingLiveStream": "showingLiveStream_ca5185",
     "controlsLayer": "controlsLayer_ca5185",
+    "liveIndicator": "liveIndicator_ca5185",
     "controls": "controls_ca5185",
     "watchButton": "watchButton_ca5185",
-    "nextStreamSlot": "nextStreamSlot_ca5185",
     "nextStreamButton": "nextStreamButton_ca5185",
-    "liveIndicator": "liveIndicator_ca5185"
+    "nextStreamSlot": "nextStreamSlot_ca5185"
   },
   "815298": {
     "closeIcon": "closeIcon_ec3eb0",
@@ -24026,6 +24027,7 @@
   },
   "816645": {
     "container": "container__8061a",
+    "managed": "managed__8061a",
     "customizable": "customizable__8061a",
     "badge": "badge__8061a",
     "badgeVectorSrc": "badgeVectorSrc__8061a"
@@ -27914,7 +27916,8 @@
   },
   "953538": {
     "container": "container__36d06",
-    "embedTarget": "embedTarget__36d06"
+    "embedTarget": "embedTarget__36d06",
+    "launchButtonContainer": "launchButtonContainer__36d06"
   },
   "953726": {
     "displayNameStylesSection": "displayNameStylesSection_e60bc0"
