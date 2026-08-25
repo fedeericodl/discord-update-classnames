@@ -1987,6 +1987,13 @@
     "iconContainer": "iconContainer__39957",
     "icon": "icon__39957"
   },
+  "71495": {
+    "previewWidget": "previewWidget__471f0",
+    "previewWidgetStack": "previewWidgetStack__471f0",
+    "previewWidgetFull": "previewWidgetFull__471f0",
+    "previewWidgetPopout": "previewWidgetPopout__471f0",
+    "previewWidgetTheme": "previewWidgetTheme__471f0"
+  },
   "71686": {
     "container": "container__9d597",
     "hasMultipleCards": "hasMultipleCards__9d597",
@@ -5449,6 +5456,9 @@
     "boostWowExit": "boostWowExit__0de46",
     "fadeOut": "fadeOut__0de46",
     "boostWowFadeOut": "boostWowFadeOut__0de46"
+  },
+  "201799": {
+    "option": "option_e0a1ce"
   },
   "202265": {
     "eventStatusContainer": "eventStatusContainer__29021",
@@ -9819,6 +9829,7 @@
     "templateCardDescription": "templateCardDescription_f8194a",
     "templateCardTitle": "templateCardTitle_f8194a",
     "composer": "composer_f8194a",
+    "installScope": "installScope_f8194a",
     "createAction": "createAction_f8194a",
     "projectsSidebar": "projectsSidebar_f8194a",
     "projectsSidebarHeader": "projectsSidebarHeader_f8194a",
@@ -24259,6 +24270,7 @@
   "824757": {
     "body": "body_af6837",
     "section": "section_af6837",
+    "typeTags": "typeTags_af6837",
     "typeTag": "typeTag_af6837",
     "list": "list_af6837",
     "listItem": "listItem_af6837",
@@ -28571,7 +28583,7 @@
   },
   "976102": {
     "previewEmpty": "previewEmpty__914bb",
-    "previewModePanel": "previewModePanel__914bb"
+    "previewPane": "previewPane__914bb"
   },
   "976150": {
     "tileActions": "tileActions_ca919b",
