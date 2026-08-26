@@ -8119,6 +8119,7 @@
   "295930": {
     "selectButton": "selectButton_ac381c",
     "isPlaceholder": "isPlaceholder_ac381c",
+    "selectButtonPill": "selectButtonPill_ac381c",
     "selectButtonContent": "selectButtonContent_ac381c",
     "selectButtonBadge": "selectButtonBadge_ac381c",
     "selectButtonChevron": "selectButtonChevron_ac381c",
@@ -10956,7 +10957,8 @@
     "info": "info_f4bc97",
     "withDisplayNameStyles": "withDisplayNameStyles_f4bc97",
     "infoSpacing": "infoSpacing_f4bc97",
-    "guildTag": "guildTag_f4bc97"
+    "guildTag": "guildTag_f4bc97",
+    "guildTagChip": "guildTagChip_f4bc97"
   },
   "386522": {
     "container": "container_b5010b",
@@ -14435,7 +14437,13 @@
     "popout": "popout_f18413",
     "header": "header_f18413",
     "titleRow": "titleRow_f18413",
-    "nitroIcon": "nitroIcon_f18413"
+    "nitroIcon": "nitroIcon_f18413",
+    "badgeGrid": "badgeGrid_f18413",
+    "badgeTileContainer": "badgeTileContainer_f18413",
+    "badgeTile": "badgeTile_f18413",
+    "isInteracting": "isInteracting_f18413",
+    "badgeTileIcon": "badgeTileIcon_f18413",
+    "overflowButton": "overflowButton_f18413"
   },
   "495088": {
     "channelTextArea": "channelTextArea__74017",
@@ -18464,9 +18472,7 @@
   "626891": {
     "container": "container__1f5b6",
     "inner": "inner__1f5b6",
-    "iconContainer": "iconContainer__1f5b6",
-    "icon": "icon__1f5b6",
-    "stars": "stars__1f5b6",
+    "upsellImage": "upsellImage__1f5b6",
     "header": "header__1f5b6",
     "body": "body__1f5b6",
     "demo": "demo__1f5b6",
@@ -21574,6 +21580,7 @@
   },
   "734165": {
     "container": "container__18169",
+    "layout": "layout__18169",
     "wordmark": "wordmark__18169",
     "info": "info__18169",
     "buttonContainer": "buttonContainer__18169",
@@ -28029,7 +28036,8 @@
     "userTagUsername": "userTagUsername__26b1f",
     "userTagDiscriminator": "userTagDiscriminator__26b1f",
     "dotSpacer": "dotSpacer__26b1f",
-    "guildTag": "guildTag__26b1f"
+    "guildTag": "guildTag__26b1f",
+    "guildTagPill": "guildTagPill__26b1f"
   },
   "957053": {
     "hiddenVisually": "hiddenVisually_b18fe2",
