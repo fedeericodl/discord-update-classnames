@@ -7404,7 +7404,6 @@
     "item": "item__7803e",
     "face": "face__7803e",
     "row": "row__7803e",
-    "icon": "icon__7803e",
     "label": "label__7803e"
   },
   "266553": {
@@ -11252,6 +11251,16 @@
   "393743": {
     "layer": "layer__95d7b"
   },
+  "393750": {
+    "container": "container_ebf8c0",
+    "row": "row_ebf8c0",
+    "rank": "rank_ebf8c0",
+    "rankText": "rankText_ebf8c0",
+    "avatar": "avatar_ebf8c0",
+    "bars": "bars_ebf8c0",
+    "barRow": "barRow_ebf8c0",
+    "bar": "bar_ebf8c0"
+  },
   "393824": {
     "rewardTileContainer": "rewardTileContainer_d8917e",
     "rewardHighlightLogoCTA": "rewardHighlightLogoCTA_d8917e",
@@ -11339,7 +11348,8 @@
     "title": "title__535da",
     "actions": "actions__535da",
     "dragHandle": "dragHandle__535da",
-    "body": "body__535da"
+    "body": "body__535da",
+    "locked": "locked__535da"
   },
   "397515": {
     "modalContent": "modalContent__23488",
@@ -12219,6 +12229,9 @@
     "optionInert": "optionInert_d0997e",
     "recommendedBadge": "recommendedBadge_d0997e",
     "rows": "rows_d0997e",
+    "rowsMask": "rowsMask_d0997e",
+    "rowsGhost": "rowsGhost_d0997e",
+    "otherGhost": "otherGhost_d0997e",
     "otherRow": "otherRow_d0997e",
     "otherInput": "otherInput_d0997e",
     "footer": "footer_d0997e",
@@ -12227,7 +12240,14 @@
     "headerClose": "headerClose_d0997e",
     "iconButtonSpent": "iconButtonSpent_d0997e",
     "clarificationOpen": "clarificationOpen_d0997e",
-    "clarificationClosing": "clarificationClosing_d0997e"
+    "clarificationClosing": "clarificationClosing_d0997e",
+    "body": "body_d0997e",
+    "vibegrations-clarification-rows-a": "vibegrations-clarification-rows-a_d0997e",
+    "vibegrations-clarification-rows-out": "vibegrations-clarification-rows-out_d0997e",
+    "vibegrations-clarification-rows-b": "vibegrations-clarification-rows-b_d0997e",
+    "heading": "heading_d0997e",
+    "headingExit": "headingExit_d0997e",
+    "headingEnter": "headingEnter_d0997e"
   },
   "424290": {
     "scrollRegion": "scrollRegion__523e1",
@@ -14122,7 +14142,10 @@
   },
   "483124": {
     "clickableContainer": "clickableContainer__67467",
-    "icon": "icon__67467"
+    "icon": "icon__67467",
+    "iconShine": "iconShine__67467",
+    "iconShineOpen": "iconShineOpen__67467",
+    "vibegrations-title-bar-wand-shine": "vibegrations-title-bar-wand-shine__67467"
   },
   "483334": {
     "container": "container__81a06",
@@ -15263,6 +15286,7 @@
     "widget": "widget__94629",
     "widgetImageContainer": "widgetImageContainer__94629",
     "widgetImage": "widgetImage__94629",
+    "lockedBadge": "lockedBadge__94629",
     "widgetOverlay": "widgetOverlay__94629",
     "widgetOverlayBackground": "widgetOverlayBackground__94629",
     "widgetOverlayBackgroundInner": "widgetOverlayBackgroundInner__94629",
@@ -19312,13 +19336,16 @@
     "rowHost": "rowHost_f31b36",
     "row": "row_f31b36",
     "guildIcon": "guildIcon_f31b36",
+    "appIcon": "appIcon_f31b36",
     "iconPlaceholder": "iconPlaceholder_f31b36",
     "rowBody": "rowBody_f31b36",
     "projectName": "projectName_f31b36",
     "rowMeta": "rowMeta_f31b36",
     "serverName": "serverName_f31b36",
+    "rowSubline": "rowSubline_f31b36",
+    "rowSeparator": "rowSeparator_f31b36",
     "rowStatus": "rowStatus_f31b36",
-    "taskCount": "taskCount_f31b36",
+    "taskChip": "taskChip_f31b36",
     "state": "state_f31b36",
     "emptyState": "emptyState_f31b36",
     "emptyGuilds": "emptyGuilds_f31b36",
