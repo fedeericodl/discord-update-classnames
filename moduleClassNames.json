@@ -3188,6 +3188,9 @@
     "closeButton": "closeButton_dea1f0",
     "warning": "warning_dea1f0"
   },
+  "123576": {
+    "placeholderChallengesCard": "placeholderChallengesCard__583ca"
+  },
   "125256": {
     "topBar": "topBar__6088c",
     "author": "author__6088c",
@@ -3526,7 +3529,8 @@
     "orbChallengeTileWithProgressRing": "orbChallengeTileWithProgressRing__84ece",
     "orbChallengeGlyph": "orbChallengeGlyph__84ece",
     "orbChallengeRing": "orbChallengeRing__84ece",
-    "orbIconAligned": "orbIconAligned__84ece"
+    "orbIconAligned": "orbIconAligned__84ece",
+    "orbChallengeItemDivider": "orbChallengeItemDivider__84ece"
   },
   "137504": {
     "container": "container__3e00d",
@@ -12358,6 +12362,10 @@
     "badgeContainer": "badgeContainer__81391",
     "badge": "badge__81391"
   },
+  "428863": {
+    "picker": "picker__4761e",
+    "username": "username__4761e"
+  },
   "428966": {
     "imageInputContainer": "imageInputContainer__4cc0e"
   },
@@ -14916,6 +14924,7 @@
     "user": "user__52fde",
     "avatar": "avatar__52fde",
     "icon": "icon__52fde",
+    "iconDisabled": "iconDisabled__52fde",
     "content": "content__52fde"
   },
   "505965": {
@@ -16289,6 +16298,9 @@
     "toggleIconOn": "toggleIconOn_b53c4e",
     "gameHasSubgame": "gameHasSubgame_b53c4e",
     "subgameContainer": "subgameContainer_b53c4e"
+  },
+  "552585": {
+    "trailingText": "trailingText__8d7db"
   },
   "553790": {
     "container": "container_f782d6",
@@ -19376,17 +19388,13 @@
     "orbWalletContainer": "orbWalletContainer__81c60",
     "orbWalletContainerLayout": "orbWalletContainerLayout__81c60",
     "orbWalletHeader": "orbWalletHeader__81c60",
-    "orbWalletHeaderText": "orbWalletHeaderText__81c60",
     "orbWalletHeaderTagInlineText": "orbWalletHeaderTagInlineText__81c60",
     "assetContainer": "assetContainer__81c60",
     "orbAsset": "orbAsset__81c60",
-    "sectionDivider": "sectionDivider__81c60",
-    "sectionDividerFullWidth": "sectionDividerFullWidth__81c60",
     "nitroMultiplierPill": "nitroMultiplierPill__81c60",
     "orbChallengesCard": "orbChallengesCard__81c60",
     "orbChallengesCardTitleBlock": "orbChallengesCardTitleBlock__81c60",
     "orbChallengesCardEmptyContent": "orbChallengesCardEmptyContent__81c60",
-    "orbChallengeItemDivider": "orbChallengeItemDivider__81c60",
     "orbWalletFooter": "orbWalletFooter__81c60"
   },
   "654402": {
@@ -25528,7 +25536,9 @@
     "warning": "warning__490eb"
   },
   "864043": {
-    "noticeWrapper": "noticeWrapper__35939"
+    "noticeWrapper": "noticeWrapper__35939",
+    "noticeText": "noticeText__35939",
+    "noticeDismiss": "noticeDismiss__35939"
   },
   "864449": {
     "avatarDecorationPreview": "avatarDecorationPreview__9baf3",
