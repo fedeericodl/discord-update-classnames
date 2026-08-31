@@ -10631,9 +10631,7 @@
   },
   "376229": {
     "wrapper": "wrapper__11054",
-    "submenuIcon": "submenuIcon__11054",
     "foreground": "foreground__11054",
-    "contextMenu": "contextMenu__11054",
     "gameTile": "gameTile__11054",
     "ctas": "ctas__11054",
     "primaryButtonWrapper": "primaryButtonWrapper__11054",
@@ -12796,6 +12794,7 @@
   },
   "438879": {
     "itemCard": "itemCard__7e549",
+    "questCardContextMenuTrigger": "questCardContextMenuTrigger__7e549",
     "emptyCard": "emptyCard__7e549",
     "emptyHeader": "emptyHeader__7e549",
     "emptyText": "emptyText__7e549"
@@ -17672,14 +17671,16 @@
     "tileMedia": "tileMedia_b97d98",
     "feature": "feature_b97d98",
     "stack": "stack_b97d98",
-    "stackEven": "stackEven_b97d98",
+    "equallySizedTile": "equallySizedTile_b97d98",
     "stackTile": "stackTile_b97d98",
     "featureOverlayContent": "featureOverlayContent_b97d98",
     "featureFooter": "featureFooter_b97d98",
     "featureTitle": "featureTitle_b97d98",
     "playButton": "playButton_b97d98",
     "lg": "lg_b97d98",
-    "sm": "sm_b97d98"
+    "sm": "sm_b97d98",
+    "featurePlayButton": "featurePlayButton_b97d98",
+    "stackPlayButton": "stackPlayButton_b97d98"
   },
   "599715": {
     "fontGrid": "fontGrid_fc7677",
@@ -22309,6 +22310,9 @@
     "createGuild": "createGuild_b917ac",
     "uploadIcon": "uploadIcon_b917ac",
     "guidelines": "guidelines_b917ac"
+  },
+  "753504": {
+    "container": "container__981a1"
   },
   "753664": {
     "grid": "grid_ec9088",
