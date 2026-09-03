@@ -4794,7 +4794,8 @@
     "progressTrack": "progressTrack_e12da8",
     "progressFill": "progressFill_e12da8",
     "hoverCtas": "hoverCtas_e12da8",
-    "cta": "cta_e12da8"
+    "cta": "cta_e12da8",
+    "pendingOverlay": "pendingOverlay_e12da8"
   },
   "175795": {
     "container": "container_fec5bf",
