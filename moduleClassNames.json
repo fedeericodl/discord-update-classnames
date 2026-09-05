@@ -3482,6 +3482,11 @@
   "133480": {
     "focusTarget": "focusTarget__54e4b"
   },
+  "133729": {
+    "themeSelector": "themeSelector_c85552",
+    "themePillItem": "themePillItem_c85552",
+    "themePillItemSelected": "themePillItemSelected_c85552"
+  },
   "134035": {
     "container": "container__18c16"
   },
@@ -9994,11 +9999,6 @@
   "355870": {
     "container": "container_c39fe3"
   },
-  "356110": {
-    "themeSelector": "themeSelector_c85552",
-    "themePillItem": "themePillItem_c85552",
-    "themePillItemSelected": "themePillItemSelected_c85552"
-  },
   "356365": {
     "profilePreviewContainer": "profilePreviewContainer__8771c",
     "usernameContainer": "usernameContainer__8771c",
@@ -15115,13 +15115,6 @@
     "premiumRetentionNoticeIcon": "premiumRetentionNoticeIcon_a606ef",
     "premiumRetentionNoticeClose": "premiumRetentionNoticeClose_a606ef",
     "premiumRetentionNoticeContent": "premiumRetentionNoticeContent_a606ef"
-  },
-  "506425": {
-    "container": "container__4b182",
-    "title": "title__4b182",
-    "subtitle": "subtitle__4b182",
-    "methodSelectSlot": "methodSelectSlot__4b182",
-    "leftCtaSlot": "leftCtaSlot__4b182"
   },
   "506500": {
     "contentExpanded": "contentExpanded__24e2c",
@@ -28377,6 +28370,13 @@
     "optionRow": "optionRow__2f582",
     "optionMeta": "optionMeta__2f582",
     "pingCircle": "pingCircle__2f582"
+  },
+  "951187": {
+    "container": "container__4b182",
+    "title": "title__4b182",
+    "subtitle": "subtitle__4b182",
+    "methodSelectSlot": "methodSelectSlot__4b182",
+    "leftCtaSlot": "leftCtaSlot__4b182"
   },
   "951321": {
     "container": "container__72cd3",
