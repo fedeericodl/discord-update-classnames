@@ -3448,6 +3448,7 @@
     "container": "container__37bfc",
     "tabListScroller": "tabListScroller__37bfc",
     "tabBarItem": "tabBarItem__37bfc",
+    "newContentDot": "newContentDot__37bfc",
     "tabBarPanel": "tabBarPanel__37bfc",
     "tabPanelScroller": "tabPanelScroller__37bfc"
   },
@@ -4969,6 +4970,7 @@
     "container": "container__85bea",
     "card": "card__85bea",
     "dragHandle": "dragHandle__85bea",
+    "newContentDot": "newContentDot__85bea",
     "collectiblesCardHover": "collectiblesCardHover__85bea",
     "skuPreview": "skuPreview__85bea",
     "isOwned": "isOwned__85bea"
