@@ -3482,11 +3482,6 @@
   "133480": {
     "focusTarget": "focusTarget__54e4b"
   },
-  "133729": {
-    "themeSelector": "themeSelector_c85552",
-    "themePillItem": "themePillItem_c85552",
-    "themePillItemSelected": "themePillItemSelected_c85552"
-  },
   "134035": {
     "container": "container__18c16"
   },
@@ -9265,11 +9260,11 @@
     "text": "text__97796",
     "itemCompleted": "itemCompleted__97796",
     "marker": "marker__97796",
-    "markerInProgress": "markerInProgress__97796",
-    "markerCheck": "markerCheck__97796",
     "markerSpinner": "markerSpinner__97796",
     "markerSpinnerPath": "markerSpinnerPath__97796",
+    "markerInProgress": "markerInProgress__97796",
     "markerCompleted": "markerCompleted__97796",
+    "markerCheck": "markerCheck__97796",
     "markerCheckPath": "markerCheckPath__97796",
     "agents": "agents__97796",
     "agent": "agent__97796",
@@ -9998,6 +9993,11 @@
   },
   "355870": {
     "container": "container_c39fe3"
+  },
+  "356110": {
+    "themeSelector": "themeSelector_c85552",
+    "themePillItem": "themePillItem_c85552",
+    "themePillItemSelected": "themePillItemSelected_c85552"
   },
   "356365": {
     "profilePreviewContainer": "profilePreviewContainer__8771c",
@@ -15115,6 +15115,13 @@
     "premiumRetentionNoticeIcon": "premiumRetentionNoticeIcon_a606ef",
     "premiumRetentionNoticeClose": "premiumRetentionNoticeClose_a606ef",
     "premiumRetentionNoticeContent": "premiumRetentionNoticeContent_a606ef"
+  },
+  "506425": {
+    "container": "container__4b182",
+    "title": "title__4b182",
+    "subtitle": "subtitle__4b182",
+    "methodSelectSlot": "methodSelectSlot__4b182",
+    "leftCtaSlot": "leftCtaSlot__4b182"
   },
   "506500": {
     "contentExpanded": "contentExpanded__24e2c",
@@ -28380,13 +28387,6 @@
     "optionRow": "optionRow__2f582",
     "optionMeta": "optionMeta__2f582",
     "pingCircle": "pingCircle__2f582"
-  },
-  "951187": {
-    "container": "container__4b182",
-    "title": "title__4b182",
-    "subtitle": "subtitle__4b182",
-    "methodSelectSlot": "methodSelectSlot__4b182",
-    "leftCtaSlot": "leftCtaSlot__4b182"
   },
   "951321": {
     "container": "container__72cd3",
