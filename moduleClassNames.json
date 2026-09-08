@@ -21028,6 +21028,15 @@
     "guildIconImage": "guildIconImage_d28ae0",
     "acronym": "acronym_d28ae0"
   },
+  "705982": {
+    "container": "container__29aa1",
+    "asset": "asset__29aa1",
+    "textContainer": "textContainer__29aa1",
+    "countdown": "countdown__29aa1",
+    "clockIcon": "clockIcon__29aa1",
+    "link": "link__29aa1",
+    "dismiss": "dismiss__29aa1"
+  },
   "706192": {
     "wrapper": "wrapper_b97385",
     "animatedDiv": "animatedDiv_b97385"
