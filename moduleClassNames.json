@@ -5946,12 +5946,12 @@
   },
   "219052": {
     "tabs": "tabs_b292bc",
+    "indicator": "indicator_b292bc",
     "strip": "strip_b292bc",
     "rail": "rail_b292bc",
     "items": "items_b292bc",
     "item": "item_b292bc",
     "contents": "contents_b292bc",
-    "indicator": "indicator_b292bc",
     "panels": "panels_b292bc",
     "panel": "panel_b292bc"
   },
