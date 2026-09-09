@@ -824,8 +824,7 @@
   },
   "31005": {
     "productCardBadge": "productCardBadge_b8a6bd",
-    "iconTextBadge": "iconTextBadge_b8a6bd",
-    "earlyAccessBadge": "earlyAccessBadge_b8a6bd"
+    "iconTextBadge": "iconTextBadge_b8a6bd"
   },
   "31233": {
     "content": "content__44563",
@@ -4931,9 +4930,6 @@
   },
   "179847": {
     "welcomeCTA": "welcomeCTA_f5d1e2"
-  },
-  "180559": {
-    "trigger": "trigger__0467d"
   },
   "180808": {
     "container": "container_a51e6d",
@@ -10919,6 +10915,9 @@
   "381134": {
     "tag": "tag_ed9123"
   },
+  "381275": {
+    "toolbar": "toolbar__8a9ed"
+  },
   "381351": {
     "heading": "heading_a10b43",
     "previewDescription": "previewDescription_a10b43",
@@ -14128,6 +14127,7 @@
     "rewardTileContainer": "rewardTileContainer_e3f38d",
     "rewardTileContainerHovered": "rewardTileContainerHovered_e3f38d",
     "questRewardTileWrapper": "questRewardTileWrapper_e3f38d",
+    "questRewardTileClickable": "questRewardTileClickable_e3f38d",
     "questRewardTileWrapperUnenrolled": "questRewardTileWrapperUnenrolled_e3f38d",
     "questRewardTile": "questRewardTile_e3f38d",
     "orbsBalanceIcon": "orbsBalanceIcon_e3f38d",
@@ -25865,9 +25865,6 @@
   "865577": {
     "nowrap": "nowrap__5db79"
   },
-  "865781": {
-    "container": "container_b9c27d"
-  },
   "865868": {
     "container": "container_aa69cc",
     "content": "content_aa69cc",
@@ -29350,8 +29347,8 @@
     "textButtonWrapper": "textButtonWrapper__99afd"
   },
   "982613": {
-    "examplesHeader": "examplesHeader_d520fc",
     "title": "title_d520fc",
+    "examplesHeader": "examplesHeader_d520fc",
     "addQuestionsContainer": "addQuestionsContainer_d520fc"
   },
   "983156": {
