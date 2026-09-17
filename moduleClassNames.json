@@ -64,7 +64,10 @@
   },
   "4431": {
     "container": "container_bf99ae",
-    "header": "header_bf99ae"
+    "header": "header_bf99ae",
+    "compact": "compact_bf99ae",
+    "compactText": "compactText_bf99ae",
+    "compactTitle": "compactTitle_bf99ae"
   },
   "4498": {
     "container": "container__0e308",
@@ -8807,6 +8810,9 @@
   },
   "308718": {
     "container": "container__90699"
+  },
+  "308766": {
+    "clickable": "clickable__738c3"
   },
   "309239": {
     "nameplatePreviewContainer": "nameplatePreviewContainer_f7b5db",
@@ -18144,20 +18150,19 @@
   },
   "599672": {
     "mosaic": "mosaic_b97d98",
+    "single": "single_b97d98",
     "tile": "tile_b97d98",
     "tileMedia": "tileMedia_b97d98",
     "feature": "feature_b97d98",
     "stack": "stack_b97d98",
-    "equallySizedTile": "equallySizedTile_b97d98",
+    "pair": "pair_b97d98",
     "stackTile": "stackTile_b97d98",
     "featureOverlayContent": "featureOverlayContent_b97d98",
     "featureFooter": "featureFooter_b97d98",
     "featureTitle": "featureTitle_b97d98",
     "playButton": "playButton_b97d98",
-    "lg": "lg_b97d98",
-    "sm": "sm_b97d98",
     "featurePlayButton": "featurePlayButton_b97d98",
-    "stackPlayButton": "stackPlayButton_b97d98"
+    "cornerPlayButton": "cornerPlayButton_b97d98"
   },
   "599715": {
     "fontGrid": "fontGrid_fc7677",
@@ -26276,9 +26281,7 @@
   "869006": {
     "ring": "ring_ddf8f1",
     "lg": "lg_ddf8f1",
-    "sm": "sm_ddf8f1",
-    "indeterminate": "indeterminate_ddf8f1",
-    "spin": "spin_ddf8f1"
+    "sm": "sm_ddf8f1"
   },
   "869431": {
     "container": "container_a4ac84",
