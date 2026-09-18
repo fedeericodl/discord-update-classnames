@@ -2097,6 +2097,13 @@
     "inExpressionPicker": "inExpressionPicker__09f65",
     "fetching": "fetching__09f65"
   },
+  "70353": {
+    "card": "card__83361",
+    "iconWrapper": "iconWrapper__83361",
+    "tag": "tag__83361",
+    "divider": "divider__83361",
+    "rolePills": "rolePills__83361"
+  },
   "70393": {
     "container": "container__39957",
     "iconContainer": "iconContainer__39957",
@@ -5739,10 +5746,9 @@
     "details": "details_e1364f",
     "commentIcon": "commentIcon_e1364f",
     "tags": "tags_e1364f",
-    "textAreaContainer": "textAreaContainer_e1364f",
+    "comment": "comment_e1364f text-sm/normal_e1364f",
     "editableCommentText": "editableCommentText_e1364f",
     "placeholder": "placeholder_e1364f",
-    "comment": "comment_e1364f text-sm/normal_e1364f",
     "dropTarget": "dropTarget_e1364f",
     "dropIndicatorAfter": "dropIndicatorAfter_e1364f",
     "dropIndicatorBefore": "dropIndicatorBefore_e1364f",
@@ -22419,13 +22425,6 @@
     "bannerUpsell": "bannerUpsell_cf6da1",
     "premiumIcon": "premiumIcon_cf6da1"
   },
-  "737496": {
-    "card": "card__83361",
-    "iconWrapper": "iconWrapper__83361",
-    "tag": "tag__83361",
-    "divider": "divider__83361",
-    "rolePills": "rolePills__83361"
-  },
   "737973": {
     "container": "container__3eeee",
     "guildContainer": "guildContainer__3eeee",
@@ -28175,7 +28174,6 @@
   },
   "936026": {
     "field": "field_ccf340",
-    "editing": "editing_ccf340",
     "titleRow": "titleRow_ccf340",
     "editableRow": "editableRow_ccf340",
     "pencil": "pencil_ccf340",
