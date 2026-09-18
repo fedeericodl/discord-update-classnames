@@ -5487,9 +5487,6 @@
     "hasTooltip": "hasTooltip__1a4d2",
     "promoIconContainer": "promoIconContainer__1a4d2"
   },
-  "196127": {
-    "inlinePreview": "inlinePreview__08600"
-  },
   "196318": {
     "pulse": "pulse__3b43f",
     "container": "container__3b43f",
@@ -11830,22 +11827,15 @@
   "404760": {
     "container": "container__9c314",
     "compact": "compact__9c314",
-    "multiline": "multiline__9c314",
-    "removeVerticalPadding": "removeVerticalPadding__9c314",
-    "editing": "editing__9c314",
     "growWidth": "growWidth__9c314",
-    "fadeIn": "fadeIn__9c314",
     "preview": "preview__9c314",
     "editable": "editable__9c314",
-    "disabled": "disabled__9c314",
     "hasError": "hasError__9c314",
     "hasWarning": "hasWarning__9c314",
     "placeholder": "placeholder__9c314",
     "errorIcon": "errorIcon__9c314",
     "warningIcon": "warningIcon__9c314",
-    "previewError": "previewError__9c314",
-    "previewTrailingAccessory": "previewTrailingAccessory__9c314",
-    "trailingAccessoryButton": "trailingAccessoryButton__9c314"
+    "previewError": "previewError__9c314"
   },
   "404836": {
     "previewContentContainer": "previewContentContainer__9c6a8",
@@ -17193,16 +17183,10 @@
   },
   "569622": {
     "inputWrapper": "inputWrapper_f08f8d",
-    "hasStaticToolbar": "hasStaticToolbar_f08f8d",
-    "inline": "inline_f08f8d",
     "scroller": "scroller_f08f8d",
-    "inlineScroller": "inlineScroller_f08f8d",
     "editorContainer": "editorContainer_f08f8d",
     "editor": "editor_f08f8d",
-    "staticToolbar": "staticToolbar_f08f8d",
     "emojiButtonContainer": "emojiButtonContainer_f08f8d",
-    "floatingEmojiButtonContainer": "floatingEmojiButtonContainer_f08f8d",
-    "inlineEmojiButton": "inlineEmojiButton_f08f8d",
     "emojiButton": "emojiButton_f08f8d"
   },
   "569709": {
@@ -19126,8 +19110,7 @@
     "disabledButtonOverlay": "disabledButtonOverlay__0cb56"
   },
   "628072": {
-    "container": "container__54560",
-    "isEditing": "isEditing__54560"
+    "container": "container__54560"
   },
   "628097": {
     "container": "container_eeaef9",
@@ -24674,6 +24657,7 @@
     "container": "container__4d95d",
     "textContainer": "textContainer__4d95d",
     "newMosaicStyle": "newMosaicStyle__4d95d",
+    "collapsedTextContainer": "collapsedTextContainer__4d95d",
     "codeView": "codeView__4d95d",
     "wordWrap": "wordWrap__4d95d",
     "footer": "footer__4d95d",
