@@ -4135,7 +4135,6 @@
   },
   "149285": {
     "tierTimelineDescription": "tierTimelineDescription__64bbc",
-    "tierTimelineDescriptionIcon": "tierTimelineDescriptionIcon__64bbc",
     "tierTimelineGrid": "tierTimelineGrid__64bbc",
     "tierTimelineItem": "tierTimelineItem__64bbc",
     "tierTimelineItemLocked": "tierTimelineItemLocked__64bbc",
@@ -8414,6 +8413,8 @@
     "dragging": "dragging_fe7668",
     "settling": "settling_fe7668",
     "widgetSettle": "widgetSettle_fe7668",
+    "removing": "removing_fe7668",
+    "widgetExit": "widgetExit_fe7668",
     "placeholder": "placeholder_fe7668",
     "placeholderAppear": "placeholderAppear_fe7668",
     "dragPreview": "dragPreview_fe7668",
@@ -11562,6 +11563,10 @@
     "friendsLoadingItem": "friendsLoadingItem__28fdc",
     "guildsLoadingItem": "guildsLoadingItem__28fdc"
   },
+  "393688": {
+    "previewThumbnail": "previewThumbnail_e8abdf",
+    "shadowGrid": "shadowGrid_e8abdf"
+  },
   "393743": {
     "layer": "layer__95d7b"
   },
@@ -12657,10 +12662,6 @@
   },
   "425601": {
     "gifTag": "gifTag_f60819"
-  },
-  "426120": {
-    "bar": "bar_d3b42d",
-    "actions": "actions_d3b42d"
   },
   "426781": {
     "container": "container__710ee",
@@ -16532,6 +16533,9 @@
     "perkText": "perkText__30359",
     "featurePreview": "featurePreview__30359"
   },
+  "545052": {
+    "image": "image_a3575a"
+  },
   "545328": {
     "guildSeparator": "guildSeparator__252b6",
     "fullWidth": "fullWidth__252b6"
@@ -18538,6 +18542,18 @@
     "faded": "faded_b717a1",
     "error": "error_b717a1"
   },
+  "607345": {
+    "overlayRoot": "overlayRoot_c00036",
+    "box": "box_c00036",
+    "boxSelected": "boxSelected_c00036",
+    "scaleHandle": "scaleHandle_c00036",
+    "handleTopStart": "handleTopStart_c00036",
+    "handleTopEnd": "handleTopEnd_c00036",
+    "handleBottomEnd": "handleBottomEnd_c00036",
+    "handleBottomStart": "handleBottomStart_c00036",
+    "rotateStem": "rotateStem_c00036",
+    "rotateHandle": "rotateHandle_c00036"
+  },
   "607346": {
     "scroller": "scroller_a02225",
     "card": "card_a02225",
@@ -19431,9 +19447,6 @@
     "recordContainer": "recordContainer__75b62"
   },
   "637526": {
-    "textOverlay": "textOverlay__7e373",
-    "textBox": "textBox__7e373",
-    "textBoxSelected": "textBoxSelected__7e373",
     "textStroke": "textStroke__7e373",
     "textFill": "textFill__7e373"
   },
@@ -25343,7 +25356,6 @@
   },
   "836825": {
     "tierTimelineDescription": "tierTimelineDescription_bf9073",
-    "tierTimelineDescriptionIcon": "tierTimelineDescriptionIcon_bf9073",
     "tierTimelineGrid": "tierTimelineGrid_bf9073",
     "tierTimelineItem": "tierTimelineItem_bf9073",
     "tierTimelineItemLocked": "tierTimelineItemLocked_bf9073",
