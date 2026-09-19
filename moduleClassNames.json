@@ -9438,6 +9438,10 @@
     "noChannel": "noChannel__01d5c",
     "noChannelFavorites": "noChannelFavorites__01d5c"
   },
+  "326941": {
+    "embedBuilder": "embedBuilder_acffbd",
+    "header": "header_acffbd"
+  },
   "327580": {
     "folderGroup": "folderGroup__48112",
     "folderGroupBackground": "folderGroupBackground__48112",
@@ -10164,18 +10168,25 @@
     "projectsSidebar": "projectsSidebar_f8194a",
     "projectsSidebarHeader": "projectsSidebarHeader_f8194a",
     "projectsSidebarList": "projectsSidebarList_f8194a",
-    "creationsHeading": "creationsHeading_f8194a",
     "projectInfo": "projectInfo_f8194a",
     "projectsList": "projectsList_f8194a",
+    "projectsSidebarActions": "projectsSidebarActions_f8194a",
+    "creationsHeading": "creationsHeading_f8194a",
+    "projectsFilter": "projectsFilter_f8194a",
+    "projectsPrivateNote": "projectsPrivateNote_f8194a",
     "sharedProjects": "sharedProjects_f8194a",
     "sharedProjectsHeading": "sharedProjectsHeading_f8194a",
     "projectCard": "projectCard_f8194a",
     "projectCardSelect": "projectCardSelect_f8194a",
     "projectIcon": "projectIcon_f8194a",
+    "projectIconPlaceholder": "projectIconPlaceholder_f8194a",
     "projectCardAction": "projectCardAction_f8194a",
     "projectSettingsAction": "projectSettingsAction_f8194a",
     "projectName": "projectName_f8194a",
     "projectMetadata": "projectMetadata_f8194a",
+    "projectServerName": "projectServerName_f8194a",
+    "projectLastEdited": "projectLastEdited_f8194a",
+    "projectMetadataSeparator": "projectMetadataSeparator_f8194a",
     "listState": "listState_f8194a",
     "listStateText": "listStateText_f8194a",
     "projectsEmptyState": "projectsEmptyState_f8194a",
@@ -10364,11 +10375,6 @@
   "358509": {
     "fontCode": "fontCode__230d2",
     "inlineTimestamp": "inlineTimestamp__230d2"
-  },
-  "358956": {
-    "container": "container__3f496",
-    "tile": "tile__3f496",
-    "rewardImage": "rewardImage__3f496"
   },
   "358983": {
     "button": "button__75098",
@@ -10599,6 +10605,20 @@
     "fadeEnd": "fadeEnd_fa7eb1",
     "fadeBoth": "fadeBoth_fa7eb1",
     "scrollerItem": "scrollerItem_fa7eb1"
+  },
+  "367224": {
+    "embedBuilder": "embedBuilder__22392",
+    "body": "body__22392",
+    "actions": "actions__22392",
+    "selectedSkusContainer": "selectedSkusContainer__22392",
+    "selectedSkusList": "selectedSkusList__22392",
+    "skuListItem": "skuListItem__22392",
+    "doubleWidth": "doubleWidth__22392",
+    "cardBackgroundImage": "cardBackgroundImage__22392",
+    "cardImage": "cardImage__22392",
+    "ticketIconContainer": "ticketIconContainer__22392",
+    "ticketIcon": "ticketIcon__22392",
+    "cardImageContainer": "cardImageContainer__22392"
   },
   "367454": {
     "section": "section__95407",
@@ -14716,10 +14736,6 @@
     "giftText": "giftText_a45ed3",
     "giftAdditionalTerm": "giftAdditionalTerm_a45ed3",
     "giftCardButton": "giftCardButton_a45ed3",
-    "gogoGiftCard": "gogoGiftCard_a45ed3",
-    "gogoGiftImage": "gogoGiftImage_a45ed3",
-    "gogoGiftInfo": "gogoGiftInfo_a45ed3",
-    "gogoGiftText": "gogoGiftText_a45ed3",
     "giftButtonCTA": "giftButtonCTA_a45ed3",
     "giftCardButtonColor": "giftCardButtonColor_a45ed3",
     "bottomOfPageVisibilitySensor": "bottomOfPageVisibilitySensor_a45ed3",
@@ -26795,6 +26811,15 @@
     "menuOpen": "menuOpen__47fbb",
     "editOverlay": "editOverlay__47fbb",
     "editButton": "editButton__47fbb"
+  },
+  "884540": {
+    "forwardPreview": "forwardPreview__0d4ce",
+    "linkContainer": "linkContainer__0d4ce",
+    "linkIcon": "linkIcon__0d4ce",
+    "applicationInfo": "applicationInfo__0d4ce",
+    "previewImageStack": "previewImageStack__0d4ce",
+    "previewImageContainer": "previewImageContainer__0d4ce",
+    "previewImageLayer": "previewImageLayer__0d4ce"
   },
   "885105": {
     "placeholder": "placeholder__84ae7"
