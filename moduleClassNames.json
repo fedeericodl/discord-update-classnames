@@ -8577,6 +8577,17 @@
     "memberNoticeActionButton": "memberNoticeActionButton_acdcc0",
     "memberNoticeActionIcon": "memberNoticeActionIcon_acdcc0"
   },
+  "300158": {
+    "container": "container_a10fa3",
+    "swatch": "swatch_a10fa3",
+    "selected": "selected_a10fa3",
+    "onDarkSwatch": "onDarkSwatch_a10fa3",
+    "onLightSwatch": "onLightSwatch_a10fa3",
+    "indicator": "indicator_a10fa3",
+    "customTrigger": "customTrigger_a10fa3",
+    "customClickable": "customClickable_a10fa3",
+    "haloed": "haloed_a10fa3"
+  },
   "300303": {
     "container": "container_effb26",
     "graphContainer": "graphContainer_effb26",
@@ -8952,7 +8963,6 @@
     "page": "page__7d655",
     "scroller": "scroller__7d655",
     "content": "content__7d655",
-    "editing": "editing__7d655",
     "centered": "centered__7d655"
   },
   "312176": {
@@ -11701,7 +11711,6 @@
   },
   "397462": {
     "container": "container__535da",
-    "editing": "editing__535da",
     "header": "header__535da",
     "draggable": "draggable__535da",
     "dragRegion": "dragRegion__535da",
@@ -11712,7 +11721,8 @@
     "editActionsEnter": "editActionsEnter__535da",
     "dragHandle": "dragHandle__535da",
     "body": "body__535da",
-    "locked": "locked__535da"
+    "locked": "locked__535da",
+    "lockedPreview": "lockedPreview__535da"
   },
   "397515": {
     "modalContent": "modalContent__23488",
@@ -13379,7 +13389,8 @@
   },
   "445187": {
     "container": "container__9c6c7",
-    "image": "image__9c6c7"
+    "image": "image__9c6c7",
+    "text": "text__9c6c7"
   },
   "445382": {
     "notificationsIcon": "notificationsIcon__4f4b6",
@@ -15752,7 +15763,6 @@
     "widget": "widget__94629",
     "widgetImageContainer": "widgetImageContainer__94629",
     "widgetImage": "widgetImage__94629",
-    "lockedBadge": "lockedBadge__94629",
     "widgetOverlay": "widgetOverlay__94629",
     "widgetOverlayBackground": "widgetOverlayBackground__94629",
     "widgetOverlayBackgroundInner": "widgetOverlayBackgroundInner__94629",
@@ -16498,6 +16508,9 @@
   "543080": {
     "pricingSection": "pricingSection__85064",
     "priceTag": "priceTag__85064",
+    "promotionProgress": "promotionProgress__85064",
+    "promotionProgressLabel": "promotionProgressLabel__85064",
+    "promotionProgressIcon": "promotionProgressIcon__85064",
     "premiumPriceTag": "premiumPriceTag__85064",
     "disclaimer": "disclaimer__85064",
     "disclaimerLight": "disclaimerLight__85064",
