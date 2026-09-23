@@ -14263,7 +14263,8 @@
     "settingsForm": "settingsForm_d385d3",
     "settingsSelect": "settingsSelect_d385d3",
     "secretRow": "secretRow_d385d3",
-    "secretRowInfo": "secretRowInfo_d385d3"
+    "secretRowInfo": "secretRowInfo_d385d3",
+    "settingsLoading": "settingsLoading_d385d3"
   },
   "472987": {
     "feedback": "feedback__4c857",
@@ -28032,6 +28033,7 @@
     "nitroPinkGradient": "nitroPinkGradient__3e43f",
     "greenGradient": "greenGradient__3e43f",
     "collectiblesGradient": "collectiblesGradient__3e43f",
+    "promotionGradient": "promotionGradient__3e43f",
     "customGraphicContainer": "customGraphicContainer__3e43f",
     "offerNoticeContainer": "offerNoticeContainer__3e43f",
     "offerNoticeOneLineContainer": "offerNoticeOneLineContainer__3e43f",
