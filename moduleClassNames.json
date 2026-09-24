@@ -2809,6 +2809,7 @@
   },
   "100853": {
     "countdownBar": "countdownBar__4f2c4",
+    "indicator": "indicator__4f2c4",
     "countdown-bar": "countdown-bar__4f2c4"
   },
   "101405": {
@@ -6717,22 +6718,17 @@
   },
   "235240": {
     "text-sm/medium": "text-sm/medium__250d5",
-    "cardBody": "cardBody__250d5",
-    "mainCard": "mainCard__250d5",
-    "mainCardTextOnly": "mainCardTextOnly__250d5 mainCard__250d5",
-    "mainCardBody": "mainCardBody__250d5 cardBody__250d5",
-    "mainCardImageContainer": "mainCardImageContainer__250d5",
+    "card": "card__250d5",
     "skeletonCard": "skeletonCard__250d5",
-    "smallCard": "smallCard__250d5",
+    "announcementListItem": "announcementListItem__250d5",
+    "cardImageContainer": "cardImageContainer__250d5",
     "skeletonCardImage": "skeletonCardImage__250d5",
-    "smallCardImageContainer": "smallCardImageContainer__250d5",
+    "cardBody": "cardBody__250d5",
     "skeletonCardBody": "skeletonCardBody__250d5",
-    "smallCardBody": "smallCardBody__250d5 cardBody__250d5",
     "skeletonCardTitle": "skeletonCardTitle__250d5",
     "metadataRow": "metadataRow__250d5",
     "skeletonCardMetadata": "skeletonCardMetadata__250d5",
-    "mainTitle": "mainTitle__250d5",
-    "smallTitle": "smallTitle__250d5",
+    "title": "title__250d5",
     "description": "description__250d5 text-sm/medium__250d5",
     "descriptionFade": "descriptionFade__250d5",
     "embedContentArea": "embedContentArea__250d5",
@@ -16588,6 +16584,7 @@
   },
   "540950": {
     "header": "header_b5f5a6",
+    "button": "button_b5f5a6",
     "modeSelectButton": "modeSelectButton_b5f5a6",
     "ghost": "ghost_b5f5a6",
     "controlsPopout": "controlsPopout_b5f5a6",
@@ -19989,8 +19986,8 @@
   "650493": {
     "wrapper": "wrapper__7eee5",
     "content": "content__7eee5",
+    "countdown": "countdown__7eee5",
     "header": "header__7eee5",
-    "divider": "divider__7eee5",
     "body": "body__7eee5",
     "controls": "controls__7eee5",
     "exiting": "exiting__7eee5"
@@ -20527,6 +20524,7 @@
     "buttonsContainer": "buttonsContainer__8e830",
     "sections": "sections__8e830",
     "container": "container__8e830",
+    "scroller": "scroller__8e830",
     "twoColumnMainContent": "twoColumnMainContent__8e830",
     "topColumnSideBarTopSpacingWithoutStoreLinks": "topColumnSideBarTopSpacingWithoutStoreLinks__8e830",
     "topColumnSideBarTopSpacingWithStoreLinks": "topColumnSideBarTopSpacingWithStoreLinks__8e830",
@@ -25199,7 +25197,6 @@
     "image": "image__8fcbd"
   },
   "824021": {
-    "banner": "banner__174a1",
     "deviceSelect": "deviceSelect__174a1",
     "buttonRow": "buttonRow__174a1",
     "switchSlot": "switchSlot__174a1",
