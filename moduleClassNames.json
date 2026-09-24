@@ -9570,6 +9570,9 @@
   },
   "329456": {
     "card": "card__97796",
+    "headerCollapsed": "headerCollapsed__97796",
+    "trailing": "trailing__97796",
+    "toggle": "toggle__97796",
     "body": "body__97796",
     "list": "list__97796",
     "item": "item__97796",
@@ -9581,6 +9584,7 @@
     "markerSpinnerPath": "markerSpinnerPath__97796",
     "markerInProgress": "markerInProgress__97796",
     "markerCompleted": "markerCompleted__97796",
+    "markerUnfinished": "markerUnfinished__97796",
     "markerCheck": "markerCheck__97796",
     "markerCheckPath": "markerCheckPath__97796",
     "agents": "agents__97796",
