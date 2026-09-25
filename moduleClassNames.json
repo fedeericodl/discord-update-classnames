@@ -11796,7 +11796,6 @@
     "dragRegion": "dragRegion__535da",
     "titleGroup": "titleGroup__535da",
     "titleIcon": "titleIcon__535da",
-    "title": "title__535da",
     "actions": "actions__535da",
     "editActionsEnter": "editActionsEnter__535da",
     "dragHandle": "dragHandle__535da",
@@ -16088,6 +16087,9 @@
   "523442": {
     "formContent": "formContent__30f2d",
     "termsPhrase": "termsPhrase__30f2d"
+  },
+  "523755": {
+    "title": "title_a6dccf"
   },
   "524058": {
     "card": "card__0c0bf",
