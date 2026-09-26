@@ -10283,6 +10283,7 @@
     "sharedProjects": "sharedProjects_f8194a",
     "sharedProjectsHeading": "sharedProjectsHeading_f8194a",
     "projectCard": "projectCard_f8194a",
+    "projectCardDeleting": "projectCardDeleting_f8194a",
     "projectCardSelect": "projectCardSelect_f8194a",
     "projectIcon": "projectIcon_f8194a",
     "projectIconPlaceholder": "projectIconPlaceholder_f8194a",
@@ -13395,6 +13396,9 @@
   "441136": {
     "conjurMessage": "conjurMessage__72ffd",
     "accessoryMessageRow": "accessoryMessageRow__72ffd",
+    "userMessageButtonsShown": "userMessageButtonsShown__72ffd",
+    "userMessageButtons": "userMessageButtons__72ffd",
+    "userMessageButtonsHeader": "userMessageButtonsHeader__72ffd",
     "messageAccessoriesUnderProse": "messageAccessoriesUnderProse__72ffd",
     "messageAccessories": "messageAccessories__72ffd",
     "conjurBotAvatar": "conjurBotAvatar__72ffd",
@@ -14625,8 +14629,6 @@
   },
   "479191": {
     "secretCard": "secretCard__220b3",
-    "secretCardChips": "secretCardChips__220b3",
-    "secretCardChip": "secretCardChip__220b3",
     "secretCardActions": "secretCardActions__220b3"
   },
   "479381": {
@@ -25268,7 +25270,8 @@
     "design": "design_af6837",
     "designImage": "designImage_af6837",
     "chips": "chips_af6837",
-    "chip": "chip_af6837"
+    "chip": "chip_af6837",
+    "actions": "actions_af6837"
   },
   "825176": {
     "avatarBackground": "avatarBackground_eb2508",
