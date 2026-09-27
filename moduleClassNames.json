@@ -9987,9 +9987,17 @@
   },
   "342667": {
     "block": "block_cee34d",
-    "noticeArea": "noticeArea_cee34d",
-    "notice": "notice_cee34d",
-    "noticePublished": "noticePublished_cee34d",
+    "vibegrations-control-glow": "vibegrations-control-glow_cee34d",
+    "barArea": "barArea_cee34d",
+    "bar": "bar_cee34d",
+    "vibegrations-control-bar-enter": "vibegrations-control-bar-enter_cee34d",
+    "vibegrations-control-bar-sheen": "vibegrations-control-bar-sheen_cee34d",
+    "vibegrations-control-bar-leave": "vibegrations-control-bar-leave_cee34d",
+    "barStatus": "barStatus_cee34d",
+    "barCopy": "barCopy_cee34d",
+    "barDetail": "barDetail_cee34d",
+    "barTitle": "barTitle_cee34d",
+    "barActions": "barActions_cee34d",
     "announcer": "announcer_cee34d"
   },
   "342868": {
