@@ -10152,6 +10152,9 @@
     "app": "app_a3002d",
     "mobileApp": "mobileApp_a3002d"
   },
+  "350086": {
+    "people": "people_c366b2"
+  },
   "350536": {
     "container": "container__7aaec",
     "containerPadding": "containerPadding__7aaec",
@@ -10291,13 +10294,15 @@
     "sharedProjects": "sharedProjects_f8194a",
     "sharedProjectsHeading": "sharedProjectsHeading_f8194a",
     "projectCard": "projectCard_f8194a",
+    "projectSettingsAction": "projectSettingsAction_f8194a",
     "projectCardDeleting": "projectCardDeleting_f8194a",
     "projectCardSelect": "projectCardSelect_f8194a",
     "projectIcon": "projectIcon_f8194a",
     "projectIconPlaceholder": "projectIconPlaceholder_f8194a",
     "projectCardAction": "projectCardAction_f8194a",
-    "projectSettingsAction": "projectSettingsAction_f8194a",
+    "projectPeople": "projectPeople_f8194a",
     "projectName": "projectName_f8194a",
+    "projectTitleRow": "projectTitleRow_f8194a",
     "projectMetadata": "projectMetadata_f8194a",
     "projectServerName": "projectServerName_f8194a",
     "projectLastEdited": "projectLastEdited_f8194a",
@@ -11066,8 +11071,8 @@
     "chatRowContinuation": "chatRowContinuation__2b71e",
     "chat-row-enter": "chat-row-enter__2b71e",
     "chatRow": "chatRow__2b71e",
-    "historySkeleton": "historySkeleton__2b71e",
-    "history-skeleton-pulse": "history-skeleton-pulse__2b71e",
+    "chatLogListLoading": "chatLogListLoading__2b71e",
+    "historySpinner": "historySpinner__2b71e",
     "chatRowHighlighted": "chatRowHighlighted__2b71e",
     "messageAttachments": "messageAttachments__2b71e"
   },
