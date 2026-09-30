@@ -17057,6 +17057,11 @@
     "truncatesText": "truncatesText_c44293",
     "activityPresenceDetailsItemIconContainer": "activityPresenceDetailsItemIconContainer_c44293"
   },
+  "555414": {
+    "forwardPreview": "forwardPreview__7edef",
+    "linkContainer": "linkContainer__7edef",
+    "artworkContainer": "artworkContainer__7edef"
+  },
   "555738": {
     "settingNode": "settingNode_fb0b3f",
     "settingNodeChildren": "settingNodeChildren_fb0b3f",
@@ -18653,6 +18658,7 @@
     "surface": "surface_b71362",
     "surfaceSelected": "surfaceSelected_b71362",
     "artwork": "artwork_b71362",
+    "artworkCircular": "artworkCircular_b71362",
     "artworkImage": "artworkImage_b71362",
     "artworkFallback": "artworkFallback_b71362",
     "overlay": "overlay_b71362",
