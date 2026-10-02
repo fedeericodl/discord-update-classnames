@@ -30694,12 +30694,15 @@
   },
   "998812": {
     "echoList": "echoList_effefc",
+    "rowWrapper": "rowWrapper_effefc",
     "echoRow": "echoRow_effefc",
     "echoPill": "echoPill_effefc",
     "echoPillActive": "echoPillActive_effefc",
     "voiceChannelEffectEmoji": "voiceChannelEffectEmoji_effefc",
     "reactionCount": "reactionCount_effefc",
-    "verticalDivider": "verticalDivider_effefc"
+    "verticalDivider": "verticalDivider_effefc",
+    "echoRowDisabled": "echoRowDisabled_effefc",
+    "echoPillDisabled": "echoPillDisabled_effefc"
   },
   "998973": {
     "form": "form_a327d2"
