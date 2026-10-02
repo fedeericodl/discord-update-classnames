@@ -8471,6 +8471,12 @@
     "nitroRewardTileAssetContainer": "nitroRewardTileAssetContainer_a92e89",
     "nitroRewardTileAsset": "nitroRewardTileAsset_a92e89"
   },
+  "289906": {
+    "headerCollapsed": "headerCollapsed_a99111",
+    "trailing": "trailing_a99111",
+    "toggle": "toggle_a99111",
+    "body": "body_a99111"
+  },
   "290413": {
     "card": "card_a12047",
     "guildInfo": "guildInfo_a12047",
@@ -9736,9 +9742,6 @@
   },
   "329456": {
     "card": "card__97796",
-    "headerCollapsed": "headerCollapsed__97796",
-    "trailing": "trailing__97796",
-    "toggle": "toggle__97796",
     "body": "body__97796",
     "list": "list__97796",
     "item": "item__97796",
@@ -10148,12 +10151,18 @@
   },
   "342667": {
     "block": "block_cee34d",
+    "glow": "glow_cee34d",
     "vibegrations-control-glow": "vibegrations-control-glow_cee34d",
     "barArea": "barArea_cee34d",
+    "barClip": "barClip_cee34d",
+    "vibegrations-control-bar-area-enter": "vibegrations-control-bar-area-enter_cee34d",
+    "vibegrations-control-bar-area-leave": "vibegrations-control-bar-area-leave_cee34d",
     "bar": "bar_cee34d",
     "vibegrations-control-bar-enter": "vibegrations-control-bar-enter_cee34d",
     "vibegrations-control-bar-sheen": "vibegrations-control-bar-sheen_cee34d",
     "vibegrations-control-bar-leave": "vibegrations-control-bar-leave_cee34d",
+    "compact": "compact_cee34d",
+    "compactTitle": "compactTitle_cee34d",
     "barStatus": "barStatus_cee34d",
     "barCopy": "barCopy_cee34d",
     "barDetail": "barDetail_cee34d",
@@ -10288,7 +10297,6 @@
     "chatLog": "chatLog_f35ad6",
     "clarificationSlot": "clarificationSlot_f35ad6",
     "composerSlot": "composerSlot_f35ad6",
-    "settingsPanel": "settingsPanel_f35ad6",
     "designFeedbackBanner": "designFeedbackBanner_f35ad6",
     "chatLogDimmed": "chatLogDimmed_f35ad6"
   },
@@ -10435,6 +10443,7 @@
     "chatBody": "chatBody_f8194a",
     "projectHeaderIconActions": "projectHeaderIconActions_f8194a",
     "publishAction": "publishAction_f8194a",
+    "publishChannelIcon": "publishChannelIcon_f8194a",
     "projectHeaderDivider": "projectHeaderDivider_f8194a",
     "projectMainFallback": "projectMainFallback_f8194a",
     "projectUnavailable": "projectUnavailable_f8194a",
@@ -12945,11 +12954,9 @@
     "expandIcon": "expandIcon_eafb9c"
   },
   "424110": {
-    "clarification": "clarification_d0997e",
+    "clarification": "clarification_d0997e panel_cd6e1f",
     "body": "body_d0997e",
-    "footer": "footer_d0997e",
-    "header": "header_d0997e",
-    "headerText": "headerText_d0997e",
+    "header": "header_d0997e header_cd6e1f",
     "option": "option_d0997e",
     "optionBody": "optionBody_d0997e",
     "optionSelected": "optionSelected_d0997e",
@@ -12967,9 +12974,6 @@
     "otherGhost": "otherGhost_d0997e",
     "otherRow": "otherRow_d0997e",
     "otherInput": "otherInput_d0997e",
-    "footerNav": "footerNav_d0997e",
-    "iconButton": "iconButton_d0997e",
-    "headerClose": "headerClose_d0997e",
     "clarificationOpen": "clarificationOpen_d0997e",
     "clarificationClosing": "clarificationClosing_d0997e",
     "vibegrations-clarification-rows-a": "vibegrations-clarification-rows-a_d0997e",
@@ -13939,6 +13943,16 @@
     "searchBar": "searchBar__1ac1c search__1ac1c",
     "searchIcon": "searchIcon__1ac1c search__1ac1c",
     "searchFloating": "searchFloating__1ac1c"
+  },
+  "450112": {
+    "panel": "panel_cd6e1f",
+    "panelWithPopouts": "panelWithPopouts_cd6e1f",
+    "header": "header_cd6e1f",
+    "headerText": "headerText_cd6e1f",
+    "footer": "footer_cd6e1f",
+    "footerActions": "footerActions_cd6e1f",
+    "iconButton": "iconButton_cd6e1f",
+    "headerClose": "headerClose_cd6e1f"
   },
   "450165": {
     "safetyFlow": "safetyFlow__300a2",
@@ -16823,6 +16837,7 @@
     "button": "button_b5f5a6",
     "modeSelectButton": "modeSelectButton_b5f5a6",
     "ghost": "ghost_b5f5a6",
+    "modeSelectContent": "modeSelectContent_b5f5a6",
     "controlsPopout": "controlsPopout_b5f5a6",
     "expandedSearchInput": "expandedSearchInput_b5f5a6"
   },
@@ -17035,6 +17050,7 @@
   "548759": {
     "body": "body__269fe",
     "tagsRow": "tagsRow__269fe",
+    "slowmodeRow": "slowmodeRow__269fe",
     "descriptionEditor": "descriptionEditor__269fe"
   },
   "549100": {
@@ -20319,6 +20335,7 @@
   },
   "653877": {
     "orbWalletContainer": "orbWalletContainer__81c60",
+    "orbWalletSectionContainer": "orbWalletSectionContainer__81c60",
     "orbWalletContainerLayout": "orbWalletContainerLayout__81c60",
     "orbWalletHeader": "orbWalletHeader__81c60",
     "orbWalletHeaderContent": "orbWalletHeaderContent__81c60",
@@ -20327,9 +20344,9 @@
     "orbAsset": "orbAsset__81c60",
     "cusorPointer": "cusorPointer__81c60",
     "nitroMultiplierPill": "nitroMultiplierPill__81c60",
+    "orbChallengesCardContainer": "orbChallengesCardContainer__81c60",
     "orbChallengesCard": "orbChallengesCard__81c60",
     "orbChallengesNoticeContainer": "orbChallengesNoticeContainer__81c60",
-    "orbChallengesNoticeContainerSpacing": "orbChallengesNoticeContainerSpacing__81c60",
     "orbChallengesCardEmptyContainer": "orbChallengesCardEmptyContainer__81c60",
     "orbChallengesList": "orbChallengesList__81c60",
     "orbChallengesListItem": "orbChallengesListItem__81c60",
@@ -24306,6 +24323,7 @@
     "stageListenerCount": "stageListenerCount_b1f768",
     "guildNameText": "guildNameText_b1f768",
     "viewAsRolesWarning": "viewAsRolesWarning_b1f768",
+    "notificationContext": "notificationContext_b1f768",
     "guildNameTextLimitedSize": "guildNameTextLimitedSize_b1f768",
     "muteText": "muteText_b1f768",
     "muteTextWithActivity": "muteTextWithActivity_b1f768",
@@ -29952,8 +29970,8 @@
   },
   "973000": {
     "settingsCard": "settingsCard__750bc",
-    "settingsCardHeader": "settingsCardHeader__750bc",
-    "settingsCardActions": "settingsCardActions__750bc"
+    "settingsCardActions": "settingsCardActions__750bc",
+    "dockedBody": "dockedBody__750bc"
   },
   "973177": {
     "editorPane": "editorPane__51bac",
