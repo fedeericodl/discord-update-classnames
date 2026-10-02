@@ -11249,7 +11249,8 @@
     "chatLogListLoading": "chatLogListLoading__2b71e",
     "historySpinner": "historySpinner__2b71e",
     "chatRowHighlighted": "chatRowHighlighted__2b71e",
-    "messageAttachments": "messageAttachments__2b71e"
+    "messageAttachments": "messageAttachments__2b71e",
+    "reminderSeparated": "reminderSeparated__2b71e"
   },
   "375980": {
     "container": "container_d9914b",
@@ -17232,6 +17233,16 @@
     "warningIcon": "warningIcon__37475",
     "info": "info__37475",
     "error": "error__37475"
+  },
+  "556616": {
+    "slot": "slot_fe367f",
+    "stack": "stack_fe367f",
+    "layer": "layer_fe367f",
+    "layerLeaving": "layerLeaving_fe367f",
+    "reminder-enter": "reminder-enter_fe367f",
+    "reminder-leave": "reminder-leave_fe367f",
+    "slotCollapsing": "slotCollapsing_fe367f",
+    "layerEntering": "layerEntering_fe367f"
   },
   "556783": {
     "connectionsContainer": "connectionsContainer__750de",
