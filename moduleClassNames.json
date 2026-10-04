@@ -2138,6 +2138,11 @@
     "iconContainer": "iconContainer__39957",
     "icon": "icon__39957"
   },
+  "70860": {
+    "container": "container__5f77f",
+    "canvas": "canvas__5f77f",
+    "closeButton": "closeButton__5f77f"
+  },
   "71495": {
     "previewWidget": "previewWidget__471f0",
     "previewWidgetStack": "previewWidgetStack__471f0",
