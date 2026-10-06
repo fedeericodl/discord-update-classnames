@@ -3186,6 +3186,7 @@
     "iconWrapper": "iconWrapper__9293f",
     "title": "title__9293f",
     "titleWrapper": "titleWrapper__9293f",
+    "titleClickable": "titleClickable__9293f",
     "clickable": "clickable__9293f",
     "icon": "icon__9293f",
     "channelIcon": "channelIcon__9293f",
@@ -3200,8 +3201,7 @@
     "dot": "dot__9293f",
     "caret": "caret__9293f",
     "themed": "themed__9293f",
-    "themedMobile": "themedMobile__9293f",
-    "titleClickable": "titleClickable__9293f"
+    "themedMobile": "themedMobile__9293f"
   },
   "115023": {
     "keybindHint": "keybindHint__46002",
@@ -5095,7 +5095,8 @@
     "setVibeButton": "setVibeButton__700c9"
   },
   "177129": {
-    "hoverableStatus": "hoverableStatus_cdcd10"
+    "hoverableStatus": "hoverableStatus_cdcd10",
+    "text": "text_cdcd10"
   },
   "177388": {
     "howItWorksContainer": "howItWorksContainer_dd30dc",
@@ -5817,8 +5818,7 @@
     "isRecurring": "isRecurring__29021",
     "eventStatusLabel": "eventStatusLabel__29021",
     "liveEventEndTime": "liveEventEndTime__29021",
-    "newBadge": "newBadge__29021",
-    "newBadgeText": "newBadgeText__29021"
+    "newBadge": "newBadge__29021"
   },
   "202611": {
     "preview": "preview__3299f",
@@ -6119,6 +6119,7 @@
     "iconTextContainerCondensed": "iconTextContainerCondensed_adbbea",
     "textContainerCondensed": "textContainerCondensed_adbbea",
     "guildNameContainer": "guildNameContainer_adbbea",
+    "guildName": "guildName_adbbea",
     "description": "description_adbbea",
     "pillIcon": "pillIcon_adbbea",
     "pillIconTotal": "pillIconTotal_adbbea pillIcon_adbbea",
@@ -6503,7 +6504,7 @@
     "postTitleText": "postTitleText_faa96b",
     "newBadgeWrapper": "newBadgeWrapper_faa96b",
     "newBadge": "newBadge_faa96b",
-    "inTagsRow": "inTagsRow_faa96b",
+    "newBadgeOverflow": "newBadgeOverflow_faa96b",
     "typing": "typing_faa96b",
     "typingUsers": "typingUsers_faa96b",
     "messageCountBox": "messageCountBox_faa96b",
@@ -6983,6 +6984,7 @@
   },
   "240103": {
     "tags": "tags__08166",
+    "newBadge": "newBadge__08166",
     "pinIcon": "pinIcon__08166",
     "tagFiltered": "tagFiltered__08166"
   },
@@ -7270,6 +7272,10 @@
     "channelLocationLink": "channelLocationLink_da5e8d",
     "banner": "banner_da5e8d"
   },
+  "251219": {
+    "host": "host_c2a039",
+    "block": "block_c2a039"
+  },
   "251569": {
     "addAnotherRuleCardContainer": "addAnotherRuleCardContainer__0c1e8",
     "mainRuleContainer": "mainRuleContainer__0c1e8",
@@ -7549,7 +7555,8 @@
     "connecting": "connecting__07f91",
     "ringing": "ringing__07f91",
     "guestSuffix": "guestSuffix__07f91",
-    "gameIcon": "gameIcon__07f91"
+    "gameIcon": "gameIcon__07f91",
+    "streamPreview": "streamPreview__07f91"
   },
   "255314": {
     "embedHorizontal": "embedHorizontal_a8b53f",
@@ -14477,15 +14484,16 @@
     "ping": "ping__06d62",
     "largePing": "largePing__06d62",
     "clickablePing": "clickablePing__06d62",
+    "largeClickablePing": "largeClickablePing__06d62",
     "rtcConnectionStatus": "rtcConnectionStatus__06d62",
     "rtcConnectionStatusLabel": "rtcConnectionStatusLabel__06d62",
+    "labelWrapper": "labelWrapper__06d62",
     "rtcConnectionStatusConnected": "rtcConnectionStatusConnected__06d62 rtcConnectionStatusLabel__06d62",
     "rtcConnectionStatusConnecting": "rtcConnectionStatusConnecting__06d62 rtcConnectionStatusLabel__06d62",
     "rtcConnectionStatusError": "rtcConnectionStatusError__06d62 rtcConnectionStatusLabel__06d62",
     "rtcConnectionQualityFine": "rtcConnectionQualityFine__06d62",
     "rtcConnectionQualityAverage": "rtcConnectionQualityAverage__06d62",
     "rtcConnectionQualityBad": "rtcConnectionQualityBad__06d62",
-    "labelWrapper": "labelWrapper__06d62",
     "rtcConnectionStatusWrapper": "rtcConnectionStatusWrapper__06d62"
   },
   "473745": {
@@ -17576,8 +17584,10 @@
   },
   "569709": {
     "headerContainer": "headerContainer__095fe",
+    "headerContainerClickable": "headerContainerClickable__095fe",
     "headerSpacer": "headerSpacer__095fe",
-    "toggleExpandIcon": "toggleExpandIcon__095fe"
+    "toggleExpandIcon": "toggleExpandIcon__095fe",
+    "settingsButton": "settingsButton__095fe"
   },
   "570001": {
     "wrapper": "wrapper__6e9f8",
@@ -17926,7 +17936,6 @@
   "580807": {
     "headerDivider": "headerDivider__97dd8",
     "createButton": "createButton__97dd8",
-    "emptyStateImage": "emptyStateImage__97dd8",
     "emptyStateButton": "emptyStateButton__97dd8"
   },
   "580950": {
@@ -19328,6 +19337,19 @@
   "620376": {
     "container": "container__4a231",
     "value": "value__4a231"
+  },
+  "620387": {
+    "scroller": "scroller_b1bfc6",
+    "topNavSpacer": "topNavSpacer_b1bfc6",
+    "section": "section_b1bfc6",
+    "grid": "grid_b1bfc6",
+    "skeletonCard": "skeletonCard_b1bfc6",
+    "skeletonCardTop": "skeletonCardTop_b1bfc6",
+    "skeletonIcon": "skeletonIcon_b1bfc6",
+    "skeletonText": "skeletonText_b1bfc6",
+    "skeletonName": "skeletonName_b1bfc6",
+    "skeletonDescription": "skeletonDescription_b1bfc6",
+    "skeletonMemberCounts": "skeletonMemberCounts_b1bfc6"
   },
   "620505": {
     "container": "container__3f751",
@@ -23549,9 +23571,9 @@
     "linkButton": "linkButton__972a0",
     "linkButtonIcon": "linkButtonIcon__972a0",
     "closeButton": "closeButton__972a0",
-    "reducedClickTarget": "reducedClickTarget__972a0",
-    "closeButtonPlated": "closeButtonPlated__972a0",
     "closeButtonForceShow": "closeButtonForceShow__972a0",
+    "closeButtonPlated": "closeButtonPlated__972a0",
+    "innerCloseButton": "innerCloseButton__972a0",
     "innerCloseButtonPlated": "innerCloseButtonPlated__972a0",
     "closeIconPlated": "closeIconPlated__972a0",
     "iconsContainer": "iconsContainer__972a0",
@@ -23919,6 +23941,7 @@
     "channelStatus": "channelStatus__49508",
     "hoverable": "hoverable__49508",
     "subtitleContainer": "subtitleContainer__49508",
+    "secureFramesBetaTag": "secureFramesBetaTag__49508",
     "secureFramesIcon": "secureFramesIcon__49508",
     "playingText": "playingText__49508",
     "container": "container__49508",
@@ -29515,6 +29538,7 @@
     "hasPronouns": "hasPronouns__26b1f",
     "isBot": "isBot__26b1f",
     "userTag": "userTag__26b1f text-sm/normal__26b1f",
+    "userTagClickable": "userTagClickable__26b1f",
     "pronounsTooltip": "pronounsTooltip__26b1f",
     "pronouns": "pronouns__26b1f userTag__26b1f text-sm/normal__26b1f",
     "userTagUsername": "userTagUsername__26b1f",
