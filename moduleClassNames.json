@@ -21384,6 +21384,17 @@
     "title": "title__43da9",
     "subtitle": "subtitle__43da9"
   },
+  "692508": {
+    "chat": "chat_a1865b",
+    "menu": "menu_a1865b",
+    "menuLabel": "menuLabel_a1865b",
+    "menuTarget": "menuTarget_a1865b",
+    "hoverBar": "hoverBar_a1865b",
+    "menuAnchor": "menuAnchor_a1865b",
+    "clickedUsername": "clickedUsername_a1865b",
+    "userMenuAnchor": "userMenuAnchor_a1865b",
+    "menuAppIcon": "menuAppIcon_a1865b"
+  },
   "692565": {
     "previewContainer": "previewContainer__74a6a",
     "icon": "icon__74a6a",
@@ -21681,6 +21692,12 @@
     "headerBar": "headerBar__1a9ce",
     "headerBarContent": "headerBarContent__1a9ce",
     "headerBarSearchContent": "headerBarSearchContent__1a9ce"
+  },
+  "702083": {
+    "stage": "stage__0669d",
+    "stagePhone": "stagePhone__0669d",
+    "viewport": "viewport__0669d",
+    "viewportPhone": "viewportPhone__0669d"
   },
   "702360": {
     "container": "container_e95ba0",
@@ -24474,7 +24491,8 @@
     "dayHeading": "dayHeading__78ae3",
     "rows": "rows__78ae3",
     "row": "row__78ae3",
-    "rowText": "rowText__78ae3"
+    "rowText": "rowText__78ae3",
+    "historyCard": "historyCard__78ae3"
   },
   "796951": {
     "container": "container__60fa3",
@@ -27659,13 +27677,9 @@
   },
   "896763": {
     "iframe": "iframe_a62174",
-    "iframeMobilePreview": "iframeMobilePreview_a62174",
-    "activityContainerMobilePreview": "activityContainerMobilePreview_a62174",
-    "wrapperMobilePreview": "wrapperMobilePreview_a62174",
     "wrapper": "wrapper_a62174",
     "resizable": "resizable_a62174",
     "noChat": "noChat_a62174",
-    "conjureBuilder": "conjureBuilder_a62174",
     "conjureChannel": "conjureChannel_a62174",
     "activityPanelContainer": "activityPanelContainer_a62174",
     "footer": "footer_a62174",
