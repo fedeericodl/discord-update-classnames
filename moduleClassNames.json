@@ -8980,6 +8980,9 @@
     "empty": "empty__8e988",
     "loadingMore": "loadingMore__8e988"
   },
+  "306898": {
+    "settings": "settings__01d52"
+  },
   "307076": {
     "wrapper": "wrapper_fce7ca",
     "shine": "shine_fce7ca"
@@ -14408,10 +14411,6 @@
     "interactive": "interactive_f88cfd",
     "muted": "muted_f88cfd",
     "selected": "selected_f88cfd"
-  },
-  "471177": {
-    "linkAnchor": "linkAnchor__9e5c1",
-    "linkIcon": "linkIcon__9e5c1"
   },
   "471364": {
     "body": "body_a39fd4"
@@ -21480,6 +21479,10 @@
     "hidden": "hidden__02e2b",
     "poweredByNitroContainer": "poweredByNitroContainer__02e2b"
   },
+  "693558": {
+    "linkAnchor": "linkAnchor__9e5c1",
+    "linkIcon": "linkIcon__9e5c1"
+  },
   "693833": {
     "responsive": "responsive__19ceb",
     "stacked": "stacked__19ceb"
@@ -27329,6 +27332,7 @@
     "tierName": "tierName__0ab43",
     "arrowIconExpanded": "arrowIconExpanded__0ab43",
     "headerSubtitleContainer": "headerSubtitleContainer__0ab43",
+    "platformBadge": "platformBadge__0ab43",
     "divider": "divider__0ab43",
     "changePlanNotice": "changePlanNotice__0ab43",
     "subscriptionInfoCards": "subscriptionInfoCards__0ab43",
@@ -29172,6 +29176,11 @@
     "headerDivider": "headerDivider__59048",
     "emptyStateImage": "emptyStateImage__59048",
     "emptyStateButton": "emptyStateButton__59048"
+  },
+  "945584": {
+    "gameName": "gameName__1af21",
+    "header": "header__1af21",
+    "gameIcon": "gameIcon__1af21"
   },
   "946027": {
     "uploadIconAnimateInLeft": "uploadIconAnimateInLeft_b78547",
