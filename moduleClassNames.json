@@ -474,6 +474,7 @@
   },
   "14753": {
     "wrapper": "wrapper__4e6ce",
+    "wrapperWithHeader": "wrapperWithHeader__4e6ce",
     "listNavigatorRegion": "listNavigatorRegion__4e6ce"
   },
   "15330": {
@@ -27505,6 +27506,9 @@
     "previewChannelRowContent": "previewChannelRowContent_d59199",
     "gifSection": "gifSection_d59199"
   },
+  "889053": {
+    "comboText": "comboText__21874"
+  },
   "889158": {
     "messageWrapper": "messageWrapper__22cef",
     "container": "container__22cef",
@@ -28968,6 +28972,10 @@
     "vertical": "vertical_abf706",
     "horizontal": "horizontal_abf706",
     "flexCenter": "flexCenter_abf706"
+  },
+  "938612": {
+    "row": "row__02ff5",
+    "button": "button__02ff5"
   },
   "938767": {
     "container": "container_a4e9ae",
@@ -30786,7 +30794,13 @@
     "reactionCount": "reactionCount_effefc",
     "verticalDivider": "verticalDivider_effefc",
     "echoRowDisabled": "echoRowDisabled_effefc",
-    "echoPillDisabled": "echoPillDisabled_effefc"
+    "echoPillDisabled": "echoPillDisabled_effefc",
+    "avatarStack": "avatarStack_effefc",
+    "avatarWrapper": "avatarWrapper_effefc",
+    "stackedAvatarWrapper": "stackedAvatarWrapper_effefc",
+    "avatar": "avatar_effefc",
+    "authorAvatar": "authorAvatar_effefc avatar_effefc",
+    "replyAvatar": "replyAvatar_effefc avatar_effefc"
   },
   "998973": {
     "form": "form_a327d2"
