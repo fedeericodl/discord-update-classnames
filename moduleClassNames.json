@@ -1681,7 +1681,9 @@
     "subagentMark": "subagentMark__76711",
     "activityStatusChevron": "activityStatusChevron__76711",
     "activityStatusShine": "activityStatusShine__76711",
-    "conjure-activity-shine": "conjure-activity-shine__76711",
+    "activityStatusShineFace": "activityStatusShineFace__76711",
+    "conjure-activity-shine-band": "conjure-activity-shine-band__76711",
+    "conjure-activity-shine-face": "conjure-activity-shine-face__76711",
     "wandSparkle": "wandSparkle__76711",
     "wandSparkleSmall": "wandSparkleSmall__76711",
     "conjure-wand-sparkle-small": "conjure-wand-sparkle-small__76711",
@@ -5222,7 +5224,6 @@
   "180227": {
     "conjurMessage": "conjurMessage_a9077e",
     "accessoryMessageRow": "accessoryMessageRow_a9077e",
-    "userMessageButtonsShown": "userMessageButtonsShown_a9077e",
     "userMessageButtons": "userMessageButtons_a9077e",
     "userMessageButtonsHeader": "userMessageButtonsHeader_a9077e",
     "messageAccessoriesUnderProse": "messageAccessoriesUnderProse_a9077e",
@@ -5751,6 +5752,16 @@
   },
   "196637": {
     "child": "child__8d0ee"
+  },
+  "197921": {
+    "container": "container__7be48",
+    "handle": "handle__7be48",
+    "dragging": "dragging__7be48",
+    "locked": "locked__7be48",
+    "grabber": "grabber__7be48",
+    "frameArea": "frameArea__7be48",
+    "passThrough": "passThrough__7be48",
+    "frame": "frame__7be48"
   },
   "198450": {
     "option": "option__56a50",
@@ -14417,8 +14428,9 @@
   },
   "470613": {
     "frame": "frame_d9c451",
-    "md": "md_d9c451",
-    "lg": "lg_d9c451",
+    "header": "header_d9c451",
+    "card": "card_d9c451",
+    "list": "list_d9c451",
     "image": "image_d9c451",
     "placeholder": "placeholder_d9c451"
   },
@@ -18015,6 +18027,13 @@
     "desktopMenuMore": "desktopMenuMore__43cad",
     "iconArrow": "iconArrow__43cad"
   },
+  "582063": {
+    "scene": "scene__438f2",
+    "game": "game__438f2",
+    "stage": "stage__438f2",
+    "widget": "widget__438f2",
+    "frame": "frame__438f2"
+  },
   "582666": {
     "filterBar": "filterBar__11877",
     "filterSection": "filterSection__11877",
@@ -18847,6 +18866,9 @@
     "answerChoicesContainer": "answerChoicesContainer_abfe37",
     "otherField": "otherField_abfe37"
   },
+  "606128": {
+    "pauseWhenUnfocused": "pauseWhenUnfocused__7b4d5"
+  },
   "606290": {
     "divider": "divider__1de9c"
   },
@@ -19134,6 +19156,12 @@
   },
   "610746": {
     "closeIcon": "closeIcon__4f15b"
+  },
+  "610767": {
+    "container": "container__78e49",
+    "row": "row__78e49",
+    "icon": "icon__78e49",
+    "toggle": "toggle__78e49"
   },
   "610951": {
     "container": "container__3cded",
@@ -19724,6 +19752,7 @@
     "header": "header__2688e",
     "breadcrumb": "breadcrumb__2688e",
     "icon": "icon__2688e",
+    "projectIconButton": "projectIconButton__2688e",
     "title": "title__2688e",
     "titleText": "titleText__2688e"
   },
@@ -21895,6 +21924,9 @@
     "refreshIconFill": "refreshIconFill__88a69",
     "radioIndicatorChecked": "radioIndicatorChecked__88a69",
     "radioIndicatorDisabled": "radioIndicatorDisabled__88a69"
+  },
+  "704745": {
+    "trigger": "trigger__18db4"
   },
   "705843": {
     "guildIconImage": "guildIconImage_d28ae0",
@@ -25144,7 +25176,6 @@
     "rowHost": "rowHost__4cd87",
     "row": "row__4cd87",
     "guildIcon": "guildIcon__4cd87",
-    "iconPlaceholder": "iconPlaceholder__4cd87",
     "rowBody": "rowBody__4cd87",
     "projectName": "projectName__4cd87",
     "rowMeta": "rowMeta__4cd87",
@@ -26656,10 +26687,6 @@
     "learnMoreButton": "learnMoreButton_a92dc5",
     "earnedBadge": "earnedBadge_a92dc5",
     "earnedBadgeSubSince": "earnedBadgeSubSince_a92dc5"
-  },
-  "861899": {
-    "switcher": "switcher__36487",
-    "option": "option__36487"
   },
   "862161": {
     "icymiMessageWrapper": "icymiMessageWrapper__7d14e"
@@ -30492,6 +30519,7 @@
     "chatRowContinuation": "chatRowContinuation__0e5cb",
     "chat-row-enter": "chat-row-enter__0e5cb",
     "chatRow": "chatRow__0e5cb",
+    "chatRowSkipEntrance": "chatRowSkipEntrance__0e5cb",
     "chatLogListLoading": "chatLogListLoading__0e5cb",
     "historySpinner": "historySpinner__0e5cb",
     "chatRowHighlighted": "chatRowHighlighted__0e5cb",
