@@ -6746,7 +6746,6 @@
     "footer": "footer_a2d698"
   },
   "227746": {
-    "infoBox": "infoBox__75df3",
     "learnMoreText": "learnMoreText__75df3"
   },
   "228118": {
@@ -17545,6 +17544,9 @@
   "565890": {
     "banner": "banner__68edb"
   },
+  "566082": {
+    "panel": "panel__9d3f0"
+  },
   "566612": {
     "settingsHeader": "settingsHeader__4b8d8",
     "bannedUser": "bannedUser__4b8d8",
@@ -17824,6 +17826,7 @@
     "wrapper": "wrapper_e7c354",
     "ring": "ring_e7c354",
     "bar": "bar_e7c354",
+    "segment": "segment_e7c354",
     "track": "track_e7c354",
     "barAnimated": "barAnimated_e7c354"
   },
