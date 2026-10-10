@@ -8561,12 +8561,12 @@
   },
   "288507": {
     "qualityIndicator": "qualityIndicator__30845",
+    "qualityIndicatorSmall": "qualityIndicatorSmall__30845",
     "clickable": "clickable__30845",
     "qualityIndicatorFullQuality": "qualityIndicatorFullQuality__30845",
     "qualityIndicatorLowQuality": "qualityIndicatorLowQuality__30845",
     "premiumStreamIcon": "premiumStreamIcon__30845",
     "qualityResolution": "qualityResolution__30845",
-    "qualityIndicatorBadge": "qualityIndicatorBadge__30845",
     "qualityIndicatorBadgePremium": "qualityIndicatorBadgePremium__30845",
     "streamQualityIndicator": "streamQualityIndicator__30845",
     "liveIndicator": "liveIndicator__30845"
@@ -26476,6 +26476,13 @@
     "channel": "channel_e34850",
     "channelCoverageHint": "channelCoverageHint_e34850"
   },
+  "857722": {
+    "badge": "badge__52929",
+    "large": "large__52929",
+    "round": "round__52929",
+    "roundLeft": "roundLeft__52929",
+    "roundRight": "roundRight__52929"
+  },
   "857740": {
     "action": "action_e2d85e",
     "loading": "loading_e2d85e",
@@ -27105,21 +27112,15 @@
   },
   "874566": {
     "clipsEnabledIndicator": "clipsEnabledIndicator__8c88a",
-    "clipBadgeText": "clipBadgeText__8c88a liveLarge_a7acae",
-    "clipBadgeIcon": "clipBadgeIcon__8c88a"
+    "clipBadgeIcon": "clipBadgeIcon__8c88a",
+    "clipBadgeText": "clipBadgeText__8c88a"
   },
   "874840": {
     "accessory": "accessory__09bc1",
     "accessoryText": "accessoryText__09bc1"
   },
   "874888": {
-    "live": "live_a7acae",
-    "liveShapeRound": "liveShapeRound_a7acae",
-    "liveShapeRoundLeft": "liveShapeRoundLeft_a7acae",
-    "liveShapeRoundRight": "liveShapeRoundRight_a7acae",
-    "grey": "grey_a7acae",
-    "liveLarge": "liveLarge_a7acae",
-    "liveSmall": "liveSmall_a7acae"
+    "grey": "grey_a7acae"
   },
   "875436": {
     "text-md/medium": "text-md/medium__0aee3",
