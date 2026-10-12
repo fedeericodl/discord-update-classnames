@@ -5858,10 +5858,6 @@
     "stateContainer": "stateContainer__402a1",
     "stateText": "stateText__402a1"
   },
-  "200307": {
-    "imageWrapper": "imageWrapper__313d2",
-    "image": "image__313d2"
-  },
   "200791": {
     "fullWidthGraphicHeaderForManaModal": "fullWidthGraphicHeaderForManaModal_ae16b8"
   },
@@ -15690,7 +15686,6 @@
     "overlayImageMode": "overlayImageMode__53b4c",
     "textBox": "textBox__53b4c",
     "gradientBackground": "gradientBackground__53b4c",
-    "callOfDutyGradient": "callOfDutyGradient__53b4c",
     "xboxGradient": "xboxGradient__53b4c",
     "youtubeGradient": "youtubeGradient__53b4c",
     "macaronGradient": "macaronGradient__53b4c",
