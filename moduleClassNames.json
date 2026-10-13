@@ -25997,6 +25997,7 @@
     "thumb": "thumb__5573f",
     "thumbSelected": "thumbSelected__5573f",
     "thumbScale": "thumbScale__5573f",
+    "iconThumb": "iconThumb__5573f",
     "iconTile": "iconTile__5573f",
     "text": "text__5573f",
     "titleLine": "titleLine__5573f",
@@ -29867,8 +29868,8 @@
   "963434": {
     "badge": "badge_c2b88c",
     "label": "label_c2b88c",
-    "default": "default_c2b88c",
-    "brand": "brand_c2b88c",
+    "secondary": "secondary_c2b88c",
+    "primary": "primary_c2b88c",
     "expressive": "expressive_c2b88c",
     "rarity-common": "rarity-common_c2b88c",
     "rarity-epic": "rarity-epic_c2b88c",
