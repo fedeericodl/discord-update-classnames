@@ -6754,6 +6754,19 @@
     "small": "small__67225",
     "large": "large__67225"
   },
+  "228433": {
+    "clickable": "clickable_e4f2e7",
+    "details": "details_e4f2e7",
+    "detailsFlush": "detailsFlush_e4f2e7",
+    "row": "row_e4f2e7",
+    "rowPortrait": "rowPortrait_e4f2e7",
+    "dotSpacer": "dotSpacer_e4f2e7",
+    "dotSpacerPortrait": "dotSpacerPortrait_e4f2e7",
+    "fixedItem": "fixedItem_e4f2e7",
+    "fixedItemPortrait": "fixedItemPortrait_e4f2e7",
+    "truncatingItem": "truncatingItem_e4f2e7",
+    "truncatingItemPortrait": "truncatingItemPortrait_e4f2e7"
+  },
   "228839": {
     "previewSection": "previewSection__4671c",
     "previewCards": "previewCards__4671c",
@@ -7272,28 +7285,6 @@
   "248489": {
     "button": "button_d9cfc5",
     "ctaInner": "ctaInner_d9cfc5"
-  },
-  "248627": {
-    "contentFooter": "contentFooter_e40371",
-    "contentFooterButtonCont": "contentFooterButtonCont_e40371",
-    "portraitCtaBtnWrapper": "portraitCtaBtnWrapper_e40371",
-    "dotSpacer": "dotSpacer_e40371",
-    "dotSpacerPortrait": "dotSpacerPortrait_e40371",
-    "adDetailsTextPrimary": "adDetailsTextPrimary_e40371",
-    "adDetailsTextPrimaryPortrait": "adDetailsTextPrimaryPortrait_e40371",
-    "addFourPxMarginRight": "addFourPxMarginRight_e40371",
-    "adDetailsTextSecondary": "adDetailsTextSecondary_e40371",
-    "adDetailsTextSecondaryPortrait": "adDetailsTextSecondaryPortrait_e40371",
-    "contentHeaderGameInfoHoverable": "contentHeaderGameInfoHoverable_e40371",
-    "contentHeaderGameInfoHoverableExpired": "contentHeaderGameInfoHoverableExpired_e40371",
-    "contentFooterPortrait": "contentFooterPortrait_e40371",
-    "portraitContentRow": "portraitContentRow_e40371",
-    "contentFooterAdInfo": "contentFooterAdInfo_e40371",
-    "adInfoClickable": "adInfoClickable_e40371",
-    "portraitButtonsContainer": "portraitButtonsContainer_e40371",
-    "portraitButtonRow": "portraitButtonRow_e40371",
-    "contentFooterAdDetailedInfo": "contentFooterAdDetailedInfo_e40371",
-    "contentFooterAdDetailedInfoPortrait": "contentFooterAdDetailedInfoPortrait_e40371"
   },
   "248736": {
     "inspector": "inspector_aeaaeb",
@@ -8025,6 +8016,16 @@
     "status": "status_a7f798",
     "statusIndicator": "statusIndicator_a7f798",
     "statusText": "statusText_a7f798"
+  },
+  "268593": {
+    "footer": "footer_f3bebf",
+    "details": "details_f3bebf",
+    "actions": "actions_f3bebf",
+    "stackedFooter": "stackedFooter_f3bebf",
+    "stackedDetails": "stackedDetails_f3bebf",
+    "stackedActions": "stackedActions_f3bebf",
+    "stackedSecondaryActionRow": "stackedSecondaryActionRow_f3bebf",
+    "stackedSecondaryAction": "stackedSecondaryAction_f3bebf"
   },
   "268814": {
     "focusLock": "focusLock__49fc1",
@@ -9056,8 +9057,7 @@
     "trialPlanSelectHeader": "trialPlanSelectHeader_f928a6",
     "customGiftMessageWrapper": "customGiftMessageWrapper_f928a6",
     "customGiftMessage": "customGiftMessage_f928a6",
-    "compactSendGiftToUser": "compactSendGiftToUser_f928a6",
-    "bulkGiftPlanSelection": "bulkGiftPlanSelection_f928a6"
+    "compactSendGiftToUser": "compactSendGiftToUser_f928a6"
   },
   "306091": {
     "base": "base__463b7",
@@ -10364,10 +10364,6 @@
     "active": "active__04eed",
     "premiumUnlockAnimation": "premiumUnlockAnimation__04eed",
     "shrink": "shrink__04eed"
-  },
-  "346689": {
-    "pricing": "pricing__36f5b",
-    "priceRow": "priceRow__36f5b"
   },
   "346905": {
     "searchIndexAnimation": "searchIndexAnimation__8a209",
@@ -20307,15 +20303,6 @@
     "customGiftHeader": "customGiftHeader__8564e",
     "searchAndSound": "searchAndSound__8564e"
   },
-  "649102": {
-    "container": "container_a87199",
-    "quantityRow": "quantityRow_a87199",
-    "quantityCopy": "quantityCopy_a87199",
-    "badge": "badge_a87199",
-    "stepper": "stepper_a87199",
-    "quantityInputWrapper": "quantityInputWrapper_a87199",
-    "quantityInput": "quantityInput_a87199"
-  },
   "649115": {
     "base": "base_afb27c",
     "titleBar": "titleBar_afb27c"
@@ -28673,6 +28660,9 @@
     "shield": "shield_e98186 desaturateUserColors__41f68",
     "roleName": "roleName_e98186",
     "tag": "tag_e98186"
+  },
+  "925192": {
+    "modalBody": "modalBody__178c2"
   },
   "925356": {
     "modalContent": "modalContent_edf440",
