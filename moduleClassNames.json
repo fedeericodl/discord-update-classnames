@@ -8824,9 +8824,8 @@
     "bannerSkeleton": "bannerSkeleton__72fa0"
   },
   "295930": {
-    "selectButton": "selectButton_ac381c",
-    "isPlaceholder": "isPlaceholder_ac381c",
     "selectButtonPill": "selectButtonPill_ac381c",
+    "isPlaceholder": "isPlaceholder_ac381c",
     "selectButtonContent": "selectButtonContent_ac381c",
     "selectButtonBadge": "selectButtonBadge_ac381c",
     "selectButtonChevron": "selectButtonChevron_ac381c",
@@ -11710,8 +11709,7 @@
     "info": "info_f4bc97",
     "withDisplayNameStyles": "withDisplayNameStyles_f4bc97",
     "infoSpacing": "infoSpacing_f4bc97",
-    "guildTag": "guildTag_f4bc97",
-    "guildTagChip": "guildTagChip_f4bc97"
+    "guildTag": "guildTag_f4bc97"
   },
   "386522": {
     "container": "container_b5010b",
@@ -15995,7 +15993,9 @@
     "editButton": "editButton__41037"
   },
   "515746": {
-    "badge": "badge__2906f"
+    "badge": "badge__2906f",
+    "badgeActive": "badgeActive__2906f",
+    "badgeEnded": "badgeEnded__2906f"
   },
   "516003": {
     "churnFooterContainer": "churnFooterContainer__64988",
@@ -24409,8 +24409,8 @@
     "chevron": "chevron__6149a",
     "leadingIcon": "leadingIcon__6149a",
     "text": "text__6149a",
-    "ignoreButton": "ignoreButton__6149a",
     "incomingRow": "incomingRow__6149a",
+    "ignoreButton": "ignoreButton__6149a",
     "note": "note__6149a",
     "noteQuote": "noteQuote__6149a",
     "outgoingPopout": "outgoingPopout__6149a",
@@ -29707,7 +29707,6 @@
     "userTagUsername": "userTagUsername__26b1f",
     "userTagDiscriminator": "userTagDiscriminator__26b1f",
     "dotSpacer": "dotSpacer__26b1f",
-    "guildTag": "guildTag__26b1f",
     "guildTagPill": "guildTagPill__26b1f"
   },
   "957053": {
