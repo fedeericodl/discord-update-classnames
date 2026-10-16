@@ -2886,6 +2886,8 @@
     "featuredBlockTextContainer": "featuredBlockTextContainer__08415",
     "featuredBlockBodyText": "featuredBlockBodyText__08415",
     "featuredBlockBadge": "featuredBlockBadge__08415",
+    "featuredBlockTextBadge": "featuredBlockTextBadge__08415",
+    "iconTextBadge": "iconTextBadge__08415",
     "featuredBlockButtonContainer": "featuredBlockButtonContainer__08415",
     "heroBlock": "heroBlock__08415",
     "heroBlockContent": "heroBlockContent__08415",
@@ -8620,6 +8622,10 @@
   "289768": {
     "nitroRewardTileAssetContainer": "nitroRewardTileAssetContainer_a92e89",
     "nitroRewardTileAsset": "nitroRewardTileAsset_a92e89"
+  },
+  "289830": {
+    "body": "body_cd6d57",
+    "details": "details_cd6d57"
   },
   "290413": {
     "card": "card_a12047",
