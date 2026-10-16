@@ -296,23 +296,6 @@
     "buttonContainer": "buttonContainer__432f4",
     "protip": "protip__432f4"
   },
-  "9761": {
-    "slider": "slider__4c059",
-    "mini": "mini__4c059",
-    "bar": "bar__4c059",
-    "grabber": "grabber__4c059",
-    "disabled": "disabled__4c059",
-    "barFill": "barFill__4c059",
-    "track": "track__4c059",
-    "mark": "mark__4c059",
-    "markAbove": "markAbove__4c059",
-    "markBelow": "markBelow__4c059",
-    "markValue": "markValue__4c059",
-    "markDash": "markDash__4c059",
-    "markDashSimple": "markDashSimple__4c059 markDash__4c059",
-    "defaultValue": "defaultValue__4c059",
-    "hasMarks": "hasMarks__4c059"
-  },
   "10638": {
     "message": "message_d9edaa",
     "error": "error_d9edaa",
@@ -9036,6 +9019,23 @@
     "outer-circle-loop": "outer-circle-loop_ffc7aa",
     "outer-circle-loop-high-priority": "outer-circle-loop-high-priority_ffc7aa"
   },
+  "303707": {
+    "slider": "slider_ec237e",
+    "mini": "mini_ec237e",
+    "bar": "bar_ec237e",
+    "grabber": "grabber_ec237e",
+    "disabled": "disabled_ec237e",
+    "barFill": "barFill_ec237e",
+    "track": "track_ec237e",
+    "mark": "mark_ec237e",
+    "markAbove": "markAbove_ec237e",
+    "markBelow": "markBelow_ec237e",
+    "markValue": "markValue_ec237e",
+    "markDash": "markDash_ec237e",
+    "markDashSimple": "markDashSimple_ec237e markDash_ec237e",
+    "defaultValue": "defaultValue_ec237e",
+    "hasMarks": "hasMarks_ec237e"
+  },
   "304133": {
     "container": "container__577c3",
     "links": "links__577c3",
@@ -10346,6 +10346,22 @@
   },
   "343005": {
     "actionBarIcon": "actionBarIcon_a7e304"
+  },
+  "343476": {
+    "panel": "panel__35940",
+    "slot": "slot__35940",
+    "slotHidden": "slotHidden__35940",
+    "floating": "floating__35940",
+    "collapseBodyGap": "collapseBodyGap__35940",
+    "media": "media__35940",
+    "image": "image__35940",
+    "imageFill": "imageFill__35940",
+    "sideCopy": "sideCopy__35940",
+    "gameRow": "gameRow__35940",
+    "gameIcon": "gameIcon__35940",
+    "body": "body__35940",
+    "details": "details__35940",
+    "ctaReveal": "ctaReveal__35940"
   },
   "343508": {
     "layout": "layout_ff02fc",
