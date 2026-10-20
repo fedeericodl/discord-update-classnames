@@ -22994,6 +22994,10 @@
     "suggestedSkuPreview": "suggestedSkuPreview__73abe",
     "newContentDot": "newContentDot__73abe"
   },
+  "733767": {
+    "list": "list__1760d",
+    "row": "row__1760d"
+  },
   "733908": {
     "container": "container_d03433",
     "partnerLogotypeContainer": "partnerLogotypeContainer_d03433",
@@ -30691,6 +30695,9 @@
     "clickZoneDebugContainer": "clickZoneDebugContainer__29c87",
     "clickBackground": "clickBackground__29c87",
     "clickable": "clickable__29c87"
+  },
+  "981879": {
+    "agentReaction": "agentReaction__0d357"
   },
   "982519": {
     "inline": "inline__99afd",
