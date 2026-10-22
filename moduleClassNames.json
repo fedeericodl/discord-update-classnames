@@ -5681,6 +5681,8 @@
     "columnSecond": "columnSecond_c6c010",
     "columnThird": "columnThird_c6c010",
     "avatarWrapper": "avatarWrapper_c6c010",
+    "hiddenAvatar": "hiddenAvatar_c6c010",
+    "hiddenAvatarFirst": "hiddenAvatarFirst_c6c010",
     "medalBadge": "medalBadge_c6c010",
     "pillar": "pillar_c6c010",
     "pillarFirst": "pillarFirst_c6c010",
@@ -12890,7 +12892,9 @@
   "411236": {
     "settingsCard": "settingsCard__0d5af",
     "settingsCardActions": "settingsCardActions__0d5af",
-    "dockedBody": "dockedBody__0d5af"
+    "dockedBody": "dockedBody__0d5af",
+    "dockedFooterHint": "dockedFooterHint__0d5af",
+    "savedStatus": "savedStatus__0d5af"
   },
   "411239": {
     "host": "host_d56f1c",
@@ -24676,6 +24680,7 @@
     "square": "square__4e9aa",
     "bar": "bar__4e9aa",
     "full-height-bar": "full-height-bar__4e9aa",
+    "tileInner": "tileInner__4e9aa",
     "tileButton": "tileButton__4e9aa",
     "disabled": "disabled__4e9aa",
     "content": "content__4e9aa",
@@ -29007,7 +29012,6 @@
     "layer": "layer__960e4",
     "animating": "animating__960e4",
     "bg": "bg__960e4",
-    "important": "important__960e4",
     "baseLayer": "baseLayer__960e4"
   },
   "913483": {
@@ -31588,9 +31592,12 @@
     "subtitleContainer": "subtitleContainer_f75fb0",
     "secureFramesIcon": "secureFramesIcon_f75fb0",
     "shaker": "shaker_f75fb0",
-    "linkedLobbyTooltip": "linkedLobbyTooltip_f75fb0",
-    "linkedLobby": "linkedLobby_f75fb0",
-    "linkedLobbyApplicationIcon": "linkedLobbyApplicationIcon_f75fb0",
+    "headerApplicationContainer": "headerApplicationContainer_f75fb0",
+    "headerApplication": "headerApplication_f75fb0",
+    "headerApplicationSeparator": "headerApplicationSeparator_f75fb0",
+    "headerApplicationIcon": "headerApplicationIcon_f75fb0",
+    "headerApplicationName": "headerApplicationName_f75fb0",
+    "appChannelApplication": "appChannelApplication_f75fb0",
     "linkedLobbyEducationTooltip": "linkedLobbyEducationTooltip_f75fb0",
     "akaPopoverContent": "akaPopoverContent_f75fb0",
     "akaPopoverHeader": "akaPopoverHeader_f75fb0",
