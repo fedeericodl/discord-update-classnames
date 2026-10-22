@@ -849,8 +849,7 @@
     "dynamicGraphicWrapper": "dynamicGraphicWrapper__3f7b1"
   },
   "31005": {
-    "productCardBadge": "productCardBadge_b8a6bd",
-    "iconTextBadge": "iconTextBadge_b8a6bd"
+    "productCardBadge": "productCardBadge_b8a6bd"
   },
   "31233": {
     "content": "content__44563",
@@ -7076,6 +7075,7 @@
     "xs": "xs__3da4a",
     "sm": "sm__3da4a",
     "md": "md__3da4a",
+    "lg": "lg__3da4a",
     "primary": "primary__3da4a",
     "notification": "notification__3da4a",
     "neutral": "neutral__3da4a",
@@ -8640,8 +8640,7 @@
     "huePointer": "huePointer__06f69"
   },
   "280193": {
-    "activityNewBadge": "activityNewBadge__44107",
-    "activityUpdatedBadge": "activityUpdatedBadge__44107"
+    "collapsedDot": "collapsedDot__44107"
   },
   "280406": {
     "header": "header__82bda",
@@ -9362,8 +9361,7 @@
     "baseShapeRoundRight": "baseShapeRoundRight__463b7",
     "iconBadge": "iconBadge__463b7 base__463b7",
     "numberBadge": "numberBadge__463b7 base__463b7",
-    "icon": "icon__463b7",
-    "premiumBadge": "premiumBadge__463b7"
+    "icon": "icon__463b7"
   },
   "306239": {
     "text-md/normal": "text-md/normal__8e988",
@@ -17245,7 +17243,7 @@
     "orbIconAligned": "orbIconAligned__85064"
   },
   "543136": {
-    "badge": "badge_dd79c2"
+    "badgeWrapper": "badgeWrapper_dd79c2"
   },
   "543829": {
     "slideContainer": "slideContainer__01ce3"
@@ -19625,7 +19623,7 @@
     "soundButton": "soundButton_d9cf5f"
   },
   "614268": {
-    "tag": "tag_c6d624"
+    "wrapper": "wrapper_c6d624"
   },
   "614367": {
     "root": "root__7ce2e",
@@ -19992,7 +19990,6 @@
   },
   "623672": {
     "newBadge": "newBadge__03991",
-    "newBadgeText": "newBadgeText__03991",
     "iconBadge": "iconBadge__03991"
   },
   "623828": {
