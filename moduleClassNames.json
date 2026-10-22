@@ -1172,13 +1172,7 @@
     "iconPlaceholder": "iconPlaceholder_d6dae9",
     "details": "details_d6dae9",
     "footer": "footer_d6dae9",
-    "trail": "trail_d6dae9",
-    "trailLine": "trailLine_d6dae9",
-    "trailTail": "trailTail_d6dae9",
-    "trailSparkle": "trailSparkle_d6dae9",
-    "trailStar": "trailStar_d6dae9",
-    "trailShimmer": "trailShimmer_d6dae9",
-    "trailStarPop": "trailStarPop_d6dae9",
+    "footerGlow": "footerGlow_d6dae9",
     "footerRow": "footerRow_d6dae9",
     "creator": "creator_d6dae9"
   },
@@ -22608,6 +22602,21 @@
     "center": "center__38359",
     "overflowable": "overflowable__38359"
   },
+  "715803": {
+    "window": "window__50601",
+    "hovered": "hovered__50601",
+    "card": "card__50601",
+    "toolbarClip": "toolbarClip__50601",
+    "toolbar": "toolbar__50601",
+    "snapping": "snapping__50601",
+    "guildIcon": "guildIcon__50601",
+    "appName": "appName__50601",
+    "toolbarButtons": "toolbarButtons__50601",
+    "preview": "preview__50601",
+    "frameTarget": "frameTarget__50601",
+    "soundBadge": "soundBadge__50601",
+    "keeper": "keeper__50601"
+  },
   "715838": {
     "wishlistButton": "wishlistButton__979b1",
     "disabled": "disabled__979b1",
@@ -22888,7 +22897,9 @@
     "ditherCanvas": "ditherCanvas_ab7e6e",
     "ditherRight": "ditherRight_ab7e6e",
     "conjureDitherMaskRippleRight": "conjureDitherMaskRippleRight_ab7e6e",
-    "ditherCanvasRight": "ditherCanvasRight_ab7e6e"
+    "ditherCanvasRight": "ditherCanvasRight_ab7e6e",
+    "ditherIntro": "ditherIntro_ab7e6e",
+    "conjureDitherIntroSlide": "conjureDitherIntroSlide_ab7e6e"
   },
   "726088": {
     "discriminator": "discriminator__78c91",
@@ -23048,6 +23059,10 @@
     "frameTarget": "frameTarget_e92794",
     "state": "state_e92794",
     "appIcon": "appIcon_e92794"
+  },
+  "730201": {
+    "footer": "footer__05314",
+    "popoutInner": "popoutInner__05314"
   },
   "730393": {
     "participantsButton": "participantsButton__211d1",
@@ -26585,7 +26600,10 @@
     "glowImageThinking": "glowImageThinking__8e816",
     "conjureGlowThinkingMaskRipple": "conjureGlowThinkingMaskRipple__8e816",
     "glowRight": "glowRight__8e816",
-    "conjureGlowThinkingPulseRight": "conjureGlowThinkingPulseRight__8e816"
+    "conjureGlowThinkingPulseRight": "conjureGlowThinkingPulseRight__8e816",
+    "glowLayerIntro": "glowLayerIntro__8e816",
+    "conjureGlowIntroGrow": "conjureGlowIntroGrow__8e816",
+    "conjureGlowIntroFade": "conjureGlowIntroFade__8e816"
   },
   "840362": {
     "hoverCard": "hoverCard_fdda30"
@@ -31598,6 +31616,7 @@
     "headerApplicationIcon": "headerApplicationIcon_f75fb0",
     "headerApplicationName": "headerApplicationName_f75fb0",
     "appChannelApplication": "appChannelApplication_f75fb0",
+    "conjuredAppChannelApplication": "conjuredAppChannelApplication_f75fb0",
     "linkedLobbyEducationTooltip": "linkedLobbyEducationTooltip_f75fb0",
     "akaPopoverContent": "akaPopoverContent_f75fb0",
     "akaPopoverHeader": "akaPopoverHeader_f75fb0",
