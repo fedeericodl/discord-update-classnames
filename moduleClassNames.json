@@ -3597,6 +3597,8 @@
     "name": "name__3bdf8",
     "emojis": "emojis__3bdf8",
     "emojisExpanded": "emojisExpanded__3bdf8",
+    "emojiRow": "emojiRow__3bdf8",
+    "emojiButton": "emojiButton__3bdf8",
     "emoji": "emoji__3bdf8"
   },
   "127982": {
@@ -5308,7 +5310,6 @@
     "howItWorksContainer": "howItWorksContainer_dd30dc",
     "howItWorksCard": "howItWorksCard_dd30dc card_fc2e20",
     "howItWorksImageContainer": "howItWorksImageContainer_dd30dc",
-    "howItWorksImage": "howItWorksImage_dd30dc",
     "howItWorksDescription": "howItWorksDescription_dd30dc"
   },
   "177427": {
@@ -6252,7 +6253,7 @@
     "featureCardTextGroup": "featureCardTextGroup__3e32a",
     "featureCardTextHeader": "featureCardTextHeader__3e32a",
     "featureCardTag": "featureCardTag__3e32a",
-    "tag": "tag__3e32a",
+    "tagWrapper": "tagWrapper__3e32a",
     "disclaimer": "disclaimer__3e32a",
     "footerContainer": "footerContainer__3e32a"
   },
@@ -13407,15 +13408,13 @@
     "earningsPreviewContainer": "earningsPreviewContainer__02e4c",
     "avatarGridContainer": "avatarGridContainer__02e4c",
     "avatarCard": "avatarCard__02e4c",
-    "roundAvatar": "roundAvatar__02e4c",
     "verticalConnector": "verticalConnector__02e4c",
     "horizontalConnector": "horizontalConnector__02e4c",
     "followerBenefitText": "followerBenefitText__02e4c",
-    "roleSubscriptionSocial": "roleSubscriptionSocial__02e4c",
-    "roleSubscriptionLanyardIllo": "roleSubscriptionLanyardIllo__02e4c",
+    "starKeyIllustration": "starKeyIllustration__02e4c",
     "revenueSharePercentageDark": "revenueSharePercentageDark__02e4c",
     "revenueSharePercentageLight": "revenueSharePercentageLight__02e4c",
-    "roleSubscriptionEarningIllo": "roleSubscriptionEarningIllo__02e4c"
+    "starCoinsIllustration": "starCoinsIllustration__02e4c"
   },
   "429627": {
     "title": "title_cb3bbe",
@@ -21185,7 +21184,6 @@
   "659888": {
     "streamerModeEnabled": "streamerModeEnabled_aa3ffd",
     "userSettingsStreamerModeEnabled": "userSettingsStreamerModeEnabled_aa3ffd",
-    "streamerModeEnabledImage": "streamerModeEnabledImage_aa3ffd",
     "streamerModeEnabledBtn": "streamerModeEnabledBtn_aa3ffd"
   },
   "660238": {
@@ -23995,7 +23993,11 @@
   "753875": {
     "control": "control__4064a",
     "back": "back__4064a",
-    "next": "next__4064a"
+    "next": "next__4064a",
+    "save": "save__4064a",
+    "saveText": "saveText__4064a",
+    "spinner": "spinner__4064a",
+    "spinnerItem": "spinnerItem__4064a"
   },
   "754911": {
     "container": "container_e4772e",
@@ -27794,9 +27796,7 @@
     "intangibleBenefitIcon": "intangibleBenefitIcon_fa0751"
   },
   "874566": {
-    "clipsEnabledIndicator": "clipsEnabledIndicator__8c88a",
-    "clipBadgeText": "clipBadgeText__8c88a",
-    "clipBadgeIcon": "clipBadgeIcon__8c88a"
+    "clipsEnabledIndicator": "clipsEnabledIndicator__8c88a"
   },
   "874840": {
     "accessory": "accessory__09bc1",
