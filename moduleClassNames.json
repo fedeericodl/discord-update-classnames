@@ -12621,6 +12621,7 @@
   },
   "406956": {
     "animation": "animation__9d6ab",
+    "width": "width__9d6ab",
     "rive": "rive__9d6ab"
   },
   "408313": {
@@ -13388,6 +13389,12 @@
     "badgeContainer": "badgeContainer__81391",
     "badge": "badge__81391"
   },
+  "428692": {
+    "progress": "progress_f81261",
+    "step": "step_f81261",
+    "dot": "dot_f81261",
+    "completed": "completed_f81261"
+  },
   "428863": {
     "picker": "picker__4761e",
     "username": "username__4761e"
@@ -13712,6 +13719,13 @@
   },
   "434743": {
     "clickable": "clickable__8c853"
+  },
+  "434911": {
+    "stat": "stat__1fc03",
+    "number": "number__1fc03",
+    "text": "text__1fc03",
+    "measure": "measure__1fc03",
+    "globe": "globe__1fc03"
   },
   "435021": {
     "popout": "popout_fe4819",
@@ -15734,7 +15748,7 @@
     "rank": "rank__99e00",
     "details": "details__99e00",
     "name": "name__99e00",
-    "sessions": "sessions__99e00"
+    "label": "label__99e00"
   },
   "497437": {
     "composer": "composer__86f16",
@@ -21287,6 +21301,10 @@
     "spinner": "spinner__8a394",
     "markdown": "markdown__8a394"
   },
+  "663302": {
+    "preview": "preview__02d24",
+    "character": "character__02d24"
+  },
   "663466": {
     "container": "container_a6c6da",
     "notice": "notice_a6c6da"
@@ -26283,6 +26301,9 @@
   "827587": {
     "banner": "banner__24928"
   },
+  "828062": {
+    "display": "display__43459"
+  },
   "828399": {
     "giftButton": "giftButton__82222",
     "innerGiftButton": "innerGiftButton__82222",
@@ -26742,9 +26763,10 @@
     "container": "container__8fead",
     "header": "header__8fead",
     "stat": "stat__8fead",
-    "numberAnimationWidth": "numberAnimationWidth__8fead",
+    "globe": "globe__8fead",
     "description": "description__8fead",
-    "games": "games__8fead"
+    "games": "games__8fead",
+    "globalGames": "globalGames__8fead"
   },
   "843313": {
     "tab": "tab__29d7d",
@@ -30833,7 +30855,7 @@
     "container": "container_bc3e36",
     "header": "header_bc3e36",
     "heading": "heading_bc3e36",
-    "display": "display_bc3e36",
+    "globe": "globe_bc3e36",
     "guilds": "guilds_bc3e36",
     "guildCard": "guildCard_bc3e36",
     "guildContent": "guildContent_bc3e36",
