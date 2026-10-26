@@ -5087,6 +5087,7 @@
     "jumbleWrapper": "jumbleWrapper__014df",
     "peaking": "peaking__014df",
     "asset": "asset__014df",
+    "clickable": "clickable__014df",
     "avatar": "avatar__014df"
   },
   "172039": {
@@ -14041,7 +14042,17 @@
     "overlayDesign": "overlayDesign_f3ecdb",
     "overlayWidget": "overlayWidget_f3ecdb",
     "overlayWidgetImage": "overlayWidgetImage_f3ecdb",
-    "footer": "footer_f3ecdb"
+    "footer": "footer_f3ecdb",
+    "overlaySlides": "overlaySlides_f3ecdb",
+    "overlayWidgetSlide": "overlayWidgetSlide_f3ecdb",
+    "overlayFullWidget": "overlayFullWidget_f3ecdb",
+    "slidePicker": "slidePicker_f3ecdb",
+    "slideButton": "slideButton_f3ecdb",
+    "slideButtonActive": "slideButtonActive_f3ecdb",
+    "look": "look_f3ecdb",
+    "references": "references_f3ecdb",
+    "reference": "reference_f3ecdb",
+    "referenceImage": "referenceImage_f3ecdb"
   },
   "444493": {
     "content": "content_e9e3ed",
@@ -15156,6 +15167,9 @@
     "sampleLinks": "sampleLinks__991a0",
     "sampleLink": "sampleLink__991a0",
     "footer": "footer__991a0",
+    "joinFirstActions": "joinFirstActions__991a0",
+    "joinFirstContent": "joinFirstContent__991a0",
+    "joinFirstFooter": "joinFirstFooter__991a0",
     "rowContainer": "rowContainer__991a0",
     "rowIcon": "rowIcon__991a0",
     "rowText": "rowText__991a0",
@@ -24327,16 +24341,6 @@
     "blockedPaymentsWarningIcon": "blockedPaymentsWarningIcon_b7b2cf",
     "blockedPaymentsWarning": "blockedPaymentsWarning_b7b2cf"
   },
-  "764828": {
-    "iconContainer": "iconContainer__8efcc",
-    "icon": "icon__8efcc",
-    "container": "container__8efcc",
-    "imageContainer": "imageContainer__8efcc",
-    "image": "image__8efcc",
-    "content": "content__8efcc",
-    "body": "body__8efcc",
-    "contentWrapper": "contentWrapper__8efcc"
-  },
   "764948": {
     "sections": "sections_ee608e"
   },
@@ -26239,6 +26243,7 @@
   "824242": {
     "text-md/medium": "text-md/medium__60626",
     "container": "container__60626",
+    "messageContainer": "messageContainer__60626",
     "emptyContainer": "emptyContainer__60626",
     "title": "title__60626",
     "errorTitle": "errorTitle__60626",
@@ -28619,7 +28624,9 @@
   },
   "899579": {
     "modal": "modal__024d4",
-    "slideWrapper": "slideWrapper__024d4"
+    "slideWrapper": "slideWrapper__024d4",
+    "joinFirstModal": "joinFirstModal__024d4",
+    "joinFirstSlideWrapper": "joinFirstSlideWrapper__024d4"
   },
   "899737": {
     "container": "container__3b67f",
@@ -30266,11 +30273,6 @@
     "buttonContainerDMEmbedXP": "buttonContainerDMEmbedXP__076c1",
     "referral": "referral__076c1"
   },
-  "953232": {
-    "tabBar": "tabBar__4efb4",
-    "tabBarItem": "tabBarItem__4efb4",
-    "container": "container__4efb4"
-  },
   "953538": {
     "container": "container__36d06",
     "embedTarget": "embedTarget__36d06",
@@ -31221,7 +31223,7 @@
   },
   "985216": {
     "banner": "banner__4325e",
-    "container": "container__4325e",
+    "tabPanel": "tabPanel__4325e",
     "leadingAction": "leadingAction__4325e"
   },
   "985632": {
