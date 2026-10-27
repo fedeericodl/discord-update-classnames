@@ -7304,7 +7304,9 @@
     "stats": "stats_fa0187",
     "statRow": "statRow_fa0187",
     "statIcon": "statIcon_fa0187",
+    "guildAcronymIcon": "guildAcronymIcon_fa0187",
     "footer": "footer_fa0187",
+    "clickable": "clickable_fa0187",
     "footerTitle": "footerTitle_fa0187",
     "footerButton": "footerButton_fa0187"
   },
@@ -11800,6 +11802,7 @@
     "isBurstReactionPicker": "isBurstReactionPicker_c0e32c",
     "emojiPickerHasTabWrapper": "emojiPickerHasTabWrapper_c0e32c",
     "emojiPicker": "emojiPicker_c0e32c",
+    "emojiPickerViewingPacks": "emojiPickerViewingPacks_c0e32c",
     "header": "header_c0e32c",
     "diversitySelector": "diversitySelector_c0e32c",
     "categoryList": "categoryList_c0e32c",
@@ -22214,7 +22217,8 @@
   "698398": {
     "fillParent": "fillParent__078ba",
     "hiddenIframeContainer": "hiddenIframeContainer__078ba",
-    "iframePlaceholder": "iframePlaceholder__078ba"
+    "iframePlaceholder": "iframePlaceholder__078ba",
+    "loadingPlaceholder": "loadingPlaceholder__078ba"
   },
   "698403": {
     "scopes": "scopes__29337",
@@ -25562,6 +25566,7 @@
     "clickable": "clickable_a3e8db",
     "disabled": "disabled_a3e8db",
     "container": "container_a3e8db",
+    "nonInteractive": "nonInteractive_a3e8db",
     "orbsLottieContainer": "orbsLottieContainer_a3e8db",
     "orbsLottie": "orbsLottie_a3e8db",
     "spin": "spin_a3e8db",
@@ -26014,9 +26019,16 @@
   },
   "815714": {
     "productIcon": "productIcon__4c629",
+    "productIconSmall": "productIconSmall__4c629",
+    "productIconLarge": "productIconLarge__4c629",
     "rewardIcon": "rewardIcon__4c629",
     "videoOverlay": "videoOverlay__4c629",
-    "videoActions": "videoActions__4c629"
+    "rewardStatus": "rewardStatus__4c629",
+    "videoActions": "videoActions__4c629",
+    "endScreenContent": "endScreenContent__4c629",
+    "end-screen-fade-in": "end-screen-fade-in__4c629",
+    "endScreenProduct": "endScreenProduct__4c629",
+    "endScreenProductDetails": "endScreenProductDetails__4c629"
   },
   "816426": {
     "wrapper": "wrapper_f563df",
@@ -30760,7 +30772,8 @@
     "containerDimensions": "containerDimensions__7d51c",
     "displayNone": "displayNone__7d51c",
     "stripeExpressCheckoutContainer": "stripeExpressCheckoutContainer__7d51c",
-    "paymentSourceSelectorVariant": "paymentSourceSelectorVariant__7d51c"
+    "paymentSourceSelectorVariant": "paymentSourceSelectorVariant__7d51c",
+    "footerNote": "footerNote__7d51c"
   },
   "970099": {
     "wrapper": "wrapper__8ef02",
