@@ -490,7 +490,6 @@
   },
   "14753": {
     "wrapper": "wrapper__4e6ce",
-    "wrapperWithHeader": "wrapperWithHeader__4e6ce",
     "listNavigatorRegion": "listNavigatorRegion__4e6ce"
   },
   "15330": {
@@ -24665,6 +24664,10 @@
     "ctaContainer": "ctaContainer_f7398d",
     "ctaFiller": "ctaFiller_f7398d",
     "ctaIcon": "ctaIcon_f7398d"
+  },
+  "774331": {
+    "activationButton": "activationButton__1c9c7",
+    "notice": "notice__1c9c7"
   },
   "774702": {
     "imageWrapper": "imageWrapper_af017a",
