@@ -5444,8 +5444,8 @@
     "accessoryMessageRow": "accessoryMessageRow_a9077e",
     "userMessageButtons": "userMessageButtons_a9077e",
     "userMessageButtonsHeader": "userMessageButtonsHeader_a9077e",
-    "messageAccessoriesUnderProse": "messageAccessoriesUnderProse_a9077e",
     "messageAccessories": "messageAccessories_a9077e",
+    "messageAccessoriesUnderProse": "messageAccessoriesUnderProse_a9077e",
     "conjurBotAvatar": "conjurBotAvatar_a9077e",
     "messageBody": "messageBody_a9077e",
     "conjure-reveal-frontier": "conjure-reveal-frontier_a9077e",
@@ -6050,8 +6050,7 @@
     "iconButton": "iconButton__66346",
     "addIcon": "addIcon__66346",
     "toolbarEnd": "toolbarEnd__66346",
-    "attachments": "attachments__66346",
-    "fileInput": "fileInput__66346"
+    "attachments": "attachments__66346"
   },
   "200791": {
     "fullWidthGraphicHeaderForManaModal": "fullWidthGraphicHeaderForManaModal_ae16b8"
@@ -7881,7 +7880,6 @@
     "icon": "icon__07f91",
     "iconPriortySpeaker": "iconPriortySpeaker__07f91",
     "iconServer": "iconServer__07f91",
-    "strikethrough": "strikethrough__07f91",
     "selected": "selected__07f91",
     "clanTag": "clanTag__07f91",
     "isOverlay": "isOverlay__07f91",
@@ -15844,7 +15842,6 @@
     "conjure-cap-wipe-b": "conjure-cap-wipe-b__86f16",
     "composerActions": "composerActions__86f16",
     "composerAttachments": "composerAttachments__86f16",
-    "composerFileInput": "composerFileInput__86f16",
     "composerTrailingSlotButton": "composerTrailingSlotButton__86f16",
     "composerPlusButton": "composerPlusButton__86f16",
     "composerPlusIcon": "composerPlusIcon__86f16",
@@ -23005,6 +23002,7 @@
     "appOpenedTitle": "appOpenedTitle__74da2"
   },
   "722865": {
+    "header": "header__3ddc0",
     "category": "category__3ddc0",
     "channelIcon": "channelIcon__3ddc0"
   },
@@ -29337,6 +29335,10 @@
     "fadeIn": "fadeIn__70c55",
     "loadIn": "loadIn__70c55"
   },
+  "919549": {
+    "gate": "gate__6dab7",
+    "content": "content__6dab7"
+  },
   "919700": {
     "text": "text__7d315",
     "orbIconAligned": "orbIconAligned__7d315"
@@ -29859,6 +29861,8 @@
   },
   "938612": {
     "row": "row__02ff5",
+    "buttonHost": "buttonHost__02ff5",
+    "discoveryDot": "discoveryDot__02ff5",
     "button": "button__02ff5"
   },
   "938767": {
@@ -30840,6 +30844,8 @@
     "displayNone": "displayNone__7d51c",
     "stripeExpressCheckoutContainer": "stripeExpressCheckoutContainer__7d51c",
     "paymentSourceSelectorVariant": "paymentSourceSelectorVariant__7d51c",
+    "dividerWithText": "dividerWithText__7d51c",
+    "dividerLine": "dividerLine__7d51c",
     "footerNote": "footerNote__7d51c"
   },
   "970099": {
