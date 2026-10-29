@@ -1772,9 +1772,6 @@
     "pageSizeSelection": "pageSizeSelection_e8f197",
     "pageLabel": "pageLabel_e8f197"
   },
-  "58641": {
-    "skipContainer": "skipContainer__438f0"
-  },
   "58716": {
     "scroller": "scroller__06800",
     "popoutWrapper": "popoutWrapper__06800"
@@ -2064,8 +2061,8 @@
     "threeItemBundle": "threeItemBundle__6d099",
     "nameplatePreview": "nameplatePreview__6d099",
     "staticPreviewContainer": "staticPreviewContainer__6d099",
-    "staticPreview": "staticPreview__6d099",
-    "staticPreviewHighlighted": "staticPreviewHighlighted__6d099",
+    "preview": "preview__6d099",
+    "previewHighlighted": "previewHighlighted__6d099",
     "avatar": "avatar__6d099"
   },
   "66414": {
@@ -6037,7 +6034,9 @@
   },
   "199023": {
     "backgroundImage": "backgroundImage__4b1a9",
-    "backgroundContainer": "backgroundContainer__4b1a9"
+    "backgroundContainer": "backgroundContainer__4b1a9",
+    "heroContainer": "heroContainer__4b1a9",
+    "backgroundImageHero": "backgroundImageHero__4b1a9"
   },
   "199457": {
     "stateContainer": "stateContainer__402a1",
@@ -12958,15 +12957,6 @@
     "glyphLayer": "glyphLayer_d56f1c",
     "glyphCell": "glyphCell_d56f1c"
   },
-  "411392": {
-    "row": "row__796c4",
-    "circleContainer": "circleContainer__796c4",
-    "progress": "progress__796c4",
-    "noDisc": "noDisc__796c4",
-    "textContainer": "textContainer__796c4",
-    "subtitle": "subtitle__796c4",
-    "divider": "divider__796c4"
-  },
   "411398": {
     "paymentInfoGroup": "paymentInfoGroup_c0544c",
     "metricsContainer": "metricsContainer_c0544c",
@@ -13659,19 +13649,21 @@
     "cardFlairGlow": "cardFlairGlow_abfd90",
     "cardMedium": "cardMedium_abfd90",
     "cardSmall": "cardSmall_abfd90",
+    "cardFullWidth": "cardFullWidth_abfd90",
+    "cardAnimation": "cardAnimation_abfd90",
     "cardImageContainer": "cardImageContainer_abfd90",
     "cardEmbedded": "cardEmbedded_abfd90",
     "cardDark": "cardDark_abfd90 card_abfd90",
     "cardHighlighted": "cardHighlighted_abfd90",
     "cardDarkHighlighted": "cardDarkHighlighted_abfd90",
     "cardNotLoaded": "cardNotLoaded_abfd90",
-    "cardAnimation": "cardAnimation_abfd90",
     "cardBackgroundImage": "cardBackgroundImage_abfd90",
     "cardImage": "cardImage_abfd90",
     "ticketIconContainer": "ticketIconContainer_abfd90",
     "ticketIcon": "ticketIcon_abfd90",
     "details": "details_abfd90",
     "inGameItemLabelContainer": "inGameItemLabelContainer_abfd90",
+    "itemName": "itemName_abfd90",
     "titleContainer": "titleContainer_abfd90",
     "descriptionContainer": "descriptionContainer_abfd90",
     "buttonHover": "buttonHover_abfd90",
@@ -16083,7 +16075,8 @@
   "504082": {
     "container": "container_e176e1",
     "cardGrid": "cardGrid_e176e1",
-    "mediumCardGrid": "mediumCardGrid_e176e1"
+    "mediumCardGrid": "mediumCardGrid_e176e1",
+    "fullWidthCardGrid": "fullWidthCardGrid_e176e1"
   },
   "504115": {
     "anchor": "anchor_b6b013"
@@ -16997,7 +16990,8 @@
   "534125": {
     "sectionContainer": "sectionContainer_beb040",
     "sectionTitle": "sectionTitle_beb040",
-    "reducedTopMargin": "reducedTopMargin_beb040"
+    "reducedTopMargin": "reducedTopMargin_beb040",
+    "noTopMargin": "noTopMargin_beb040"
   },
   "534247": {
     "container": "container__31e10",
@@ -21922,6 +21916,10 @@
     "hidden": "hidden__57f77",
     "label": "label__57f77"
   },
+  "685144": {
+    "layout": "layout_ea1cd2",
+    "sheet": "sheet_ea1cd2"
+  },
   "685254": {
     "buttonContainer": "buttonContainer__994e6"
   },
@@ -22780,6 +22778,11 @@
   "715918": {
     "container": "container_ca98d9",
     "footer": "footer_ca98d9"
+  },
+  "715924": {
+    "header": "header_fbf1b8 header_c7c7c0",
+    "content": "content_fbf1b8",
+    "footer": "footer_fbf1b8"
   },
   "715965": {
     "container": "container__5a838",
@@ -30413,7 +30416,10 @@
   "955527": {
     "container": "container__82a4b",
     "gradient": "gradient__82a4b",
-    "innerContainer": "innerContainer__82a4b"
+    "innerContainer": "innerContainer__82a4b",
+    "isRefreshEnabled": "isRefreshEnabled__82a4b",
+    "nitro": "nitro__82a4b",
+    "title": "title__82a4b"
   },
   "955671": {
     "characterColumn": "characterColumn__1ab4e",
