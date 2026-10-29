@@ -4484,7 +4484,7 @@
     "header": "header__7e6bb"
   },
   "152321": {
-    "visibleCanvas": "visibleCanvas__0b8f7",
+    "canvas": "canvas__0b8f7",
     "invisible": "invisible__0b8f7",
     "hidden": "hidden__0b8f7"
   },
@@ -6831,10 +6831,6 @@
     "defaultGradient": "defaultGradient__99a7e",
     "splashGradient": "splashGradient__99a7e",
     "cover": "cover__99a7e"
-  },
-  "223863": {
-    "imageUnverified": "imageUnverified_d450d1",
-    "message": "message_d450d1"
   },
   "224370": {
     "container": "container__25dca",
@@ -14127,6 +14123,10 @@
     "textContainer": "textContainer_fdf9c0",
     "safetyTable": "safetyTable_fdf9c0"
   },
+  "446244": {
+    "imageUnverified": "imageUnverified_d450d1",
+    "message": "message_d450d1"
+  },
   "446292": {
     "erroredContainer": "erroredContainer__074b6",
     "header": "header__074b6",
@@ -20214,7 +20214,9 @@
     "icon": "icon__2688e",
     "projectIconButton": "projectIconButton__2688e",
     "title": "title__2688e",
-    "titleText": "titleText__2688e"
+    "titleText": "titleText__2688e",
+    "shareTarget": "shareTarget__2688e",
+    "shareTargetDivider": "shareTargetDivider__2688e"
   },
   "631466": {
     "wrapper": "wrapper_be018f",
@@ -20589,6 +20591,9 @@
   },
   "641130": {
     "settingsPage": "settingsPage__9cd63"
+  },
+  "641214": {
+    "sublabel": "sublabel__8e091"
   },
   "641635": {
     "flexRow": "flexRow_b6595f",
@@ -26811,6 +26816,7 @@
     "stat": "stat__8fead",
     "globe": "globe__8fead",
     "description": "description__8fead",
+    "globalHeader": "globalHeader__8fead",
     "games": "games__8fead",
     "globalGames": "globalGames__8fead"
   },
