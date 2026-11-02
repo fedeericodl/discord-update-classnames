@@ -1839,6 +1839,7 @@
   "59678": {
     "assistantTurn": "assistantTurn__76711",
     "chatMessageAssistant": "chatMessageAssistant__76711",
+    "chatMessageAssistantForm": "chatMessageAssistantForm__76711",
     "chatMarkdown": "chatMarkdown__76711",
     "turnResponse": "turnResponse__76711",
     "turnSteps": "turnSteps__76711",
