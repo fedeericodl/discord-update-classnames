@@ -11986,6 +11986,7 @@
     "rowsGhost": "rowsGhost_d4831f",
     "otherGhost": "otherGhost_d4831f",
     "otherRow": "otherRow_d4831f",
+    "noImage": "noImage_d4831f",
     "linkConfigure": "linkConfigure_d4831f",
     "linkBuild": "linkBuild_d4831f",
     "otherInput": "otherInput_d4831f",
@@ -18492,7 +18493,9 @@
     "scene": "scene__438f2",
     "backgroundSettings": "backgroundSettings__438f2",
     "stage": "stage__438f2",
-    "widget": "widget__438f2"
+    "widget": "widget__438f2",
+    "captureSwitcher": "captureSwitcher__438f2",
+    "captureLabel": "captureLabel__438f2"
   },
   "582666": {
     "filterBar": "filterBar__11877",
@@ -20654,7 +20657,9 @@
   },
   "641214": {
     "sublabel": "sublabel__8e091",
-    "qaSubmenu": "qaSubmenu__8e091"
+    "qaSubmenu": "qaSubmenu__8e091",
+    "spinner": "spinner__8e091",
+    "spinnerItem": "spinnerItem__8e091"
   },
   "641635": {
     "flexRow": "flexRow_b6595f",
@@ -30989,7 +30994,8 @@
   },
   "970211": {
     "game": "game__915e4",
-    "blurred": "blurred__915e4"
+    "blurred": "blurred__915e4",
+    "gameCapture": "gameCapture__915e4"
   },
   "970433": {
     "eyebrow": "eyebrow__72025",
