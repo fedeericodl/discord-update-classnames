@@ -39854,5 +39854,7 @@
   "gameCoverImage__1a3d6 gameCover__1a3d6": "gameCoverImage__1a3d6",
   "loadingCover__1a3d6 coverContainer__1a3d6 gameCover__1a3d6": "loadingCover__1a3d6 gameCover__1a3d6",
   "input__72ba7 inputText__72ba7 text-md/medium__72ba7": "input__72ba7",
-  "usagePanel_b86123": "usagePanel_b86123 panel__6fe23"
+  "usagePanel_b86123": "usagePanel_b86123 panel__6fe23",
+  "text-md/bold__257af": "text-md/semibold__257af",
+  "text-xxs/bold_e4d0bf": "text-xxs/semibold_e4d0bf"
 }
