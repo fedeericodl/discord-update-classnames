@@ -31,6 +31,11 @@
     "dotNormal": "dotNormal__00dfb dot__00dfb",
     "dotSelected": "dotSelected__00dfb dot__00dfb"
   },
+  "1909": {
+    "fiatPriceDisplay": "fiatPriceDisplay_f7b36e",
+    "originalPrice": "originalPrice_f7b36e",
+    "discountBadge": "discountBadge_f7b36e"
+  },
   "2014": {
     "card": "card_fa4763",
     "cover": "cover_fa4763",
@@ -7896,10 +7901,7 @@
     "connecting": "connecting__07f91",
     "ringing": "ringing__07f91",
     "guestSuffix": "guestSuffix__07f91",
-    "gameIcon": "gameIcon__07f91",
-    "streamPreviewContainer": "streamPreviewContainer__07f91",
-    "streamPreview": "streamPreview__07f91",
-    "streamPreviewIcon": "streamPreviewIcon__07f91"
+    "gameIcon": "gameIcon__07f91"
   },
   "255314": {
     "embedHorizontal": "embedHorizontal_a8b53f",
@@ -10372,9 +10374,6 @@
     "priceSectionContainer": "priceSectionContainer__38ccf",
     "salePriceRow": "salePriceRow__38ccf",
     "salePriceRowSpaceBetween": "salePriceRowSpaceBetween__38ccf",
-    "fiatPriceDisplay": "fiatPriceDisplay__38ccf",
-    "originalPrice": "originalPrice__38ccf",
-    "discountBadge": "discountBadge__38ccf",
     "orbsPriceDisplay": "orbsPriceDisplay__38ccf",
     "orbsPriceDisplayMuted": "orbsPriceDisplayMuted__38ccf",
     "mobileHeader": "mobileHeader__38ccf",
@@ -19802,12 +19801,6 @@
   "620968": {
     "perkCardsContainer": "perkCardsContainer__7ee2f",
     "footerInfoContainer": "footerInfoContainer__7ee2f"
-  },
-  "621235": {
-    "badge": "badge__77c65",
-    "label": "label__77c65",
-    "icon": "icon__77c65",
-    "separator": "separator__77c65"
   },
   "621255": {
     "container": "container__5287f",
