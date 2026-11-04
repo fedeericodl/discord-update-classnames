@@ -9304,6 +9304,11 @@
     "outer-circle-loop": "outer-circle-loop_ffc7aa",
     "outer-circle-loop-high-priority": "outer-circle-loop-high-priority_ffc7aa"
   },
+  "303680": {
+    "selectableItem": "selectableItem_eb626b",
+    "selected": "selected_eb626b",
+    "selectableItemLabel": "selectableItemLabel_eb626b"
+  },
   "303707": {
     "slider": "slider_ec237e",
     "mini": "mini_ec237e",
@@ -15508,17 +15513,20 @@
     "timelineContainer": "timelineContainer__68788",
     "progressToPlayheadBar": "progressToPlayheadBar__68788",
     "cont": "cont__68788",
+    "customProgressTheme": "customProgressTheme__68788",
     "hitboxArea": "hitboxArea__68788",
     "interactionEnabled": "interactionEnabled__68788",
+    "focusRing": "focusRing__68788",
+    "playhead": "playhead__68788",
     "defaultProgressToPlayheadTheme": "defaultProgressToPlayheadTheme__68788",
     "bufferedBar": "bufferedBar__68788",
     "seekableBar": "seekableBar__68788",
     "timelineTooltip": "timelineTooltip__68788",
-    "playhead": "playhead__68788",
     "segmentContainer": "segmentContainer__68788",
     "segmentMask": "segmentMask__68788",
     "segmentPanningLayer": "segmentPanningLayer__68788",
-    "progressToPlayheadGlowBar": "progressToPlayheadGlowBar__68788"
+    "progressToPlayheadGlowBar": "progressToPlayheadGlowBar__68788",
+    "timeline-sheen": "timeline-sheen__68788"
   },
   "494192": {
     "breadcrumbs": "breadcrumbs_befe67",
@@ -22141,6 +22149,10 @@
   "696918": {
     "termsApplyAnchor": "termsApplyAnchor__95fb7"
   },
+  "697252": {
+    "button": "button__184e2",
+    "updateDot": "updateDot__184e2"
+  },
   "697970": {
     "text": "text_c8b06d",
     "textLeft": "textLeft_c8b06d text_c8b06d",
@@ -23928,6 +23940,12 @@
     "ambientArtImage": "ambientArtImage_d19f2b",
     "content": "content_d19f2b",
     "panel": "panel_d19f2b"
+  },
+  "757099": {
+    "themeAurora": "themeAurora_e76b42",
+    "themeBlurple": "themeBlurple_e76b42",
+    "themeMidnight": "themeMidnight_e76b42",
+    "themeNitro": "themeNitro_e76b42"
   },
   "757261": {
     "button": "button_aa63ab",
@@ -27074,11 +27092,6 @@
     "modalContent": "modalContent_e44912",
     "modalContentInner": "modalContentInner_e44912"
   },
-  "858918": {
-    "selectableItem": "selectableItem_eb626b",
-    "selected": "selected_eb626b",
-    "selectableItemLabel": "selectableItemLabel_eb626b"
-  },
   "858981": {
     "container": "container_a5f01b",
     "soundContainer": "soundContainer_a5f01b",
@@ -27194,24 +27207,35 @@
     "haloBackground": "haloBackground_b824c5",
     "videoFooterCont": "videoFooterCont_b824c5",
     "videoFooterContGradient": "videoFooterContGradient_b824c5",
+    "videoTimelineLayer": "videoTimelineLayer_b824c5",
+    "videoControlsRow": "videoControlsRow_b824c5",
     "videoControlsCont": "videoControlsCont_b824c5",
     "videoControlsGroup": "videoControlsGroup_b824c5",
     "videoControlsGroupMid": "videoControlsGroupMid_b824c5",
     "videoControlsGroupEnd": "videoControlsGroupEnd_b824c5",
     "videoControlsBtnCont": "videoControlsBtnCont_b824c5",
     "videoControlsBtn": "videoControlsBtn_b824c5",
+    "controlsBarItem": "controlsBarItem_b824c5",
+    "controlSlider": "controlSlider_b824c5",
+    "controlFocusRing": "controlFocusRing_b824c5",
     "videoControlsBtnContDisabled": "videoControlsBtnContDisabled_b824c5",
     "volumeControlGroup": "volumeControlGroup_b824c5",
     "volumeControlGroupInline": "volumeControlGroupInline_b824c5",
-    "controlsBarItem": "controlsBarItem_b824c5",
     "controlsBarItemActive": "controlsBarItemActive_b824c5",
     "controlBtnIconWithOverlay": "controlBtnIconWithOverlay_b824c5",
     "playbackSpeedBadge": "playbackSpeedBadge_b824c5",
+    "volumeWaveInner": "volumeWaveInner_b824c5",
+    "volumeWaveMiddle": "volumeWaveMiddle_b824c5",
+    "volumeWaveOuter": "volumeWaveOuter_b824c5",
+    "volumeWave": "volumeWave_b824c5",
+    "volumeMuteMark": "volumeMuteMark_b824c5",
     "durationTimeWrapper": "durationTimeWrapper_b824c5",
     "durationTimeDisplay": "durationTimeDisplay_b824c5",
     "durationTimeSeparator": "durationTimeSeparator_b824c5",
     "volumeSlider": "volumeSlider_b824c5",
     "controlBarPopoutSurface": "controlBarPopoutSurface_b824c5",
+    "controlSliderTrack": "controlSliderTrack_b824c5",
+    "controlSliderThumb": "controlSliderThumb_b824c5",
     "volumePopout": "volumePopout_b824c5",
     "playbackSpeedPopout": "playbackSpeedPopout_b824c5",
     "playbackSpeedHeading": "playbackSpeedHeading_b824c5",
