@@ -28,7 +28,9 @@
   },
   "2014": {
     "card": "card_Oyz7Y6",
+    "clickable": "clickable_Oyz7Y6",
     "cover": "cover_Oyz7Y6",
+    "coverArt": "coverArt_Oyz7Y6",
     "name": "name_Oyz7Y6"
   },
   "2753": {
@@ -504,6 +506,7 @@
     "row": "row_Yg_nqe",
     "cell": "cell_Yg_nqe",
     "cellContent": "cellContent_Yg_nqe",
+    "gameNameContainer": "gameNameContainer_Yg_nqe",
     "text": "text_Yg_nqe",
     "rank": "rank_Yg_nqe",
     "thumbnail": "thumbnail_Yg_nqe",
@@ -515,7 +518,9 @@
     "serverDetails": "serverDetails_Yg_nqe",
     "serverName": "serverName_Yg_nqe",
     "serverOnline": "serverOnline_Yg_nqe",
-    "button": "button_Yg_nqe"
+    "button": "button_Yg_nqe",
+    "serverHeading": "serverHeading_Yg_nqe",
+    "status": "status_Yg_nqe"
   },
   "20621": {
     "spacing": "spacing_xQw8Aq",
@@ -4606,6 +4611,7 @@
     "rankRing": "rankRing_i8iX4X",
     "hiddenAvatar": "hiddenAvatar_i8iX4X",
     "labels": "labels_i8iX4X",
+    "pillarMetrics": "pillarMetrics_i8iX4X",
     "pillarMetric": "pillarMetric_i8iX4X",
     "pillarName": "pillarName_i8iX4X",
     "medalBadge": "medalBadge_i8iX4X",
@@ -5170,8 +5176,7 @@
     "newBadgeHost": "newBadgeHost_nitlyF"
   },
   "211550": {
-    "container": "container_uTMZTY",
-    "widerInbox": "widerInbox_uTMZTY"
+    "container": "container_uTMZTY"
   },
   "211862": {
     "searchHeader": "searchHeader_RRDnyC",
@@ -5296,17 +5301,6 @@
     "podiumStack": "podiumStack_yz6RlA",
     "podiumRowExit": "podiumRowExit_yz6RlA",
     "podiumRowExitItem": "podiumRowExitItem_yz6RlA"
-  },
-  "219052": {
-    "tabs": "tabs_ydey4M",
-    "indicator": "indicator_ydey4M",
-    "strip": "strip_ydey4M",
-    "rail": "rail_ydey4M",
-    "items": "items_ydey4M",
-    "item": "item_ydey4M",
-    "contents": "contents_ydey4M",
-    "panels": "panels_ydey4M",
-    "panel": "panel_ydey4M"
   },
   "219354": {
     "controlBar": "controlBar_x_8mB9",
@@ -12835,14 +12829,6 @@
     "badgeActive": "badgeActive_8OcjHa",
     "badgeEnded": "badgeEnded_8OcjHa"
   },
-  "516029": {
-    "icon": "icon_eR0BEc",
-    "focusBlock": "focusBlock_eR0BEc",
-    "clickable": "clickable_eR0BEc",
-    "underline": "underline_eR0BEc",
-    "cmdDetails": "cmdDetails_eR0BEc",
-    "cmdAppName": "cmdAppName_eR0BEc"
-  },
   "516064": {
     "dnsFont": "dnsFont_OAgVZM",
     "cherryBomb": "cherryBomb_OAgVZM",
@@ -18253,22 +18239,6 @@
     "guildSidebar": "guildSidebar_iar92T",
     "guildSidebarHeader": "guildSidebarHeader_iar92T"
   },
-  "727960": {
-    "chip": "chip_DASouH",
-    "with-icon": "with-icon_DASouH",
-    "icon": "icon_DASouH",
-    "blurple-light": "blurple-light_DASouH",
-    "blurple-dark": "blurple-dark_DASouH",
-    "green-light": "green-light_DASouH",
-    "green-dark": "green-dark_DASouH",
-    "orange-light": "orange-light_DASouH",
-    "yellow-light": "yellow-light_DASouH",
-    "red-light": "red-light_DASouH",
-    "red-dark": "red-dark_DASouH",
-    "gray-light": "gray-light_DASouH",
-    "gray-medium": "gray-medium_DASouH",
-    "gray-dark": "gray-dark_DASouH"
-  },
   "728309": {
     "listItemWrapper": "listItemWrapper_tQErD4",
     "selected": "selected_tQErD4"
@@ -18551,6 +18521,14 @@
     "confirmationHeader": "confirmationHeader_Elr8oR",
     "confirmationSubtitle": "confirmationSubtitle_Elr8oR",
     "actions": "actions_Elr8oR"
+  },
+  "738410": {
+    "icon": "icon_eR0BEc",
+    "focusBlock": "focusBlock_eR0BEc",
+    "clickable": "clickable_eR0BEc",
+    "underline": "underline_eR0BEc",
+    "cmdDetails": "cmdDetails_eR0BEc",
+    "cmdAppName": "cmdAppName_eR0BEc"
   },
   "738541": {
     "targetList": "targetList_4f0wkh",
@@ -23993,6 +23971,15 @@
     "voiceChannelHighlightBorder": "voiceChannelHighlightBorder_Wx6SnQ",
     "voiceChannelHighlightGlow": "voiceChannelHighlightGlow_Wx6SnQ"
   },
+  "965452": {
+    "container": "container_5G-eaS",
+    "emoji": "emoji_5G-eaS",
+    "list": "list_5G-eaS",
+    "menu": "menu_5G-eaS",
+    "preview": "preview_5G-eaS",
+    "profile": "profile_5G-eaS",
+    "error": "error_5G-eaS"
+  },
   "966430": {
     "headerContainer": "headerContainer_7ne32W",
     "preview": "preview_7ne32W",
@@ -24701,6 +24688,17 @@
     "nameAndDecorators": "nameAndDecorators_J1Adu_",
     "subText": "subText_J1Adu_",
     "children": "children_J1Adu_"
+  },
+  "996671": {
+    "tabs": "tabs_ydey4M",
+    "indicator": "indicator_ydey4M",
+    "strip": "strip_ydey4M",
+    "rail": "rail_ydey4M",
+    "items": "items_ydey4M",
+    "item": "item_ydey4M",
+    "contents": "contents_ydey4M",
+    "panels": "panels_ydey4M",
+    "panel": "panel_ydey4M"
   },
   "996712": {
     "activationButton": "activationButton_-OWpGx",
