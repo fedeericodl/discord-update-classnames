@@ -31,7 +31,10 @@
     "clickable": "clickable_Oyz7Y6",
     "cover": "cover_Oyz7Y6",
     "coverArt": "coverArt_Oyz7Y6",
-    "name": "name_Oyz7Y6"
+    "name": "name_Oyz7Y6",
+    "rank": "rank_Oyz7Y6",
+    "genres": "genres_Oyz7Y6",
+    "hoverOnly": "hoverOnly_Oyz7Y6"
   },
   "2753": {
     "container": "container_XFjmsP",
@@ -84,6 +87,7 @@
     "members": "members_86es0b",
     "member": "member_86es0b",
     "membersGroup": "membersGroup_86es0b",
+    "privateChannelMembersGroup": "privateChannelMembersGroup_86es0b membersGroup_86es0b",
     "membersGroupNitroLabel": "membersGroupNitroLabel_86es0b",
     "membersGroupNitroWheel": "membersGroupNitroWheel_86es0b",
     "membersGroupHeader": "membersGroupHeader_86es0b",
@@ -114,7 +118,16 @@
     "navIcon": "navIcon__xoAVS",
     "homeRow": "homeRow__xoAVS",
     "section": "section__xoAVS",
-    "showMore": "showMore__xoAVS"
+    "showMore": "showMore__xoAVS",
+    "groupHeader": "groupHeader__xoAVS",
+    "groupTitle": "groupTitle__xoAVS",
+    "groupTitleLink": "groupTitleLink__xoAVS",
+    "groupIcon": "groupIcon__xoAVS",
+    "groupName": "groupName__xoAVS",
+    "groupActivity": "groupActivity__xoAVS",
+    "subsection": "subsection__xoAVS",
+    "listState": "listState__xoAVS",
+    "listEmpty": "listEmpty__xoAVS"
   },
   "6089": {
     "inputError": "inputError_DKL2gp"
@@ -16070,6 +16083,8 @@
     "sidebar": "sidebar_1d0xGU",
     "header": "header_1d0xGU",
     "scroller": "scroller_1d0xGU",
+    "search": "search_1d0xGU",
+    "listEmpty": "listEmpty_1d0xGU",
     "section": "section_1d0xGU",
     "listState": "listState_1d0xGU",
     "footer": "footer_1d0xGU"
@@ -16522,10 +16537,6 @@
   },
   "654910": {
     "sectionsContainer": "sectionsContainer_tOQHbK"
-  },
-  "655074": {
-    "listState": "listState_Kal6GS",
-    "empty": "empty_Kal6GS"
   },
   "655581": {
     "flex": "flex_snb6Ng",
@@ -20989,6 +21000,12 @@
     "imageUploaderInnerSquare": "imageUploaderInnerSquare_BFckb0",
     "error": "error_BFckb0"
   },
+  "839568": {
+    "status": "status_iMtCVa",
+    "row": "row_iMtCVa",
+    "rowText": "rowText_iMtCVa",
+    "noFriends": "noFriends_iMtCVa"
+  },
   "839578": {
     "sidebarTitleRow": "sidebarTitleRow_qVXIsE",
     "colorSection": "colorSection_qVXIsE",
@@ -23351,7 +23368,8 @@
   },
   "939409": {
     "container": "container_UP1Jis",
-    "textContent": "textContent_UP1Jis"
+    "textContent": "textContent_UP1Jis",
+    "icon": "icon_UP1Jis"
   },
   "940169": {
     "autocomplete": "autocomplete_rg6La1",
