@@ -6825,7 +6825,8 @@
     "ctaContainer": "ctaContainer_OhOESF",
     "textContainer": "textContainer_OhOESF",
     "endContainer": "endContainer_OhOESF",
-    "icon": "icon_OhOESF"
+    "icon": "icon_OhOESF",
+    "link": "link_OhOESF"
   },
   "280112": {
     "pickerWrapper": "pickerWrapper_qOZw1R",
@@ -12337,6 +12338,7 @@
   "497357": {
     "game": "game_M5fVqw",
     "topGame": "topGame_M5fVqw",
+    "globalGame": "globalGame_M5fVqw",
     "visual": "visual_M5fVqw",
     "shell": "shell_M5fVqw",
     "art": "art_M5fVqw",
@@ -18569,6 +18571,11 @@
     "successDescription": "successDescription_MGX1Qy",
     "successButtons": "successButtons_MGX1Qy"
   },
+  "738964": {
+    "container": "container_ma_sAl",
+    "sliderContainer": "sliderContainer_ma_sAl",
+    "buttonWithSlider": "buttonWithSlider_ma_sAl"
+  },
   "739126": {
     "forwardPreview": "forwardPreview_N34jMW",
     "contentWrapper": "contentWrapper_N34jMW",
@@ -18880,6 +18887,7 @@
   "753875": {
     "control": "control_vDbele",
     "back": "back_vDbele",
+    "replay": "replay_vDbele",
     "next": "next_vDbele",
     "labeled": "labeled_vDbele",
     "filled": "filled_vDbele",
@@ -21064,8 +21072,10 @@
   },
   "842807": {
     "container": "container_eVi7eB",
-    "header": "header_eVi7eB",
+    "globalContainer": "globalContainer_eVi7eB",
     "stat": "stat_eVi7eB",
+    "number": "number_eVi7eB",
+    "header": "header_eVi7eB",
     "globe": "globe_eVi7eB",
     "description": "description_eVi7eB",
     "globalHeader": "globalHeader_eVi7eB",
