@@ -10367,11 +10367,8 @@
     "rowText": "rowText_kMejgG"
   },
   "428524": {
-    "item": "item_ah9SVt",
-    "removeBuildOverride": "removeBuildOverride_ah9SVt",
-    "buildOverrideGroup": "buildOverrideGroup_ah9SVt",
-    "removeBuildOverrideDisabled": "removeBuildOverrideDisabled_ah9SVt",
-    "row": "row_ah9SVt"
+    "row": "row_ah9SVt",
+    "fields": "fields_ah9SVt"
   },
   "428588": {
     "clickable": "clickable_fErCLM",
@@ -16408,10 +16405,6 @@
     "controls": "controls_dfLAdA",
     "overlayControls": "overlayControls_dfLAdA",
     "exiting": "exiting_dfLAdA"
-  },
-  "650956": {
-    "overrideSubtextContainer": "overrideSubtextContainer_WGkLoD",
-    "overrideSubtext": "overrideSubtext_WGkLoD"
   },
   "651346": {
     "showcase": "showcase_tYuRNZ",
