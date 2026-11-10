@@ -1208,6 +1208,9 @@
     "left": "left_KWWX2H",
     "bottom": "bottom_KWWX2H"
   },
+  "51381": {
+    "illustration": "illustration_GzEjGT"
+  },
   "51407": {
     "connectedAccountVanityMetadata": "connectedAccountVanityMetadata_VlBwYX",
     "connectedAccountVanityMetadataTag": "connectedAccountVanityMetadataTag_VlBwYX",
@@ -1458,6 +1461,7 @@
     "itemName": "itemName_NgozOX",
     "icon": "icon_NgozOX",
     "unknownIcon": "unknownIcon_NgozOX",
+    "noneIcon": "noneIcon_NgozOX",
     "gameIcon": "gameIcon_NgozOX"
   },
   "58636": {
@@ -8962,7 +8966,16 @@
     "clipKeyComboKey": "clipKeyComboKey_OAv3mC",
     "conjureCaptureHint": "conjureCaptureHint_OAv3mC",
     "conjureCaptureIcon": "conjureCaptureIcon_OAv3mC",
-    "conjureCaptureText": "conjureCaptureText_OAv3mC"
+    "conjureCaptureText": "conjureCaptureText_OAv3mC",
+    "clipsModeContainer": "clipsModeContainer_OAv3mC",
+    "clipsModeRow": "clipsModeRow_OAv3mC",
+    "clipsModeRowOpen": "clipsModeRowOpen_OAv3mC",
+    "clipsModeText": "clipsModeText_OAv3mC",
+    "clipsModeChevron": "clipsModeChevron_OAv3mC",
+    "clipsModeWithShortcut": "clipsModeWithShortcut_OAv3mC",
+    "clipsModeWithoutShortcut": "clipsModeWithoutShortcut_OAv3mC",
+    "clipsModeKeyCombo": "clipsModeKeyCombo_OAv3mC",
+    "clipsModeSeparator": "clipsModeSeparator_OAv3mC"
   },
   "369435": {
     "row": "row_PrrPPz",
@@ -12275,6 +12288,7 @@
     "badgeTileIcon": "badgeTileIcon_i44TZ4",
     "badgeTileIconHidden": "badgeTileIconHidden_i44TZ4",
     "overflowButton": "overflowButton_i44TZ4",
+    "unreadDot": "unreadDot_i44TZ4",
     "hiddenIndicator": "hiddenIndicator_i44TZ4"
   },
   "495088": {
@@ -20560,7 +20574,9 @@
     "editButtonAppended": "editButtonAppended_IqWmhA",
     "badge": "badge_IqWmhA",
     "editIcon": "editIcon_IqWmhA",
-    "badgeVectorSrc": "badgeVectorSrc_IqWmhA"
+    "badgeVectorSrc": "badgeVectorSrc_IqWmhA",
+    "hasUnreadDot": "hasUnreadDot_IqWmhA",
+    "unreadDot": "unreadDot_IqWmhA"
   },
   "816969": {
     "markdown": "markdown_etRqFz",
@@ -24072,15 +24088,6 @@
     "voiceChannelHighlightContainer": "voiceChannelHighlightContainer_Wx6SnQ",
     "voiceChannelHighlightBorder": "voiceChannelHighlightBorder_Wx6SnQ",
     "voiceChannelHighlightGlow": "voiceChannelHighlightGlow_Wx6SnQ"
-  },
-  "965452": {
-    "container": "container_5G-eaS",
-    "emoji": "emoji_5G-eaS",
-    "list": "list_5G-eaS",
-    "menu": "menu_5G-eaS",
-    "preview": "preview_5G-eaS",
-    "profile": "profile_5G-eaS",
-    "error": "error_5G-eaS"
   },
   "966430": {
     "headerContainer": "headerContainer_7ne32W",
