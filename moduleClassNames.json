@@ -1564,7 +1564,8 @@
     "roleName": "roleName_4T6RB7",
     "searchBar": "searchBar_4T6RB7",
     "removeButtonContainer": "removeButtonContainer_4T6RB7",
-    "appChannelPermissionsNotice": "appChannelPermissionsNotice_4T6RB7"
+    "appChannelPermissionsNotice": "appChannelPermissionsNotice_4T6RB7",
+    "permissionSearch": "permissionSearch_4T6RB7"
   },
   "60419": {
     "keyComboInner": "keyComboInner_CXPwsk",
@@ -6532,8 +6533,6 @@
     "searchContainer": "searchContainer_kyu-6S",
     "permissionsWrapper": "permissionsWrapper_kyu-6S",
     "clearButtonWrapper": "clearButtonWrapper_kyu-6S",
-    "noResultsContainer": "noResultsContainer_kyu-6S",
-    "noResults": "noResults_kyu-6S",
     "permissionsForm": "permissionsForm_kyu-6S"
   },
   "263748": {
@@ -14283,6 +14282,10 @@
     "navItemSelected": "navItemSelected_S4jOo8",
     "navLabel": "navLabel_S4jOo8",
     "navDecoration": "navDecoration_S4jOo8"
+  },
+  "574139": {
+    "container": "container_v8-RNu",
+    "image": "image_v8-RNu"
   },
   "575172": {
     "popoutItem": "popoutItem_J5LrJv",
