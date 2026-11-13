@@ -599,6 +599,13 @@
   "24686": {
     "icon": "icon_da8HAn"
   },
+  "25101": {
+    "container": "container_9-OcBK",
+    "card": "card_9-OcBK",
+    "content": "content_9-OcBK",
+    "emojiContainer": "emojiContainer_9-OcBK",
+    "statusText": "statusText_9-OcBK"
+  },
   "25409": {
     "container": "container__ThwoA",
     "partnerSection": "partnerSection__ThwoA",
@@ -5303,6 +5310,10 @@
     "full": "full_53vI71",
     "short": "short_53vI71"
   },
+  "215805": {
+    "overlayPadding": "overlayPadding_7Ja8p1",
+    "transcriptPanel": "transcriptPanel_7Ja8p1"
+  },
   "215837": {
     "buttonContainer": "buttonContainer_s8hOwn",
     "button": "button_s8hOwn",
@@ -6209,6 +6220,19 @@
   "250109": {
     "button": "button_zpnerZ",
     "buttonInner": "buttonInner_zpnerZ"
+  },
+  "250328": {
+    "timer": "timer_u6I9zX",
+    "ring": "ring_u6I9zX",
+    "backdrop": "backdrop_u6I9zX",
+    "progress": "progress_u6I9zX",
+    "progressJump": "progressJump_u6I9zX",
+    "progressEmpty": "progressEmpty_u6I9zX",
+    "check": "check_u6I9zX",
+    "seconds": "seconds_u6I9zX",
+    "checkDisc": "checkDisc_u6I9zX",
+    "checkMark": "checkMark_u6I9zX",
+    "animateIn": "animateIn_u6I9zX"
   },
   "251219": {
     "host": "host_CDe0cV",
@@ -13653,6 +13677,7 @@
     "priceTag": "priceTag_80OD1-",
     "promotionProgress": "promotionProgress_80OD1-",
     "promotionProgressLabel": "promotionProgressLabel_80OD1-",
+    "promotionProgressCountdown": "promotionProgressCountdown_80OD1-",
     "promotionProgressIcon": "promotionProgressIcon_80OD1-",
     "premiumPriceTag": "premiumPriceTag_80OD1-",
     "disclaimer": "disclaimer_80OD1-",
@@ -13718,25 +13743,6 @@
     "headerTextContainer": "headerTextContainer_2lDrYu",
     "divider": "divider_2lDrYu",
     "achievementGrid": "achievementGrid_2lDrYu"
-  },
-  "545760": {
-    "headerContainer": "headerContainer_8ZcKCk",
-    "channelHeader": "channelHeader_8ZcKCk",
-    "collapsed": "collapsed_8ZcKCk",
-    "icon": "icon_8ZcKCk",
-    "iconClickable": "iconClickable_8ZcKCk",
-    "chevron": "chevron_8ZcKCk",
-    "channelNameSection": "channelNameSection_8ZcKCk",
-    "channelNameHeading": "channelNameHeading_8ZcKCk",
-    "channelNameClickable": "channelNameClickable_8ZcKCk",
-    "channelNameSpan": "channelNameSpan_8ZcKCk",
-    "guildName": "guildName_8ZcKCk",
-    "badge": "badge_8ZcKCk",
-    "channelTypeIcon": "channelTypeIcon_8ZcKCk",
-    "buttonGroup": "buttonGroup_8ZcKCk",
-    "status": "status_8ZcKCk",
-    "errorIcon": "errorIcon_8ZcKCk",
-    "noCollapseButton": "noCollapseButton_8ZcKCk"
   },
   "546184": {
     "layout": "layout_xKsXVs",
@@ -15823,12 +15829,6 @@
     "trinketsIcon": "trinketsIcon_ejC3ZL",
     "trinketsDecoration": "trinketsDecoration_ejC3ZL"
   },
-  "621485": {
-    "container": "container_stq7kb",
-    "header": "header_stq7kb",
-    "closeButton": "closeButton_stq7kb",
-    "body": "body_stq7kb"
-  },
   "621531": {
     "container": "container_1n_2Do",
     "iconContainer": "iconContainer_1n_2Do",
@@ -16374,6 +16374,20 @@
     "select": "select_oj89HP",
     "selectItemRow": "selectItemRow_oj89HP",
     "title": "title_oj89HP"
+  },
+  "641786": {
+    "container": "container_5RxyqA",
+    "titleContainer": "titleContainer_5RxyqA",
+    "title": "title_5RxyqA",
+    "messagesContainer": "messagesContainer_5RxyqA",
+    "eventContainer": "eventContainer_5RxyqA",
+    "eventTimeAndUser": "eventTimeAndUser_5RxyqA",
+    "eventTitle": "eventTitle_5RxyqA",
+    "eventDescription": "eventDescription_5RxyqA",
+    "eventDivider": "eventDivider_5RxyqA",
+    "eventInfoContainer": "eventInfoContainer_5RxyqA",
+    "eventLocationRow": "eventLocationRow_5RxyqA",
+    "eventLocationText": "eventLocationText_5RxyqA"
   },
   "642105": {
     "doubleInput": "doubleInput_GpenTv"
@@ -16967,9 +16981,14 @@
     "wishlistButton": "wishlistButton_rqBGKn"
   },
   "668327": {
-    "rewardIndicatorContainer": "rewardIndicatorContainer_6ar50M",
+    "rewardIndicatorContainer": "rewardIndicatorContainer_6ar50M progressColors_1tbovV",
     "rewardIndicatorContainerGreenFill": "rewardIndicatorContainerGreenFill_6ar50M",
     "rewardIndicatorContainerWhiteFill": "rewardIndicatorContainerWhiteFill_6ar50M",
+    "rewardProgressFill": "rewardProgressFill_6ar50M",
+    "rewardProgressGlow": "rewardProgressGlow_6ar50M",
+    "rewardProgressGlowGreen": "rewardProgressGlowGreen_6ar50M",
+    "rewardProgressGlowWhite": "rewardProgressGlowWhite_6ar50M",
+    "rewardProgressGlowSource": "rewardProgressGlowSource_6ar50M",
     "rewardIconWrapper": "rewardIconWrapper_6ar50M",
     "rewardTooltip": "rewardTooltip_6ar50M",
     "rewardTooltipDivider": "rewardTooltipDivider_6ar50M"
@@ -22347,6 +22366,11 @@
     "inactivePlayer": "inactivePlayer_5-ruWd",
     "active": "active_5-ruWd"
   },
+  "879371": {
+    "progressColors": "progressColors_1tbovV",
+    "inProgress": "inProgress_1tbovV progressColors_1tbovV",
+    "completed": "completed_1tbovV progressColors_1tbovV"
+  },
   "879386": {
     "icon": "icon_nBIXQx"
   },
@@ -22556,6 +22580,13 @@
     "bountyPromotedBadgeWrapper": "bountyPromotedBadgeWrapper_BSEPzZ",
     "bountyPromotedBadge": "bountyPromotedBadge_BSEPzZ",
     "bountyMenuTarget": "bountyMenuTarget_BSEPzZ"
+  },
+  "886072": {
+    "container": "container_2D_9Ek",
+    "card": "card_2D_9Ek",
+    "gameIcon": "gameIcon_2D_9Ek",
+    "gameInfo": "gameInfo_2D_9Ek",
+    "badge": "badge_2D_9Ek"
   },
   "886720": {
     "root": "root_5g37Xg"
