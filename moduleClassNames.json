@@ -5133,6 +5133,20 @@
     "mask": "mask_4I8LkS",
     "onlineDot": "onlineDot_4I8LkS"
   },
+  "206393": {
+    "details": "details__Ue-J1",
+    "header": "header__Ue-J1",
+    "iconButton": "iconButton__Ue-J1",
+    "uploadTile": "uploadTile__Ue-J1",
+    "iconImage": "iconImage__Ue-J1",
+    "iconOverlay": "iconOverlay__Ue-J1",
+    "fileInput": "fileInput__Ue-J1",
+    "field": "field__Ue-J1",
+    "includes": "includes__Ue-J1",
+    "contentRow": "contentRow__Ue-J1",
+    "contentIcon": "contentIcon__Ue-J1",
+    "contentTrailing": "contentTrailing__Ue-J1"
+  },
   "206920": {
     "container": "container_rM7J2I",
     "muted": "muted_rM7J2I",
@@ -6722,6 +6736,9 @@
     "empty": "empty_jFcvcH",
     "textContainer": "textContainer_jFcvcH",
     "widgetGrid": "widgetGrid_jFcvcH"
+  },
+  "269640": {
+    "introButton": "introButton_5W92_n"
   },
   "270704": {
     "background": "background_KCSazX",
@@ -9493,9 +9510,6 @@
     "perksContainer": "perksContainer_xZJtlG",
     "perkRow": "perkRow_xZJtlG",
     "perkIcon": "perkIcon_xZJtlG"
-  },
-  "381944": {
-    "learnMoreButton": "learnMoreButton_asFdry"
   },
   "382068": {
     "container": "container_o8-Bj2",
@@ -13547,25 +13561,6 @@
     "scrollerContent": "scrollerContent_BQIdmW",
     "headerBar": "headerBar_BQIdmW"
   },
-  "536791": {
-    "details": "details_G4pija",
-    "header": "header_G4pija",
-    "iconButton": "iconButton_G4pija",
-    "uploadTile": "uploadTile_G4pija",
-    "iconImage": "iconImage_G4pija",
-    "iconOverlay": "iconOverlay_G4pija",
-    "fileInput": "fileInput_G4pija",
-    "field": "field_G4pija",
-    "includes": "includes_G4pija",
-    "contentRow": "contentRow_G4pija",
-    "contentIcon": "contentIcon_G4pija",
-    "appChannelsPrivate": "appChannelsPrivate_G4pija",
-    "sharedWith": "sharedWith_G4pija",
-    "sharedRow": "sharedRow_G4pija",
-    "guildIcon": "guildIcon_G4pija",
-    "onlyMeIcon": "onlyMeIcon_G4pija",
-    "rowText": "rowText_G4pija"
-  },
   "536854": {
     "localizedName": "localizedName_ykCVnh",
     "flag": "flag_ykCVnh",
@@ -13711,6 +13706,7 @@
     "placeholderElement": "placeholderElement_oOXt5v"
   },
   "541940": {
+    "builder": "builder_ajKoHp",
     "channelView": "channelView_ajKoHp",
     "channelViewMain": "channelViewMain_ajKoHp",
     "channelViewMainPanel": "channelViewMainPanel_ajKoHp",
@@ -14272,6 +14268,9 @@
   },
   "566082": {
     "panel": "panel_gTCEBH"
+  },
+  "566600": {
+    "panel": "panel_gt-3li panel_Jlqe0z"
   },
   "566612": {
     "settingsHeader": "settingsHeader_zS9TPG",
@@ -16140,7 +16139,7 @@
     "projectIconButton": "projectIconButton_krOYhC",
     "title": "title_krOYhC",
     "titleText": "titleText_krOYhC",
-    "previewChip": "previewChip_krOYhC",
+    "draftChip": "draftChip_krOYhC",
     "shareTarget": "shareTarget_krOYhC",
     "shareTargetDivider": "shareTargetDivider_krOYhC"
   },
@@ -20043,10 +20042,6 @@
   "786800": {
     "container": "container_SLyO8C"
   },
-  "787032": {
-    "note": "note_dJk4eQ",
-    "footerRule": "footerRule_dJk4eQ"
-  },
   "787165": {
     "emptyStateText": "emptyStateText_Wsl0sI",
     "emptyState": "emptyState_Wsl0sI"
@@ -22544,6 +22539,10 @@
   },
   "883053": {
     "rank": "rank_DeLaSu"
+  },
+  "883282": {
+    "row": "row_6FCE-u",
+    "trigger": "trigger_6FCE-u"
   },
   "883476": {
     "container": "container_HCz34G"
