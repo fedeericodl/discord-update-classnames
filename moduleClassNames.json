@@ -793,7 +793,8 @@
   },
   "32924": {
     "box": "box_pqX-ln",
-    "row": "row_pqX-ln"
+    "row": "row_pqX-ln",
+    "icon": "icon_pqX-ln"
   },
   "32946": {
     "panel": "panel_1oVKG1",
@@ -3122,7 +3123,7 @@
     "channelName": "channelName_ve0N80",
     "guildIcon": "guildIcon_ve0N80",
     "dmIcon": "dmIcon_ve0N80",
-    "favoritesIcon": "favoritesIcon_ve0N80",
+    "locationIcon": "locationIcon_ve0N80",
     "trailMention": "trailMention_ve0N80",
     "trailButton": "trailButton_ve0N80",
     "unreadIndicator": "unreadIndicator_ve0N80",
@@ -5086,8 +5087,7 @@
     "field": "field__Ue-J1",
     "includes": "includes__Ue-J1",
     "contentRow": "contentRow__Ue-J1",
-    "contentIcon": "contentIcon__Ue-J1",
-    "contentTrailing": "contentTrailing__Ue-J1"
+    "contentIcon": "contentIcon__Ue-J1"
   },
   "206920": {
     "container": "container_rM7J2I",
@@ -11735,6 +11735,9 @@
     "noResults": "noResults_R-K6-V",
     "noResultsImg": "noResultsImg_R-K6-V"
   },
+  "472530": {
+    "asset": "asset_yyRB27"
+  },
   "472987": {
     "feedback": "feedback_WSbj-l",
     "buttonsContainer": "buttonsContainer_WSbj-l",
@@ -13705,11 +13708,6 @@
   "543080": {
     "pricingSection": "pricingSection_80OD1-",
     "priceTag": "priceTag_80OD1-",
-    "promotionProgress": "promotionProgress_80OD1-",
-    "promotionProgressBlue": "promotionProgressBlue_80OD1-",
-    "promotionProgressLabel": "promotionProgressLabel_80OD1-",
-    "promotionProgressCountdown": "promotionProgressCountdown_80OD1-",
-    "promotionProgressIcon": "promotionProgressIcon_80OD1-",
     "premiumPriceTag": "premiumPriceTag_80OD1-",
     "disclaimer": "disclaimer_80OD1-",
     "disclaimerLight": "disclaimerLight_80OD1-",
@@ -15691,19 +15689,6 @@
     "centerContainer": "centerContainer_ZUH3EY",
     "error": "error_ZUH3EY",
     "sidebar": "sidebar_ZUH3EY"
-  },
-  "616004": {
-    "content": "content_2LEGNU",
-    "background": "background_2LEGNU",
-    "closeButton": "closeButton_2LEGNU",
-    "body": "body_2LEGNU",
-    "titleContainer": "titleContainer_2LEGNU",
-    "title": "title_2LEGNU",
-    "cards": "cards_2LEGNU",
-    "card": "card_2LEGNU",
-    "cardImage": "cardImage_2LEGNU",
-    "cardCopy": "cardCopy_2LEGNU",
-    "buttonContainer": "buttonContainer_2LEGNU"
   },
   "616052": {
     "secondarySection": "secondarySection_osfyzP",
@@ -17813,6 +17798,7 @@
     "close": "close__vwHFq",
     "art": "art__vwHFq",
     "artImage": "artImage__vwHFq",
+    "artPlay": "artPlay__vwHFq",
     "content": "content__vwHFq",
     "intro": "intro__vwHFq",
     "title": "title__vwHFq",
@@ -19437,6 +19423,7 @@
     "decorator": "decorator_zln_tS",
     "dm": "dm_zln_tS",
     "avatarWithText": "avatarWithText_zln_tS",
+    "tabBackgroundImage": "tabBackgroundImage_zln_tS",
     "channelNameFade": "channelNameFade_zln_tS",
     "waveButton": "waveButton_zln_tS",
     "tabHoverGradient": "tabHoverGradient_zln_tS"
