@@ -6024,7 +6024,9 @@
     "guildAcronymIcon": "guildAcronymIcon_bcgTHb",
     "footer": "footer_bcgTHb",
     "footerTitle": "footerTitle_bcgTHb",
-    "ctaButton": "ctaButton_bcgTHb"
+    "ctaButton": "ctaButton_bcgTHb",
+    "ctaSpinner": "ctaSpinner_bcgTHb",
+    "ctaSpinnerItem": "ctaSpinnerItem_bcgTHb"
   },
   "242111": {
     "guildSelection": "guildSelection_0kOndy",
