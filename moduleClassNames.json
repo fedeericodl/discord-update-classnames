@@ -6017,13 +6017,14 @@
     "characterAndStats": "characterAndStats_bcgTHb",
     "wordmark": "wordmark_bcgTHb",
     "stats": "stats_bcgTHb",
+    "checkpointEnabled": "checkpointEnabled_bcgTHb",
+    "characterColumn": "characterColumn_bcgTHb",
     "statRow": "statRow_bcgTHb",
     "statIcon": "statIcon_bcgTHb",
     "guildAcronymIcon": "guildAcronymIcon_bcgTHb",
     "footer": "footer_bcgTHb",
-    "clickable": "clickable_bcgTHb",
     "footerTitle": "footerTitle_bcgTHb",
-    "footerButton": "footerButton_bcgTHb"
+    "ctaButton": "ctaButton_bcgTHb"
   },
   "242111": {
     "guildSelection": "guildSelection_0kOndy",
