@@ -584,13 +584,13 @@
     "macRtl": "macRtl_3zSH5d",
     "trailing": "trailing_3zSH5d",
     "leading": "leading_3zSH5d",
+    "leadingGrow": "leadingGrow_3zSH5d",
     "systemBar": "systemBar_3zSH5d",
     "show": "show_3zSH5d",
     "fixed": "fixed_3zSH5d",
     "disablePointerEvents": "disablePointerEvents_3zSH5d",
     "winButtons": "winButtons_3zSH5d",
     "title": "title_3zSH5d",
-    "leadingGrow": "leadingGrow_3zSH5d",
     "winButtonsWithDivider": "winButtonsWithDivider_3zSH5d",
     "winButton": "winButton_3zSH5d",
     "winButtonMinMax": "winButtonMinMax_3zSH5d",
@@ -3116,17 +3116,21 @@
   "133281": {
     "tab": "tab_ve0N80",
     "tabActive": "tabActive_ve0N80",
+    "tabPinned": "tabPinned_ve0N80",
     "tabEntering": "tabEntering_ve0N80",
     "tabClosing": "tabClosing_ve0N80",
     "tabButton": "tabButton_ve0N80",
     "tabButtonContent": "tabButtonContent_ve0N80",
+    "tabButtonFade": "tabButtonFade_ve0N80",
     "trail": "trail_ve0N80",
     "channelTypeIcon": "channelTypeIcon_ve0N80",
     "channelTypeIconConnected": "channelTypeIconConnected_ve0N80",
     "channelName": "channelName_ve0N80",
+    "tabUnread": "tabUnread_ve0N80",
     "guildIcon": "guildIcon_ve0N80",
     "dmIcon": "dmIcon_ve0N80",
     "locationIcon": "locationIcon_ve0N80",
+    "pinIcon": "pinIcon_ve0N80",
     "trailDuration": "trailDuration_ve0N80",
     "trailMention": "trailMention_ve0N80",
     "trailButton": "trailButton_ve0N80",
@@ -24464,8 +24468,7 @@
     "videoBackgroundArt": "videoBackgroundArt_PxLVP4"
   },
   "960498": {
-    "chip": "chip_Og6w3q",
-    "hidden": "hidden_Og6w3q"
+    "chip": "chip_Og6w3q"
   },
   "960683": {
     "root": "root_RmOtW7",
