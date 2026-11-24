@@ -2407,20 +2407,23 @@
   "102087": {
     "tile": "tile_IxwVgM",
     "productTile": "productTile_IxwVgM",
+    "revealedProductCard": "revealedProductCard_IxwVgM",
     "assetTile": "assetTile_IxwVgM",
     "openableTile": "openableTile_IxwVgM",
     "revealAnimation": "revealAnimation_IxwVgM",
+    "raisedDoor": "raisedDoor_IxwVgM",
     "asset": "asset_IxwVgM",
     "dayNumber": "dayNumber_IxwVgM",
-    "raisedDoor": "raisedDoor_IxwVgM",
     "dayNumberText": "dayNumberText_IxwVgM",
+    "idleAnimation": "idleAnimation_IxwVgM",
+    "openableDoor": "openableDoor_IxwVgM",
     "raisedDoorAsset": "raisedDoorAsset_IxwVgM",
-    "revealStrip": "revealStrip_IxwVgM",
     "largeSquareTile": "largeSquareTile_IxwVgM",
+    "revealStrip": "revealStrip_IxwVgM",
     "centeredHintTile": "centeredHintTile_IxwVgM",
     "hintAsset": "hintAsset_IxwVgM",
     "revealDateLabel": "revealDateLabel_IxwVgM",
-    "idleAnimation": "idleAnimation_IxwVgM",
+    "revealDateFade": "revealDateFade_IxwVgM",
     "revealStripOverIdleAnimation": "revealStripOverIdleAnimation_IxwVgM",
     "revealIdleAnimation": "revealIdleAnimation_IxwVgM",
     "slidingDoor": "slidingDoor_IxwVgM",
@@ -2530,6 +2533,9 @@
     "feed": "feed_XBXDcd",
     "sequencedOfferItem": "sequencedOfferItem_XBXDcd",
     "sequencedOfferCarousel": "sequencedOfferCarousel_XBXDcd",
+    "sequencedOfferScrollList": "sequencedOfferScrollList_XBXDcd",
+    "sequencedOfferScroller": "sequencedOfferScroller_XBXDcd",
+    "collectionIndexSequencedOfferHeroHeader": "collectionIndexSequencedOfferHeroHeader_XBXDcd",
     "sequencedOfferHeader": "sequencedOfferHeader_XBXDcd",
     "sortChangedIntro": "sortChangedIntro_XBXDcd",
     "sortChangedOutro": "sortChangedOutro_XBXDcd",
@@ -15233,12 +15239,6 @@
     "subtitleExpandText": "subtitleExpandText_HBLb84",
     "divider": "divider_HBLb84"
   },
-  "596500": {
-    "container": "container_7oSLey",
-    "icons": "icons_7oSLey",
-    "iconContainer": "iconContainer_7oSLey",
-    "icon": "icon_7oSLey"
-  },
   "596835": {
     "qrCodeOverlay": "qrCodeOverlay_d4-PpI",
     "size-40": "size-40_d4-PpI",
@@ -18118,7 +18118,8 @@
   },
   "707296": {
     "title": "title_tQQC_c",
-    "helpArticle": "helpArticle_tQQC_c"
+    "helpArticle": "helpArticle_tQQC_c",
+    "overlayTitle": "overlayTitle_tQQC_c"
   },
   "707615": {
     "positioner": "positioner_0n9jnU",
@@ -19270,7 +19271,8 @@
     "variantTable": "variantTable_5gwPwi",
     "variantCaption": "variantCaption_5gwPwi",
     "variantRow": "variantRow_5gwPwi",
-    "dismissalRow": "dismissalRow_5gwPwi"
+    "dismissalRow": "dismissalRow_5gwPwi",
+    "serverSurfaceTable": "serverSurfaceTable_5gwPwi"
   },
   "754911": {
     "container": "container_R726Px",
