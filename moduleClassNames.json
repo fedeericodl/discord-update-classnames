@@ -775,25 +775,6 @@
     "toastIn": "toastIn_97el6j",
     "toastOut": "toastOut_97el6j"
   },
-  "32374": {
-    "header": "header_6_68tM",
-    "description": "description_6_68tM",
-    "title": "title_6_68tM",
-    "guildBadge": "guildBadge_6_68tM",
-    "row": "row_6_68tM",
-    "guildIcon": "guildIcon_6_68tM",
-    "body": "body_6_68tM",
-    "channelIcon": "channelIcon_6_68tM",
-    "icon": "icon_6_68tM",
-    "clickable": "clickable_6_68tM",
-    "linkText": "linkText_6_68tM",
-    "channelLocation": "channelLocation_6_68tM",
-    "locationText": "locationText_6_68tM",
-    "externalLocation": "externalLocation_6_68tM",
-    "interestedCount": "interestedCount_6_68tM",
-    "creator": "creator_6_68tM",
-    "divider": "divider_6_68tM"
-  },
   "32690": {
     "stack": "stack_TWWX0S"
   },
@@ -6997,6 +6978,11 @@
     "icon": "icon_OhOESF",
     "link": "link_OhOESF"
   },
+  "279954": {
+    "buttonsWrapper": "buttonsWrapper_nwnlPG",
+    "horizontal": "horizontal_nwnlPG",
+    "vertical": "vertical_nwnlPG"
+  },
   "280112": {
     "pickerWrapper": "pickerWrapper_qOZw1R",
     "saturation": "saturation_qOZw1R",
@@ -7608,6 +7594,10 @@
   },
   "306898": {
     "settings": "settings_JmdOM-"
+  },
+  "306972": {
+    "popout": "popout_AGjW_H",
+    "section": "section_AGjW_H"
   },
   "307076": {
     "wrapper": "wrapper_xGgKlk",
@@ -8683,6 +8673,16 @@
   },
   "349420": {
     "cardPlacement": "cardPlacement_02OLeW"
+  },
+  "349789": {
+    "actionsStreamPreview": "actionsStreamPreview_k1RHDu",
+    "actionsProfile": "actionsProfile_k1RHDu",
+    "actionsProfileV2": "actionsProfileV2_k1RHDu",
+    "actionsSimplifiedProfile": "actionsSimplifiedProfile_k1RHDu",
+    "actionsActivityFeed": "actionsActivityFeed_k1RHDu",
+    "errorImage": "errorImage_k1RHDu",
+    "cannotLaunchImage": "cannotLaunchImage_k1RHDu errorImage_k1RHDu",
+    "actionsWrapper": "actionsWrapper_k1RHDu"
   },
   "349805": {
     "appAsidePanelWrapper": "appAsidePanelWrapper_YRXZu0",
@@ -9903,6 +9903,10 @@
     "experimentGetNitro": "experimentGetNitro_4hnqn0",
     "acceptAsAvatar": "acceptAsAvatar_4hnqn0"
   },
+  "396975": {
+    "voiceChannelBadge": "voiceChannelBadge_M2o0HZ",
+    "voiceChannelBadgeWrapper": "voiceChannelBadgeWrapper_M2o0HZ"
+  },
   "397093": {
     "scroller": "scroller_Su8I72",
     "loader": "loader_Su8I72",
@@ -10084,6 +10088,85 @@
   "407355": {
     "italic": "italic_pRc8IG",
     "underline": "underline_pRc8IG"
+  },
+  "408313": {
+    "ellipsis": "ellipsis_ZbIvmP",
+    "headerContainer": "headerContainer_ZbIvmP",
+    "headerText": "headerText_ZbIvmP",
+    "headerTextNormal": "headerTextNormal_ZbIvmP headerText_ZbIvmP ellipsis_ZbIvmP",
+    "headerTextEmptyBody": "headerTextEmptyBody_ZbIvmP headerText_ZbIvmP",
+    "headerPlatformIcon": "headerPlatformIcon_ZbIvmP",
+    "body": "body_ZbIvmP",
+    "bodyAlignCenter": "bodyAlignCenter_ZbIvmP body_ZbIvmP",
+    "bodyNormal": "bodyNormal_ZbIvmP body_ZbIvmP",
+    "openGameProfile": "openGameProfile_ZbIvmP",
+    "assets": "assets_ZbIvmP",
+    "assetsUserActivityHover": "assetsUserActivityHover_ZbIvmP",
+    "assetsLargeMaskStreamPreview": "assetsLargeMaskStreamPreview_ZbIvmP",
+    "assetsLargeMaskVoiceChannel": "assetsLargeMaskVoiceChannel_ZbIvmP",
+    "assetsLargeMaskActivityFeed": "assetsLargeMaskActivityFeed_ZbIvmP",
+    "assetsLargeImage": "assetsLargeImage_ZbIvmP",
+    "assetsLargeImageSpotify": "assetsLargeImageSpotify_ZbIvmP",
+    "activityVoiceChannelUserHover": "activityVoiceChannelUserHover_ZbIvmP",
+    "assetsLargeImageStreamPreview": "assetsLargeImageStreamPreview_ZbIvmP assetsLargeImage_ZbIvmP",
+    "assetsLargeImageStreamPreviewXbox": "assetsLargeImageStreamPreviewXbox_ZbIvmP assetsLargeImage_ZbIvmP",
+    "assetsLargeImageActivityFeed": "assetsLargeImageActivityFeed_ZbIvmP assetsLargeImage_ZbIvmP",
+    "assetsLargeImageActivityFeedXbox": "assetsLargeImageActivityFeedXbox_ZbIvmP assetsLargeImage_ZbIvmP",
+    "assetsLargeImageVoiceChannel": "assetsLargeImageVoiceChannel_ZbIvmP assetsLargeImage_ZbIvmP",
+    "assetsLargeImageVoiceChannelXbox": "assetsLargeImageVoiceChannelXbox_ZbIvmP assetsLargeImageVoiceChannel_ZbIvmP assetsLargeImage_ZbIvmP",
+    "assetsLargeImageActivityFeedTwitch": "assetsLargeImageActivityFeedTwitch_ZbIvmP assetsLargeImage_ZbIvmP",
+    "assetsSmallImage": "assetsSmallImage_ZbIvmP",
+    "assetsSmallImageStreamPreview": "assetsSmallImageStreamPreview_ZbIvmP assetsSmallImage_ZbIvmP",
+    "assetsSmallImageVoiceChannel": "assetsSmallImageVoiceChannel_ZbIvmP assetsSmallImage_ZbIvmP",
+    "assetsSmallImageActivityFeed": "assetsSmallImageActivityFeed_ZbIvmP assetsSmallImage_ZbIvmP",
+    "assetsSmallImageActivityFeedWithoutLargeImage": "assetsSmallImageActivityFeedWithoutLargeImage_ZbIvmP assetsLargeImage_ZbIvmP",
+    "assetsSmallImageStreamPreviewWithoutLargeImage": "assetsSmallImageStreamPreviewWithoutLargeImage_ZbIvmP assetsLargeImage_ZbIvmP",
+    "assetsSmallImageVoiceChannelWithoutLargeImage": "assetsSmallImageVoiceChannelWithoutLargeImage_ZbIvmP assetsLargeImage_ZbIvmP",
+    "gameIcon": "gameIcon_ZbIvmP",
+    "screenshareIcon": "screenshareIcon_ZbIvmP",
+    "content": "content_ZbIvmP",
+    "contentImagesStreamPreview": "contentImagesStreamPreview_ZbIvmP content_ZbIvmP",
+    "contentImagesVoiceChannel": "contentImagesVoiceChannel_ZbIvmP content_ZbIvmP",
+    "contentImagesActivityFeed": "contentImagesActivityFeed_ZbIvmP content_ZbIvmP",
+    "contentNoImagesStreamPreview": "contentNoImagesStreamPreview_ZbIvmP content_ZbIvmP",
+    "contentNoImagesVoiceChannel": "contentNoImagesVoiceChannel_ZbIvmP content_ZbIvmP",
+    "contentNoImagesActivityFeed": "contentNoImagesActivityFeed_ZbIvmP content_ZbIvmP",
+    "contentGameImageStreamPreview": "contentGameImageStreamPreview_ZbIvmP content_ZbIvmP",
+    "contentGameImageVoiceChannel": "contentGameImageVoiceChannel_ZbIvmP content_ZbIvmP",
+    "textRow": "textRow_ZbIvmP",
+    "clickableDetails": "clickableDetails_ZbIvmP ellipsis_ZbIvmP textRow_ZbIvmP",
+    "details": "details_ZbIvmP ellipsis_ZbIvmP textRow_ZbIvmP",
+    "playTime": "playTime_ZbIvmP ellipsis_ZbIvmP textRow_ZbIvmP",
+    "state": "state_ZbIvmP ellipsis_ZbIvmP textRow_ZbIvmP",
+    "timestamp": "timestamp_ZbIvmP ellipsis_ZbIvmP textRow_ZbIvmP",
+    "nameNormal": "nameNormal_ZbIvmP ellipsis_ZbIvmP textRow_ZbIvmP",
+    "detailsWrap": "detailsWrap_ZbIvmP textRow_ZbIvmP",
+    "guildIcon": "guildIcon_ZbIvmP",
+    "guildDetails": "guildDetails_ZbIvmP",
+    "voiceChannelInfo": "voiceChannelInfo_ZbIvmP",
+    "nameWrap": "nameWrap_ZbIvmP textRow_ZbIvmP",
+    "activityActivityFeed": "activityActivityFeed_ZbIvmP",
+    "name": "name_ZbIvmP",
+    "timeBarActivityFeed": "timeBarActivityFeed_ZbIvmP",
+    "timeBarVoiceChannel": "timeBarVoiceChannel_ZbIvmP",
+    "activityNameUserActivityHover": "activityNameUserActivityHover_ZbIvmP body-sm/medium_RAOoio",
+    "activityName": "activityName_ZbIvmP",
+    "bodyLink": "bodyLink_ZbIvmP activityName_ZbIvmP",
+    "twitchImageContainer": "twitchImageContainer_ZbIvmP",
+    "twitchImageOverlay": "twitchImageOverlay_ZbIvmP",
+    "twitchBackgroundImage": "twitchBackgroundImage_ZbIvmP",
+    "streamUsername": "streamUsername_ZbIvmP body-md/semibold_RAOoio",
+    "streamName": "streamName_ZbIvmP",
+    "streamGame": "streamGame_ZbIvmP",
+    "activityVoiceChannel": "activityVoiceChannel_ZbIvmP",
+    "platformIcon": "platformIcon_ZbIvmP",
+    "icon": "icon_ZbIvmP",
+    "wrap": "wrap_ZbIvmP",
+    "activityDetails": "activityDetails_ZbIvmP",
+    "activityStreamPreview": "activityStreamPreview_ZbIvmP"
+  },
+  "408399": {
+    "watchStreamRow": "watchStreamRow_NzHADT"
   },
   "408454": {
     "keybind": "keybind_Ry5oWJ",
@@ -10643,9 +10726,6 @@
     "compact": "compact_tilrm-",
     "badgeImage": "badgeImage_tilrm-",
     "progressCircleContainer": "progressCircleContainer_tilrm-"
-  },
-  "430626": {
-    "editableContent": "editableContent_RO4d_P"
   },
   "430815": {
     "wrapper": "wrapper_RcIw1d",
@@ -11888,20 +11968,6 @@
     "rtcConnectionStatusWrapper": "rtcConnectionStatusWrapper_4LJE6I",
     "statusLine": "statusLine_4LJE6I",
     "enlargedStatusLine": "enlargedStatusLine_4LJE6I"
-  },
-  "474082": {
-    "pane": "pane_7JaBRz",
-    "preview": "preview_7JaBRz",
-    "profile": "profile_7JaBRz",
-    "columns": "columns_7JaBRz",
-    "card": "card_7JaBRz",
-    "header": "header_7JaBRz",
-    "cardBody": "cardBody_7JaBRz",
-    "board": "board_7JaBRz",
-    "tabs": "tabs_7JaBRz",
-    "miniProfile": "miniProfile_7JaBRz",
-    "miniProfileBody": "miniProfileBody_7JaBRz",
-    "selectedTab": "selectedTab_7JaBRz"
   },
   "475007": {
     "nowPlayingAdd": "nowPlayingAdd_XRlxvQ"
@@ -15561,6 +15627,8 @@
     "textWithIconContainer": "textWithIconContainer_HigqCD",
     "activityCounter": "activityCounter_HigqCD",
     "dot": "dot_HigqCD",
+    "popoutTarget": "popoutTarget_HigqCD",
+    "popoutTargetNoShrink": "popoutTargetNoShrink_HigqCD",
     "questsIcon": "questsIcon_HigqCD"
   },
   "607027": {
@@ -16567,19 +16635,6 @@
     "divider": "divider_9ECWuB",
     "informationContainer": "informationContainer_9ECWuB"
   },
-  "645265": {
-    "container": "container_UWRh5Q",
-    "controls": "controls_UWRh5Q",
-    "list": "list_UWRh5Q",
-    "sectionHeader": "sectionHeader_UWRh5Q",
-    "audienceRow": "audienceRow_UWRh5Q",
-    "audienceMember": "audienceMember_UWRh5Q",
-    "audienceAvatar": "audienceAvatar_UWRh5Q",
-    "faded": "faded_UWRh5Q",
-    "audienceName": "audienceName_UWRh5Q",
-    "emptyState": "emptyState_UWRh5Q",
-    "emptyStateBody": "emptyStateBody_UWRh5Q"
-  },
   "645280": {
     "extrasContainer": "extrasContainer_pKV59p",
     "fullFlex": "fullFlex_pKV59p",
@@ -16856,9 +16911,6 @@
     "skeletonTitle": "skeletonTitle_hSuDqh",
     "skeletonSubtext": "skeletonSubtext_hSuDqh",
     "orbBalanceCounterText": "orbBalanceCounterText_hSuDqh"
-  },
-  "654358": {
-    "orbsBackRewardBanner": "orbsBackRewardBanner_qmS-12"
   },
   "654910": {
     "sectionsContainer": "sectionsContainer_tOQHbK"
@@ -17921,6 +17973,17 @@
   "697252": {
     "button": "button_PqPbR_",
     "updateDot": "updateDot_PqPbR_"
+  },
+  "697970": {
+    "textLeft": "textLeft_5Hv024 text_5Hv024",
+    "textRight": "textRight_5Hv024 text_5Hv024",
+    "bar": "bar_5Hv024",
+    "barInMultiLine": "barInMultiLine_5Hv024 bar_5Hv024",
+    "barInner": "barInner_5Hv024",
+    "themed": "themed_5Hv024",
+    "singleLineContainer": "singleLineContainer_5Hv024",
+    "barInSingleLine": "barInSingleLine_5Hv024",
+    "textLeftInSingleLine": "textLeftInSingleLine_5Hv024 textLeft_5Hv024 text_5Hv024"
   },
   "698013": {
     "errorText": "errorText_Ih0khk"
@@ -19029,6 +19092,21 @@
   },
   "742616": {
     "discriminatorChangeWarning": "discriminatorChangeWarning_kxDsOL"
+  },
+  "742782": {
+    "link": "link_-kuxsn",
+    "flexRow": "flexRow_-kuxsn",
+    "flexColumn": "flexColumn_-kuxsn",
+    "headerContainer": "headerContainer_-kuxsn",
+    "detailsContainer": "detailsContainer_-kuxsn",
+    "bodyTextSize": "bodyTextSize_-kuxsn",
+    "ellipsisRow": "ellipsisRow_-kuxsn",
+    "bodyLinkMuted": "bodyLinkMuted_-kuxsn",
+    "image": "image_-kuxsn",
+    "timeBar": "timeBar_-kuxsn",
+    "activityClickable": "activityClickable_-kuxsn",
+    "title": "title_-kuxsn",
+    "activityImageClickable": "activityImageClickable_-kuxsn"
   },
   "742915": {
     "divider": "divider_6vIioY"
@@ -24814,6 +24892,23 @@
     "connectionDeprecationNoticeCTAButton": "connectionDeprecationNoticeCTAButton_2zQQDh",
     "connectionDeprecationRemindLaterButton": "connectionDeprecationRemindLaterButton_2zQQDh",
     "connectionDeprecationNoticeIcon": "connectionDeprecationNoticeIcon_2zQQDh"
+  },
+  "971718": {
+    "popoutContainer": "popoutContainer_f4FLXc",
+    "streamPreviewWrapper": "streamPreviewWrapper_f4FLXc",
+    "streamPreview": "streamPreview_f4FLXc",
+    "streamPreviewHover": "streamPreviewHover_f4FLXc",
+    "streamPreviewLiveIndicator": "streamPreviewLiveIndicator_f4FLXc",
+    "popoutHeader": "popoutHeader_f4FLXc",
+    "crossGuildHeader": "crossGuildHeader_f4FLXc",
+    "guildIcon": "guildIcon_f4FLXc",
+    "guildDetails": "guildDetails_f4FLXc",
+    "voiceIcon": "voiceIcon_f4FLXc",
+    "channelName": "channelName_f4FLXc",
+    "crossGuildChannelName": "crossGuildChannelName_f4FLXc",
+    "channelNameText": "channelNameText_f4FLXc",
+    "popoutContent": "popoutContent_f4FLXc",
+    "avatarOverflow": "avatarOverflow_f4FLXc"
   },
   "971824": {
     "awaitingSurface": "awaitingSurface_3HZf4Z"
