@@ -6054,11 +6054,6 @@
     "warningContainer": "warningContainer_xTpzSX",
     "warningIcon": "warningIcon_xTpzSX"
   },
-  "242666": {
-    "options": "options_O1mmRx",
-    "option": "option_O1mmRx",
-    "content": "content_O1mmRx"
-  },
   "242695": {
     "container": "container_LDGylj",
     "clickable": "clickable_LDGylj",
@@ -14391,6 +14386,15 @@
     "backdrop": "backdrop_S_xUx6",
     "toast": "toast_S_xUx6",
     "scrollerFade": "scrollerFade_S_xUx6"
+  },
+  "561580": {
+    "autoUpdates": "autoUpdates_1a2dfO",
+    "autoUpdatesLabel": "autoUpdatesLabel_1a2dfO",
+    "info": "info_1a2dfO",
+    "autoUpdatesSwitch": "autoUpdatesSwitch_1a2dfO",
+    "source": "source_1a2dfO",
+    "sourceName": "sourceName_1a2dfO",
+    "sourceIcon": "sourceIcon_1a2dfO"
   },
   "561802": {
     "dotIn": "dotIn_oJuRbG",
