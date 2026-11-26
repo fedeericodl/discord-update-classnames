@@ -8732,7 +8732,9 @@
     "tileDefaultSelected": "tileDefaultSelected_FYYAJZ",
     "selectionIndicator": "selectionIndicator_FYYAJZ",
     "packIcon": "packIcon_FYYAJZ",
-    "separator": "separator_FYYAJZ"
+    "separator": "separator_FYYAJZ",
+    "packsButtonHost": "packsButtonHost_FYYAJZ",
+    "discoveryDot": "discoveryDot_FYYAJZ"
   },
   "352432": {
     "container": "container_iS1sdD",
@@ -13149,6 +13151,9 @@
     "description": "description_rMw7KK",
     "heroImage": "heroImage_rMw7KK",
     "safetyTips": "safetyTips_rMw7KK"
+  },
+  "513075": {
+    "skinToneIcon": "skinToneIcon__l8DUh"
   },
   "513076": {
     "container": "container_-6JdM0",
@@ -22580,7 +22585,6 @@
     "emojiPicker": "emojiPicker_vhuLMo",
     "bodyWrapper": "bodyWrapper_vhuLMo",
     "header": "header_vhuLMo",
-    "diversitySelector": "diversitySelector_vhuLMo",
     "inspector": "inspector_vhuLMo",
     "emojiPickerListWrapper": "emojiPickerListWrapper_vhuLMo",
     "categoryList": "categoryList_vhuLMo",
@@ -24169,7 +24173,9 @@
     "renewalMutationNotice": "renewalMutationNotice_RTvmVT",
     "dupSubscriptionRow": "dupSubscriptionRow_RTvmVT",
     "sectionDescription": "sectionDescription_RTvmVT",
-    "sectionTitle": "sectionTitle_RTvmVT"
+    "sectionTitle": "sectionTitle_RTvmVT",
+    "pendingChangeText": "pendingChangeText_RTvmVT",
+    "pendingChangeAction": "pendingChangeAction_RTvmVT"
   },
   "943009": {
     "syncing": "syncing_ku2ve4"
